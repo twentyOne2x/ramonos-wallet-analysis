@@ -1,0 +1,114 @@
+{
+  "cutoff": 1791908918,
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "name": "route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump",
+  "displayName": "this coin will retire you",
+  "mint": "9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump",
+  "config": "FhhNzSxu55D2JjzZAf3Ebd3woFDTQvUAc1YKA1eNvNbz",
+  "vault": "6ay6vaAPgJ6anq8xetBwyLa2QGKAGTzhaQVT1T4B52EH",
+  "recipients": [
+    {
+      "address": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "share_bps": "100",
+      "platform": null,
+      "userId": null,
+      "recipientAccountType": null,
+      "category": "ordinary recipient wallet",
+      "shareFractionNumerator": "100",
+      "shareFractionDenominator": "10000",
+      "curvePendingFeeFractionFloorRaw": "0",
+      "poolPendingFeeFractionFloorRaw": "0",
+      "allocationNote": "Arithmetic current split applied to separate pending counters; distribution rounding/order and historic split not inferred."
+    },
+    {
+      "address": "ynVUJyGuNpr5o35CNvkcytPSW91nY26ZPdswH5UfEbv",
+      "share_bps": "9900",
+      "platform": null,
+      "userId": null,
+      "recipientAccountType": null,
+      "category": "ordinary recipient wallet",
+      "shareFractionNumerator": "9900",
+      "shareFractionDenominator": "10000",
+      "curvePendingFeeFractionFloorRaw": "0",
+      "poolPendingFeeFractionFloorRaw": "0",
+      "allocationNote": "Arithmetic current split applied to separate pending counters; distribution rounding/order and historic split not inferred."
+    }
+  ],
+  "routeCategory": "ordinary wallet sharing",
+  "transactionCount": 1309,
+  "terminal": true,
+  "verifiedTradeCreatorFeeInflowsLamports": "1414755207",
+  "verifiedDistributionLamports": "4751598910",
+  "verifiedCollectCreatorFeeLamports": "0",
+  "firstPreLamports": "0",
+  "lastPostLamports": "890881",
+  "currentBalanceLamports": "890881",
+  "currentSlot": 456508287,
+  "currentRentLamports": "650240",
+  "rentEvidence": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-005.response.json; RentSysvar [5080,1.0,50], (128+space)*5080",
+  "currentAboveRentLamports": "240641",
+  "lastPostMatchesCurrent": true,
+  "residualMovements": [
+    {
+      "signature": "3NLDYJUeZTB3cpoKPq8HBaoG6KE5Uh4zynaqMBK3eCUbDMP47Z7zmPcV211ZMqiFwFayYrMpYRc4jFwEywL45Ugy",
+      "lamports": "890880",
+      "pre": "0",
+      "post": "1109979",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0000.response.json"
+    },
+    {
+      "signature": "Kp8BRWY6aN6NP4wx3HKHdPGqYoQPf7BbdJsvBoK8Ggmyjrs63TH32aWGaddW2DS5wqiex2LReSns8CxKM9zpj6F",
+      "lamports": "1487680683",
+      "pre": "35469959",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0001.response.json"
+    },
+    {
+      "signature": "3x4k6p25ECvnhiwnutjeg4tMyZaDqZiUrvWi1qc51kjeTK6XYTu5W7J8FMMZJh6pdBFkNsNzjL1bTAC4YG3nvqtX",
+      "lamports": "353373718",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0001.response.json"
+    },
+    {
+      "signature": "5dsTDN6XiBW8YQhg8rqmuNJ7LbgBsdn4tgaPQk1LzAcWWnLDySXnYmzshKceHSDYW47UKjkhg4JJDcaDfzfSuZNU",
+      "lamports": "489560797",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0001.response.json"
+    },
+    {
+      "signature": "33fTteFJ1oTx3Ctdtwynth27aNXPWScGgDHHWwJe2mpEn9QzNoNz9xG4jSzZMw5D8nsdXMreE6Hn5cvLcXCj4rUB",
+      "lamports": "198277621",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0001.response.json"
+    },
+    {
+      "signature": "66uZqCCQwcB6rMaD1tqS11TC8ah35QFhE266y4g1jv2dLSXMUabR4yxzEVUPXmhuoK1qFgxzM3rgTkJjYfY9xHUt",
+      "lamports": "136285979",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0001.response.json"
+    },
+    {
+      "signature": "42r6fHS65cNB5W9MKEqLDMoVZ2f4d4Bm78ecCXUvfGGBp6hmo71b6F46yWiEn9KrQhMxHkmEMf3hBM1JQWWTxvVZ",
+      "lamports": "671664906",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0001.response.json"
+    }
+  ],
+  "unverifiedFeeEvents": [],
+  "decodeErrors": [],
+  "netVerifiedFeeLotsLamports": "-3336843703",
+  "feeCashReconciled": false,
+  "pendingVerifiedFeeLotsLamports": null,
+  "historicalNonfeeFundingLamports": null,
+  "actualDistributionPaymentsByAddressLamports": {
+    "ynVUJyGuNpr5o35CNvkcytPSW91nY26ZPdswH5UfEbv": "4662034130",
+    "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b": "89564780"
+  }
+}

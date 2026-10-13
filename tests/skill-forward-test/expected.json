@@ -1,0 +1,11 @@
+{
+  "allSuppliedTransactions": 6,
+  "walletFileTransactions": 4,
+  "expectedAllSuppliedGrossSolEquivalentRaw": 51465459929,
+  "expectedWalletFileGrossSolEquivalentRaw": 50499007419,
+  "excludedUsdcRaw": 16305078,
+  "directGithubCurrentNativeClaimCounterRaw": "0",
+  "directGithubObservedTaggedDistributionRaw": "10778206",
+  "usePaidTargetDeveloperSettlement": "unknown",
+  "coverage": "Selected transactions only; no lifetime total or terminal social coverage inferred"
+}

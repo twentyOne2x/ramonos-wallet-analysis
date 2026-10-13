@@ -1,0 +1,62 @@
+{
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "ordinaryRouteCount": 8,
+  "actualOrdinaryWalletDistributionPaymentsByAddressLamports": {
+    "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b": "157953292234",
+    "F4tvmVEZc9DQQVPxoQeNLaGfvXw6vrbHvC6kECGU3c1C": "52621242461",
+    "ynVUJyGuNpr5o35CNvkcytPSW91nY26ZPdswH5UfEbv": "4662034130",
+    "FV85FCpq5rqe5PXgcu4YjBxmmu2tcBvXMkjSvsrYQQEF": "894483013",
+    "FWb5MBHxAD5HRsJqkMquzt62jj7Ri8d5RD7NjTrau7ya": "959624949",
+    "8yG8xML4vJoyLbn4dBWwPAvKqxp7oRTCnc67zQxY5mgu": "86200692",
+    "35XTCpBuZfAwTj3tK8BQxXQmCsi7rxGAfQZM28CxM9tZ": "21550173"
+  },
+  "currentSplitAllocationOfProvenOrdinaryPendingByAddressLamports": {
+    "FBUKfg7Thx4WDM4ATehJe1xWzuGtMk1myXhRSvuSq19h": "0",
+    "FV85FCpq5rqe5PXgcu4YjBxmmu2tcBvXMkjSvsrYQQEF": "1159235",
+    "B7S8TPcWWJXTsmgG8ShoTmy8sNPuJ3Dbmt7z5gLFAveq": "485250644",
+    "FWb5MBHxAD5HRsJqkMquzt62jj7Ri8d5RD7NjTrau7ya": "23857",
+    "8yG8xML4vJoyLbn4dBWwPAvKqxp7oRTCnc67zQxY5mgu": "98792988",
+    "35XTCpBuZfAwTj3tK8BQxXQmCsi7rxGAfQZM28CxM9tZ": "24698247"
+  },
+  "totalVerifiedOrdinaryPaymentsLamports": "217198427652",
+  "totalReconciledOrdinaryFeePendingLamports": "609924971",
+  "limitations": [
+    "Recipient wallet ownership and human identities unknown; a nonseed wallet can still belong to original launcher.",
+    "Distribution proves credited to wallet, not spend or external developer identity.",
+    "PsyopCartoon and this coin will retire you current AMM WSOL pending is proven from exact zero-balance checkpoints; historical full ATA pagination remains partial. Native vault fee-versus-initial-reserve provenance remains separate.",
+    "Native donation route separately pays DonationFeePda; not GitHub or developer claim.",
+    "Pending allocations use current shares only, not historic shares."
+  ],
+  "provenAmmWsolPendingRoutes": [
+    {
+      "name": "this coin will retire you",
+      "mint": "9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump",
+      "asset": "So11111111111111111111111111111111111111112",
+      "provenPendingFeeRaw": "2255404",
+      "feeProvenanceReconciled": true,
+      "historyLowerInclusive": 1787596526,
+      "zeroBaselineSignature": "42r6fHS65cNB5W9MKEqLDMoVZ2f4d4Bm78ecCXUvfGGBp6hmo71b6F46yWiEn9KrQhMxHkmEMf3hBM1JQWWTxvVZ",
+      "terminal": true,
+      "source": "outputs/ramonos-launches-20261013/target-vaults/amm-latest-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/replay.json"
+    },
+    {
+      "name": "PsyopCartoon",
+      "mint": "DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump",
+      "asset": "So11111111111111111111111111111111111111112",
+      "provenPendingFeeRaw": "4210952",
+      "feeProvenanceReconciled": true,
+      "historyLowerInclusive": 1785847348,
+      "zeroBaselineSignature": "3az6beLFNMhEaivnUjsMGevD4u2yZmsu68wWjAtLgLbtpjdmgc4MXk4bTAByDXx15o1wEh2p95LUxZ3RGZiQkvi9",
+      "terminal": true,
+      "source": "outputs/ramonos-launches-20261013/target-vaults/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/replay.json"
+    }
+  ],
+  "totalProvenAmmWsolPendingRaw": "6466356",
+  "currentSplitAllocationOfProvenAmmWsolPendingByAddressRaw": {
+    "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b": "3180768",
+    "ynVUJyGuNpr5o35CNvkcytPSW91nY26ZPdswH5UfEbv": "2232849",
+    "F4tvmVEZc9DQQVPxoQeNLaGfvXw6vrbHvC6kECGU3c1C": "1052738"
+  },
+  "provenOrdinaryNativePlusWsolPendingLamportsEquivalent": "616391327",
+  "custodyNote": "609924971 native SOL fee lamports + 6466356 WSOL fee raw units = 616391327 lamports-equivalent, distinct custody locations; current recipient allocation floors may leave dust. Two AMM route native above-rent balances240641 each remain provenance-unknown, excluded."
+}

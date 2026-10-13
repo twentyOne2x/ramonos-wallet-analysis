@@ -1,0 +1,49 @@
+[
+  {
+    "reason": "wallet not signed deployer or no matched mint initialization",
+    "creation": {
+      "signature": "35D2nsKbMT1wwMeRwrdzTHRfLBLq2ahmjPPoA29v63N5aJdowofG2B9cB3hF5gZvHhwS8yABkyMVAmqQKxDEfJ3h",
+      "slot": 393993732,
+      "transactionIndex": 268,
+      "blockTime": 1768611112,
+      "utc": "2026-01-17T00:51:52Z",
+      "name": "CreateEvent",
+      "program": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "event": {
+        "name": "Ramonos",
+        "symbol": "RAM",
+        "uri": "https://ipfs.io/ipfs/bafkreicodpjvk2gzxbvjlqfvnw2yleikchixoo7yhfmo7hzyvgzvzfnnfu",
+        "mint": "xSPpDPb9qU7qgiwZ8hpmAucE5M91FqJn6LjKpNbvump",
+        "bonding_curve": "7DUxSbiffb4knFsmic8XiAykXF56GVayt13RD75JHpzs",
+        "user": "6pg9s1bVUhpdZBZkAi5BedoF6bU4Bxynxdw1uHhRDiF5",
+        "creator": "6pg9s1bVUhpdZBZkAi5BedoF6bU4Bxynxdw1uHhRDiF5",
+        "timestamp": "1768611112",
+        "virtual_token_reserves": "1073000000000000",
+        "virtual_sol_reserves": "30000000000",
+        "real_token_reserves": "793100000000000",
+        "token_total_supply": "1000000000000000",
+        "token_program": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "is_mayhem_mode": false
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0015.json",
+      "missingTrailingFields": [
+        "is_cashback_enabled",
+        "quote_mint",
+        "virtual_quote_reserves",
+        "creator_fee_bps",
+        "is_holder_reward",
+        "depth"
+      ],
+      "unparsedBytes": 0,
+      "payloadSha256": "55b40a96aaeebe316ec562de194b0e4efe4d6cb162251369e2444a74016a5ba7",
+      "transactionUrl": "https://solscan.io/tx/35D2nsKbMT1wwMeRwrdzTHRfLBLq2ahmjPPoA29v63N5aJdowofG2B9cB3hF5gZvHhwS8yABkyMVAmqQKxDEfJ3h",
+      "logIndex": 56,
+      "evidence": "program_log",
+      "walletSigned": false,
+      "signers": [
+        "6pg9s1bVUhpdZBZkAi5BedoF6bU4Bxynxdw1uHhRDiF5",
+        "xSPpDPb9qU7qgiwZ8hpmAucE5M91FqJn6LjKpNbvump"
+      ]
+    }
+  }
+]

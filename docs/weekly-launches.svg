@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Verified launches by ISO week" viewBox="0 0 1040 320">
+<rect width="1040" height="320" rx="14" fill="#f6f8fa"/>
+<text x="76" y="31" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#1f2328">Verified launches by ISO week</text>
+<text x="76" y="54" font-family="Arial,sans-serif" font-size="12" fill="#57606a">UTC · 279 signed creations · zero-launch weeks included · final week is partial</text>
+<path d="M76,260.0 H1016" stroke="#d8dee4"/><text x="66" y="264.0" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#57606a">0</text>
+<path d="M76,214.0 H1016" stroke="#d8dee4"/><text x="66" y="218.0" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#57606a">8</text>
+<path d="M76,168.0 H1016" stroke="#d8dee4"/><text x="66" y="172.0" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#57606a">17</text>
+<path d="M76,122.0 H1016" stroke="#d8dee4"/><text x="66" y="126.0" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#57606a">25</text>
+<path d="M76,76.0 H1016" stroke="#d8dee4"/><text x="66" y="80.0" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#57606a">33</text>
+<rect x="79.85" y="232.17" width="13.67" height="27.83" rx="3" fill="#635bff"><title>Dec 15: 5</title></rect>
+<text x="86.68" y="285" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#57606a">Dec 15</text>
+<rect x="101.21" y="243.30" width="13.67" height="16.70" rx="3" fill="#635bff"><title>Dec 22: 3</title></rect>
+<rect x="122.57" y="182.08" width="13.67" height="77.92" rx="3" fill="#635bff"><title>Dec 29: 14</title></rect>
+<rect x="143.94" y="198.78" width="13.67" height="61.22" rx="3" fill="#635bff"><title>Jan 05: 11</title></rect>
+<rect x="165.30" y="243.30" width="13.67" height="16.70" rx="3" fill="#635bff"><title>Jan 12: 3</title></rect>
+<rect x="186.66" y="198.78" width="13.67" height="61.22" rx="3" fill="#635bff"><title>Jan 19: 11</title></rect>
+<text x="193.50" y="285" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#57606a">Jan 19</text>
+<rect x="208.03" y="143.12" width="13.67" height="116.88" rx="3" fill="#635bff"><title>Jan 26: 21</title></rect>
+<rect x="229.39" y="209.91" width="13.67" height="50.09" rx="3" fill="#635bff"><title>Feb 02: 9</title></rect>
+<rect x="250.75" y="209.91" width="13.67" height="50.09" rx="3" fill="#635bff"><title>Feb 09: 9</title></rect>
+<rect x="272.12" y="165.38" width="13.67" height="94.62" rx="3" fill="#635bff"><title>Feb 16: 17</title></rect>
+<rect x="293.48" y="215.47" width="13.67" height="44.53" rx="3" fill="#635bff"><title>Feb 23: 8</title></rect>
+<text x="300.32" y="285" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#57606a">Feb 23</text>
+<rect x="336.21" y="170.95" width="13.67" height="89.05" rx="3" fill="#635bff"><title>Mar 09: 16</title></rect>
+<rect x="357.57" y="248.87" width="13.67" height="11.13" rx="3" fill="#635bff"><title>Mar 16: 2</title></rect>
+<rect x="378.94" y="193.21" width="13.67" height="66.79" rx="3" fill="#635bff"><title>Mar 23: 12</title></rect>
+<rect x="400.30" y="248.87" width="13.67" height="11.13" rx="3" fill="#635bff"><title>Mar 30: 2</title></rect>
+<text x="407.14" y="285" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#57606a">Mar 30</text>
+<rect x="421.66" y="198.78" width="13.67" height="61.22" rx="3" fill="#635bff"><title>Apr 06: 11</title></rect>
+<rect x="443.03" y="248.87" width="13.67" height="11.13" rx="3" fill="#635bff"><title>Apr 13: 2</title></rect>
+<rect x="485.75" y="176.52" width="13.67" height="83.48" rx="3" fill="#635bff"><title>Apr 27: 15</title></rect>
+<rect x="507.12" y="159.82" width="13.67" height="100.18" rx="3" fill="#635bff"><title>May 04: 18</title></rect>
+<text x="513.95" y="285" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#57606a">May 04</text>
+<rect x="571.21" y="243.30" width="13.67" height="16.70" rx="3" fill="#635bff"><title>May 25: 3</title></rect>
+<text x="620.77" y="285" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#57606a">Jun 08</text>
+<rect x="656.66" y="248.87" width="13.67" height="11.13" rx="3" fill="#635bff"><title>Jun 22: 2</title></rect>
+<rect x="678.03" y="215.47" width="13.67" height="44.53" rx="3" fill="#635bff"><title>Jun 29: 8</title></rect>
+<rect x="699.39" y="209.91" width="13.67" height="50.09" rx="3" fill="#635bff"><title>Jul 06: 9</title></rect>
+<rect x="720.75" y="232.17" width="13.67" height="27.83" rx="3" fill="#635bff"><title>Jul 13: 5</title></rect>
+<text x="727.59" y="285" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#57606a">Jul 13</text>
+<rect x="742.12" y="237.74" width="13.67" height="22.26" rx="3" fill="#635bff"><title>Jul 20: 4</title></rect>
+<rect x="806.21" y="254.43" width="13.67" height="5.57" rx="3" fill="#635bff"><title>Aug 10: 1</title></rect>
+<rect x="827.57" y="221.04" width="13.67" height="38.96" rx="3" fill="#635bff"><title>Aug 17: 7</title></rect>
+<text x="834.41" y="285" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#57606a">Aug 17</text>
+<rect x="848.94" y="98.60" width="13.67" height="161.40" rx="3" fill="#635bff"><title>Aug 24: 29</title></rect>
+<rect x="870.30" y="187.65" width="13.67" height="72.35" rx="3" fill="#635bff"><title>Aug 31: 13</title></rect>
+<rect x="891.66" y="226.61" width="13.67" height="33.39" rx="3" fill="#635bff"><title>Sep 07: 6</title></rect>
+<rect x="913.03" y="248.87" width="13.67" height="11.13" rx="3" fill="#635bff"><title>Sep 14: 2</title></rect>
+<rect x="934.39" y="254.43" width="13.67" height="5.57" rx="3" fill="#635bff"><title>Sep 21: 1</title></rect>
+<text x="941.23" y="285" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#57606a">Sep 21</text>
+<text x="1005.32" y="285" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#57606a">Oct 12</text>
+</svg>

@@ -1,0 +1,40 @@
+[
+  {
+    "mint": "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump",
+    "name": "Flightradar24",
+    "shareholders": [
+      {
+        "address": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+        "share_bps": "10000",
+        "platform": "2",
+        "userId": "12810712",
+        "recipientAccountType": "SocialFeePda",
+        "category": "direct GitHub social",
+        "shareFractionNumerator": "10000",
+        "shareFractionDenominator": "10000",
+        "curvePendingFeeFractionFloorRaw": "0",
+        "poolPendingFeeFractionFloorRaw": null,
+        "allocationNote": "Arithmetic current split applied to separate pending counters; distribution rounding/order and historic split not inferred."
+      }
+    ]
+  },
+  {
+    "mint": "EiDpY9QApxYMFYhR4TWXEpy6gANh73S4h3t8eSif32SM",
+    "name": "Bold",
+    "shareholders": [
+      {
+        "address": "FfLpuH4WPn2MR8Lqn1MpwQc1HtAPPqL3qvMWZjnFHGpv",
+        "share_bps": "10000",
+        "platform": "2",
+        "userId": "322216527",
+        "recipientAccountType": "SocialFeePda",
+        "category": "UsePaid GitHub intermediary",
+        "shareFractionNumerator": "10000",
+        "shareFractionDenominator": "10000",
+        "curvePendingFeeFractionFloorRaw": "0",
+        "poolPendingFeeFractionFloorRaw": null,
+        "allocationNote": "Arithmetic current split applied to separate pending counters; distribution rounding/order and historic split not inferred."
+      }
+    ]
+  }
+]

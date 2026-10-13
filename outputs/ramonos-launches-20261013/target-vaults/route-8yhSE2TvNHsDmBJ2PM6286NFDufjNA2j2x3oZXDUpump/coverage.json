@@ -1,0 +1,45 @@
+{
+  "cutoff": 1791908918,
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "name": "route-8yhSE2TvNHsDmBJ2PM6286NFDufjNA2j2x3oZXDUpump",
+  "displayName": "Copyrighted Cat \u00a9",
+  "mint": "8yhSE2TvNHsDmBJ2PM6286NFDufjNA2j2x3oZXDUpump",
+  "config": "DzFp9zss6cnsGDwjc6o3MiBmwQoRZSeMVE3e5KixdzvU",
+  "vault": "GPGpkig8y8FjWXHvnYLn7qUokQLc1Rh2YQW5b2die1qD",
+  "recipients": [
+    {
+      "address": "FWb5MBHxAD5HRsJqkMquzt62jj7Ri8d5RD7NjTrau7ya",
+      "share_bps": "10000",
+      "platform": null,
+      "userId": null,
+      "recipientAccountType": null,
+      "category": "ordinary recipient wallet",
+      "shareFractionNumerator": "10000",
+      "shareFractionDenominator": "10000",
+      "curvePendingFeeFractionFloorRaw": "0",
+      "poolPendingFeeFractionFloorRaw": null,
+      "allocationNote": "Arithmetic current split applied to separate pending counters; distribution rounding/order and historic split not inferred."
+    }
+  ],
+  "routeCategory": "ordinary wallet sharing",
+  "terminal": true,
+  "pages": [
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/route-8yhSE2TvNHsDmBJ2PM6286NFDufjNA2j2x3oZXDUpump/page-0000.response.json",
+      "sha256": "a4b3f6b23cf3f516ed7b45ef3760470b2b699ae0ae317421bd868ecc61c0cc69",
+      "count": 638,
+      "cursorIn": null,
+      "cursorOut": "443723822:106"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/route-8yhSE2TvNHsDmBJ2PM6286NFDufjNA2j2x3oZXDUpump/page-0001.response.json",
+      "sha256": "abd38ce8ef91eff014c0fb955cf12917d8288778b4dc011defbe813970aa2925",
+      "count": 0,
+      "cursorIn": "443723822:106",
+      "cursorOut": null
+    }
+  ],
+  "transactionCount": 638
+}

@@ -1,0 +1,42 @@
+{
+  "cutoff": 1791908918,
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "name": "Bold",
+  "mint": "EiDpY9QApxYMFYhR4TWXEpy6gANh73S4h3t8eSif32SM",
+  "config": "GFpZ79XaLk6kqU448eTykVZGGqec6aLveepdy3EZBbYj",
+  "vault": "98AhHzY5K9Xb7iixLipcjWWYo1Ksrk3nrBKv2zmkkBrj",
+  "recipient": "FfLpuH4WPn2MR8Lqn1MpwQc1HtAPPqL3qvMWZjnFHGpv",
+  "transactionCount": 510,
+  "terminal": true,
+  "verifiedTradeCreatorFeeInflowsLamports": "620058647",
+  "verifiedDistributionLamports": "618888685",
+  "verifiedCollectCreatorFeeLamports": "0",
+  "firstPreLamports": "0",
+  "lastPostLamports": "1820202",
+  "currentBalanceLamports": "1820202",
+  "currentSlot": 456508021,
+  "currentRentLamports": "650240",
+  "rentEvidence": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-005.response.json; RentSysvar [5080,1.0,50], (128+space)*5080",
+  "currentAboveRentLamports": "1169962",
+  "lastPostMatchesCurrent": true,
+  "residualMovements": [
+    {
+      "signature": "3RRZsGLBnPtEy6jLhfLmHJRPCY9WKSWzkxZkkqC7BmwxKZRgGciVaSSCCsZGM5XSwNZm5RVZc9bDFWqmAum3fveU",
+      "lamports": "650240",
+      "pre": "0",
+      "post": "16057648",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/Bold/page-0000.response.json"
+    }
+  ],
+  "unverifiedFeeEvents": [],
+  "decodeErrors": [],
+  "netVerifiedFeeLotsLamports": "1169962",
+  "feeCashReconciled": true,
+  "pendingVerifiedFeeLotsLamports": "1169962",
+  "historicalNonfeeFundingLamports": "650240",
+  "actualDistributionPaymentsByAddressLamports": {
+    "FfLpuH4WPn2MR8Lqn1MpwQc1HtAPPqL3qvMWZjnFHGpv": "618888685"
+  }
+}

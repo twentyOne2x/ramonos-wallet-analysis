@@ -1,0 +1,25 @@
+{
+  "cutoff": 1791908918,
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "address": "CfDANKRyAfm5ru67ykbRh17aK7eCgmHqWNfnACFbqncS",
+  "terminal": true,
+  "pages": [
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0000.response.json",
+      "sha256": "43dc53baf2f4dcff07c46329d12f76945b6467d162bc953a1f62d4145198ed6f",
+      "count": 6,
+      "cursorIn": null,
+      "cursorOut": "448763393:925"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0001.response.json",
+      "sha256": "abd38ce8ef91eff014c0fb955cf12917d8288778b4dc011defbe813970aa2925",
+      "count": 0,
+      "cursorIn": "448763393:925",
+      "cursorOut": null
+    }
+  ],
+  "transactionCount": 6
+}

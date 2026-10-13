@@ -1,0 +1,1330 @@
+{
+  "summary": {
+    "cutoff": 1791908918,
+    "cutoffUtc": "2026-10-13T16:28:38Z",
+    "commitment": "finalized",
+    "financialExecutionCapSol": 0,
+    "name": "PsyopCartoon",
+    "mint": "DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump",
+    "config": "QyAJG4JnLHBshGP3uw4GfWiNTfcSmGAPV6m5WKweKQn",
+    "pool": "5aS1BeY8dMUwjXkMjjG217hwR7etgXCkyc9pBiUr5GUK",
+    "ata": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+    "authority": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+    "transactionCount": 53,
+    "terminal": true,
+    "verifiedCreatorFeeInRaw": "4210952",
+    "verifiedClosedOutRaw": "0",
+    "firstPreRaw": "0",
+    "lastPostRaw": "4210952",
+    "currentRaw": "4210952",
+    "lastPostMatchesCurrent": true,
+    "unknown": [],
+    "decodeErrors": [],
+    "baselineSignature": "3az6beLFNMhEaivnUjsMGevD4u2yZmsu68wWjAtLgLbtpjdmgc4MXk4bTAByDXx15o1wEh2p95LUxZ3RGZiQkvi9",
+    "lowerBound": 1785847348,
+    "baselineReached": true,
+    "feeProvenanceReconciled": true
+  },
+  "transactions": [
+    {
+      "signature": "2YQQXrsrwcszsEmn3VBhpXeBWd34NG6hhB9Q2wcHJeDYrgYZ4ZWU9Qt51vs8EDKg6p8GPcEjEWmDjs9csowd3eTa",
+      "slot": 437358523,
+      "blockTime": 1785924227,
+      "preRaw": "0",
+      "postRaw": "308656",
+      "verifiedCreatorFeeRaw": "308656",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "4af6e98e87a7931a4e6b3b813a8a971dfe3e07495f63964e8144d4fcf8c9f0cb",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "308656",
+          "actualTransferRaw": "308656",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3ftUSpJgPVbi9W7rri744JmDG33yAe2rfdpKZuDdHvBvgAquUvAmDUr3UzCNk7TtcDyoUbmBcXjLcnMevrpQ4UYq",
+      "slot": 438164741,
+      "blockTime": 1786264761,
+      "preRaw": "308656",
+      "postRaw": "310126",
+      "verifiedCreatorFeeRaw": "1470",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "cc5a92decd7124c1fdaf318d7b86e72775a6b53fe52c9f65e0d9512d459e2a42",
+          "topLevelInstructionIndexes": [
+            3
+          ],
+          "candidates": 1,
+          "feeRaw": "1470",
+          "actualTransferRaw": "1470",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3QjmHsPTsy4AzcJC8anR9YxzNSdzqDo56y45zdKFHSzPdid9hZS5uuBq7rWNcHfLLQSpLNESNkbjRqop5EH6XE9j",
+      "slot": 438264030,
+      "blockTime": 1786306769,
+      "preRaw": "310126",
+      "postRaw": "313977",
+      "verifiedCreatorFeeRaw": "3851",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "9583b909700d3063f30c5dcb51dac593f6560935eebdb656e0a380864a94e3b5",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "3851",
+          "actualTransferRaw": "3851",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "PDf2n6BbzMLjq2QE4zwrj7HmvKQhLd6aPbiSPYogwr9feCw26NYqg86DwQH3XGFDiHi5gRGueoEqQ1uKT7xx9Cb",
+      "slot": 438390581,
+      "blockTime": 1786360254,
+      "preRaw": "313977",
+      "postRaw": "617056",
+      "verifiedCreatorFeeRaw": "303079",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "34dabb5b4d3eed7185e551073e6a16f1fff9a628f806cb410746e0f1ecca8bd4",
+          "topLevelInstructionIndexes": [
+            4
+          ],
+          "candidates": 1,
+          "feeRaw": "303079",
+          "actualTransferRaw": "303079",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4d1ZkBGvTvqXFKhZJcrknPZFgUqPY17ua5qFWn7ESRKjMYQRjYk5NRErDz9j7TZbpXuxLQ4r7fvUkeyhDHsYi9Z9",
+      "slot": 438828098,
+      "blockTime": 1786544556,
+      "preRaw": "617056",
+      "postRaw": "621209",
+      "verifiedCreatorFeeRaw": "4153",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "BuyEvent",
+          "eventPayloadSha256": "5156c69871593044fe1287bd28a59ac60e276dd6bc69412024c64f2c2fca222d",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "4153",
+          "actualTransferRaw": "4153",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4naMDAsp4EEq9fFdhPP9qFzz5BJCPknfr8PpuJxwdP4WqEDTHxMLZjs8wCmfXhCwUC9v7bZCCnm23h6weEwy5ArF",
+      "slot": 438828159,
+      "blockTime": 1786544583,
+      "preRaw": "621209",
+      "postRaw": "625362",
+      "verifiedCreatorFeeRaw": "4153",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "13c32a58ad2eb31b4dc1ba6ce8a19bdc20aa099f4de23869c3f28918e71bb267",
+          "topLevelInstructionIndexes": [
+            4
+          ],
+          "candidates": 1,
+          "feeRaw": "4153",
+          "actualTransferRaw": "4153",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "22sqowUnwVLqUUk2i5nLFVpP3CsgY1sCWjqaGw56soYasmQXnjvKPK9nTDLXDEHGrVET88pp64Gh7kSSfTdYbCKp",
+      "slot": 439106043,
+      "blockTime": 1786660720,
+      "preRaw": "625362",
+      "postRaw": "625392",
+      "verifiedCreatorFeeRaw": "30",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "BuyEvent",
+          "eventPayloadSha256": "8ed33f162392bab2bc57804dbc7c5f1f1c5c2800236d1a8a427328f9ab5d1c6f",
+          "topLevelInstructionIndexes": [
+            3
+          ],
+          "candidates": 1,
+          "feeRaw": "30",
+          "actualTransferRaw": "30",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "51D8UJVybeeY3hMnxTQVLCbzNkFVnL89xKCLRpCq4w5bCf6z2sd1kp1NcwbBp5QisKWWGBPtUAzy91QHU3mMzWdj",
+      "slot": 439106072,
+      "blockTime": 1786660733,
+      "preRaw": "625392",
+      "postRaw": "625422",
+      "verifiedCreatorFeeRaw": "30",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "a9628bb6266de0d9f70562570ca9ca1e554fa46c2baecab698d36f2bbe85f0ff",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "30",
+          "actualTransferRaw": "30",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "JANSNzRSkSfrU5ALXFyfh2pT9awQCGtjU4ArCbw1TbJPHCniVU6aXDTDPvB3V7ZUWy7RZdfmeu8tGU9CCMYqNbw",
+      "slot": 439665080,
+      "blockTime": 1786893125,
+      "preRaw": "625422",
+      "postRaw": "628351",
+      "verifiedCreatorFeeRaw": "2929",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "eea1922a34271224a6f1eb0f4d1688c1b5c75fcca152d8132096de51ab5dfed4",
+          "topLevelInstructionIndexes": [
+            3
+          ],
+          "candidates": 1,
+          "feeRaw": "2929",
+          "actualTransferRaw": "2929",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5wFdcrZpHdFixci7C5jyLVcKVZxkLDx6kAEjpC9sf5uNVUM4NWfkGL2fTxsuhNhfnhL9pK2hWrdKPkH1YuvAyQNV",
+      "slot": 439846890,
+      "blockTime": 1786968578,
+      "preRaw": "628351",
+      "postRaw": "632070",
+      "verifiedCreatorFeeRaw": "3719",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "0bfaca166bf200db40fcb46739fe530f9cc7cf754e511975b429a504fa1085fd",
+          "topLevelInstructionIndexes": [
+            3
+          ],
+          "candidates": 1,
+          "feeRaw": "3719",
+          "actualTransferRaw": "3719",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4bLgCwUtrvZXnys77u8qofpyMfbRbcMHYp7H4UFw5Awk353wAkAHTMEFqgE3FxCWq2Zdad9XH7Ucr1ZintbdDBmA",
+      "slot": 440130538,
+      "blockTime": 1787086437,
+      "preRaw": "632070",
+      "postRaw": "634538",
+      "verifiedCreatorFeeRaw": "2468",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "a9e14aabda1201fc07fa849d45136141ec36855c89b8e9f2a5541ec37ba5ef9d",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "2468",
+          "actualTransferRaw": "2468",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5H6kG9Nk8TAgunzEKrgL1B5n9ekAv4DgBFN2pLBXLVXRkeNYmq3CpLeBHMyMj4zkKA6TMvx2feLwQVEarwfoStni",
+      "slot": 440329445,
+      "blockTime": 1787169197,
+      "preRaw": "634538",
+      "postRaw": "638297",
+      "verifiedCreatorFeeRaw": "3759",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "8fbbecb2444cdf0e5f4c127810ccb091e38fede19dadc6e1ebf74c0477351d30",
+          "topLevelInstructionIndexes": [
+            1
+          ],
+          "candidates": 1,
+          "feeRaw": "3759",
+          "actualTransferRaw": "3759",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5JoLdGBXRgu4W5kDnMNJjBuBbx4sEfcHhgRDfbTr8geTR6AHgPoSvrygxMRAefZ3KWcoHxyA2kwFkf3SmGtrEhpJ",
+      "slot": 440545197,
+      "blockTime": 1787258950,
+      "preRaw": "638297",
+      "postRaw": "640130",
+      "verifiedCreatorFeeRaw": "1833",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "de1fd05bb9d5b85fe08fa1da4c8563487eae3aa2ce326712bf82eaa2bf8c63a8",
+          "topLevelInstructionIndexes": [
+            3
+          ],
+          "candidates": 1,
+          "feeRaw": "1833",
+          "actualTransferRaw": "1833",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3XqyzmtcgiaQFDETLmyyW54TGqtfvVj4yyFJWBcrj9oCzuoZnJz48YUi3JV2rUUc8huzxNzLTtfA4Auq1HVoxyAd",
+      "slot": 440679839,
+      "blockTime": 1787312957,
+      "preRaw": "640130",
+      "postRaw": "640940",
+      "verifiedCreatorFeeRaw": "810",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "cad0daa0205f4d4dde57318b2c3f0eb2cb1f84e551ecc38da58bd963e09baeaa",
+          "topLevelInstructionIndexes": [
+            3
+          ],
+          "candidates": 1,
+          "feeRaw": "810",
+          "actualTransferRaw": "810",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "21qtfhxmob594EZb7Dfpx99aqkik9ajT2U5brM5xB7hqj6X7yYrEJR9YJYoEZkZdyNRukKaJ2HAjV3M7nUv1L4Kk",
+      "slot": 441042171,
+      "blockTime": 1787445867,
+      "preRaw": "640940",
+      "postRaw": "643723",
+      "verifiedCreatorFeeRaw": "2783",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "3df6c31cd8d6501d8f8d3f14ee2bd09f5fd82a9cfc0a7ec0297ec12b100ecc41",
+          "topLevelInstructionIndexes": [
+            3
+          ],
+          "candidates": 1,
+          "feeRaw": "2783",
+          "actualTransferRaw": "2783",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5yjHEdS56XY2P2e7nNoL9haB1FHLUD3aVPPHamdvroscLVejzrAxnHVDfVJ7xmemAMQbSDpuJH9h2dAFx4k8Hpnk",
+      "slot": 441625281,
+      "blockTime": 1787659012,
+      "preRaw": "643723",
+      "postRaw": "643738",
+      "verifiedCreatorFeeRaw": "15",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "a8a7c6a6eb76d64d1fa035675de18ae8b8f3b87e66e0e21e50b9fb5b7ca5f43e",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "15",
+          "actualTransferRaw": "15",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3xD37FYLYLV1KB5AzuodDQgxYxLHLs86rNmgrosqArqd38bqy7LutK61hVVrC6PXz5KdG4jVGthDXnmRBojBUPwP",
+      "slot": 441688564,
+      "blockTime": 1787682204,
+      "preRaw": "643738",
+      "postRaw": "648156",
+      "verifiedCreatorFeeRaw": "4418",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "b03a485209f77bcfbcb3b32c1763230833abdeed9759edcab462bbc7791665ac",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "4418",
+          "actualTransferRaw": "4418",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4vJB4oUHmC6XgZJQ4TkXr7i75KtTuPX7UcVD7XFzvDxoJt2AQDSCCxhhoxzRYXC3uvW14NiTabpiGrSfk3hRWrPc",
+      "slot": 441756859,
+      "blockTime": 1787707165,
+      "preRaw": "648156",
+      "postRaw": "648740",
+      "verifiedCreatorFeeRaw": "584",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "8093869f927c9230588a827b2c5b2068a29dbbe66405083531ff43ec2def342d",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "584",
+          "actualTransferRaw": "584",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "Q41LXwBSj8MWqKoDdgEb2VuUnyNQmSuNAFubYrFFBGhBUUbFKsENcuCfKbKbYNLXJWE2aR9mq3fFucMzjCjBUPx",
+      "slot": 441975153,
+      "blockTime": 1787786958,
+      "preRaw": "648740",
+      "postRaw": "648756",
+      "verifiedCreatorFeeRaw": "16",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "0700b39df1e3a28163d0732542f99634d1dce9f0c54ac109fc8ab5d7157a01e3",
+          "topLevelInstructionIndexes": [
+            3
+          ],
+          "candidates": 1,
+          "feeRaw": "16",
+          "actualTransferRaw": "16",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3FgLoE7qhgcb5uKQy5pkTeqnKTcZn444eACcnXUDMsccwRE67arHuEpSaKAChLFatZao1ua3UK49rGmELnJrtwgr",
+      "slot": 442128635,
+      "blockTime": 1787843021,
+      "preRaw": "648756",
+      "postRaw": "649085",
+      "verifiedCreatorFeeRaw": "329",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "a7a63798fc6466dfa76ef0cf249160d81ebf242a13d4389041ab2b9116127094",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "329",
+          "actualTransferRaw": "329",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "ns8LduJdogGpaKtYzKphebJjtUf4PARpKatrYAPqLRLSFDEQ8MR1XeXMz6tj6G7WrvCuAUqLNVJ1Pr1WdktyVkC",
+      "slot": 442265033,
+      "blockTime": 1787893019,
+      "preRaw": "649085",
+      "postRaw": "789327",
+      "verifiedCreatorFeeRaw": "140242",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "7e1a53003e026a09a12dd2ab4e340d66e0bc987c4afbc99be940d318e2202f1b",
+          "topLevelInstructionIndexes": [
+            6
+          ],
+          "candidates": 1,
+          "feeRaw": "140242",
+          "actualTransferRaw": "140242",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3mu1V9V4wcVCT5R8Uaaav56pswqsgt9MXxEjwUKSiZvGUewsvdceAzuUSYEP9NT75oHrKmPcb17F8vggQQ87Q3d4",
+      "slot": 442739852,
+      "blockTime": 1788048739,
+      "preRaw": "789327",
+      "postRaw": "1146956",
+      "verifiedCreatorFeeRaw": "357629",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "66f3c5332534d6e0c976326f4330adf3385829f4d77db016f0c30baed9e4e042",
+          "topLevelInstructionIndexes": [
+            4
+          ],
+          "candidates": 1,
+          "feeRaw": "357629",
+          "actualTransferRaw": "357629",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "2C9qmDsxGKbm3AY34fzZpJdah6kZpMpYKkD4kNyAg6fbmHtis8GNoPAXkPuPqca8psgL5JNPEpPGe5n4fokwXEWk",
+      "slot": 442766980,
+      "blockTime": 1788057360,
+      "preRaw": "1146956",
+      "postRaw": "1180873",
+      "verifiedCreatorFeeRaw": "33917",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "24ca88ff5f4b1f9214eae8b9e5876dca0e8b09dbee0c67bcbcf043d9b5925736",
+          "topLevelInstructionIndexes": [
+            3
+          ],
+          "candidates": 1,
+          "feeRaw": "33917",
+          "actualTransferRaw": "33917",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "2xqfxQ2zSxewmtKMsp9tMqvHqFvrrW4VRfYydXSKw28HKa2HWduXPeCj8ow2fFnwf1oNwHx74pbwVnRyQTUqjfQH",
+      "slot": 443271698,
+      "blockTime": 1788217497,
+      "preRaw": "1180873",
+      "postRaw": "1207203",
+      "verifiedCreatorFeeRaw": "26330",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "7482f519e46abbdd2472615f863ba66fedf60ef92dc469dcce0fb8de0a50e5a8",
+          "topLevelInstructionIndexes": [
+            6
+          ],
+          "candidates": 1,
+          "feeRaw": "26330",
+          "actualTransferRaw": "26330",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5pj55Uf2fwsZVdsgvhVeUSfmicBmDCx6oQ4SFDMqNKihAAQiyp9H1FciAnhu6uwcDHTTeYvEvWcsdcr5qpyEh2vH",
+      "slot": 443871992,
+      "blockTime": 1788407280,
+      "preRaw": "1207203",
+      "postRaw": "1207206",
+      "verifiedCreatorFeeRaw": "3",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "664ff87d26923d5180ecf15115ae901dfa6189017420a0903ecd7ae3cef2dd25",
+          "topLevelInstructionIndexes": [
+            5
+          ],
+          "candidates": 1,
+          "feeRaw": "3",
+          "actualTransferRaw": "3",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3cHUkCPTAU15SLptaLAx7PZ9gB8TWhY3azJ4c94bxkXmke4KuchHm1JEPsUBRSfD4F29bLqePpvJGoJiXRPZetV3",
+      "slot": 444182728,
+      "blockTime": 1788505209,
+      "preRaw": "1207206",
+      "postRaw": "1209986",
+      "verifiedCreatorFeeRaw": "2780",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "cb00dc2c53192eeefbb452b2a58831348bf08048099baf0fb2352220018395cb",
+          "topLevelInstructionIndexes": [
+            5
+          ],
+          "candidates": 1,
+          "feeRaw": "2780",
+          "actualTransferRaw": "2780",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "M4GM5brvzQqB8yqD2UpAw1pbmfhXVfUyyAPuYzwHZQducD27XcDZBkQaderjoid6daAJmrcQvJHhWt6U2jKHLD5",
+      "slot": 444618105,
+      "blockTime": 1788642455,
+      "preRaw": "1209986",
+      "postRaw": "1209987",
+      "verifiedCreatorFeeRaw": "1",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "7beb6a6167577b8f1bc57ab6a0539021b0f633f5fe5bd7c0dcff336c94d0179d",
+          "topLevelInstructionIndexes": [
+            5
+          ],
+          "candidates": 1,
+          "feeRaw": "1",
+          "actualTransferRaw": "1",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "2Qg7NqXf2az5ef9pqw1U8iPFKhHrJg6HyYExjnA1kGY6xA1f4EvajWT1VjjWdcnRAQ8kRnp5UmCWoB9HTKiVb8De",
+      "slot": 444871524,
+      "blockTime": 1788722686,
+      "preRaw": "1209987",
+      "postRaw": "1210010",
+      "verifiedCreatorFeeRaw": "23",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "622f4432467db23f8729b7f5f07e2c93f51be9227ee6b790df5a8f76085cfa72",
+          "topLevelInstructionIndexes": [
+            3
+          ],
+          "candidates": 1,
+          "feeRaw": "23",
+          "actualTransferRaw": "23",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "644ozdEaZF6Y4r22fkokAVbRotSa3XDP3wbSnYAnf45ZG6erZaddoCk6y7U9ApKUDnktcBdjh5eDgP41BU5wfYTs",
+      "slot": 444907420,
+      "blockTime": 1788734054,
+      "preRaw": "1210010",
+      "postRaw": "1492928",
+      "verifiedCreatorFeeRaw": "282918",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "11f5e2f59be7f4781696323207735ced5e1ed479e782b81d55c1ae41d3a40bba",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "282918",
+          "actualTransferRaw": "282918",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "2SBb57g1sL8fMy6mYkWH3kmBreQBmYVdjrh3M1jUqJFdzVpBJrfcgUjUHDeUvDwzUHRr3DDojJFaP7j1Y6nGiDmp",
+      "slot": 444912348,
+      "blockTime": 1788735610,
+      "preRaw": "1492928",
+      "postRaw": "1496930",
+      "verifiedCreatorFeeRaw": "4002",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "23b0e24730d80e44412639b32db99491c301d1fdf1757f89582719eed43e9973",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "4002",
+          "actualTransferRaw": "4002",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3hyLyTsj4UzggiUVmerUN6pK1VhzGYaurFmtnVbGS3UiCLUAn31y2WrLS5v34ShhMMUvTj5BeWEh117oZK3iD9tf",
+      "slot": 444972420,
+      "blockTime": 1788754678,
+      "preRaw": "1496930",
+      "postRaw": "1518761",
+      "verifiedCreatorFeeRaw": "21831",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "240c0275b19560f4f205d4ea4400244dbf65156cacb37636f1161ffccb01f166",
+          "topLevelInstructionIndexes": [
+            4
+          ],
+          "candidates": 1,
+          "feeRaw": "21831",
+          "actualTransferRaw": "21831",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4Nyi9CzdjZkPM69v1a9W7kiDBZBum6Wx8jRHWaZ2atnDQCbjvzbco8G2rXqYYxc69ctkg22CkLKr3kooSYLYab9w",
+      "slot": 445121504,
+      "blockTime": 1788801909,
+      "preRaw": "1518761",
+      "postRaw": "1532998",
+      "verifiedCreatorFeeRaw": "14237",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "f3ebb44001e4cc224891f884a900a9e399e5ad0b8a2524e7cadaec1b0690c145",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "14237",
+          "actualTransferRaw": "14237",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "31wHuinyZDYer469wkCaUppTcaTdSWovekJkTVd8s1u8Q2HVCr6dUFE77ZTMN2CWQ8yXJVoiR7UMfmFHYTKiTCov",
+      "slot": 445222423,
+      "blockTime": 1788833829,
+      "preRaw": "1532998",
+      "postRaw": "1678845",
+      "verifiedCreatorFeeRaw": "145847",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "ff96ad58fa54e083d6e46e834dcc4ea78999556ecd7829512ee2bd90020894dc",
+          "topLevelInstructionIndexes": [
+            4
+          ],
+          "candidates": 1,
+          "feeRaw": "145847",
+          "actualTransferRaw": "145847",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "MKgqYY3aoXx55dnJ2PQe7cHie2LMhC9bXK1vYgKZpjqVdedDWoNEz6PAh8PT5e455q8RReJebWUo9acizm8aYpr",
+      "slot": 445710670,
+      "blockTime": 1788988536,
+      "preRaw": "1678845",
+      "postRaw": "1679599",
+      "verifiedCreatorFeeRaw": "754",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "3a91bfa67a65584f9f256df98ee029ffa9cf425e240a18835ea80d352606af13",
+          "topLevelInstructionIndexes": [
+            5
+          ],
+          "candidates": 1,
+          "feeRaw": "754",
+          "actualTransferRaw": "754",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "i6yVdmMUWELyvqirm8LvBUyRrS6dLnFcd1KvBrS7JpEr54iBmEN2beAgnStLC7ZR2Ax57ECXKoNHhiaHR2MiVpq",
+      "slot": 445748002,
+      "blockTime": 1789000381,
+      "preRaw": "1679599",
+      "postRaw": "1694819",
+      "verifiedCreatorFeeRaw": "15220",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "fc1968eeb7c4619cd85bb71d7417e03a0e7cefd4c7922c59807bd793a1127cdf",
+          "topLevelInstructionIndexes": [
+            4
+          ],
+          "candidates": 1,
+          "feeRaw": "15220",
+          "actualTransferRaw": "15220",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3k7yKqiVXoMMLwGqrACkF8CoQy8cVLyN51iQJUMLtVLkC4xrscicPtxSJTJ8yBWeYx994L1eXSnyPzig8FNu1jk7",
+      "slot": 446224112,
+      "blockTime": 1789151011,
+      "preRaw": "1694819",
+      "postRaw": "1699511",
+      "verifiedCreatorFeeRaw": "4692",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "b8805f6b0bf5a6ee3a102684b907640377577dfb291afd3532da8abe8256a9a3",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "4692",
+          "actualTransferRaw": "4692",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "2tFU3ZdQXjCvEgA7TFSffYJm3qKPNKSooAfamoUsUMjoT8saTkwLups2cVjCpMoyL2ZMjpiqsb356UyhJxK3jzDa",
+      "slot": 447181900,
+      "blockTime": 1789453813,
+      "preRaw": "1699511",
+      "postRaw": "1724419",
+      "verifiedCreatorFeeRaw": "24908",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "d721afdf760aa10d4b24aca511bdea39285b3e6a15d741c107c75f81869ab224",
+          "topLevelInstructionIndexes": [
+            3
+          ],
+          "candidates": 1,
+          "feeRaw": "24908",
+          "actualTransferRaw": "24908",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "32W9N7FmDX2jSANJuopNU8AMHUuNwaBApo2VrbXxYZiN14DTmgYXNWxDaFrg2h2F7PQMtQagbksfxxZLngErnn22",
+      "slot": 448100439,
+      "blockTime": 1789738998,
+      "preRaw": "1724419",
+      "postRaw": "1724420",
+      "verifiedCreatorFeeRaw": "1",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "2b7014fabf261f69efa2d00b8e5c27ddfd955ed048d0f5caf3d8dfc665e4ba37",
+          "topLevelInstructionIndexes": [
+            4
+          ],
+          "candidates": 1,
+          "feeRaw": "1",
+          "actualTransferRaw": "1",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3mqNdMW6FjEPL7KbKeXTmV88GxLwj9DjbXYT2z3k6BRg7xGbWNHjgKTnZ98AMFkRoJHBgkkD9GUJE6vkRVPooKWX",
+      "slot": 448844424,
+      "blockTime": 1789937430,
+      "preRaw": "1724420",
+      "postRaw": "1732771",
+      "verifiedCreatorFeeRaw": "8351",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "502f41449e03a59862bfbd134bd07e81374707003788514fe4ca92df7c9d7c21",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "8351",
+          "actualTransferRaw": "8351",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3FKAyACAeDa7An1f9FpZtzxP7cjtca4ugMeE3dnA1bnC9m4EWW4kVeECRn9Cvh4k5gJc4Byzi6oqcf17rmYFcjSz",
+      "slot": 448869340,
+      "blockTime": 1789944094,
+      "preRaw": "1732771",
+      "postRaw": "1737691",
+      "verifiedCreatorFeeRaw": "4920",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "699370f7a1f1d21cc552c47583b282af7fba68c39c141a867d625c8f80875d6c",
+          "topLevelInstructionIndexes": [
+            3
+          ],
+          "candidates": 1,
+          "feeRaw": "4920",
+          "actualTransferRaw": "4920",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4X6k7Nbb5yWo5k9gcDha6BQHBMaCznk7GbZxRXPZ1WpggeseGkXzjuT1a4vJM8UsxisJZUTpUdbDWcZN9dEKXu8v",
+      "slot": 449050013,
+      "blockTime": 1789992265,
+      "preRaw": "1737691",
+      "postRaw": "2340755",
+      "verifiedCreatorFeeRaw": "603064",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "4a3381632ae1137b6c7e71ed9519390b7a1c3c1862256640d239af6989f3ff50",
+          "topLevelInstructionIndexes": [
+            6
+          ],
+          "candidates": 1,
+          "feeRaw": "603064",
+          "actualTransferRaw": "603064",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "GYXqfmvmP96TPkj18xV1pTPLhV8jxRMXBgLwNe3radRHH43RY5suMsb36RCgZTU9pC48EX7ZQTiNG12zGXzYFH4",
+      "slot": 449381797,
+      "blockTime": 1790080870,
+      "preRaw": "2340755",
+      "postRaw": "2344755",
+      "verifiedCreatorFeeRaw": "4000",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "6bf88f0f717484cb09062a33a90e9899b1ea34fa783f062ea856e1543a33b780",
+          "topLevelInstructionIndexes": [
+            4
+          ],
+          "candidates": 1,
+          "feeRaw": "4000",
+          "actualTransferRaw": "4000",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5iDRXhLUXjbX3dedfXJwjYzeJCNQoAqpjpCePzznbnBBvdLojy9q5BKXZXwUdnSGTmJEdhFpCfzkVse7GwwRDJC6",
+      "slot": 449509615,
+      "blockTime": 1790115110,
+      "preRaw": "2344755",
+      "postRaw": "2345301",
+      "verifiedCreatorFeeRaw": "546",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "2944a02677007226e2cb8ec45f2a607f1e6cac2805b64e9deaabdcc875b19da0",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "546",
+          "actualTransferRaw": "546",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "FS5rqrBeTQV7Uk33jiNHmy9Qf3Qs1ZE2NGFvevyio3kuso23zuxpu45xeuQBztqUppXemKYMRxR2n9vJmMRc2Du",
+      "slot": 449582939,
+      "blockTime": 1790134591,
+      "preRaw": "2345301",
+      "postRaw": "2369346",
+      "verifiedCreatorFeeRaw": "24045",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "9ae996bdf35fcf5e72f8545e54f544de209601d60586fcb84a056a0448a4a0d2",
+          "topLevelInstructionIndexes": [
+            4
+          ],
+          "candidates": 1,
+          "feeRaw": "24045",
+          "actualTransferRaw": "24045",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3JLg8QvPg9G3d6h2NTJUNx8Qc4m9TTQrGPp7VhBXGp16EzR34km9kS2Jz1CyAmmEPtcpgwG1bTXYXWmx1JEtfsx6",
+      "slot": 450546975,
+      "blockTime": 1790391455,
+      "preRaw": "2369346",
+      "postRaw": "3036609",
+      "verifiedCreatorFeeRaw": "667263",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "9973787eb1a6b3ce775ca338293f2a69583dc12741298fb00d901eee4be11601",
+          "topLevelInstructionIndexes": [
+            3
+          ],
+          "candidates": 1,
+          "feeRaw": "667263",
+          "actualTransferRaw": "667263",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4qVJDcSMN2s3RYHKn8w7bXjknxVZJLukWxGmFjbjRu9kc2QwTj1JnBJdrq8nd8SUeMFqRbazzMMJ88HtnQWsAb2W",
+      "slot": 452518898,
+      "blockTime": 1790919740,
+      "preRaw": "3036609",
+      "postRaw": "3045252",
+      "verifiedCreatorFeeRaw": "8643",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "7b577fe6824c0f2e3b9d6f8745662d47831623c706b8819320b35a044ca18223",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "8643",
+          "actualTransferRaw": "8643",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "588HHV3kKCVcTgojZhKJcKGxfeEqNK2jvmidypLoHwidYN119HgpTRQ9TC3Xosu4VkpKZHBbHeDbjeSGz2n4GsxX",
+      "slot": 454470590,
+      "blockTime": 1791442641,
+      "preRaw": "3045252",
+      "postRaw": "3056375",
+      "verifiedCreatorFeeRaw": "11123",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "31b5bb8ca684f720dd01937680c7fdece09ed2f95064149a62b1e4fcf760c69f",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "11123",
+          "actualTransferRaw": "11123",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "jGpnXB8ATzx8Ns6eNGjrwkPAvcFAtHXHxHM7LECMH28YF9mZYcH8UQS6JCCZYXQiS1ChgV7nkAvi5VkqSiT3UeC",
+      "slot": 454833528,
+      "blockTime": 1791540095,
+      "preRaw": "3056375",
+      "postRaw": "3083016",
+      "verifiedCreatorFeeRaw": "26641",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "daa40982b41cd64a8c5d3403b4ed031c609768802a016691d3d62b2ac9a1dd4e",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "26641",
+          "actualTransferRaw": "26641",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4EqSMv9qCr7978ZecJshk59icGcLj1iGdd4RDksjUEpFpH4eaQr568hAeekwJrVksWr5nLSe1HZvM3y7QEYn3Aso",
+      "slot": 454835270,
+      "blockTime": 1791540563,
+      "preRaw": "3083016",
+      "postRaw": "3118842",
+      "verifiedCreatorFeeRaw": "35826",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "b70272af04f90d0f366ba62333f630e81da1ac6998ee50c8db6391f0221b5331",
+          "topLevelInstructionIndexes": [
+            3
+          ],
+          "candidates": 1,
+          "feeRaw": "35826",
+          "actualTransferRaw": "35826",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "67QjZn7is4hc5GnkqkUfapVd8X77LXYXqKPZRrNqQDWh2FYiRi3oJQSEYHy1T8NQ2rVYebvvocvUVAKXJtKXhAvg",
+      "slot": 455325593,
+      "blockTime": 1791650635,
+      "preRaw": "3118842",
+      "postRaw": "4063471",
+      "verifiedCreatorFeeRaw": "944629",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "f155168a0db01a3689ff809ca687e11cdf853da887267d344a1c016da5f8de56",
+          "topLevelInstructionIndexes": [
+            4
+          ],
+          "candidates": 1,
+          "feeRaw": "944629",
+          "actualTransferRaw": "944629",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5ZGtHrejov7gcXf7DPGPL1zmLQUGbjvKadfZoCmJJJraBgyBEkVts5PpcdFeGaV8XVnvPaeJMtruVgFiMNHThZnp",
+      "slot": 455919670,
+      "blockTime": 1791780365,
+      "preRaw": "4063471",
+      "postRaw": "4195994",
+      "verifiedCreatorFeeRaw": "132523",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "5c781b5ca8d1d093afdacb72b28156601edf9b3ae6754786a57a767e64e66069",
+          "topLevelInstructionIndexes": [
+            3
+          ],
+          "candidates": 1,
+          "feeRaw": "132523",
+          "actualTransferRaw": "132523",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "kcf398kVojGKEUE5sP4Z5CwGgAfuSbpumwo9SjRsumwHnwipDHFFUcJ4hJ2GWBgnLeNgLWobHDBeTCRri8RBXop",
+      "slot": 456076031,
+      "blockTime": 1791814485,
+      "preRaw": "4195994",
+      "postRaw": "4210952",
+      "verifiedCreatorFeeRaw": "14958",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "0dbbf1a5eaf1ee019b0645b2bc9ea16d26cae67fff7218bc341f4fe7ed608923",
+          "topLevelInstructionIndexes": [
+            4
+          ],
+          "candidates": 1,
+          "feeRaw": "14958",
+          "actualTransferRaw": "14958",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    }
+  ]
+}

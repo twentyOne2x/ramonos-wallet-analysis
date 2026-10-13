@@ -1,0 +1,33 @@
+{
+  "address": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+  "githubNumericId": "12810712",
+  "cutoff": 1791908699,
+  "cutoffUtc": "2026-10-13T16:24:59Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "transactionCount": 2,
+  "terminal": true,
+  "claimEventCountAllAssets": 0,
+  "nativeClaimEventCount": 0,
+  "nativeClaimedLamports": "0",
+  "distributionCount": 2,
+  "nativeMintAttributionReconciled": true,
+  "initialFundingLamports": "2136720",
+  "terminalNativeBalanceLamports": "12914926",
+  "unexplainedNativeMovements": [],
+  "pendingNativeByMint": {
+    "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump": "10778206"
+  },
+  "ramonosUnclaimedNativeByMint": {
+    "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump": "10778206"
+  },
+  "otherLauncherUnclaimedNativeByMint": {},
+  "ramonosUnclaimedNativeLamports": "10778206",
+  "errors": [],
+  "failedChecks": [],
+  "limitations": [
+    "Single direct GitHub destination; UsePaid downstream developer settlement is unknown.",
+    "Only exact mint-tagged native transfers are fee income; initial account funding excluded.",
+    "Replayed to exact cutoff; upstream custody snapshot is separate and not atomic."
+  ]
+}

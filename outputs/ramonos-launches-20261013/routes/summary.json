@@ -1,0 +1,163 @@
+{
+  "launchCount": 277,
+  "otherPlatformCount": 2,
+  "totalCensusLaunchCount": 279,
+  "categories": {
+    "ordinary creator wallet": 258,
+    "ordinary wallet sharing": 13,
+    "GitHub social sharing": 2,
+    "native donation sharing": 1,
+    "holder rewards": 3
+  },
+  "socialBeneficiaryCount": 2,
+  "githubBeneficiaries": [
+    {
+      "address": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+      "bump": "255",
+      "version": "1",
+      "user_id": "12810712",
+      "platform": "2",
+      "total_claimed": "0",
+      "last_claimed": "0",
+      "total_stable_claimed": "0",
+      "isUsePaidIntermediary": false,
+      "nativeLifetimeClaimedLamports": "0",
+      "aboveRentLamports": "11355366",
+      "tokenCustody": [
+        {
+          "mint": "So11111111111111111111111111111111111111112",
+          "ata": "5fMiYsRo69FNLH117jcvw4aNvEwYY57zQdUDAaxMrHCQ",
+          "raw": "0"
+        },
+        {
+          "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "ata": "CPEDGD4Rp7ZoaZfDRJwbmTi4VhcfaNvHqzDMTCkZ3R6e",
+          "raw": "0"
+        },
+        {
+          "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+          "ata": "6uUphRsFxzhZYckKrfN4gCK1iZjXmtmtTWi1VzBzr1Bk",
+          "raw": "0"
+        },
+        {
+          "mint": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+          "ata": "9LiaV8occ4srULka4R9MmMP5AH2PujBFiko1Q3RdZ7SR",
+          "raw": "0"
+        },
+        {
+          "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+          "ata": "6rurVXXk7eLwo3VNaMLaefmYfwJ3Vr3Hu56yv433iF1p",
+          "raw": "0"
+        },
+        {
+          "mint": "Xs3eBt7uRfJX8QUs4suhyU8p2M6DoUDrJyWBa8LLZsg",
+          "ata": "2ZFyHHWb4k943axexM42KykscnPBA77KLLDXnQB2F3sP",
+          "raw": "0"
+        }
+      ],
+      "slot": 456506067,
+      "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+      "counterScope": "All beneficiary lifetime mints; not Ramonos attributable."
+    },
+    {
+      "address": "FfLpuH4WPn2MR8Lqn1MpwQc1HtAPPqL3qvMWZjnFHGpv",
+      "bump": "254",
+      "version": "1",
+      "user_id": "322216527",
+      "platform": "2",
+      "total_claimed": "52313813492020",
+      "last_claimed": "1791908452",
+      "total_stable_claimed": "19555437862363",
+      "isUsePaidIntermediary": true,
+      "nativeLifetimeClaimedLamports": "52313813492020",
+      "aboveRentLamports": "2127933",
+      "tokenCustody": [
+        {
+          "mint": "So11111111111111111111111111111111111111112",
+          "ata": "7qCKyqLLUZQRJTzyLwd9vUfdDsGhNgSSwBXk8Y4A9rZA",
+          "raw": "0"
+        },
+        {
+          "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "ata": "AkydmPiB4ZaxC41uC9Ui7imornMKYRGFwzGyqgJMWrrC",
+          "raw": "0"
+        },
+        {
+          "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+          "ata": "298bBN5RGXQ1NtnDMv7kFuGCaJfE18oboorzfHPNF5Vp",
+          "raw": "0"
+        },
+        {
+          "mint": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+          "ata": "9f2dC29BzQZpbTnQh3qnwPQcvnBHR9Hi5p59wWqV6q2K",
+          "raw": "0"
+        },
+        {
+          "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+          "ata": "ECS6K1VXrWdLWHDpsPJF1EAnEJK197e18Et7Ezahqz5w",
+          "raw": "0"
+        },
+        {
+          "mint": "Xs3eBt7uRfJX8QUs4suhyU8p2M6DoUDrJyWBa8LLZsg",
+          "ata": "3rUjZowPTn5Jo7aTfu2k9JxDp1yaz7wDYh7ASdvog6CM",
+          "raw": "0"
+        }
+      ],
+      "slot": 456506067,
+      "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+      "counterScope": "All beneficiary lifetime mints; not Ramonos attributable."
+    }
+  ],
+  "captureStartedUtc": "2026-10-13T16:22:04.503531+00:00",
+  "captureCompletedUtc": "2026-10-13T16:22:38.928374+00:00",
+  "slotMin": 456505923,
+  "slotMax": 456506077,
+  "failedChecks": [],
+  "gaps": [],
+  "rentParameters": [
+    5080,
+    1.0,
+    50
+  ],
+  "limitations": [
+    "Current finalized route snapshot spans slots; census historical cutoff separate.",
+    "Lifetime beneficiary counters pooled across mints; not creator-attributable.",
+    "Vault balances may include arbitrary funding; custody not proven fee revenue.",
+    "Missing current layout flags/counters remain null.",
+    "UsePaid onward settlement unknown.",
+    "Ordinary creator vaults can be shared across many mints: deduplicate by vault/address/quote before any custody sum.",
+    "Legacy active holder flag absent is null; ordinary routing relies on actual creator identity and current available flags."
+  ],
+  "activeConfigAdminRevocationCounts": {
+    "False": 7,
+    "True": 9
+  },
+  "activeHolderFlagUnknownCount": 5,
+  "idlHead": "639b87fb45c3adeffa6f7c4a1bf0cb85e392bf22",
+  "censusCutoffUtc": "2026-10-13T16:19:01Z",
+  "nativeDonationRecipients": [
+    {
+      "address": "2ynXCyMhLwY8i61jXyvL7Nd3y8ZAMN6oWER9sB32kyqW",
+      "exists": true,
+      "owner": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+      "lamports": "1757680",
+      "dataLength": 218,
+      "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+      "slot": 456506067,
+      "type": "DonationFeePda",
+      "dataSha256": "6059d5ec1893e562e4072e3edea0bd801ab8da71e0fbbe1f94bd01218e42a3f7",
+      "decoded": {
+        "bump": "255",
+        "version": "1",
+        "config_id": "7k32zcLbYfTVNsU8iyNXK75KzMEieJYp1DgFYayXzdCY",
+        "base_mint": "ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump",
+        "quote_mint": "So11111111111111111111111111111111111111112",
+        "creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "total_donated": "76046447",
+        "last_crank_ts": "1791241188"
+      },
+      "missingTrailingFields": []
+    }
+  ],
+  "uniqueCurrentVaultCustodyCount": 24
+}

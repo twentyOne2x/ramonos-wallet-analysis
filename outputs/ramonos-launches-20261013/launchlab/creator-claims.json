@@ -1,0 +1,40 @@
+{
+  "coverage": "Retained complete original creator transaction census; per creator+quote fee vault withdrawals are not mint-specific",
+  "uniqueTransactionsScanned": 32798,
+  "claims": [
+    {
+      "signature": "3eJARFuPywa3QeeZin9iggRcbCRFZsvwFQuSEC1cziDbr7QpWvNUCEMBAf2TrNnQTcbqLoFU5EPr2HGcTbUWjz2F",
+      "slot": 390940140,
+      "blockTime": 1767402333,
+      "utc": "2026-01-03T01:05:33Z",
+      "successful": true,
+      "roles": {
+        "creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "fee_vault_authority": "9sHpTfmVpCfP2zexRNK6j38NBchMv1RWpdXPK5NEcZan",
+        "creator_fee_vault": "51JEYVzpwQZJvFHyxyUBz8djtJcBKGkmNDewY5vAFNCK",
+        "recipient_token_account": "3GeUpU1kWsWrwroemMreE5czDBkRTKN7VR2ypakXbrM5",
+        "quote_mint": "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
+        "token_program": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "system_program": "11111111111111111111111111111111",
+        "associated_token_program": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL"
+      },
+      "matchingTransfers": [
+        {
+          "authority": "9sHpTfmVpCfP2zexRNK6j38NBchMv1RWpdXPK5NEcZan",
+          "destination": "3GeUpU1kWsWrwroemMreE5czDBkRTKN7VR2ypakXbrM5",
+          "mint": "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
+          "source": "51JEYVzpwQZJvFHyxyUBz8djtJcBKGkmNDewY5vAFNCK",
+          "tokenAmount": {
+            "amount": "22389774",
+            "decimals": 6,
+            "uiAmount": 22.389774,
+            "uiAmountString": "22.389774"
+          }
+        }
+      ],
+      "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0012.json",
+      "rawSourceSha256": "4fceebfe5d862d4dfd19d4dd16abcef22992a5c0b9b3df9f9c8ecece75945a5a",
+      "recipientCanonicalCreatorAtaValidated": true
+    }
+  ]
+}

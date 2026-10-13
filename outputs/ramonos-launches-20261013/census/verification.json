@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "pages": 34,
+  "transactionCount": 32798,
+  "uniqueSignatures": 32798,
+  "distinctLaunchMints": 279,
+  "allLaunchedMintsSigned": true,
+  "successfulOnly": true,
+  "ascendingOrder": true,
+  "rawResponseHashesVerified": true,
+  "terminalPage": {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0033.json",
+    "count": 0,
+    "cursorIn": "456504428:73",
+    "cursorOut": null,
+    "firstUtc": null,
+    "lastUtc": null,
+    "sha256": "abd38ce8ef91eff014c0fb955cf12917d8288778b4dc011defbe813970aa2925"
+  },
+  "feeRoutingEventCount": 179,
+  "decodeErrors": [],
+  "tokenInstructionCounts": {
+    "parsedTokenInstruction": 133897
+  }
+}

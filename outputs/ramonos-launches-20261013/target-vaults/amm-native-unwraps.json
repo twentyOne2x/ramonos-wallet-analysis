@@ -1,0 +1,2726 @@
+[
+  {
+    "name": "PsyopCartoon",
+    "mint": "DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump",
+    "cfgAta": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+    "cfgAuthority": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+    "nativeVault": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+    "unwrapCount": 94,
+    "unwrapTransferredRaw": "210485860796",
+    "allVerified": false,
+    "rows": [
+      {
+        "signature": "3JrJoCaYjksSAeqCrnQcPRPJ9w9K2KCCWWTjJKx1GPqBUXE6FFBYZQgSoFER8uJnaNMxVP3uNJijyi1kkfaFPpsa",
+        "slot": 393541510,
+        "blockTime": 1768432208,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "28702208879",
+        "nativeTransferredLamports": "28702208879",
+        "preAtaLamports": "28704248159",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 28702208879,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3MSBe4cPqeMN6fvFyJvt9pe5wAuEE2Pmyq3DiHQQzcxvZAVABnTcMVMEwzcYrhgJpYd1PU1mqUnBwqGH3U5qKoLt",
+        "slot": 393586160,
+        "blockTime": 1768449880,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "17147488460",
+        "nativeTransferredLamports": "17147488460",
+        "preAtaLamports": "17149527740",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 17147488460,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3DhL9TZGr3Q7vFCep3fKKds65yfVNzRcD2D2ifRxGVYMiKE7iPsjWfkhaHixeUQiR9bcUfSYvdYNhGcKXzDFEGB2",
+        "slot": 393594523,
+        "blockTime": 1768453188,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "4363941252",
+        "nativeTransferredLamports": "4363941252",
+        "preAtaLamports": "4365980532",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 4363941252,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "28JQjWS1ZE8qnN9euH9nkVhBqLKtR1EE9M1oCL6zV7W2j8Euu7uKUPLadg2y8wwRBMVFPSdtieuojLhAVqSGyUDy",
+        "slot": 393597100,
+        "blockTime": 1768454206,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "905166505",
+        "nativeTransferredLamports": "905166505",
+        "preAtaLamports": "907205785",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 905166505,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3W2dyssS6uRErpZYhSeFCgpNAFW1NhFYNzt4UWZ4AWAcSXi4fCSx7EemTcmGDehNuJrodhT98NTbsXbvx26wUes3",
+        "slot": 393599632,
+        "blockTime": 1768455202,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "503126057",
+        "nativeTransferredLamports": "503126057",
+        "preAtaLamports": "505165337",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 503126057,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "5HoYeEBPhrae4ToEUos9g4BEyQnA6EwBaJgsXwuxPBYZpCWrdMzf4DKqJRJbiXSnD7Xd32AjDuWingpo6B6Xsmv7",
+        "slot": 393601263,
+        "blockTime": 1768455844,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "372649779",
+        "nativeTransferredLamports": "372649779",
+        "preAtaLamports": "374689059",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 372649779,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "KsV78W5AmdiVNWXQpwxr2LheGAvZe6AxcQCQJnwQ8SgN7Zr3DwbkbScRd5JdbPVTPNWWZUmvZAtwmqAE1QbcMtp",
+        "slot": 393602587,
+        "blockTime": 1768456369,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "438163019",
+        "nativeTransferredLamports": "438163019",
+        "preAtaLamports": "440202299",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 438163019,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "c93zXwBdiZ5xxkb12LPfNH6kxEat7gYvNfHxLiHs8knZpFDvmDEbuFHTdfEjzUWTjW8gj3i1Q2fXA6JjEx8MMEL",
+        "slot": 393603384,
+        "blockTime": 1768456679,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "254278310",
+        "nativeTransferredLamports": "254278310",
+        "preAtaLamports": "256317590",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 254278310,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4RU4juLwi7tx3jN5JTXVknU2Qxtc1RdfC83PbNPnZ8zzH2sJ7PCZBvVZUvzz742Uki1F5tnn9h527Ss99VFDk5FU",
+        "slot": 393605617,
+        "blockTime": 1768457563,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "287848648",
+        "nativeTransferredLamports": "287848648",
+        "preAtaLamports": "289887928",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 287848648,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "wt4dh35yEMZpXmknB5GzAbSEBqWkE7ReHNf7vjuJEBB1r85z7uxqpaHEn9cKwS6EK1WQ8cHeNtPnF1RGVAmKm62",
+        "slot": 393608048,
+        "blockTime": 1768458526,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "343135343",
+        "nativeTransferredLamports": "343135343",
+        "preAtaLamports": "345174623",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 343135343,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3VKQCBNxWzQXoBgMsVJp4dFtVJgLtZ3soD3AqjktMdkQZzoCDvXzR7pxck22ch63oYjsy4mivTbdp8XJt5ATXyth",
+        "slot": 393610383,
+        "blockTime": 1768459454,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "297352125",
+        "nativeTransferredLamports": "297352125",
+        "preAtaLamports": "299391405",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 297352125,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "5Mb1SN2jB1LZejFHscDN5nySZX1BMMFrwMyeFTYFRRmNKzjDwnMXEt3HsZhfvGotXnonBW8qiVGFqpEpL8dB4Kjb",
+        "slot": 393611539,
+        "blockTime": 1768459912,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "135319632",
+        "nativeTransferredLamports": "135319632",
+        "preAtaLamports": "137358912",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 135319632,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3b5daN4TMrVjT553cuNZsoux3S3Wz5ZEBmW1U6xg2nWcAr12vrvAfMyVUrQhCagmkCBZDXuttSWbWVPaZC4rmew4",
+        "slot": 393612939,
+        "blockTime": 1768460470,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "300880690",
+        "nativeTransferredLamports": "300880690",
+        "preAtaLamports": "302919970",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 300880690,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "2gVbWHJLQkpzhM87twKYm616n4tERaL6rrw5TWsYmsHchUxAcdrjSSyi3LaG4GBSx1GrSea1p88CED9dYjnvTJAW",
+        "slot": 393614960,
+        "blockTime": 1768461268,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "393448127",
+        "nativeTransferredLamports": "393448127",
+        "preAtaLamports": "395487407",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 393448127,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "5gPeYYY6pncZnmmidjA3ZiXHjMVfGmdi7eGuSnBGUUhCppxNdZTZqrgx2TEuCi1drh2NczBdmrqwX9YoXbvPvX3K",
+        "slot": 393617663,
+        "blockTime": 1768462332,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "337701769",
+        "nativeTransferredLamports": "337701769",
+        "preAtaLamports": "339741049",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 337701769,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4oYvQxE2gB4d92E7zzRGcGTvAmgWSSjwhcDoapkr7h6C8vFMVE8bMKFVeQFft2JpjT7G9MrYEnN7dDYg3CquiuZF",
+        "slot": 393618916,
+        "blockTime": 1768462829,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "837847287",
+        "nativeTransferredLamports": "837847287",
+        "preAtaLamports": "839886567",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 837847287,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "2P4CHAVZSxkDZmoFkD7PJLLmagDCTVxEAnycqTvwJUpivAx3X9ck5fWwnvBRwS4q3TZXazYuC6rfvkVwGsYFf33V",
+        "slot": 393619853,
+        "blockTime": 1768463196,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "387791738",
+        "nativeTransferredLamports": "387791738",
+        "preAtaLamports": "389831018",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 387791738,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "D5npPwaEBAhEN6sTfvuycY1dAUXuUrGjLynBT8xtAf1DD11twujUzKhJe1HkfZEK2Sw8AWTtX6xr7AY5T4o5Rft",
+        "slot": 393620467,
+        "blockTime": 1768463438,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "411748168",
+        "nativeTransferredLamports": "411748168",
+        "preAtaLamports": "413787448",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 411748168,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4U4YdgZC5rfkn9qQUB7auTu9dbCEeR7WjvQ3226XZYPQBQywe3cmjUgEgASyuAqVHAfcawxRaoeDnPvFK9bxEEVi",
+        "slot": 393620846,
+        "blockTime": 1768463588,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "92029606",
+        "nativeTransferredLamports": "92029606",
+        "preAtaLamports": "94068886",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 92029606,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "vRwV8p15K8BydgzA4owgabVWxoTFMKekRNLrtShn84FuFXEsPnYzqcSRzqEFA3nfrL7drMywGePwnLshbjCHxFr",
+        "slot": 393622473,
+        "blockTime": 1768464233,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "729525039",
+        "nativeTransferredLamports": "729525039",
+        "preAtaLamports": "731564319",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 729525039,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4c617AV1pzUNz3TBsUMECmLXoGEFUY1tqkRRFpwij3MsbLvhSiUB8VccgSr68yjxzfGP5V4tCKQajjEkhKuTQ6vZ",
+        "slot": 393623312,
+        "blockTime": 1768464565,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "560284123",
+        "nativeTransferredLamports": "560284123",
+        "preAtaLamports": "562323403",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 560284123,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "KjCfcGhu5yrYEtSyrqjpPx1Jrun71TVAf3KR5BL6DMPwjavbLKvvoo5UxZx4ALt1QDRJRcvjdXwBS25YRnhuzyG",
+        "slot": 393624188,
+        "blockTime": 1768464907,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "404571283",
+        "nativeTransferredLamports": "404571283",
+        "preAtaLamports": "406610563",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 404571283,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "DJetHihmJsTXZ6p3cw1LViCimos8Qm8AnFScUr1Ceke1jgiRWztd1wB6VaykwtCJkC7uFTGWbYpAw9TPwsJ4fQy",
+        "slot": 393624882,
+        "blockTime": 1768465180,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "162633375",
+        "nativeTransferredLamports": "162633375",
+        "preAtaLamports": "164672655",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 162633375,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3UGncJg6G7UBbjw3MsdB19DndLMgsk5gXWTYmzfto8fbfLm2WGUphwirzmqcztGTNwDTNwzzzqckYzZXCB9DLV2c",
+        "slot": 393625948,
+        "blockTime": 1768465601,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "204627734",
+        "nativeTransferredLamports": "204627734",
+        "preAtaLamports": "206667014",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 204627734,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "Wj4AQdmXFNR4UWvgCzuQfuo7PKfiQUnRF5cuVuHysHH3us5vQEZvjV2TsBJEYN3gLmVNPt4ahth7LFdDcUC7KnA",
+        "slot": 393627068,
+        "blockTime": 1768466041,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "387074849",
+        "nativeTransferredLamports": "387074849",
+        "preAtaLamports": "389114129",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 387074849,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3K5crZhhU1ZoEUHdoWmXUVkyq76px9j5UTFajf2BnsC4NJXXVkVZfY97Cg5oHEyhyp1BBSMakCuU2qiEgLsMp4eV",
+        "slot": 393628103,
+        "blockTime": 1768466453,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "893085227",
+        "nativeTransferredLamports": "893085227",
+        "preAtaLamports": "895124507",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 893085227,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "17McsWBUqiJaWsy19kCgRrj4oYQMwnLKNttt6cWMGUTTtv8TB7UzB8ZZTkrkZWY4QFut4ABDG1ySFjvSqRDNfKL",
+        "slot": 393629274,
+        "blockTime": 1768466915,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "969535795",
+        "nativeTransferredLamports": "969535795",
+        "preAtaLamports": "971575075",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 969535795,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "46cTXZjnJxSDDWa5mcctHcjebyFVDDMSZz7ce2KNkE4hQU4AVyiYpUdSGL6BUa56x42T41puDnPJS1jUbc5uQEEr",
+        "slot": 393630000,
+        "blockTime": 1768467199,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "685681612",
+        "nativeTransferredLamports": "685681612",
+        "preAtaLamports": "687720892",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 685681612,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "56fUW1d75Lz3hZqYfk9JnnAdLBfDx6ZHV5uBJAmUdJz3YGzbVRjjQLymwr4pHm6AJBYa9U2soaHxJ7yyayvZUaj",
+        "slot": 393630618,
+        "blockTime": 1768467441,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "509187645",
+        "nativeTransferredLamports": "509187645",
+        "preAtaLamports": "511226925",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 509187645,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "34AFqfvyt5PiY5L934HncwXro6H3r719d1zA13CM7sjVu2NtbMv3k7XCi6BzTtXnmCxVknUNBASpoWgThSVqnboE",
+        "slot": 393632396,
+        "blockTime": 1768468140,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "1887859076",
+        "nativeTransferredLamports": "1887859076",
+        "preAtaLamports": "1889898356",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 1887859076,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3a7kJWiBvvT7uWpJDkZhdL7q1R52KEA8u1HZw26323GY4tGZLVugXJwZggJqLUmRE73jBktyUNNdHpxYkyz8MFV6",
+        "slot": 393632878,
+        "blockTime": 1768468330,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "541515210",
+        "nativeTransferredLamports": "541515210",
+        "preAtaLamports": "543554490",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 541515210,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4vN2UwwUsUXX5A2Esyj4K3R8CT7GL44pus2SD2buYBMux9gf6rGqiffg9gxgbHvK8tgkzZJtjGAcyhAfokRQ8RsA",
+        "slot": 393633748,
+        "blockTime": 1768468675,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "1165006455",
+        "nativeTransferredLamports": "1165006455",
+        "preAtaLamports": "1167045735",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 1165006455,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "2d2ufaVwmxuYPqC8CAPjRpd7pLbdSZbtNRC2EHEFGM99o64frd6wSZqSaUmRzCCt46PyfVixvfyZQJdCeCMvyb7S",
+        "slot": 393634334,
+        "blockTime": 1768468905,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "1849860887",
+        "nativeTransferredLamports": "1849860887",
+        "preAtaLamports": "1851900167",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 1849860887,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3XTmBSQCFmZqRRQrYS6XUyd6HuXm4KAorR2jnjf5fZDbjwV6ZDVVDPc3HLRYUcEv8Bujb9YRMpFmbF485A7bcKug",
+        "slot": 393635253,
+        "blockTime": 1768469267,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "1101655557",
+        "nativeTransferredLamports": "1101655557",
+        "preAtaLamports": "1103694837",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 1101655557,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4rTKgK4mRmnwpiW4gyF41ADsp83L23YeqHbmTcvVjWNrkyxch6ssC8E4jKWWTS3L5q6cipzQaNLTfSEz1fE5kjCA",
+        "slot": 393636215,
+        "blockTime": 1768469644,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "930510975",
+        "nativeTransferredLamports": "930510975",
+        "preAtaLamports": "932550255",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 930510975,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "MCmBxuDoRBnxXPJyxc8NhrABiKfCW9cs6vjyoaJbFU4d4bnY9X6SASybvsNrKSPetwY4QTzRSTEqPLxFvtjLjeB",
+        "slot": 393637642,
+        "blockTime": 1768470205,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "1092443639",
+        "nativeTransferredLamports": "1092443639",
+        "preAtaLamports": "1094482919",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 1092443639,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "LjWcZ2WsCAiFKS2XYJFFLejzHyuPi8zBhRVHDqHgeCwXY8P9LKrcrKYkwsUX8j5S6vmuJmSaakSxghdf7f3b1iF",
+        "slot": 393638181,
+        "blockTime": 1768470417,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "143025196",
+        "nativeTransferredLamports": "143025196",
+        "preAtaLamports": "145064476",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 143025196,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3p1rzMKtsuHDwR9UYYC7EB6nFs7S4RHmLpzMRsfkaC9ij8yVEjk2PB6DrAj219cy4cBEqAz4VSfsTtSjgudNpqfC",
+        "slot": 393639029,
+        "blockTime": 1768470752,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "455966900",
+        "nativeTransferredLamports": "455966900",
+        "preAtaLamports": "458006180",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 455966900,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "uwaDw8Q9ngD1XQdjt6WviU3FxdefXgea2NFz4ZnUBWHf4N2X8EUa4iQNfk3WTiWvULVytgNdRy91FF6SoDNkreu",
+        "slot": 393703418,
+        "blockTime": 1768496235,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "52736987792",
+        "nativeTransferredLamports": "52736987792",
+        "preAtaLamports": "52739027072",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 52736987792,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "5c1vqBiFAYAk6n1FXLehL32Aeuj7aB1xdbLrCBXbZETiJataZZjujZ67UDAEUgth1ZdNaQSkcyMD9CKCb5bjMCim",
+        "slot": 393724384,
+        "blockTime": 1768504545,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "15269916000",
+        "nativeTransferredLamports": "15274388970",
+        "preAtaLamports": "15271955280",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 15274388970,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": false,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "5zRYPvBesY7hQDtpwfPvXQAkrzQALY9XZzt3kwzfCwaLgG7s5b3hdsZhUN2t33YjFpKhr9e8QYVe641LQc58NMMu",
+        "slot": 393734963,
+        "blockTime": 1768508737,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "4217117474",
+        "nativeTransferredLamports": "4217117474",
+        "preAtaLamports": "4219156754",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 4217117474,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "nthV8GfGaW4mJYhN4B13R4h2X23g3ceQraq5ggvu7fQnmLpAAmnVcvedA2zbXVUMjKHU3M1MgQgtwCsBxHJPet8",
+        "slot": 393741664,
+        "blockTime": 1768511389,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "4033617095",
+        "nativeTransferredLamports": "4033617095",
+        "preAtaLamports": "4035656375",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 4033617095,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "5smVv1tjjRx6turzJYPaFcYL5UjovrkDjDh4P4DidTYzge5NKCkMy3VNuSb7dtaiUs8ZMrB3AZSpiqGLc4ZvY2R8",
+        "slot": 393802024,
+        "blockTime": 1768535297,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "12215004831",
+        "nativeTransferredLamports": "12216004831",
+        "preAtaLamports": "12217044111",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 12216004831,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": false,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3hVbEzL5nHGExifKuJFpLn1TXtD9smXzdHoxdsxPnmd6gGHWdRJtUQfp7Cth5SS9AJfssP3cV6gyiwkqdh43WHhp",
+        "slot": 393804147,
+        "blockTime": 1768536137,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "1310406659",
+        "nativeTransferredLamports": "1310406659",
+        "preAtaLamports": "1312445939",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 1310406659,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "ckit83w9JoGzbvgZzPCNXxcmo6ExZYGAzFKdyEZoZseTAgFxww4TwNFpqEMwjuUGdFUgoGhQ2GMRJsd2t1mABQ6",
+        "slot": 393807410,
+        "blockTime": 1768537427,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "924700229",
+        "nativeTransferredLamports": "924700229",
+        "preAtaLamports": "926739509",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 924700229,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "Z6K1YT2a693UQg4iriDtAk2hombR6b1VHztMyj4VoVDWSKtGipEyicuysCYAFV5HV7NVgr2Qyhf2acrdVj3fj95",
+        "slot": 393808512,
+        "blockTime": 1768537860,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "586922016",
+        "nativeTransferredLamports": "586922016",
+        "preAtaLamports": "588961296",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 586922016,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "jhrngKbgi9SCPEr5DFzsV96sFNHcibbWH8XCRHsRZLqKW9fPZJMPLBrHxwuPtweKvGGAFjNQTLZxF39Pt5tAn9D",
+        "slot": 393809821,
+        "blockTime": 1768538379,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "1357825879",
+        "nativeTransferredLamports": "1357825879",
+        "preAtaLamports": "1359865159",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 1357825879,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "5Ht2vbrBehE3wWzHzT7JF3sDu1SHVLXF1oj1hmSMg77vYR9kCbcyXYs8ewNjekn6jj6bnTd2vmh9maQePHBKKyNw",
+        "slot": 393810802,
+        "blockTime": 1768538763,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "601836555",
+        "nativeTransferredLamports": "601836555",
+        "preAtaLamports": "603875835",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 601836555,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "2AojahuZ2MkV2VnpdNckaCvFcYSfTRVwcray4ZDAgY3Q9ZemADCbqyQ17qSNdekcCbFzWpLi1GMcWKAsZUvkmtBh",
+        "slot": 393811833,
+        "blockTime": 1768539172,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "229104017",
+        "nativeTransferredLamports": "229104017",
+        "preAtaLamports": "231143297",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 229104017,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3CA4nJB6eQEtKo8C6EyM3xoxhTsrK2GrWCKYdt6Wtd35JoZ7KrPqC4aD9TrTKEgmRn1ZEr5UX8TS9shrDh5LqHom",
+        "slot": 393813796,
+        "blockTime": 1768539953,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "613718186",
+        "nativeTransferredLamports": "613718186",
+        "preAtaLamports": "615757466",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 613718186,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "55TfwWkbj5tnqmkFW1745m856JHy3YvDxc4SdxjJc8ir1LYDEQQLJjiYponm575ncYafoJSrQMkC77AQz7nYE5V7",
+        "slot": 393817470,
+        "blockTime": 1768541412,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "898543636",
+        "nativeTransferredLamports": "898543636",
+        "preAtaLamports": "900582916",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 898543636,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4E4U36zgvztkd7MYs9W2T8D1RxfqzqzzSTzMijAnoHwBD5H7FMWJg5phz1vnF4oNLQuvokwTYSFZvKhkr6vkit4q",
+        "slot": 393819908,
+        "blockTime": 1768542369,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "374435283",
+        "nativeTransferredLamports": "374435283",
+        "preAtaLamports": "376474563",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 374435283,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3mFTDiQ6ZHeG2nSN2e1Zfhok8F6pR2EpedUcEKHKUDM3eJpSvUA5SoqLVzg2kvW3vjpFVoAFadU8oyCC1STEogPK",
+        "slot": 393821570,
+        "blockTime": 1768543024,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "356624896",
+        "nativeTransferredLamports": "356624896",
+        "preAtaLamports": "358664176",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 356624896,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "2cnUtRPCE5Gtys6TTPbfo3Qq3ey75p4HFuKHuQushr4N1wxK6TXjDKAYqAegJJrmreHtxreSFLHobMbsdwb67bn9",
+        "slot": 393822865,
+        "blockTime": 1768543537,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "524916954",
+        "nativeTransferredLamports": "524916954",
+        "preAtaLamports": "526956234",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 524916954,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "2UkjYJY5w9vNztx9EbRxa4L1xVy4N9ccc1LpXEUDprRwbQPQXW7EmzJrFKB52oJgf7taCgZBNHLJYg8kNN7xVqzL",
+        "slot": 393824876,
+        "blockTime": 1768544331,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "497075331",
+        "nativeTransferredLamports": "497075331",
+        "preAtaLamports": "499114611",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 497075331,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4eGByG5dvMr3e3BZfJzVC4yLaVVE7yEjwEoY9sipTD2FJvvncruGqSZU8jJb5kvHNmiHNPZLZs3TsPpsfxiU2BQo",
+        "slot": 393826556,
+        "blockTime": 1768544994,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "380664234",
+        "nativeTransferredLamports": "380664234",
+        "preAtaLamports": "382703514",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 380664234,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "S5cApRgzsuKPUCFfvpJcSuv3bDzQzkNvSNbNcFxBy7mDQZpCrtUDyHf7xwX75quGnmc9152mZAEMRANKsXgrBKr",
+        "slot": 393828346,
+        "blockTime": 1768545699,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "763811478",
+        "nativeTransferredLamports": "763811478",
+        "preAtaLamports": "765850758",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 763811478,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4CDztdTq9tEkgGVR3GEQBShGdj5gQTNAZcqfh7VWZhVc7MdqCD7CmwnFRjGTofySfp2aZ8H5bXTwRAUmLNuLYjHz",
+        "slot": 393829901,
+        "blockTime": 1768546318,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "1158613493",
+        "nativeTransferredLamports": "1158613493",
+        "preAtaLamports": "1160652773",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 1158613493,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "NNwSprqPotygePAoxrT43BHJWuVbsYoupAZtKA7iRaiCYStsztaKza93FTGNxALEJzULn6uyPXjnqAc6mRT35qm",
+        "slot": 393831270,
+        "blockTime": 1768546860,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "543846141",
+        "nativeTransferredLamports": "543846141",
+        "preAtaLamports": "545885421",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 543846141,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4jcnrVwRtzHmiLpSv29jk9FcmW6hvcb59e9uK3NJn9TJcYFBC5Bn6t23TxGM1otPb26pSx4wLua7J33s5asECWi",
+        "slot": 393834378,
+        "blockTime": 1768548089,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "2715549831",
+        "nativeTransferredLamports": "2715549831",
+        "preAtaLamports": "2717589111",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 2715549831,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3fkp5ZE6adaR57fPoq9uaRhCo34UMPofc3CGdzVmQY9mrE8EHfsoJofsob8Yn33H6QSi8Gaeq6j6HFCH4oAz9s3Z",
+        "slot": 393835586,
+        "blockTime": 1768548569,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "612201984",
+        "nativeTransferredLamports": "612201984",
+        "preAtaLamports": "614241264",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 612201984,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4Ke9KGZeih5tXoXTX9SdyoxkRCugtiMhLLPrW8gH1Mfi3XrJ4FVMqnR7vWjUvWtV6a914q4o1xV2VXvVkzMuz6XX",
+        "slot": 393837320,
+        "blockTime": 1768549253,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "814143447",
+        "nativeTransferredLamports": "814143447",
+        "preAtaLamports": "816182727",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 814143447,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3Fgw5V3U6bNCp3dKCBms4nKp5KxwpZj9upYjLejywrEDm1GurAa2mu8m6B6bX7sbysAEHgMhyixvBacqdBkAZ9m6",
+        "slot": 393843125,
+        "blockTime": 1768551559,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "1235234456",
+        "nativeTransferredLamports": "1235234456",
+        "preAtaLamports": "1237273736",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 1235234456,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4SugEHMB7xEbHxZRZukFUKDM9eQ8Z431Q5A3eR5ZWFdLHe1ifEeLFfhrzojLwYa7JnE3xYtV4T7EqWC5KTimPsao",
+        "slot": 393847258,
+        "blockTime": 1768553190,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "672173060",
+        "nativeTransferredLamports": "672173060",
+        "preAtaLamports": "674212340",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 672173060,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4SYnJrnUXyLK7tTATfGkemmeiEyyzXqU3YMkMngqNPymcBoYEza8ynkJyKLT7HZJgwbQpfKGrD3GHiosu9kTYoUN",
+        "slot": 393848208,
+        "blockTime": 1768553568,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "251736887",
+        "nativeTransferredLamports": "251736887",
+        "preAtaLamports": "253776167",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 251736887,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "478h6n9P42YKyiqyqxJTU6kV8r8iBVeLS4aXpgFbXeLQ5Bz7ps2Vecda9jcfYmv7mpRHYC4DYj4kAVFhKJZoZJGa",
+        "slot": 393854070,
+        "blockTime": 1768555888,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "582361473",
+        "nativeTransferredLamports": "582361473",
+        "preAtaLamports": "584400753",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 582361473,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3Uq1ahMpWAHE31m9boHWqfXgEZAL9coNhJ2NsxvWDhYJAphVm8Xn2opWEbgyDH5N9eesaUULgtwzB8mMCh464k4m",
+        "slot": 393857762,
+        "blockTime": 1768557349,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "413479445",
+        "nativeTransferredLamports": "413479445",
+        "preAtaLamports": "415518725",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 413479445,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4JDi7Mr7zweT7D3VUTR9p4Vk53iZz2JHut9ycX56AiiY9yiTdTP8LzyHbyf3pKHHXvJ7Ta9RGsZ2QnZnqi7GjmUz",
+        "slot": 393859989,
+        "blockTime": 1768558230,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "370158694",
+        "nativeTransferredLamports": "370158694",
+        "preAtaLamports": "372197974",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 370158694,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "M9nA6ASQfnzZgVGvPu44Y1EQTYpWry4WZ2uvbht8GfiJrMMpHxvctd9hnKnzgbzMp2TYANhrxFVo3et95afv4QU",
+        "slot": 393862507,
+        "blockTime": 1768559225,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "465668712",
+        "nativeTransferredLamports": "465668712",
+        "preAtaLamports": "467707992",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 465668712,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "5gRY2b9XkJ8wQSpBz4vu9m1TwyNdjbRAi9Rr76gn4CJ7WJ1tALNztZRDjh6bhEuAz7BLvwFuChn5HMnM2YCt3csg",
+        "slot": 393868072,
+        "blockTime": 1768561425,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "622212798",
+        "nativeTransferredLamports": "622212798",
+        "preAtaLamports": "624252078",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 622212798,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3jCeUBRbsawCoWT2VkPmEcADQyXQbr1YY9v81rJAjerHALPVpExwQRZzrRGUCBbHVYq3mAkYFvgczb8c6wnLm4nz",
+        "slot": 393871301,
+        "blockTime": 1768562697,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "746218097",
+        "nativeTransferredLamports": "746218097",
+        "preAtaLamports": "748257377",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 746218097,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "5JNLDgz9LRMMWQhXfjp1QRoDhcE2yf96NEhn4L6DXhhp2oUzn9HKvxsAPQdFbQgbfWdt3a9Aetssp7pjyLThR8DR",
+        "slot": 393873324,
+        "blockTime": 1768563497,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "247927906",
+        "nativeTransferredLamports": "247927906",
+        "preAtaLamports": "249967186",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 247927906,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "5NDTMz1wuoFqZ2jX3GK3pydHWetBDT2oDKXz8mCZqkFxtL1ey6u5w4N5PDTEKtuUfzuhAHarxFuenS6ivjg7BNDL",
+        "slot": 393874782,
+        "blockTime": 1768564074,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "196006592",
+        "nativeTransferredLamports": "196006592",
+        "preAtaLamports": "198045872",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 196006592,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "35JVZYaduPR1E4q52isWj2mRYUdSpBhxje3j2CrsjQWxAYMzvnBqTDzTWWNrgX6XbQ697q2kUVX9HGoreGa7jwez",
+        "slot": 393877660,
+        "blockTime": 1768565210,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "271096709",
+        "nativeTransferredLamports": "271096709",
+        "preAtaLamports": "273135989",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 271096709,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "31CM5f6DtrQbzxctHG5sfpZQiWR2sNrgYCSbBSo9uQgjeVQMBBKSpAcopoZydNgnN2heVXHBeXQZBhLDjFx8Ewx",
+        "slot": 393911063,
+        "blockTime": 1768578403,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "5682131833",
+        "nativeTransferredLamports": "5682131833",
+        "preAtaLamports": "5684171113",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 5682131833,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3RiioojQCk8DxUkpe7tDsbGv66u5bNBaW9ggE4C1EFjo1agefGAKWhNeR8L9Aeb9Bvq7EBXqD6NpFRSzTMJN5ko4",
+        "slot": 393916710,
+        "blockTime": 1768580642,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "1537827210",
+        "nativeTransferredLamports": "1537827210",
+        "preAtaLamports": "1539866490",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 1537827210,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "9hGgmRjuPW5qdLvosNVUcYDNg8FpvbuPcK27A6GvaCFxd16hNfs8RSSPMg97FE1PcwNZm4C1gFAQE8F3omg1vUC",
+        "slot": 393941172,
+        "blockTime": 1768590323,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "2788887830",
+        "nativeTransferredLamports": "2788887830",
+        "preAtaLamports": "2790927110",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 2788887830,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "2VmsR94RHYiEmzBeb9X4pXjwkfJHGTLo3qtR6yUVS7btqvA98M2XuVv2rzdGskHKo1daYfaT4X9YoPvSgHcdufF",
+        "slot": 393954532,
+        "blockTime": 1768595609,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "1616147715",
+        "nativeTransferredLamports": "1616147715",
+        "preAtaLamports": "1618186995",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 1616147715,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "MEVd1kPoVvMzL7EBjcnCfYPe8ow9HeUY7WJRY3qt14Ft2Bhum82ExwH8Fw3rSKEGiPygYWmY7c512kGaRKWWuRu",
+        "slot": 393962141,
+        "blockTime": 1768598612,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "328471653",
+        "nativeTransferredLamports": "328471653",
+        "preAtaLamports": "330510933",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 328471653,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "31igtJiczJzXKFTVLExRs4uQuu2EGDhg9QX6SpAXZn5jGdQBLH7Do4ApdzXwevcKBFPi5YnPaVmmgu3WGxE2XhKv",
+        "slot": 394026728,
+        "blockTime": 1768624205,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "6468618345",
+        "nativeTransferredLamports": "6468618345",
+        "preAtaLamports": "6470657625",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 6468618345,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "5A64VtzbwG4KACSAqfJ8J3BdKjUcSevhVeZ7CGpHKHot9Tx633msPJqCp7R4PhuUR6Y6tJXENEEttKDaCwZXpj4v",
+        "slot": 394045120,
+        "blockTime": 1768631483,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "1650980353",
+        "nativeTransferredLamports": "1650980353",
+        "preAtaLamports": "1653019633",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 1650980353,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "bo8CVj4q9SPHRcq2idFF7fKptqqonnHsKjpxG8B85orvFpSR9QswNsWizcQzH4YguBSAX8xRF8bisw6a9SX19uW",
+        "slot": 394063156,
+        "blockTime": 1768638622,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "1240949021",
+        "nativeTransferredLamports": "1240949021",
+        "preAtaLamports": "1242988301",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 1240949021,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4Aq5MPY6c2XiYub11nHUtBdW1kCPc6CBFXwTQ1tuzvK1nqhYPidxjbR3CE1yRukKWij9uakc9pRBDqBi8v61VSQH",
+        "slot": 394067091,
+        "blockTime": 1768640179,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "305539803",
+        "nativeTransferredLamports": "305539803",
+        "preAtaLamports": "307579083",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 305539803,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "628gYbNyy5eCsWDoQDhiUtJKkAU7KMaQ6VfFuABb2tpAyzHsPZBFZmAKtWXHqXMMU76ApdrJAR1bzs25iLoFn3uD",
+        "slot": 394078993,
+        "blockTime": 1768644890,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "896690885",
+        "nativeTransferredLamports": "896690885",
+        "preAtaLamports": "898730165",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 896690885,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "64RcewoSWyVhqxLaMBvR3cAzBRGANjzWJXCZSheGxaeh7wUpBgbs4iL3GFaSGXGVfX8g9fgGUrmaG5APKwcnJo8d",
+        "slot": 394084694,
+        "blockTime": 1768647136,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "295712266",
+        "nativeTransferredLamports": "295712266",
+        "preAtaLamports": "297751546",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 295712266,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "XFGyyEbZ9CwXz88JTMeRMDHniReVrv9to1mqiet9vhDPnbSgcbHsKLHJ6irXLkUMKFVJfKLZwsfwNfdpaCFNddA",
+        "slot": 394097098,
+        "blockTime": 1768652031,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "877922300",
+        "nativeTransferredLamports": "877922300",
+        "preAtaLamports": "879961580",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 877922300,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "2uGiuTHWGYDtnCG3dBXJxu2FzFx18dNf4jnSPvVxqEQPHXGiyk6cHsjJAfudkoZmTbd1EDUTHc9Yvz8cJzvb1D2S",
+        "slot": 394110087,
+        "blockTime": 1768657174,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "304142702",
+        "nativeTransferredLamports": "304142702",
+        "preAtaLamports": "306181982",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 304142702,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3vccRmnjaqJrmGzzZJHsfRx98NuJCRVbYiDnbWD8inN2iyB1Bw5oyKzepsxQVKZQJ7Ri3k3EVcYcR4jTXtEEALdY",
+        "slot": 394136010,
+        "blockTime": 1768667441,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "1223217168",
+        "nativeTransferredLamports": "1223217168",
+        "preAtaLamports": "1225256448",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 1223217168,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4Gy6S2ZKQFYy7QUnw4LaFuCyQv96uG4wNWouq7nMaZ5YSSe9GnFmFAqvo6NXCibRDDnCi7WN8xhPYMdcjmHrmJb6",
+        "slot": 394170026,
+        "blockTime": 1768680887,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "2183851440",
+        "nativeTransferredLamports": "2183851440",
+        "preAtaLamports": "2185890720",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 2183851440,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "2bdW2sWh5eGyhvg5XxuGr8CfrdGDjud8xA7ZDkCB2ZXc37dF5og6XJEWZESqwM3xiekMBmz6qdG7gtWKUE8pcbfR",
+        "slot": 394267785,
+        "blockTime": 1768719539,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "531353179",
+        "nativeTransferredLamports": "531353179",
+        "preAtaLamports": "533392459",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 531353179,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3aqaT3DYcJeesjeCjarZjVM2qqeehnT8uuBcE3fUHJztJQRzvU8KBPxoDiFrtpmvkahRdULEzrWfrLgQRDuiUBV7",
+        "slot": 394327309,
+        "blockTime": 1768743059,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "322630344",
+        "nativeTransferredLamports": "322630344",
+        "preAtaLamports": "324669624",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 322630344,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "63mEc2D3L4eNu1umtVUeGd9kx6TV9Cctx9WFy1dbjCBBVfSw7mcz9wqCjp72LEm45yEbPMGVaM2NhXhL8FbmLFYH",
+        "slot": 394362556,
+        "blockTime": 1768757045,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "206747189",
+        "nativeTransferredLamports": "206747189",
+        "preAtaLamports": "208786469",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 206747189,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "4NWfUU3xhHrFmX9nZuNhbfo5ELxuB8j2N9uLt9V9bD3xyR9PsYDRmfdwP6eLRwSKs3oBSswqK7NYNy7ogQcNEVjR",
+        "slot": 402097476,
+        "blockTime": 1771814220,
+        "topLevelInstructionIndex": 0,
+        "preWsolFeeRaw": "933574397",
+        "nativeTransferredLamports": "933574397",
+        "preAtaLamports": "935613677",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 933574397,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      },
+      {
+        "signature": "3az6beLFNMhEaivnUjsMGevD4u2yZmsu68wWjAtLgLbtpjdmgc4MXk4bTAByDXx15o1wEh2p95LUxZ3RGZiQkvi9",
+        "slot": 437176928,
+        "blockTime": 1785847348,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "86957952",
+        "nativeTransferredLamports": "86957952",
+        "preAtaLamports": "88997232",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+            "destination": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw",
+            "owner": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+            "lamports": 86957952,
+            "source": "Dhed4gYPmiWqFSW296pU53WpfBB6bUjc7m3nF1Xgjmqw"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+        "rawSha256": "1378e5e76f9ee5d168fcac5cf841bf81f1684369df8db4f27a585a628f1f023f"
+      }
+    ]
+  },
+  {
+    "name": "this coin will retire you",
+    "mint": "9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump",
+    "cfgAta": "CfDANKRyAfm5ru67ykbRh17aK7eCgmHqWNfnACFbqncS",
+    "cfgAuthority": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY",
+    "nativeVault": "6ay6vaAPgJ6anq8xetBwyLa2QGKAGTzhaQVT1T4B52EH",
+    "unwrapCount": 6,
+    "unwrapTransferredRaw": "3336843704",
+    "allVerified": true,
+    "rows": [
+      {
+        "signature": "Kp8BRWY6aN6NP4wx3HKHdPGqYoQPf7BbdJsvBoK8Ggmyjrs63TH32aWGaddW2DS5wqiex2LReSns8CxKM9zpj6F",
+        "slot": 406743081,
+        "blockTime": 1773644018,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "1487680683",
+        "nativeTransferredLamports": "1487680683",
+        "preAtaLamports": "1489719963",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "CfDANKRyAfm5ru67ykbRh17aK7eCgmHqWNfnACFbqncS",
+            "destination": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY",
+            "owner": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "6ay6vaAPgJ6anq8xetBwyLa2QGKAGTzhaQVT1T4B52EH",
+            "lamports": 1487680683,
+            "source": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0001.response.json",
+        "rawSha256": "b269d6a18dd2eb6e35ad3eff01c0b895c422f02a6d3a0618db247547e135519d"
+      },
+      {
+        "signature": "3x4k6p25ECvnhiwnutjeg4tMyZaDqZiUrvWi1qc51kjeTK6XYTu5W7J8FMMZJh6pdBFkNsNzjL1bTAC4YG3nvqtX",
+        "slot": 406743673,
+        "blockTime": 1773644258,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "353373718",
+        "nativeTransferredLamports": "353373718",
+        "preAtaLamports": "355412998",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "CfDANKRyAfm5ru67ykbRh17aK7eCgmHqWNfnACFbqncS",
+            "destination": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY",
+            "owner": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "6ay6vaAPgJ6anq8xetBwyLa2QGKAGTzhaQVT1T4B52EH",
+            "lamports": 353373718,
+            "source": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0001.response.json",
+        "rawSha256": "b269d6a18dd2eb6e35ad3eff01c0b895c422f02a6d3a0618db247547e135519d"
+      },
+      {
+        "signature": "5dsTDN6XiBW8YQhg8rqmuNJ7LbgBsdn4tgaPQk1LzAcWWnLDySXnYmzshKceHSDYW47UKjkhg4JJDcaDfzfSuZNU",
+        "slot": 406745764,
+        "blockTime": 1773645080,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "489560797",
+        "nativeTransferredLamports": "489560797",
+        "preAtaLamports": "491600077",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "CfDANKRyAfm5ru67ykbRh17aK7eCgmHqWNfnACFbqncS",
+            "destination": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY",
+            "owner": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "6ay6vaAPgJ6anq8xetBwyLa2QGKAGTzhaQVT1T4B52EH",
+            "lamports": 489560797,
+            "source": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0001.response.json",
+        "rawSha256": "b269d6a18dd2eb6e35ad3eff01c0b895c422f02a6d3a0618db247547e135519d"
+      },
+      {
+        "signature": "33fTteFJ1oTx3Ctdtwynth27aNXPWScGgDHHWwJe2mpEn9QzNoNz9xG4jSzZMw5D8nsdXMreE6Hn5cvLcXCj4rUB",
+        "slot": 406747362,
+        "blockTime": 1773645710,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "198277621",
+        "nativeTransferredLamports": "198277621",
+        "preAtaLamports": "200316901",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "CfDANKRyAfm5ru67ykbRh17aK7eCgmHqWNfnACFbqncS",
+            "destination": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY",
+            "owner": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "6ay6vaAPgJ6anq8xetBwyLa2QGKAGTzhaQVT1T4B52EH",
+            "lamports": 198277621,
+            "source": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0001.response.json",
+        "rawSha256": "b269d6a18dd2eb6e35ad3eff01c0b895c422f02a6d3a0618db247547e135519d"
+      },
+      {
+        "signature": "66uZqCCQwcB6rMaD1tqS11TC8ah35QFhE266y4g1jv2dLSXMUabR4yxzEVUPXmhuoK1qFgxzM3rgTkJjYfY9xHUt",
+        "slot": 406748426,
+        "blockTime": 1773646129,
+        "topLevelInstructionIndex": 2,
+        "preWsolFeeRaw": "136285979",
+        "nativeTransferredLamports": "136285979",
+        "preAtaLamports": "138325259",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "CfDANKRyAfm5ru67ykbRh17aK7eCgmHqWNfnACFbqncS",
+            "destination": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY",
+            "owner": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "6ay6vaAPgJ6anq8xetBwyLa2QGKAGTzhaQVT1T4B52EH",
+            "lamports": 136285979,
+            "source": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0001.response.json",
+        "rawSha256": "b269d6a18dd2eb6e35ad3eff01c0b895c422f02a6d3a0618db247547e135519d"
+      },
+      {
+        "signature": "42r6fHS65cNB5W9MKEqLDMoVZ2f4d4Bm78ecCXUvfGGBp6hmo71b6F46yWiEn9KrQhMxHkmEMf3hBM1JQWWTxvVZ",
+        "slot": 441454431,
+        "blockTime": 1787596526,
+        "topLevelInstructionIndex": 3,
+        "preWsolFeeRaw": "671664906",
+        "nativeTransferredLamports": "671664906",
+        "preAtaLamports": "673704186",
+        "preAtaRentReserveLamports": "2039280",
+        "close": [
+          {
+            "account": "CfDANKRyAfm5ru67ykbRh17aK7eCgmHqWNfnACFbqncS",
+            "destination": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY",
+            "owner": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY"
+          }
+        ],
+        "transfers": [
+          {
+            "destination": "6ay6vaAPgJ6anq8xetBwyLa2QGKAGTzhaQVT1T4B52EH",
+            "lamports": 671664906,
+            "source": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY"
+          }
+        ],
+        "independentlyVerified": true,
+        "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0001.response.json",
+        "rawSha256": "b269d6a18dd2eb6e35ad3eff01c0b895c422f02a6d3a0618db247547e135519d"
+      }
+    ]
+  }
+]

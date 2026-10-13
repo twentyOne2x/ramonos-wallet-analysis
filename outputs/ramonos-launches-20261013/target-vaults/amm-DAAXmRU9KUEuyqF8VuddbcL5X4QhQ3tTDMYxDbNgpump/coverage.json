@@ -1,0 +1,49 @@
+{
+  "cutoff": 1791908918,
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "address": "7KDvfAK8vipXb8jQD2xrMx7frQG2z8VMoyj3eDVcPuQe",
+  "terminal": false,
+  "pages": [
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json",
+      "sha256": "8c7ceb18a26ac80c0bb46012f05224b88b636c035fbf8b33ca75204789e9731d",
+      "count": 1000,
+      "cursorIn": null,
+      "cursorOut": "393501075:1077"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0001.response.json",
+      "sha256": "2597d05dd8e0ff6b366209027a518e2b7632ed720039d5f3d6f15288debb902a",
+      "count": 1000,
+      "cursorIn": "393501075:1077",
+      "cursorOut": "393504489:1260"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0002.response.json",
+      "sha256": "125c4672b24e145460cb29609a832ffc097447fdea99badf6d56ef667015b722",
+      "count": 1000,
+      "cursorIn": "393504489:1260",
+      "cursorOut": "393508082:1179"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0003.response.json",
+      "sha256": "40849fe79362f538739abebbaf638e5c4525baabd22ae0267ae683c01230f4a2",
+      "count": 1000,
+      "cursorIn": "393508082:1179",
+      "cursorOut": "393514518:10"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0004.response.json",
+      "sha256": "afd1de87b345971aef841bb395159502ec0f0105fb824ee5782f1191f917beae",
+      "count": 1000,
+      "cursorIn": "393514518:10",
+      "cursorOut": "393520268:1115"
+    }
+  ],
+  "transactionCount": 5000,
+  "captureStoppedAtUtc": "2026-10-13T16:41:33.066832+00:00",
+  "captureStatus": "stopped by owning parent once checkpoint-to-terminal current pending provenance completed",
+  "coverage": "partial historical capture; not used as entire-history proof"
+}

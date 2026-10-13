@@ -1,0 +1,98 @@
+[
+  {
+    "address": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+    "bump": "255",
+    "version": "1",
+    "user_id": "12810712",
+    "platform": "2",
+    "total_claimed": "0",
+    "last_claimed": "0",
+    "total_stable_claimed": "0",
+    "isUsePaidIntermediary": false,
+    "nativeLifetimeClaimedLamports": "0",
+    "aboveRentLamports": "11355366",
+    "tokenCustody": [
+      {
+        "mint": "So11111111111111111111111111111111111111112",
+        "ata": "5fMiYsRo69FNLH117jcvw4aNvEwYY57zQdUDAaxMrHCQ",
+        "raw": "0"
+      },
+      {
+        "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "ata": "CPEDGD4Rp7ZoaZfDRJwbmTi4VhcfaNvHqzDMTCkZ3R6e",
+        "raw": "0"
+      },
+      {
+        "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+        "ata": "6uUphRsFxzhZYckKrfN4gCK1iZjXmtmtTWi1VzBzr1Bk",
+        "raw": "0"
+      },
+      {
+        "mint": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+        "ata": "9LiaV8occ4srULka4R9MmMP5AH2PujBFiko1Q3RdZ7SR",
+        "raw": "0"
+      },
+      {
+        "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+        "ata": "6rurVXXk7eLwo3VNaMLaefmYfwJ3Vr3Hu56yv433iF1p",
+        "raw": "0"
+      },
+      {
+        "mint": "Xs3eBt7uRfJX8QUs4suhyU8p2M6DoUDrJyWBa8LLZsg",
+        "ata": "2ZFyHHWb4k943axexM42KykscnPBA77KLLDXnQB2F3sP",
+        "raw": "0"
+      }
+    ],
+    "slot": 456506067,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "counterScope": "All beneficiary lifetime mints; not Ramonos attributable."
+  },
+  {
+    "address": "FfLpuH4WPn2MR8Lqn1MpwQc1HtAPPqL3qvMWZjnFHGpv",
+    "bump": "254",
+    "version": "1",
+    "user_id": "322216527",
+    "platform": "2",
+    "total_claimed": "52313813492020",
+    "last_claimed": "1791908452",
+    "total_stable_claimed": "19555437862363",
+    "isUsePaidIntermediary": true,
+    "nativeLifetimeClaimedLamports": "52313813492020",
+    "aboveRentLamports": "2127933",
+    "tokenCustody": [
+      {
+        "mint": "So11111111111111111111111111111111111111112",
+        "ata": "7qCKyqLLUZQRJTzyLwd9vUfdDsGhNgSSwBXk8Y4A9rZA",
+        "raw": "0"
+      },
+      {
+        "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "ata": "AkydmPiB4ZaxC41uC9Ui7imornMKYRGFwzGyqgJMWrrC",
+        "raw": "0"
+      },
+      {
+        "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+        "ata": "298bBN5RGXQ1NtnDMv7kFuGCaJfE18oboorzfHPNF5Vp",
+        "raw": "0"
+      },
+      {
+        "mint": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+        "ata": "9f2dC29BzQZpbTnQh3qnwPQcvnBHR9Hi5p59wWqV6q2K",
+        "raw": "0"
+      },
+      {
+        "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+        "ata": "ECS6K1VXrWdLWHDpsPJF1EAnEJK197e18Et7Ezahqz5w",
+        "raw": "0"
+      },
+      {
+        "mint": "Xs3eBt7uRfJX8QUs4suhyU8p2M6DoUDrJyWBa8LLZsg",
+        "ata": "3rUjZowPTn5Jo7aTfu2k9JxDp1yaz7wDYh7ASdvog6CM",
+        "raw": "0"
+      }
+    ],
+    "slot": 456506067,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "counterScope": "All beneficiary lifetime mints; not Ramonos attributable."
+  }
+]

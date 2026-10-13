@@ -1,0 +1,319 @@
+{
+  "wallet": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+  "cutoff": 1791908341,
+  "cutoffUtc": "2026-10-13T16:19:01Z",
+  "status": "succeeded",
+  "tokenAccounts": "none",
+  "commitment": "finalized",
+  "pages": [
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0000.json",
+      "count": 1000,
+      "cursorIn": null,
+      "cursorOut": "377816583:1085",
+      "firstUtc": "2025-10-17T20:23:08Z",
+      "lastUtc": "2025-11-04T06:56:27Z",
+      "sha256": "143bb458e56dd38013094fcb4d578d161cf7cffb04dc284cf03b1a29c1bbd8b2"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0001.json",
+      "count": 1000,
+      "cursorIn": "377816583:1085",
+      "cursorOut": "379795712:1056",
+      "firstUtc": "2025-11-04T06:57:52Z",
+      "lastUtc": "2025-11-13T11:08:18Z",
+      "sha256": "6cda2a9212c7ad0bec3d7838891494de18f2eaff0d348dad6bbc996c9743f05a"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0002.json",
+      "count": 1000,
+      "cursorIn": "379795712:1056",
+      "cursorOut": "380816647:94",
+      "firstUtc": "2025-11-13T11:10:19Z",
+      "lastUtc": "2025-11-18T04:10:28Z",
+      "sha256": "9e5f60b37fcb419270ccf29f3ca247742c9a59856f69a6d1c018957f8dc110a8"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0003.json",
+      "count": 1000,
+      "cursorIn": "380816647:94",
+      "cursorOut": "381422714:1126",
+      "firstUtc": "2025-11-18T04:10:51Z",
+      "lastUtc": "2025-11-20T23:01:27Z",
+      "sha256": "50de6b3c6a435b2941ef275ba8548f234e30ac56bdb04c99d014027ca7304e4d"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0004.json",
+      "count": 1000,
+      "cursorIn": "381422714:1126",
+      "cursorOut": "381966813:1245",
+      "firstUtc": "2025-11-20T23:01:45Z",
+      "lastUtc": "2025-11-23T10:47:44Z",
+      "sha256": "5a4729e1f9c0ad264e695c3c291ed969bfc34b0d0d4c24f1b1aa852a316b3fd1"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0005.json",
+      "count": 1000,
+      "cursorIn": "381966813:1245",
+      "cursorOut": "382507489:1049",
+      "firstUtc": "2025-11-23T10:47:45Z",
+      "lastUtc": "2025-11-25T21:58:06Z",
+      "sha256": "e2a8a6fcdeee27d9a7a558cdb17550de83ee39920fcaceda545d61e4d567bb44"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0006.json",
+      "count": 1000,
+      "cursorIn": "382507489:1049",
+      "cursorOut": "382923958:952",
+      "firstUtc": "2025-11-25T21:58:48Z",
+      "lastUtc": "2025-11-27T18:54:17Z",
+      "sha256": "504c2b7b8c93bea23b487ee5fea09a4d6bef9b2ac25cceb6324673feeba04ed6"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0007.json",
+      "count": 1000,
+      "cursorIn": "382923958:952",
+      "cursorOut": "383341678:1178",
+      "firstUtc": "2025-11-27T18:55:51Z",
+      "lastUtc": "2025-11-29T15:53:57Z",
+      "sha256": "ab54d1408be820bb95ce177a5ae74939ce364adae19eb2c7d17dbc2f22969d1c"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0008.json",
+      "count": 1000,
+      "cursorIn": "383341678:1178",
+      "cursorOut": "383646407:759",
+      "firstUtc": "2025-11-29T15:53:58Z",
+      "lastUtc": "2025-12-01T00:46:21Z",
+      "sha256": "a6013c3c9199d82c5b6c924850b8f52ae8d28445266d81d171ec7462ce0edb8e"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0009.json",
+      "count": 1000,
+      "cursorIn": "383646407:759",
+      "cursorOut": "384032517:500",
+      "firstUtc": "2025-12-01T00:46:28Z",
+      "lastUtc": "2025-12-02T18:27:24Z",
+      "sha256": "4c61df9e0b180a138c51eeb4b4ef4616547761004bf0e4a2d38e3f5f0cc4b4c2"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0010.json",
+      "count": 1000,
+      "cursorIn": "384032517:500",
+      "cursorOut": "386553253:31",
+      "firstUtc": "2025-12-02T18:27:24Z",
+      "lastUtc": "2025-12-14T03:16:57Z",
+      "sha256": "ed90a3c733ecfbcacee23ca72226d79cee3f0d715463e2ff07534e76450f00f8"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0011.json",
+      "count": 1000,
+      "cursorIn": "386553253:31",
+      "cursorOut": "389800658:108",
+      "firstUtc": "2025-12-14T03:17:48Z",
+      "lastUtc": "2025-12-28T20:31:16Z",
+      "sha256": "960b1024095cc09122d14020987d1b4117d002f7692b24da4d8b2bc4874e0e22"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0012.json",
+      "count": 1000,
+      "cursorIn": "389800658:108",
+      "cursorOut": "391105172:1302",
+      "firstUtc": "2025-12-28T20:37:23Z",
+      "lastUtc": "2026-01-03T19:06:56Z",
+      "sha256": "4fceebfe5d862d4dfd19d4dd16abcef22992a5c0b9b3df9f9c8ecece75945a5a"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0013.json",
+      "count": 1000,
+      "cursorIn": "391105172:1302",
+      "cursorOut": "392706264:1477",
+      "firstUtc": "2026-01-03T19:21:25Z",
+      "lastUtc": "2026-01-11T03:50:31Z",
+      "sha256": "3abb4faa0ab6b48f8635e8f2c7b6d6ff522ebf2637dad1e298989735a1b22524"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0014.json",
+      "count": 1000,
+      "cursorIn": "392706264:1477",
+      "cursorOut": "393623446:1047",
+      "firstUtc": "2026-01-11T03:52:10Z",
+      "lastUtc": "2026-01-15T08:10:17Z",
+      "sha256": "af4d0098fd31c63d225f3217916f30574f575ddf9bdf0c66304aace4d42d6252"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0015.json",
+      "count": 1000,
+      "cursorIn": "393623446:1047",
+      "cursorOut": "394810329:9",
+      "firstUtc": "2026-01-15T08:15:07Z",
+      "lastUtc": "2026-01-20T18:50:30Z",
+      "sha256": "a6e40946212e757d3a70bc710161dd382a527c3575b5898b60400ed3123bd5b3"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0016.json",
+      "count": 1000,
+      "cursorIn": "394810329:9",
+      "cursorOut": "396106222:376",
+      "firstUtc": "2026-01-20T18:50:46Z",
+      "lastUtc": "2026-01-26T18:40:51Z",
+      "sha256": "7a1c416ff959d671ea2b0bef73c184c9f0b3e7a1137fdc70b3f12a8a0cc79e55"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0017.json",
+      "count": 1000,
+      "cursorIn": "396106222:376",
+      "cursorOut": "398114052:90",
+      "firstUtc": "2026-01-26T18:44:14Z",
+      "lastUtc": "2026-02-05T00:44:28Z",
+      "sha256": "45ba671532d15c129632629b875bfad69dbe68a800593a9f51257c4fbf9c158a"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0018.json",
+      "count": 1000,
+      "cursorIn": "398114052:90",
+      "cursorOut": "401062808:594",
+      "firstUtc": "2026-02-05T00:44:29Z",
+      "lastUtc": "2026-02-18T09:39:03Z",
+      "sha256": "c84321a924709bd049374d4767e8f14757ff6c5578293ebf7465af82a5280357"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0019.json",
+      "count": 1000,
+      "cursorIn": "401062808:594",
+      "cursorOut": "404203564:1728",
+      "firstUtc": "2026-02-18T09:40:16Z",
+      "lastUtc": "2026-03-04T17:31:19Z",
+      "sha256": "e2097aeec21d1111b183feece36ed7fd2b4393a4c6518dc33770326754f35866"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0020.json",
+      "count": 1000,
+      "cursorIn": "404203564:1728",
+      "cursorOut": "408446136:734",
+      "firstUtc": "2026-03-04T17:35:14Z",
+      "lastUtc": "2026-03-24T01:35:44Z",
+      "sha256": "f39a204219bfa6f2a0394d8c703cfaeb87c198f555c86056263a891c7dca6ba2"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0021.json",
+      "count": 1000,
+      "cursorIn": "408446136:734",
+      "cursorOut": "418627352:1162",
+      "firstUtc": "2026-03-24T01:40:29Z",
+      "lastUtc": "2026-05-09T14:12:27Z",
+      "sha256": "54587a6b1df1f5079a0a05fa8057b1762f7a66bafe79a65ac6334d8f8e820d32"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0022.json",
+      "count": 1000,
+      "cursorIn": "418627352:1162",
+      "cursorOut": "434528854:200",
+      "firstUtc": "2026-05-09T14:12:28Z",
+      "lastUtc": "2026-07-22T14:45:33Z",
+      "sha256": "7cadc3560619c96c12dd622125fea7c0334aaef0f8d3a150d027d71574fe7dbd"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0023.json",
+      "count": 1000,
+      "cursorIn": "434528854:200",
+      "cursorOut": "441454624:187",
+      "firstUtc": "2026-07-22T14:46:55Z",
+      "lastUtc": "2026-08-24T18:36:35Z",
+      "sha256": "50cdbc8ed388aa2367385db9fb0e48c8d5c4355488d9b16db18abd0c9f1887ab"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0024.json",
+      "count": 1000,
+      "cursorIn": "441454624:187",
+      "cursorOut": "442364925:383",
+      "firstUtc": "2026-08-24T18:36:39Z",
+      "lastUtc": "2026-08-28T15:06:12Z",
+      "sha256": "fc53834ae1a2d7bca0818b0fb8a83b3750212f82b66ccba90c82a00bb4f61ca6"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0025.json",
+      "count": 1000,
+      "cursorIn": "442364925:383",
+      "cursorOut": "443804430:267",
+      "firstUtc": "2026-08-28T15:20:49Z",
+      "lastUtc": "2026-09-02T21:53:40Z",
+      "sha256": "97a59fc8af9fde121514ca69a0ee3399f92154c054549c0560e4981949c55555"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0026.json",
+      "count": 1000,
+      "cursorIn": "443804430:267",
+      "cursorOut": "445130443:476",
+      "firstUtc": "2026-09-02T21:59:45Z",
+      "lastUtc": "2026-09-07T18:12:26Z",
+      "sha256": "05ec5d873b507ba31d9f2a1af5c7b24d9ec6f24598a6a0f1ab04dc790879c375"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0027.json",
+      "count": 1000,
+      "cursorIn": "445130443:476",
+      "cursorOut": "446104765:115",
+      "firstUtc": "2026-09-07T18:14:12Z",
+      "lastUtc": "2026-09-11T07:52:21Z",
+      "sha256": "7d3e850e3cd1637db9571846021e7d291873afc61c0ba171278f05f5e74d6683"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0028.json",
+      "count": 1000,
+      "cursorIn": "446104765:115",
+      "cursorOut": "447208783:768",
+      "firstUtc": "2026-09-11T08:03:36Z",
+      "lastUtc": "2026-09-15T08:51:39Z",
+      "sha256": "3758eef7083b34d52a47b4a35045469e1e55c9395242110d73a88288e46bbb49"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0029.json",
+      "count": 1000,
+      "cursorIn": "447208783:768",
+      "cursorOut": "448576030:931",
+      "firstUtc": "2026-09-15T08:54:20Z",
+      "lastUtc": "2026-09-20T00:57:54Z",
+      "sha256": "a1c0be2419e36be59aa78e80f83f64628e1d4cdafc5fe2335a3d73ee00168325"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0030.json",
+      "count": 1000,
+      "cursorIn": "448576030:931",
+      "cursorOut": "451539932:642",
+      "firstUtc": "2026-09-20T01:02:14Z",
+      "lastUtc": "2026-09-29T04:54:57Z",
+      "sha256": "b5d174db25d38e7b2d42d284d9d8231992bb52df70e966b2b78edff491754e77"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0031.json",
+      "count": 1000,
+      "cursorIn": "451539932:642",
+      "cursorOut": "453579316:428",
+      "firstUtc": "2026-09-29T05:01:57Z",
+      "lastUtc": "2026-10-05T12:28:22Z",
+      "sha256": "e0069ddcb2e398489d4f335cee87c89496515ad543eb90048f52dd5e72bbf2ad"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0032.json",
+      "count": 798,
+      "cursorIn": "453579316:428",
+      "cursorOut": "456504428:73",
+      "firstUtc": "2026-10-05T12:28:35Z",
+      "lastUtc": "2026-10-13T16:16:28Z",
+      "sha256": "a3c3800d19f3e284a90df3621587ca66b6e5607819ee25c0610bb0e7793317af"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/raw/page-0033.json",
+      "count": 0,
+      "cursorIn": "456504428:73",
+      "cursorOut": null,
+      "firstUtc": null,
+      "lastUtc": null,
+      "sha256": "abd38ce8ef91eff014c0fb955cf12917d8288778b4dc011defbe813970aa2925"
+    }
+  ],
+  "terminal": true,
+  "transactionCount": 32798,
+  "coverage": "terminal provider-indexed direct-wallet references"
+}

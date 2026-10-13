@@ -1,0 +1,14 @@
+{
+  "scope": "Ramonos disclosed wallet only",
+  "numericFactsChanged": false,
+  "rawRpcPayloadsTransformed": false,
+  "documentationChanges": [
+    "Quoted the comma-containing token name to distinguish three holder coins",
+    "Removed old private reviewer wrappers; portable checks reproduce accounting",
+    "Replaced historical internal generic component labels; original source hashes retained"
+  ],
+  "normalizedHistoricalProvenanceFiles": [
+    "outputs/ramonos-launches-20261013/launchlab/manifest.json"
+  ],
+  "portableToolsProvenance": "tools/TOOLS-PROVENANCE.json"
+}

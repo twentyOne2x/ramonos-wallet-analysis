@@ -1,0 +1,52 @@
+{
+  "cutoff": 1791908918,
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "name": "route-HyRZwEZ4c3ZK83Sq7rLa5izXbn8R1PvFbMRFPwGUpump",
+  "displayName": "Bold The Frog",
+  "mint": "HyRZwEZ4c3ZK83Sq7rLa5izXbn8R1PvFbMRFPwGUpump",
+  "config": "4FMn5vwtthDqL9fYkCrkjyDDja3r7yUVf1swmQQppMjR",
+  "vault": "AMo1bRCQfArJeNYAkp9XaXRFP2eWZESSCa3QiRrHhWEN",
+  "recipients": [
+    {
+      "address": "FV85FCpq5rqe5PXgcu4YjBxmmu2tcBvXMkjSvsrYQQEF",
+      "share_bps": "10000",
+      "platform": null,
+      "userId": null,
+      "recipientAccountType": null,
+      "category": "ordinary recipient wallet",
+      "shareFractionNumerator": "10000",
+      "shareFractionDenominator": "10000",
+      "curvePendingFeeFractionFloorRaw": "0",
+      "poolPendingFeeFractionFloorRaw": null,
+      "allocationNote": "Arithmetic current split applied to separate pending counters; distribution rounding/order and historic split not inferred."
+    }
+  ],
+  "routeCategory": "ordinary wallet sharing",
+  "terminal": true,
+  "pages": [
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/route-HyRZwEZ4c3ZK83Sq7rLa5izXbn8R1PvFbMRFPwGUpump/page-0000.response.json",
+      "sha256": "b16dc54fc9ec405abd65b37ff02737175f61a278853243d54df6743e6c4fa494",
+      "count": 1000,
+      "cursorIn": null,
+      "cursorOut": "441749561:606"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/route-HyRZwEZ4c3ZK83Sq7rLa5izXbn8R1PvFbMRFPwGUpump/page-0001.response.json",
+      "sha256": "593a84492fcd67dc65591d3eb647fdd00fa19bd4599b609adbf85ef582db2557",
+      "count": 231,
+      "cursorIn": "441749561:606",
+      "cursorOut": "454603451:53"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/route-HyRZwEZ4c3ZK83Sq7rLa5izXbn8R1PvFbMRFPwGUpump/page-0002.response.json",
+      "sha256": "abd38ce8ef91eff014c0fb955cf12917d8288778b4dc011defbe813970aa2925",
+      "count": 0,
+      "cursorIn": "454603451:53",
+      "cursorOut": null
+    }
+  ],
+  "transactionCount": 1231
+}

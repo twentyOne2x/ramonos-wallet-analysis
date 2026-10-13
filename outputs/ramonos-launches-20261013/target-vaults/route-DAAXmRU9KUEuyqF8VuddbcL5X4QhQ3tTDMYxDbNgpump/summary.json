@@ -1,0 +1,723 @@
+{
+  "cutoff": 1791908918,
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "name": "route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump",
+  "displayName": "PsyopCartoon",
+  "mint": "DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump",
+  "config": "QyAJG4JnLHBshGP3uw4GfWiNTfcSmGAPV6m5WKweKQn",
+  "vault": "EZHPs2rWo2cx5h3kLPcc8vMVCzj17jje9CNMinRGskAR",
+  "recipients": [
+    {
+      "address": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "share_bps": "7500",
+      "platform": null,
+      "userId": null,
+      "recipientAccountType": null,
+      "category": "ordinary recipient wallet",
+      "shareFractionNumerator": "7500",
+      "shareFractionDenominator": "10000",
+      "curvePendingFeeFractionFloorRaw": "0",
+      "poolPendingFeeFractionFloorRaw": "499884",
+      "allocationNote": "Arithmetic current split applied to separate pending counters; distribution rounding/order and historic split not inferred."
+    },
+    {
+      "address": "F4tvmVEZc9DQQVPxoQeNLaGfvXw6vrbHvC6kECGU3c1C",
+      "share_bps": "2500",
+      "platform": null,
+      "userId": null,
+      "recipientAccountType": null,
+      "category": "ordinary recipient wallet",
+      "shareFractionNumerator": "2500",
+      "shareFractionDenominator": "10000",
+      "curvePendingFeeFractionFloorRaw": "0",
+      "poolPendingFeeFractionFloorRaw": "166628",
+      "allocationNote": "Arithmetic current split applied to separate pending counters; distribution rounding/order and historic split not inferred."
+    }
+  ],
+  "routeCategory": "ordinary wallet sharing",
+  "transactionCount": 218,
+  "terminal": true,
+  "verifiedTradeCreatorFeeInflowsLamports": "0",
+  "verifiedDistributionLamports": "210484969915",
+  "verifiedCollectCreatorFeeLamports": "0",
+  "firstPreLamports": "0",
+  "lastPostLamports": "890881",
+  "currentBalanceLamports": "890881",
+  "currentSlot": 456508260,
+  "currentRentLamports": "650240",
+  "rentEvidence": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-005.response.json; RentSysvar [5080,1.0,50], (128+space)*5080",
+  "currentAboveRentLamports": "240641",
+  "lastPostMatchesCurrent": true,
+  "residualMovements": [
+    {
+      "signature": "3JrJoCaYjksSAeqCrnQcPRPJ9w9K2KCCWWTjJKx1GPqBUXE6FFBYZQgSoFER8uJnaNMxVP3uNJijyi1kkfaFPpsa",
+      "lamports": "28702208879",
+      "pre": "0",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3MSBe4cPqeMN6fvFyJvt9pe5wAuEE2Pmyq3DiHQQzcxvZAVABnTcMVMEwzcYrhgJpYd1PU1mqUnBwqGH3U5qKoLt",
+      "lamports": "17147488460",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3DhL9TZGr3Q7vFCep3fKKds65yfVNzRcD2D2ifRxGVYMiKE7iPsjWfkhaHixeUQiR9bcUfSYvdYNhGcKXzDFEGB2",
+      "lamports": "4363941252",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "28JQjWS1ZE8qnN9euH9nkVhBqLKtR1EE9M1oCL6zV7W2j8Euu7uKUPLadg2y8wwRBMVFPSdtieuojLhAVqSGyUDy",
+      "lamports": "905166505",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3W2dyssS6uRErpZYhSeFCgpNAFW1NhFYNzt4UWZ4AWAcSXi4fCSx7EemTcmGDehNuJrodhT98NTbsXbvx26wUes3",
+      "lamports": "503126057",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5HoYeEBPhrae4ToEUos9g4BEyQnA6EwBaJgsXwuxPBYZpCWrdMzf4DKqJRJbiXSnD7Xd32AjDuWingpo6B6Xsmv7",
+      "lamports": "372649779",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "KsV78W5AmdiVNWXQpwxr2LheGAvZe6AxcQCQJnwQ8SgN7Zr3DwbkbScRd5JdbPVTPNWWZUmvZAtwmqAE1QbcMtp",
+      "lamports": "438163019",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "c93zXwBdiZ5xxkb12LPfNH6kxEat7gYvNfHxLiHs8knZpFDvmDEbuFHTdfEjzUWTjW8gj3i1Q2fXA6JjEx8MMEL",
+      "lamports": "254278310",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4RU4juLwi7tx3jN5JTXVknU2Qxtc1RdfC83PbNPnZ8zzH2sJ7PCZBvVZUvzz742Uki1F5tnn9h527Ss99VFDk5FU",
+      "lamports": "287848648",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "wt4dh35yEMZpXmknB5GzAbSEBqWkE7ReHNf7vjuJEBB1r85z7uxqpaHEn9cKwS6EK1WQ8cHeNtPnF1RGVAmKm62",
+      "lamports": "343135343",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3VKQCBNxWzQXoBgMsVJp4dFtVJgLtZ3soD3AqjktMdkQZzoCDvXzR7pxck22ch63oYjsy4mivTbdp8XJt5ATXyth",
+      "lamports": "297352125",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5Mb1SN2jB1LZejFHscDN5nySZX1BMMFrwMyeFTYFRRmNKzjDwnMXEt3HsZhfvGotXnonBW8qiVGFqpEpL8dB4Kjb",
+      "lamports": "135319632",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3b5daN4TMrVjT553cuNZsoux3S3Wz5ZEBmW1U6xg2nWcAr12vrvAfMyVUrQhCagmkCBZDXuttSWbWVPaZC4rmew4",
+      "lamports": "300880690",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "2gVbWHJLQkpzhM87twKYm616n4tERaL6rrw5TWsYmsHchUxAcdrjSSyi3LaG4GBSx1GrSea1p88CED9dYjnvTJAW",
+      "lamports": "393448127",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5gPeYYY6pncZnmmidjA3ZiXHjMVfGmdi7eGuSnBGUUhCppxNdZTZqrgx2TEuCi1drh2NczBdmrqwX9YoXbvPvX3K",
+      "lamports": "337701769",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4oYvQxE2gB4d92E7zzRGcGTvAmgWSSjwhcDoapkr7h6C8vFMVE8bMKFVeQFft2JpjT7G9MrYEnN7dDYg3CquiuZF",
+      "lamports": "837847287",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "2P4CHAVZSxkDZmoFkD7PJLLmagDCTVxEAnycqTvwJUpivAx3X9ck5fWwnvBRwS4q3TZXazYuC6rfvkVwGsYFf33V",
+      "lamports": "387791738",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "D5npPwaEBAhEN6sTfvuycY1dAUXuUrGjLynBT8xtAf1DD11twujUzKhJe1HkfZEK2Sw8AWTtX6xr7AY5T4o5Rft",
+      "lamports": "411748168",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4U4YdgZC5rfkn9qQUB7auTu9dbCEeR7WjvQ3226XZYPQBQywe3cmjUgEgASyuAqVHAfcawxRaoeDnPvFK9bxEEVi",
+      "lamports": "92029606",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "vRwV8p15K8BydgzA4owgabVWxoTFMKekRNLrtShn84FuFXEsPnYzqcSRzqEFA3nfrL7drMywGePwnLshbjCHxFr",
+      "lamports": "729525039",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4c617AV1pzUNz3TBsUMECmLXoGEFUY1tqkRRFpwij3MsbLvhSiUB8VccgSr68yjxzfGP5V4tCKQajjEkhKuTQ6vZ",
+      "lamports": "560284123",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "KjCfcGhu5yrYEtSyrqjpPx1Jrun71TVAf3KR5BL6DMPwjavbLKvvoo5UxZx4ALt1QDRJRcvjdXwBS25YRnhuzyG",
+      "lamports": "404571283",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "DJetHihmJsTXZ6p3cw1LViCimos8Qm8AnFScUr1Ceke1jgiRWztd1wB6VaykwtCJkC7uFTGWbYpAw9TPwsJ4fQy",
+      "lamports": "162633375",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3UGncJg6G7UBbjw3MsdB19DndLMgsk5gXWTYmzfto8fbfLm2WGUphwirzmqcztGTNwDTNwzzzqckYzZXCB9DLV2c",
+      "lamports": "204627734",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "Wj4AQdmXFNR4UWvgCzuQfuo7PKfiQUnRF5cuVuHysHH3us5vQEZvjV2TsBJEYN3gLmVNPt4ahth7LFdDcUC7KnA",
+      "lamports": "387074849",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3K5crZhhU1ZoEUHdoWmXUVkyq76px9j5UTFajf2BnsC4NJXXVkVZfY97Cg5oHEyhyp1BBSMakCuU2qiEgLsMp4eV",
+      "lamports": "893085227",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "17McsWBUqiJaWsy19kCgRrj4oYQMwnLKNttt6cWMGUTTtv8TB7UzB8ZZTkrkZWY4QFut4ABDG1ySFjvSqRDNfKL",
+      "lamports": "969535795",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "46cTXZjnJxSDDWa5mcctHcjebyFVDDMSZz7ce2KNkE4hQU4AVyiYpUdSGL6BUa56x42T41puDnPJS1jUbc5uQEEr",
+      "lamports": "685681612",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "56fUW1d75Lz3hZqYfk9JnnAdLBfDx6ZHV5uBJAmUdJz3YGzbVRjjQLymwr4pHm6AJBYa9U2soaHxJ7yyayvZUaj",
+      "lamports": "509187645",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "34AFqfvyt5PiY5L934HncwXro6H3r719d1zA13CM7sjVu2NtbMv3k7XCi6BzTtXnmCxVknUNBASpoWgThSVqnboE",
+      "lamports": "1887859076",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3a7kJWiBvvT7uWpJDkZhdL7q1R52KEA8u1HZw26323GY4tGZLVugXJwZggJqLUmRE73jBktyUNNdHpxYkyz8MFV6",
+      "lamports": "541515210",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4vN2UwwUsUXX5A2Esyj4K3R8CT7GL44pus2SD2buYBMux9gf6rGqiffg9gxgbHvK8tgkzZJtjGAcyhAfokRQ8RsA",
+      "lamports": "1165006455",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "2d2ufaVwmxuYPqC8CAPjRpd7pLbdSZbtNRC2EHEFGM99o64frd6wSZqSaUmRzCCt46PyfVixvfyZQJdCeCMvyb7S",
+      "lamports": "1849860887",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3XTmBSQCFmZqRRQrYS6XUyd6HuXm4KAorR2jnjf5fZDbjwV6ZDVVDPc3HLRYUcEv8Bujb9YRMpFmbF485A7bcKug",
+      "lamports": "1101655557",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4rTKgK4mRmnwpiW4gyF41ADsp83L23YeqHbmTcvVjWNrkyxch6ssC8E4jKWWTS3L5q6cipzQaNLTfSEz1fE5kjCA",
+      "lamports": "930510975",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "MCmBxuDoRBnxXPJyxc8NhrABiKfCW9cs6vjyoaJbFU4d4bnY9X6SASybvsNrKSPetwY4QTzRSTEqPLxFvtjLjeB",
+      "lamports": "1092443639",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "LjWcZ2WsCAiFKS2XYJFFLejzHyuPi8zBhRVHDqHgeCwXY8P9LKrcrKYkwsUX8j5S6vmuJmSaakSxghdf7f3b1iF",
+      "lamports": "143025196",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3p1rzMKtsuHDwR9UYYC7EB6nFs7S4RHmLpzMRsfkaC9ij8yVEjk2PB6DrAj219cy4cBEqAz4VSfsTtSjgudNpqfC",
+      "lamports": "455966900",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "uwaDw8Q9ngD1XQdjt6WviU3FxdefXgea2NFz4ZnUBWHf4N2X8EUa4iQNfk3WTiWvULVytgNdRy91FF6SoDNkreu",
+      "lamports": "52736987792",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5c1vqBiFAYAk6n1FXLehL32Aeuj7aB1xdbLrCBXbZETiJataZZjujZ67UDAEUgth1ZdNaQSkcyMD9CKCb5bjMCim",
+      "lamports": "15274388970",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5zRYPvBesY7hQDtpwfPvXQAkrzQALY9XZzt3kwzfCwaLgG7s5b3hdsZhUN2t33YjFpKhr9e8QYVe641LQc58NMMu",
+      "lamports": "4217117474",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "nthV8GfGaW4mJYhN4B13R4h2X23g3ceQraq5ggvu7fQnmLpAAmnVcvedA2zbXVUMjKHU3M1MgQgtwCsBxHJPet8",
+      "lamports": "4033617095",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5smVv1tjjRx6turzJYPaFcYL5UjovrkDjDh4P4DidTYzge5NKCkMy3VNuSb7dtaiUs8ZMrB3AZSpiqGLc4ZvY2R8",
+      "lamports": "12216004831",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3hVbEzL5nHGExifKuJFpLn1TXtD9smXzdHoxdsxPnmd6gGHWdRJtUQfp7Cth5SS9AJfssP3cV6gyiwkqdh43WHhp",
+      "lamports": "1310406659",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "ckit83w9JoGzbvgZzPCNXxcmo6ExZYGAzFKdyEZoZseTAgFxww4TwNFpqEMwjuUGdFUgoGhQ2GMRJsd2t1mABQ6",
+      "lamports": "924700229",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "Z6K1YT2a693UQg4iriDtAk2hombR6b1VHztMyj4VoVDWSKtGipEyicuysCYAFV5HV7NVgr2Qyhf2acrdVj3fj95",
+      "lamports": "586922016",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "jhrngKbgi9SCPEr5DFzsV96sFNHcibbWH8XCRHsRZLqKW9fPZJMPLBrHxwuPtweKvGGAFjNQTLZxF39Pt5tAn9D",
+      "lamports": "1357825879",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5Ht2vbrBehE3wWzHzT7JF3sDu1SHVLXF1oj1hmSMg77vYR9kCbcyXYs8ewNjekn6jj6bnTd2vmh9maQePHBKKyNw",
+      "lamports": "601836555",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "2AojahuZ2MkV2VnpdNckaCvFcYSfTRVwcray4ZDAgY3Q9ZemADCbqyQ17qSNdekcCbFzWpLi1GMcWKAsZUvkmtBh",
+      "lamports": "229104017",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3CA4nJB6eQEtKo8C6EyM3xoxhTsrK2GrWCKYdt6Wtd35JoZ7KrPqC4aD9TrTKEgmRn1ZEr5UX8TS9shrDh5LqHom",
+      "lamports": "613718186",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "55TfwWkbj5tnqmkFW1745m856JHy3YvDxc4SdxjJc8ir1LYDEQQLJjiYponm575ncYafoJSrQMkC77AQz7nYE5V7",
+      "lamports": "898543636",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4E4U36zgvztkd7MYs9W2T8D1RxfqzqzzSTzMijAnoHwBD5H7FMWJg5phz1vnF4oNLQuvokwTYSFZvKhkr6vkit4q",
+      "lamports": "374435283",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3mFTDiQ6ZHeG2nSN2e1Zfhok8F6pR2EpedUcEKHKUDM3eJpSvUA5SoqLVzg2kvW3vjpFVoAFadU8oyCC1STEogPK",
+      "lamports": "356624896",
+      "pre": "890880",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "2cnUtRPCE5Gtys6TTPbfo3Qq3ey75p4HFuKHuQushr4N1wxK6TXjDKAYqAegJJrmreHtxreSFLHobMbsdwb67bn9",
+      "lamports": "524916954",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "2UkjYJY5w9vNztx9EbRxa4L1xVy4N9ccc1LpXEUDprRwbQPQXW7EmzJrFKB52oJgf7taCgZBNHLJYg8kNN7xVqzL",
+      "lamports": "497075331",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4eGByG5dvMr3e3BZfJzVC4yLaVVE7yEjwEoY9sipTD2FJvvncruGqSZU8jJb5kvHNmiHNPZLZs3TsPpsfxiU2BQo",
+      "lamports": "380664234",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "S5cApRgzsuKPUCFfvpJcSuv3bDzQzkNvSNbNcFxBy7mDQZpCrtUDyHf7xwX75quGnmc9152mZAEMRANKsXgrBKr",
+      "lamports": "763811478",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4CDztdTq9tEkgGVR3GEQBShGdj5gQTNAZcqfh7VWZhVc7MdqCD7CmwnFRjGTofySfp2aZ8H5bXTwRAUmLNuLYjHz",
+      "lamports": "1158613493",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "NNwSprqPotygePAoxrT43BHJWuVbsYoupAZtKA7iRaiCYStsztaKza93FTGNxALEJzULn6uyPXjnqAc6mRT35qm",
+      "lamports": "543846141",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4jcnrVwRtzHmiLpSv29jk9FcmW6hvcb59e9uK3NJn9TJcYFBC5Bn6t23TxGM1otPb26pSx4wLua7J33s5asECWi",
+      "lamports": "2715549831",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3fkp5ZE6adaR57fPoq9uaRhCo34UMPofc3CGdzVmQY9mrE8EHfsoJofsob8Yn33H6QSi8Gaeq6j6HFCH4oAz9s3Z",
+      "lamports": "612201984",
+      "pre": "890880",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4Ke9KGZeih5tXoXTX9SdyoxkRCugtiMhLLPrW8gH1Mfi3XrJ4FVMqnR7vWjUvWtV6a914q4o1xV2VXvVkzMuz6XX",
+      "lamports": "814143447",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3Fgw5V3U6bNCp3dKCBms4nKp5KxwpZj9upYjLejywrEDm1GurAa2mu8m6B6bX7sbysAEHgMhyixvBacqdBkAZ9m6",
+      "lamports": "1235234456",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4SugEHMB7xEbHxZRZukFUKDM9eQ8Z431Q5A3eR5ZWFdLHe1ifEeLFfhrzojLwYa7JnE3xYtV4T7EqWC5KTimPsao",
+      "lamports": "672173060",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4SYnJrnUXyLK7tTATfGkemmeiEyyzXqU3YMkMngqNPymcBoYEza8ynkJyKLT7HZJgwbQpfKGrD3GHiosu9kTYoUN",
+      "lamports": "251736887",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "478h6n9P42YKyiqyqxJTU6kV8r8iBVeLS4aXpgFbXeLQ5Bz7ps2Vecda9jcfYmv7mpRHYC4DYj4kAVFhKJZoZJGa",
+      "lamports": "582361473",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3Uq1ahMpWAHE31m9boHWqfXgEZAL9coNhJ2NsxvWDhYJAphVm8Xn2opWEbgyDH5N9eesaUULgtwzB8mMCh464k4m",
+      "lamports": "413479445",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4JDi7Mr7zweT7D3VUTR9p4Vk53iZz2JHut9ycX56AiiY9yiTdTP8LzyHbyf3pKHHXvJ7Ta9RGsZ2QnZnqi7GjmUz",
+      "lamports": "370158694",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "M9nA6ASQfnzZgVGvPu44Y1EQTYpWry4WZ2uvbht8GfiJrMMpHxvctd9hnKnzgbzMp2TYANhrxFVo3et95afv4QU",
+      "lamports": "465668712",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5gRY2b9XkJ8wQSpBz4vu9m1TwyNdjbRAi9Rr76gn4CJ7WJ1tALNztZRDjh6bhEuAz7BLvwFuChn5HMnM2YCt3csg",
+      "lamports": "622212798",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3jCeUBRbsawCoWT2VkPmEcADQyXQbr1YY9v81rJAjerHALPVpExwQRZzrRGUCBbHVYq3mAkYFvgczb8c6wnLm4nz",
+      "lamports": "746218097",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5JNLDgz9LRMMWQhXfjp1QRoDhcE2yf96NEhn4L6DXhhp2oUzn9HKvxsAPQdFbQgbfWdt3a9Aetssp7pjyLThR8DR",
+      "lamports": "247927906",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5NDTMz1wuoFqZ2jX3GK3pydHWetBDT2oDKXz8mCZqkFxtL1ey6u5w4N5PDTEKtuUfzuhAHarxFuenS6ivjg7BNDL",
+      "lamports": "196006592",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "35JVZYaduPR1E4q52isWj2mRYUdSpBhxje3j2CrsjQWxAYMzvnBqTDzTWWNrgX6XbQ697q2kUVX9HGoreGa7jwez",
+      "lamports": "271096709",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "31CM5f6DtrQbzxctHG5sfpZQiWR2sNrgYCSbBSo9uQgjeVQMBBKSpAcopoZydNgnN2heVXHBeXQZBhLDjFx8Ewx",
+      "lamports": "5682131833",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3RiioojQCk8DxUkpe7tDsbGv66u5bNBaW9ggE4C1EFjo1agefGAKWhNeR8L9Aeb9Bvq7EBXqD6NpFRSzTMJN5ko4",
+      "lamports": "1537827210",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "9hGgmRjuPW5qdLvosNVUcYDNg8FpvbuPcK27A6GvaCFxd16hNfs8RSSPMg97FE1PcwNZm4C1gFAQE8F3omg1vUC",
+      "lamports": "2788887830",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "2VmsR94RHYiEmzBeb9X4pXjwkfJHGTLo3qtR6yUVS7btqvA98M2XuVv2rzdGskHKo1daYfaT4X9YoPvSgHcdufF",
+      "lamports": "1616147715",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "MEVd1kPoVvMzL7EBjcnCfYPe8ow9HeUY7WJRY3qt14Ft2Bhum82ExwH8Fw3rSKEGiPygYWmY7c512kGaRKWWuRu",
+      "lamports": "328471653",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "31igtJiczJzXKFTVLExRs4uQuu2EGDhg9QX6SpAXZn5jGdQBLH7Do4ApdzXwevcKBFPi5YnPaVmmgu3WGxE2XhKv",
+      "lamports": "6468618345",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "5A64VtzbwG4KACSAqfJ8J3BdKjUcSevhVeZ7CGpHKHot9Tx633msPJqCp7R4PhuUR6Y6tJXENEEttKDaCwZXpj4v",
+      "lamports": "1650980353",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "bo8CVj4q9SPHRcq2idFF7fKptqqonnHsKjpxG8B85orvFpSR9QswNsWizcQzH4YguBSAX8xRF8bisw6a9SX19uW",
+      "lamports": "1240949021",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4Aq5MPY6c2XiYub11nHUtBdW1kCPc6CBFXwTQ1tuzvK1nqhYPidxjbR3CE1yRukKWij9uakc9pRBDqBi8v61VSQH",
+      "lamports": "305539803",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "628gYbNyy5eCsWDoQDhiUtJKkAU7KMaQ6VfFuABb2tpAyzHsPZBFZmAKtWXHqXMMU76ApdrJAR1bzs25iLoFn3uD",
+      "lamports": "896690885",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "64RcewoSWyVhqxLaMBvR3cAzBRGANjzWJXCZSheGxaeh7wUpBgbs4iL3GFaSGXGVfX8g9fgGUrmaG5APKwcnJo8d",
+      "lamports": "295712266",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "XFGyyEbZ9CwXz88JTMeRMDHniReVrv9to1mqiet9vhDPnbSgcbHsKLHJ6irXLkUMKFVJfKLZwsfwNfdpaCFNddA",
+      "lamports": "877922300",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "2uGiuTHWGYDtnCG3dBXJxu2FzFx18dNf4jnSPvVxqEQPHXGiyk6cHsjJAfudkoZmTbd1EDUTHc9Yvz8cJzvb1D2S",
+      "lamports": "304142702",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3vccRmnjaqJrmGzzZJHsfRx98NuJCRVbYiDnbWD8inN2iyB1Bw5oyKzepsxQVKZQJ7Ri3k3EVcYcR4jTXtEEALdY",
+      "lamports": "1223217168",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4Gy6S2ZKQFYy7QUnw4LaFuCyQv96uG4wNWouq7nMaZ5YSSe9GnFmFAqvo6NXCibRDDnCi7WN8xhPYMdcjmHrmJb6",
+      "lamports": "2183851440",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "2bdW2sWh5eGyhvg5XxuGr8CfrdGDjud8xA7ZDkCB2ZXc37dF5og6XJEWZESqwM3xiekMBmz6qdG7gtWKUE8pcbfR",
+      "lamports": "531353179",
+      "pre": "890881",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3aqaT3DYcJeesjeCjarZjVM2qqeehnT8uuBcE3fUHJztJQRzvU8KBPxoDiFrtpmvkahRdULEzrWfrLgQRDuiUBV7",
+      "lamports": "322630344",
+      "pre": "890880",
+      "post": "890880",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "63mEc2D3L4eNu1umtVUeGd9kx6TV9Cctx9WFy1dbjCBBVfSw7mcz9wqCjp72LEm45yEbPMGVaM2NhXhL8FbmLFYH",
+      "lamports": "206747189",
+      "pre": "890880",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "4NWfUU3xhHrFmX9nZuNhbfo5ELxuB8j2N9uLt9V9bD3xyR9PsYDRmfdwP6eLRwSKs3oBSswqK7NYNy7ogQcNEVjR",
+      "lamports": "933574397",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    },
+    {
+      "signature": "3az6beLFNMhEaivnUjsMGevD4u2yZmsu68wWjAtLgLbtpjdmgc4MXk4bTAByDXx15o1wEh2p95LUxZ3RGZiQkvi9",
+      "lamports": "86957952",
+      "pre": "890881",
+      "post": "890881",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/page-0000.response.json"
+    }
+  ],
+  "unverifiedFeeEvents": [],
+  "decodeErrors": [],
+  "netVerifiedFeeLotsLamports": "-210484969915",
+  "feeCashReconciled": false,
+  "pendingVerifiedFeeLotsLamports": null,
+  "historicalNonfeeFundingLamports": null,
+  "actualDistributionPaymentsByAddressLamports": {
+    "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b": "157863727454",
+    "F4tvmVEZc9DQQVPxoQeNLaGfvXw6vrbHvC6kECGU3c1C": "52621242461"
+  }
+}

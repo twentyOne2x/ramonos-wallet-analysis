@@ -1,0 +1,2912 @@
+[
+  {
+    "address": "5Dsww8QXuyZdHMDYCebtzdJsshFDr7e9xdLvAU39gNgL",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "6uii5h2tMHDBpVkXkCXqxDjgWkMJuLfXa5DnWkEvj7vg",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "9203fa3bfb43a7fd4fab7cb6c5978bd42aad9568ce0d6076b316087a58c83b4a",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "BNYvXGwk3gfrSkDpjLcfSHfPenAgzJSjspqzc9B8NiZp",
+      "base_mint": "7vDhDEUr1HwviaFkDiVFNXoGKfuMgzV5187jkFEVpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "2WKRV4jjRFPhS8mTVT3e9DCunvUMnu5GFAwx2Sip3MWt",
+      "pool_base_token_account": "BWEN1rq4iRPeS2V8cM6uPqXe3e1R8MuXnY9HcqRsLVwp",
+      "pool_quote_token_account": "J5hsbrCZm3ypDpBptcT6BhJS8xdLyhstsraeDzm6Jgqe",
+      "lp_supply": "4193388294322",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "3pQkM5NdWvrnyXti8rEgFtQC7VVgGD2NrXYrxwFF4x4B",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "EK7yH8ZpXVeMcTp62rsyzVsQ8UgytoSwBTLp5JN4GjrM",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "604a8f54f3598a7ea35854b4bbdb2e7e840b945b8954108d91ea9b39a0ecae2e",
+    "decoded": {
+      "pool_bump": "254",
+      "index": "0",
+      "creator": "CJ9oFL9fDpcRqcxU45PBWhG4XtReiFymMqGvttnwRkp9",
+      "base_mint": "7xmrre47wVbBot7JKWCBdQnGgVYgRwBjuw2gP8x6pump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "F54zrGfUUc6LDXETmVv1sV6hJwbiVhccQvVWkNK8d3gy",
+      "pool_base_token_account": "CEiHUyLWWJoFMjgF22F4bwcBW7vugY6q7atyN6fWsftA",
+      "pool_quote_token_account": "4TS3vzeVCr5e7SPDsnKiqR4J7M43chSnue9PNmKpQy5p",
+      "lp_supply": "4193388297505",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "9kKSqmGcDdazhe5Atdok2LD2tarQLCoyyj18ofMaBKCG",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "pxBzGAtdmaQmmmynhhYLcwWK5kwmUawrJHKi6t6xjB3",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "90bda88df4ca6ea8e3dfeec5f3522b3eead100997ac44ec6331dddec27858201",
+    "decoded": {
+      "pool_bump": "254",
+      "index": "0",
+      "creator": "HtHsTBom2E7AnckYTzyfW8TexeHc65upvw1SV6r4PP67",
+      "base_mint": "DVguBpgnixDwVcM654YiaLCMNiY2cdUYJXJK3u9Gpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "8cfHhQEVBhuzbYgbTiiEoKhoTT3FNoicrSsKn2U3iRPL",
+      "pool_base_token_account": "E22e821rcY5NWjcqhY7G6n7b8cBYLCE7P8FFxHp29oUD",
+      "pool_quote_token_account": "HuybBneE9Kw4vynbWPLhWsErNVmmdbiT8JTMvSAo4NYG",
+      "lp_supply": "4193388308927",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "-535184",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "535184"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "3EaDvbYyWvU9J8xsNjdoNizE6Fvx7j5K6uwbLzM75rEk",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "0665a74dd02267210ac3b3aef7d1e05397b991085eef5e1250a7c99ec8ac4eea",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "AstiP8uhBRDeFkDjGnb3toA1KE2zSjGuGHiKFYHgynNj",
+      "base_mint": "A7CLmwzRPw2iXTGt7sGYiXsneY1ca1NS91HPaKjKpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "4wMbGT1C1LQguDAsYw5wph7XjHgeJdRahsQas2TSG7yK",
+      "pool_base_token_account": "2jXVxYakHa6ixVyT3pf2cGxxT1Sa6BiRFTQW46e8hNws",
+      "pool_quote_token_account": "8uRmAcipryA79r34dEYoXY4hF6VKnd1DaX5Q4mm13CFY",
+      "lp_supply": "4193388293311",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "3PzUqJQtLuW1We2Gp1EXYhZDPUYfe34wVFC7eKt8U5Q9",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "a432cba2301345533ed22383eb3b333e2c6ac2325ea8defff5026f1aac723a80",
+    "decoded": {
+      "pool_bump": "252",
+      "index": "0",
+      "creator": "J216LyfjLK4jFf2T9emC5ixgnSn5Q4oZAMe48fyGJ9P",
+      "base_mint": "5VvJpqzSsEA1qLPW6cAtqkGg3AUZ8BviFAERe3HLpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "3Kid6txo3ePmfk3H83WbWbYZ61aW7k3Y272TgkmdCxKi",
+      "pool_base_token_account": "267BEefEL8QVouQWSPs3XNC514B6ZmkEVZo9na53nGTJ",
+      "pool_quote_token_account": "63d232JBCkbZFkA42KGoGzar1Lgjo7HAp7GjK1kK2xyF",
+      "lp_supply": "4193388311838",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "-14963",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "14963"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "EwYRB51ELS1Tmip6ArrzzWhCtDPTtvduWZeWRbBFHr2c",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "2031c7f1a3051f4509b8f5b0c039ba502f07e524b6a49b4ece7622ec3dc43017",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "Fzi1RwbeuV4WFdLCXM5bGrm1wzy9DrP3qQpMSiLTJcJo",
+      "base_mint": "9n7yvUm47ojtCZEFCz86tEyLyqE7ZcXaVVe85jaFpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "FZ9sc2NfoL9rrKACaBuFtiCGLZc6ALeVr6zWrb8Bsy9c",
+      "pool_base_token_account": "GVkKCDpNssJuANsfronoS47j7zYWqgXtRfW3DPE3RKBJ",
+      "pool_quote_token_account": "6BXi8bEKw1xJUY3QKBLHMn92SMYoZYYEvam7Gp5S8Vny",
+      "lp_supply": "4193388303105",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "9Qg3rfZyNwZuY9J8UMcKSWeEHfUfVEVbGzeAGttzn31E",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "DVP85ti6rpuropr29zLoCtUvbjXHmEetJSZaozE9TKS5",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "EvQ8hmpbHubg9rZegqtnzzYz5iQAZTmFCBKCEdDYFsb8",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "BHWYtmqvvQNCcoquAX7LxcCJfzGW9QBTc3F9bx64spox",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "CogZBcZ2vsT4vmFvTeWMXo5oqTNUUDPEzgcP85YDAKv",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "6c38db8c4da07641e0d9111fce1b3cdc5024ffde9d79ce415e7b59975adb13f8",
+    "decoded": {
+      "pool_bump": "254",
+      "index": "0",
+      "creator": "DvhWBPJADSDxZqiRWwAav8MZHsih18DEXjWhPdaiuqos",
+      "base_mint": "77rR3nVaFcQvpiuGNvktiHQ8AAA3WweUV6QcNM6Tpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "32q66wAJSgB2Jmq9TGkXsKB24Q4JYGeNRQjZWoaFaejh",
+      "pool_base_token_account": "6aGMNiLGpnn5kc1zLgocdMJJ5FsFiFaYyPZwymXqTtaT",
+      "pool_quote_token_account": "GzGD7eUtsgGxcLXn3nq6uqJ2gzeUA8FZMmbSdYVHqLph",
+      "lp_supply": "4193388304314",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "BK8V96Cgkc9LKg6cd9i2F45fehwAHPtcX6sa64MGmoC4",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "2t9bH2tR1HnPMGMvpP2DLiEyYymAp39JuvbcRCEU525o",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "G9zn4jVGprmxZN2vQjNkt3RZi1undsKu9i4Eh39JCDmr",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "DPQpeUrnH4vNmApSRQFprFFJwEjkowueoU9m5EFhaWXr",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "3x9vRMLMBhPEYmyH59TGDEmC97Cq4K7UVjkTDN5zsY4x",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "GzwRYV784fVgodQ4gwMuN4S73mufsthvJ3Vse5JWbmSH",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "4fEsxFRPUhaxzbewHsy2pz5KXeJmHwwHbraUWoySMK8u",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "6d700d1b57d9892a8704cfc6b8b744ba1a9d5fae2ed9b109a0e411db6f956425",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "3fyFLSwMARKPnRyhCJiirAmoqu85GWoZugu718nQqxBT",
+      "base_mint": "357FS9twDuFKtJ3DiVMaJCFdmi6xLAENyNricvUapump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "4Mok4PBhZfQD9g84PcJUoQvcvCeu5DXrAT7U3FCAfSyr",
+      "pool_base_token_account": "HWX3vtLBujuthGCr8jGqsueHEhKDmkAjPDvreihP2gWv",
+      "pool_quote_token_account": "H72QJjjuZLK34EVSxPLoMCn4Umjy4M9D4mST7mX8orJb",
+      "lp_supply": "4193388309790",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "6ZutmKmew9oEMjMH7e57cA1nAG2zvFCRAqSemTYyRwVM",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "G9Zde7myjGDy5m5qpB1GGxenD7kLjFcEV41jSPhEG5Te",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "EbDGGJqGCszExgcRhv4QJWFmZrCmU2XDx4m7crWai188",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "9u7YQc1ygevatWTkKM53jvMcgdfGh17K8aWdjoZnpzXu",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "8Wt5M15cdXmmbgMYHXdTpUodzvTB9pp5E3CaXwgwHiXn",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "6X1SaSndWQy3Tuuwetjvpae1ejeaBd6utMezvTg4nhtp",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "7NwZnNT7TbzSVozYeWzygeykDnRdSKcnrzcMf9GxnA82",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "6dxfNUcTTkHGGUB8iPfJqkb6ALnzNYoZBaGrvgGKdMLZ",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "ApfYVsQsu5Lqph9cNjwosy4fsXBiTWvDChWzzN7nMg2h",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "abd821ff78f88938055ef51ff382fa855225965d1a039ff9260c846d1cc963ea",
+    "decoded": {
+      "pool_bump": "254",
+      "index": "0",
+      "creator": "HgPvUftBKXmd5uZq2w42PjsCPL8Gvcyfxn3BAdRDYRfX",
+      "base_mint": "CgdBS3iBAPft9LuzZ19b1uzF6AmRkqfcrEKq2Tpepump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "GWxB6HuxVWgZVW8ARyPFjZyQvZX9tRGNfcWbF6yCW6rK",
+      "pool_base_token_account": "BuH9b7KvmxKJepUHJ6PMB5p8dsWCp83SMYyTdFZmQmo",
+      "pool_quote_token_account": "9egWRcrqXHivnEwBL4iBv9EizmiGvqEphZoBoEEoed13",
+      "lp_supply": "4193388304560",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "3tAGFbSUNo93avP6UEvqiKiRNzMdTufknxV6rSVrBngQ",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "HXuGobtAT1W3wXA7yugPvSdLkJKJL2RDjn2JrvrqQ82c",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985871",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "1f5c2fc37467eba503dd099f68356f377a17ec86ed8a09b9e5e3392e49b1a369",
+    "decoded": {
+      "pool_bump": "253",
+      "index": "0",
+      "creator": "7GVnSjxDJZQMNLfvhiLCpVMqGDYmv5f9oV5kemwgoT6g",
+      "base_mint": "BM8b4U4cyXCieBRPDAAAygiQwKQemEJntt2yWJ8Jpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "BX3x99Zn1z87J7uLWFe5ovR2JPqpaan6eiG3JrwWjW8f",
+      "pool_base_token_account": "9MbxcbkcE3nrhSTDzdL8MGwj7CciKvvNQaR51x6MBjtr",
+      "pool_quote_token_account": "5nsFoL5xChybcdLjRA2YxaFNgVWqivPHfELqGGJXhx1v",
+      "lp_supply": "4193388305448",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "-2595",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "1577",
+      "creator_fees": "1018"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "5aS1BeY8dMUwjXkMjjG217hwR7etgXCkyc9pBiUr5GUK",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985860",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "8bf19a85a6c614371ea0129be0fcd02c4f45dc6b868170004a0af8b7d4f2c98f",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "7hMrLY5mBjMjSom5Cq76Pjj1Uoe71znZFFCBCB4TdL6j",
+      "base_mint": "DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "AmHqhiq4Lj7egk3QMA8ZJDPQoo3UWonKeg25ZJbMfbBQ",
+      "pool_base_token_account": "71kvtVMzQd3AbWeAjLfB814KJVgqAjCKdEyTMuU5VpM1",
+      "pool_quote_token_account": "D4nk4LStM5bUMYev6G7CGtMES4Psa3GLEDXbh29AwCZi",
+      "lp_supply": "4193388282802",
+      "coin_creator": "QyAJG4JnLHBshGP3uw4GfWiNTfcSmGAPV6m5WKweKQn",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "-666513",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "666513"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "oyBNLuHoX7goTvaLXW3uu88HL5roXNkGNPXJbwFyyNb",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "G7BqLBmZyqymd4JzcLxJ95aUmnEaJjdU75RvFDCAaDoP",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "d6849bb9f9de6e0a7bb78aca592ec3058a1445b51de1be900a1761071f5b9453",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "6RE5atkgH6UFiPyDuVRYi6sCVNGM53obWhvcGQsVaCas",
+      "base_mint": "ChdQTwhuemiiqJdZNAU6HoCPWX7PayAwTCyBLwTppump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "9WV9XEXLzr5rMpFgTvEcXiqWTQk7JsFutEq493hTUHgw",
+      "pool_base_token_account": "53TvMNvM7qVnGPzAHegruvpySrAqWoQ5xypUQkKERHQf",
+      "pool_quote_token_account": "9ZiKkHBWLkiFFk9qquYxmuTDUjq4wbP7ApojWyjmEfhd",
+      "lp_supply": "4193388310999",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "-4205",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "2556",
+      "creator_fees": "1649"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "4JT2UfUj5szecSXwBW5Up2PiapBkGN6rH1UVUFceopDM",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "e40f2250fb07492028cbc829b97c08738ef96b11074a98fac75216ddd81a7298",
+    "decoded": {
+      "pool_bump": "253",
+      "index": "0",
+      "creator": "BHchkfsZPLmcfGrwF4WchaawwubDhUK5tBjKNE7vZyn9",
+      "base_mint": "Dwwu7JjEVTkKVAnN3URmjHQCk9LwAVc5QDqq4M6fpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "3dvYHtYNGPMM6KyFU9by8WHyyjkDwSP7fs5hxccYHSoT",
+      "pool_base_token_account": "7P4rgGHEHbEXNRaQZmA3Z9i2DSz7SvQfWmnNrgsDCqEt",
+      "pool_quote_token_account": "5XSejbBL9CQDxnko9eyuK1jA2D22ud6uahUksoA8kzt3",
+      "lp_supply": "4193388283196",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "AqKxy3aSKfqGP2DUJEoK6e1sSc6xCtgYPJvJR5hh8rQD",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "85936d1906408c5cb70581dd69e154198f4b8f4e0dba43ab2dd49dc9d8390e39",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "DmSt8GMniZ8Ua4o4ef1Fvdrqt7ARsVa75PQjjbYBnGsE",
+      "base_mint": "6tCac1mPp8wVNURCDJFwGQNgcBsDN7m1gDQR5BL7pump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "212nyuszrVUsZVVHEJFiUNcSwUk2htNcpA8bGLRBCxN4",
+      "pool_base_token_account": "95MJehSD9gE43VYzBA6YGYYBiPuFwhzn68G2HjANsRdW",
+      "pool_quote_token_account": "4vVFBr2s8fdNZhjHHgJtxkAK3LKY119Uhagq6b6twuHK",
+      "lp_supply": "4193388283887",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "EtFk8fCStJqqb4uk4X8yVq4wTZ6vDMDYejeGJP8ftMpm",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "9d55a16d9cbed3aa907d3b1220f3aec60723b581511ca50f1b14425038a07dd6",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "NioNSk5B5ACnge3TuhNyBwRUWu5JnMaPyFDftzQizHy",
+      "base_mint": "ARrghatdAZrMkVLmx1oUqHGsGDyNzQgC7nvefwtnpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "Hr6bpdR12pKthdcaRN45m3keamx5ydxeEUmDSBKVpp6o",
+      "pool_base_token_account": "49njpDLmwXuMY93eLQonfZUwnf4GH3JoJfjY4fftHPX7",
+      "pool_quote_token_account": "CpeZAGC8UKmYuso5598iezd5VodD1JGL4Q7YZrYFwhtN",
+      "lp_supply": "4193388283566",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "9QNfrHeNjDLioe2FzNAGAE44cjWLLYCvkZgQx8k2iHie",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "4e614042069f0d36738ed8fe204e30c6c64a8a937fbec252910bf83284d3c7ca",
+    "decoded": {
+      "pool_bump": "253",
+      "index": "0",
+      "creator": "CfNJ4wxqCvhrDue7aY11pctUbfySjMtfvfgrZAtkLX7H",
+      "base_mint": "2uKZGdAbLoyyMiaFm8UU2atbGwpAFzpn13eEJwsypump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "132rhYqo967R8NaTGuh2iVVoPy5eL3YQpZHAfajQfUBk",
+      "pool_base_token_account": "867PjUsAGhMwHaMB9UyYYM3ZPV81cD32heSxdhezT11T",
+      "pool_quote_token_account": "HLjxWbVqWQmQS4KspqNYE1zD4apgf1czy3sJMvNCZPEj",
+      "lp_supply": "4193388282974",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "2YZCz1zzRF2crCDYjtZLAuGVnMZ58AszojCFUaWCP1qL",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "15356d13af4c29d5b3329cbc94c352f5ae174e4b67acd1a2a6453fd15074cec6",
+    "decoded": {
+      "pool_bump": "252",
+      "index": "0",
+      "creator": "GKHG1dKspys9SNCqwosWMgonEEiwFAZ55TjSDErN6rGr",
+      "base_mint": "3mvrCJT8wdgg7StxxFkm7UoN2pf4oScbCkU8uECMpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "AixMbK2XXRG6KpMbf47DDnXXtTchxY9phiimaFDzRaET",
+      "pool_base_token_account": "2G3D5NHoxnjikSYgewiKVYNhahwhB5vff4hgr4rVvLg7",
+      "pool_quote_token_account": "BBJLSsLwrB227f1NKTDzaTebSaxyiHcHD43ZMew7y9wQ",
+      "lp_supply": "4193388282777",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "-14873",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "9040",
+      "creator_fees": "5833"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "5t6YHbJ9b4dNfaansDyu4qCVjqrPENSVdafFkXTjyBDS",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "3zkhPk1BYjo9g9Sg6axs8LbBQEJzqZ3pGFWniGFd7EhK",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "4DbfE479oRGy9ZESd6iZCCQaJ6yrA4SBpxspkixFjuc1",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985841",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "b6c05578b0a627e65e98e85037a0a00e81a5a0215deed7294914292d40f6638c",
+    "decoded": {
+      "pool_bump": "253",
+      "index": "0",
+      "creator": "zKDjEoLHPS8Yi85LmCwRHKQnBLVAbYMrCiUznAtFs7m",
+      "base_mint": "8VRg5e3FW333eEfyJ81HYN1zNUP4LobtJhnu5crMpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "5478yCkkrKyihNcrfw4oPPU5J4HsM82jydp9kwWQ9m3i",
+      "pool_base_token_account": "G6n1xukUnL8sTZ9wMyyQkcGKfCYbwb3tDEkaooNFKGEf",
+      "pool_quote_token_account": "HrTZaLp21YWdEN81FPohL5VriiMQkDg5dEVfBH8BusgM",
+      "lp_supply": "4193388282802",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "5xGcFZBx64FtDyNmrwB2NHh3oxqzBAtRUfdKmG1TeSic",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "Hnbxgh1cxfiBFt2qBrZdQjx6ffJwQcoc4VzHyoqP7TqM",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "66XcNtVTXZwgCYGTGk7ZfwyUpxvUHE4dFec6cyhLJ3Lg",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "1aa4ca6802ec02f84a7b5ebc2e1556158391f96e178250e8d9cc9aac4a3048af",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "6rntjdmrbwBPWUU3S2ArHxJ4JHtxsruSHfbVWPS94ci2",
+      "base_mint": "G3npFFnvDWVN4hsZ3v9PD4VdZy5DbsKZJWDsdzvPpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "FGPxfeBdBNLqdYFBLMbbrnRuhCXAaJAobZ49sz4wsUAJ",
+      "pool_base_token_account": "Juz1GvZe6PDL4zcw7XSAFW9YB2JREbQbgdducgzU3H6",
+      "pool_quote_token_account": "CnRbjSyGs9VPSJhsR3ty1QiR6g4mCGLjnBskedbZVd6C",
+      "lp_supply": "4193388301181",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "8XbMm1H8Q7MsLPKz7sEktH2LyhoqatfnTQbepHmpXUDC",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "00f7c0833f7d570482dd022baf9ee859d46f2003668179d7983216105ff6daf6",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "F1mJFdiZpW5wxL3HdxardQEKYRa4KLHZmB5hdx5LdeQ8",
+      "base_mint": "9F9wj8h9bQG7xiaEAR4eFF6ePVEL2j3F893h9vbzpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "2Wwq8FCFWpVHDTksmiHjFXMzt2r5PFD9GBugs7rK88iJ",
+      "pool_base_token_account": "4X9tVg2qRUtWNqVDPJ76UYQrkHGnTJ4T1zUTbEDFCR5V",
+      "pool_quote_token_account": "6qw6yCWuV15heoT1rgK62fZrjeYkUcYp2QwfVXcUagXE",
+      "lp_supply": "4193388307891",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "cSXMeLYBFGwpDyqrVyjagyP2gsLC5jMykBWJPwmSNBm",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "6mxdRzm37y4VHUVzH3mNFubipvBFvrE9z6SexgBtN64c",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "JAijJbHn1f9Yk9sHTmnpBsF7sSRFNhXb99gdQULC1ZBY",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "EoV5cYcP3ngchexs2qMSWCsXegpMAFr6WGUS2uj9TrbJ",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "CSSUF3Hmsu2TmCXzno3EtjcTE4mVjnJhdMHf5UjHfqYM",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "ErcvQLTZ9E8hoCg5X5PiFcgG8JCEi9ADXHANggwcXkBw",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "ee659cc6de8b914dae67b98fab63940945c944f0d4180f26d98ac0e9f9ceaf3d",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "8GNDgbHp5nDH5s88zwS3ajSfqJdW3RWgLYZfL56gYF36",
+      "base_mint": "3pBBa4pELb8HRneNwE9oxWTowH3hbzHkedk1f6CYpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "8bwKNigyPBgLUhsumG5FS3UWCVXtbr41YycJxpbjfa7f",
+      "pool_base_token_account": "9jwecTb9ZcMxkakmrzjRjN9du6pt1h9FoqrsjGDsURpm",
+      "pool_quote_token_account": "7imowEessRkLp8h6uwVKg9ukLLbP7PvSiTTnDkDvV8M9",
+      "lp_supply": "4193388282728",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "78WMWxuWj4D84rAHubpfBDGKR2HZPQRnnpxqWsrXfwuN",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "e2d5070a8b6bc8bf57aab429f3b542717f01f8aa34350dbebd6eba66cbde9032",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "6sLh9RZKN5MAQ5qHLYdXAezpspCPLwixBMdBqjJisRex",
+      "base_mint": "FDdL2ufMCiQfAv5QWk3K6vU8Cd7TfTHWY45fbogppump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "AHizti3kC1dq6jKwXj81hY4azDGVCAApFWj4ePArnray",
+      "pool_base_token_account": "CVM2NwZJ74ZUZV438C6vzAzjgAVYgzbt22tcWrMtZ5Yi",
+      "pool_quote_token_account": "28EwM7fRnaZqXfg1Hkv98huuYPK2qmxM7ffAAbAiTZ7V",
+      "lp_supply": "4193388282703",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "ieE7dsaarKaHXpwxFNbLZFgtVb7rHQXchtLFUxEgq9Y",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "ece4f5a6839348d252e258e3d2e5d78249f6a564be427047945aea735ea68836",
+    "decoded": {
+      "pool_bump": "252",
+      "index": "0",
+      "creator": "Cjieh6gBnyP58vSToEChuiomHSLGgSrX7djhLvFm7DL1",
+      "base_mint": "J2Y4reSZNwsriKaVFqRvgZE6UA2WjUdd4QfM4F8rpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "48sHHttFFNUNWwHLZGvASmzJ1hnxgPg75URS7NTMa5N3",
+      "pool_base_token_account": "FVVLs2rR8MAnSPxa21Wpcb7gcGux7zxf3gx7KvrfB3Hp",
+      "pool_quote_token_account": "69sxYGTiEfGAw7DxvMrPMckdZMaND3kwWqtufHNiJXNo",
+      "lp_supply": "4193388338876",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "HUMF1M7XWYRhH5CpMgBStfUEHWqtdPwF8mJi6yuggdSP",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "BQGdkSn5NtUCVAZFqp24dZFbbEHTnwBu6dgbFq2yquNc",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "db9cf675a52739eca0880fc0333bdc3c96a9c482f39d56e3c3d76e5ac3f73aa7",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "HJ3zXjYEQuxudd3egJsip8g4UzXDXazLuEYUNfqWDcHp",
+      "base_mint": "5VcLSTLdqmmyXJs6qS9pZ3HXbe1jBtnCtJYDRWuppump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "3fWgBe2xkKVbAZsnZd9Soru2GCGyh5qWASgy8RA8w8vb",
+      "pool_base_token_account": "7ANQFvGE4NTvFkwYW444gBz2wM86hyhY7KC5vBXpJvvY",
+      "pool_quote_token_account": "9xyfnN9jGp8ZPmU2YckcaWcF7rM2TzZvChrbUMkXvE3r",
+      "lp_supply": "4193388340800",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "AcXZTXp3tXB3ovs44TphAZBWKD3UAXKX2m8W8qHNRHto",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "Dhiep59d66SR32WbxuZPjPwQmrewfGryrkEwsy9zNXUw",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "cbb816d44fc0907d14adb26fb5121446a7e91e85330bc2262f0771d7e20a4092",
+    "decoded": {
+      "pool_bump": "254",
+      "index": "0",
+      "creator": "7GV24SYsanBTgvPTkf9dhorU4zBuw1x9qxuQKyxwPi7Q",
+      "base_mint": "35awDLFoTpxxGup8B9h9VKoGNpCcthXGeTPzZGebpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "8W1Cyr3r22izBJvdpEHvWXigJGfZTx5x2xLEMcehKNaD",
+      "pool_base_token_account": "GLsqpTqiq8RV634CakxwGzcTxz9zBT2jwGBthaPpD48W",
+      "pool_quote_token_account": "5W31xg1ithwg7BHgH5o2LRD4adWkm6GxWfjpGCsg3xBo",
+      "lp_supply": "4193388326023",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "G3ZqS2HGWSWPVAYoi1NDefiPsELimjCGdSbvHBJovC57",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "FLArcuYmtoSL7iPxQ6LqnoJNGtvHtx2SSep6NhqziZY6",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "2hMBuiHeXDJCfvUbCSFMqJvt168Nmm7i7Jyxyh8FtBRa",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "8aoMG1DdcVxPJibyyiELHGAUEHspymFB5ZxYRWwEB3r2",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "D2MgZZRQh9rfYuW6Ta2sd8Q7wRjZUbdCqYi2PR9my7PV",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "HAvhtTSaKEWQfASycUYHYjDMDL9u5gszcMvKL8V9NmpP",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "7f9c196d8571d840ded27116d0ea306a289635b4cab03d15146839bccdd7adc9",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "6ViByj843JXiZGnvaP3QGMnh1KssSPWc2VTnKADDYvkY",
+      "base_mint": "AFTQ1V7CDsRwhytcJQbEy23M33VkfNp124D3MKWDpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "7GeMPb6GFLvguC1njFtAwZw9Xgc3bEu8GRgBj9WTkFE",
+      "pool_base_token_account": "BhaLoDQVqGqoPuxuPDEaobPUa13D25xWBDYNA9dH26b3",
+      "pool_quote_token_account": "CTh8TA5BbFFS25iFzNn1skN4PCF4cp2S8JBEanob7TAD",
+      "lp_supply": "4193388333399",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "HrSZndymgnVrxux4PLviUDKtZq8aqbHJeRM9sLjgddRG",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "HE6L9jfkAWf6A3LDMWixYDpdpmGmGtZthuRfESWtagY8",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "3e3c07c07f1387c7aeb70e762ada96523e1a01eca0edf877f52c897e591430c7",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "ARUna4TaqmbRHpwPMHcgrtbwtpV2njz3xkVMBSS7th9b",
+      "base_mint": "FZRpSWHYG75jhbsLzYRMnam81DdJkybmZHeAsSYNpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "BDEo3ZCQ1xaPio2x2UEysdWhSWEAGi4dnS48nkpDSDrn",
+      "pool_base_token_account": "AYNbW6y3PChmgmfaZPZzFfmqmSs2E9ZyDuuHpxks3QCj",
+      "pool_quote_token_account": "AeKfYtSX3zaTfr1sW7KQhxPsXC8vCR4BN3GaLti3iKCk",
+      "lp_supply": "4193388308384",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "BmQZA1CoSLKxhvpkoZgrfdkGBc8E3PxBSAWNfe6wj81D",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "131iiBeDJyEmTErCJLEYGvjKErHk4ur8MGWRYLSFRnca",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "4mCPkchgtXHJ4qQUY1icmygSnTkdAA8LNmX66gsBWjC9",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "2c972917a0fd3aeb4eafd1aceaf2977a2802ce0c12a9209b54de4dc02934de4d",
+    "decoded": {
+      "pool_bump": "254",
+      "index": "0",
+      "creator": "7p8qmsryteyMJ5qTsTAbErCViQLrnPZgRSc5axbrcSDE",
+      "base_mint": "AbiALTmFFxiA2iuwvZRbWZ39wETFuU43dgdPm6HYpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "BJF7mpGCeWzELjBpJZmyfj1iLTBhM3nikizHUKTt4LYr",
+      "pool_base_token_account": "EP3SFeVbttPQiY7JmmPU3mREQGWxSPLVFv35uZtUvVnd",
+      "pool_quote_token_account": "Bc1hc35eC8vSuUM258Mn4qcKSVHGWT317VKUTvLhaaaR",
+      "lp_supply": "4193388312233",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "Gb4BM3CDZUp1F9cp3jXKLMY4ubfA2bg3711FZAUNPJsS",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "418tYJox3na6WG2WTrsgXWsVQbN7tf4yfs3YroUDqQpS",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "FvfX4mLVo3DEvZMqnqvjJvCgRBcnBgcJRbctEQndHbzv",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "3Rz6BaXVC7ahiS6TB8Wgmy48Bvqnh1usXL8Rceue5ZmX",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "GkztJMoquoUjTJ5suRL7LwCRahxffVGJYb3GTPmGWVPi",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "HRRyWS83koK38TMo7ADLtq8mztCEcS1nBCh1PqXPYBGk",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "3UeC64iNQmXZuKMCLCxM3FL981FnLTsV3F1ETBXKCX4y",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "2jVUEvcoLqAHrA2Sua2DL8kGGm5jJ8DNNN7zKFUkvCaG",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "5e96k9PWyYk1iKMLrRdM1FoMRa7fvffJoDoDrLx9peuN",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "da197e2f1d5eca02971448bf8c64b1240424630f5ff6bf7518aec760e0d33eb6",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "E1qrWxFZEdnUFYEFKEtreGuNHNMtqS1bcBfZ9QBxM58",
+      "base_mint": "B6fY3u7kACVfQWWvt5zAJEPRxw2uBQQnNAGLpFpspump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "6KRbQJztuvJyPSSd93NMapy8gQTBywfVMPZoJrupDvUe",
+      "pool_base_token_account": "FwoRqrqwQSR3xNV4iAim2tRyAQfe7XkqbQct8pZxUifu",
+      "pool_quote_token_account": "HaemR9kZktEz8ZqkHwmbFphnUDXaHCebHwL5wzFDGQoP",
+      "lp_supply": "4193388283246",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "AKYtZruMKTmEVEA84W2Ur1HcHN4xPfbh2LgMkXrorrFT",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "7r5XM3dBKpLrWM4Zs4q7XoGxSEUxVfiPvoLbggyAyET6",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "2quqB5GXs5EarHV4hCeh6o3vP8rwfVHGxniEU5aMsJDL",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "Ec6UE5ogrLvrsN3XNTcdDzDPLNvFPUfQg3r58m4XP9zX",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "5vFzZQPs5kaytEyDXfNSopgHepE77iZjrqnLcfLYh334",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "4HX3TEhvKhihe9FWWdZQDDsswoS8M8KQpHeKhec8CAHb",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "EU2EFxeTkA9qReK4PQNtTpRPzko8VsPtfJT29t88z9bJ",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "8uv3ajEQPy2jVk7jZiKpTr74BHxwR7BFvuocJRDyE7X3",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "Da2FzNYMqNnmSEmDrefam1CnLmFaVHXDE3aAjcRN4BC7",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "FVvgdgoHdbChHTiYvjRTEVL6GPJ8TyPA36H6V8DPvBGu",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "6zh62YUzAC6dVDtAtJjd2i4oXP2JPSpamKnmKeASAVbN",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "e14fc29903b26c1f7758fcde639882f0eed2c4d3d87f7ce1a3c09f1082bbb6a1",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "8Kb7NGmyD12deW5pV3Ygf3r2Z1iTAs1UtKfGGUbv4hK9",
+      "base_mint": "7pnJoDaUu6onmeZqv8E1ftQSHM4E4dvXKVAHL6sWpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "AVnBtSsqJxVmz5LfjWD4gik3ufHG3cMwpd162mZEJRpQ",
+      "pool_base_token_account": "4uwkvb18RnQLDtNnbXvUhLYHC1xw11eWtGEWxFye1NMj",
+      "pool_quote_token_account": "APvYgAouTevhGWsvJ86WcxirLbULTtH4qchWCKxs4ekA",
+      "lp_supply": "4193388297579",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": true,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "Dh2NY6qTwSEVW7ZW5wD4oHtZdGX3kgrjQVRe9Jae6Ei2",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "GEggQ9TRMaPhZb4eJEREmAHKk4rEmRiWG2yQgWZsSS4e",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "GEC3W4xMWjgrWsDrb9nw99V3k9cBPvbemremVNYqsa5S",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057,
+    "type": "Pool",
+    "dataSha256": "c0e49b64dce28766c808afe778ef9c7f029e91fae1584120d578adf076f479de",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "8S8T4uxdEvKj4D2N6kktLqZ48gRuntApuSqRtBsK7jJY",
+      "base_mint": "B6NK2cM4TAZ8ch8QDGejK5e1zbiGK53bfg9DpPFhpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "EiUfzmQNradTNvLSQsuu6nA2yqiYXm61PFZdYGjaZgAc",
+      "pool_base_token_account": "DDmmXvDoMi93YC6kVhsE9Cb9mZKjRYVMUG5zRzT6yXPv",
+      "pool_quote_token_account": "GLkLMzQJZtA1LmhnUTNwgnDE19m7YPdNiK1hdehcgzso",
+      "lp_supply": "4193388312331",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "DYZsWnu74P1SmyftgMPBs4x7JEvjvk5XNCmT8xe3ywnb",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "8oKiJhW6YaV6dnYm8ZqAXmwqdMhMVmXvohUFq4DZwsaS",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "GC1UA24gTDaTEUtvEoz4HpozsxXKKhFmDJhKVkijb3fQ",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "3FQzu38YiJRoattNzQaLAupJen5sDj8LC3PgyzgHnGsY",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "8a1CkLzC7oe1wNWybztewag39jQDuScbX5521uCQ9QK3",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "8hvjTdqhEsMu5rEWq5oma2xSt32jWv7SqtraQ7GuZC4f",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "EKPrjK84HPQhyVU6cjBeg9VP6kHCubBibaf5ZE3nAxkF",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+    "slot": 456506057
+  },
+  {
+    "address": "BJokD6NybobeMuaP15dbjWNrKfsbeTaZtACHxAWhxzur",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "2Pz4wxgKxXAvSHcZntBQtrtswXbPVU1hvNPP72E4CSKB",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "2WGzquFztqrrNnnBhtHpc7xpz22C8RxJNscJ63LsfeLz",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "8ebK3HpevfwYzaPhdnKBVS6MpYx3DHDix9kgqiTX8hTQ",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "5QvPcMdnKKfsLsMpuYyHBAA6wSZfiZtwWUHw7oyUoX1B",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "Hbt8KAYpAYYhu9PiHeq5LYV9aLeirRwVRUonMj43A9nG",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "ERD2znLe9yVoguyNh1CW8nt4HvqoR7pqgBwNvZ7jw85H",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "Fk2Lpm63AtpC2pUr23h5puEPtzik1vSWsWxFwRmmrCEH",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "DhCvn5wgoNFauZi5hkHiWPFEm65Qex8iJX8KQSNQUDoT",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "HhQxTtpmeLRqFzCNaA7Gz4jQEB77qBgm1g26B5R7Rnaz",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062,
+    "type": "Pool",
+    "dataSha256": "e2ad393390e6472d1b68cc1d44e2a388e3bf31a73b8a773a3672ac3a406a0894",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "9BfDzJHjGXArd6jdXKJFK7y762BK8TYz5nFFsQdz2HdQ",
+      "base_mint": "5w3wo7YwAqrikkAC9CkgFYKhkkJNCoGJuvuMF5sGpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "8KhkUSQC2UboFYupgeCKXoMtqqGBEz6rga2cSTcwZ8wF",
+      "pool_base_token_account": "7vbb52jVVUpBHdUsEhpSEzobsjPrYKxApVLg4WQdEcAX",
+      "pool_quote_token_account": "26zZiCFzPXjmVWDKDciSfoJ5a42wZ4DTjodFmeLXSYXr",
+      "lp_supply": "4193388304067",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": true,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "9QDbQywEiEKo1sFbmR2NDBNXUW4Rb3YJAfgtZE3iggDS",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "C7J2tMr6HvK49jqMEk2AjLiCULFgYAAbnWcKRQWqnw7a",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "CWsaCkNdWHYsNBGAqqrDL3EVWF8egL7iC1ZFHNbGF2Sq",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "BkV9kxUFNYYWHDgB2EXMTPNjXNSCMKc8bJjLR27L96JG",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "GJDZz6vz4WoQQcMnSQMPztdd2MB8S3CwMQyoAME7y1j9",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "6oFEDk5x75S6CrFZwej1xVAoU1bAHpuuaY4oqSgrCfp9",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "BkaXm2h2djx7g2cB5UqKC9rK9bedjWq19GmQZhqY9UGK",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "3eoWa2hc668PzdBKZmBwxLAykSFqBbjni2ttXdVe9pGb",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "Fx9wz6PpqoRtQ1xstPvsnPCjRWoCyLP1b4LpQ9QejbAx",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "26wxJnHdJtpHkstCLtyr5JFtLkHoJHkkTMLQXgJkPMbX",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "A6XQds3grP8a6cAECn4WB13DTWhUtpNLr51biZ3Qe4d5",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "FtbY99KAUwzfkvKXS61LgToztFBtkzXu43ttArKodpvM",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "9Qe9XwFSKRgt6Jk48ws4N66yRqfJ19eEPsMv8EmKw7bi",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "3BhJrL6RsnTU9VWNYemPJf7UKzFGYnvhJu9xC3KohKtJ",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "DjQDGnxHvS6QVeavKKTMLVhaW74to4w3tXMY6mwjr5xS",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "7xdW87uEoCV9iNGTNJ3JJKHwQSHhPYSRvkQQNWi2xQPp",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "7VN6MDFE8NP2a7WsRafT4UVLWH2q5Q7abmoGXBAR6Gdc",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062,
+    "type": "Pool",
+    "dataSha256": "3110c5a00a4262340aafb5e8916d76b466f5356f23296583b02c7e5d14b51478",
+    "decoded": {
+      "pool_bump": "254",
+      "index": "0",
+      "creator": "Grf4Pq3GvLGXYEnvvUEx7m86xYbAqFKNPuTwusuvKmah",
+      "base_mint": "9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "6v8mQQW1edZQmkRSpiBVb9pT5TA9962LimJreyPDa6s8",
+      "pool_base_token_account": "5p7zGTenQzsoszKVKfzr7y2B18sahUwZhiCx617KUC2",
+      "pool_quote_token_account": "4QSPNKv1botMf1n2F3WsR9TsqbbU3zPZj1w6WYxzLxYg",
+      "lp_supply": "4193388309026",
+      "coin_creator": "FhhNzSxu55D2JjzZAf3Ebd3woFDTQvUAc1YKA1eNvNbz",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "CZZjoZotYyBb1mU2UHTUk9Amd8dDWAtPaZ2SkVVna6M1",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062,
+    "type": "Pool",
+    "dataSha256": "5b9582601e8644901e8aedd6e3869198525da6491c8aedf00d88fe7868cb9780",
+    "decoded": {
+      "pool_bump": "254",
+      "index": "0",
+      "creator": "FaZpQ8QfTu31EpCYYVtU9MMMZfYEVSqFkV9MAPSe2Ezy",
+      "base_mint": "9YcjRXF7Scp3S1CXtFZS74h1eMgoRyYCPyuRpiCMpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "8qZQfbq9xpRm4jT91rzfSPzGtgFvtdnSykkDxbbMDjdB",
+      "pool_base_token_account": "BLAiBJ96xVwyyDmsfKmjwL9W8ZuzoJJJaebVApPs8R9V",
+      "pool_quote_token_account": "842gJNFXaSitwGAdUAoWHDwZCW3mrNLi9gJHZ7NdBJjn",
+      "lp_supply": "4193388332783",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "43xFYLTJF8wgkUvEEs5mHp7uC53DNjPy2mF3rcyNzGT4",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "EqxvkcHYHK4Z82EwvpGQRyrKKYVofa25LZ1qBhpfZKzX",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "GubLBsmTqWixPX5xM8tN6KD2kp5gZCccyE9aqBrx5gZs",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "3Pn8bAbPVgvhPDRMm1kNwGgZNx98Xu83Uey3zFmBJZ95",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "HdrAzRytmpsaTWkTqBs2eMSEMu7peBy57zMvqNwt7w1q",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "5SB4FsiTSahGoMG6JqRZmxZD9tLZTBzc4d2e5aKp6cLs",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "GR1XLFikyNHCNFTWpyQoG2T8pq2ujNNmY5TGabKaCwRS",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "8jPFnboEaKhZ1hWLm4G7JtnfBjxzVvi9thfXMWjbDFeh",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "4dfghrgsAp5F4K2jqbB5M3AxwsaStMq9CwEDqeAUDGB6",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "8zVZgpw3nVkzszvQ1kiPQW3UNj4TJA9KHYTeM2MAirtM",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "5AeRdYH7RzUeppmUjeaz6L4oWDBtJ2TanTpf3WErQgtW",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "CeaHcYXAUpspnz4fwrjYt7Lex18AWyXgCr2Q9acyqKEU",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "CxZAoneQGV7UhgufrcnRXSbSUpcb2qe8QwbYxWonkDiC",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "bWHtRDyvdmN8NYSNj2ZV1zZzKDK2eucT2Xa42zZALU7",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "DjZkwJqeDNrAdcUeKZFxgzA7XABWdFSW4ZY2ZKAp8LXM",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "22WU1n6412Ud9y83asKvoaLCq5p2Pc3GGbEZutqXSd32",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "5UrBQWqns6tscUaqV8FrXDVQorJimXVLf5JzRpG5VUGG",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "YtW8fc7QSQ6x6kk1fMoXJv85S7eaZNEdwu2b9PSASG3",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "YfjPS8b71PuYEG8ah9XRxqNtkRkKiECemSJ582gDGZ7",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "75BZuR6L2BxnzWiV5jXqzy3wZL3jmHxe2mzwTEYFtbVU",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "3qez3hYrGmfGmi2cmgxVyPCkyA3iMELXpm6oHJrgyfji",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "4iznzFRR21jA417kLmZVnMPGh1ETYFQuFaH6af3in5P9",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "2s8dgi5HGk8266tTaZaAVJLoYVtRvu2ooxCdhHcGG2y2",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "7qRxeqbwJr3DbxZNGo7UiRecv2sMyz1kHSpohXqgtmZ5",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "BJfgevEnW6o57HyiArNUsPyJjVahq9j7uQWYbAZiyYAj",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "FsopbLhyBj2QwEpr84ACnk231eYfkoLB3ypM3vMV2k72",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "BDMfUVRvnWbwb7eEUkJdAeRjNSTzkiimwb3q34eJFG85",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "9nPdEr9tMzwuZ8XBNjQ1Q6vs8m48tnNEbRYVaAcsEPuM",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "4rJX7Xj3HWwvXYKBakbdTFbDbjR4fXkwfSLaJVRXNSFf",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "xNxAeyjF1Ur38D4be1m6vWrDTXEtWc5z1eAHR8mKzsB",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "GEZoQDkRYD7tarGw4MhX6nYuPxTUAhBg6Ei5kfcVcCHU",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "BTU7Kc84B9r9s928jfpic5FaQTL5ag7h9syL3YDfZxbd",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "DVyJ7LnjYNL2cVGMHeL5mHYaUAhdm9fzurr671BqBvEH",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "fQ3cG1oAKv1Sj7dY5e9dTkQdW6gQyF6BZjtXeHab6Bd",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "DfjNCciJ18xHzX24qfwQTn7mPUo4PVkF3jJstToPqPwo",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "AcAKYopceA5h6UqrNCFUnYobsRdtQhBSv7qzL71X5WzH",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "N2AeenYHu83QpBMR88vEcsgLdBC4YLcho6FWG6GZzGW",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "CXiKh5rbZDxuKCdBCiTJpNVuNRw3r1hEuLFXeGtmVWaG",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "DSSWeCV36FLUj9w3iuoHA5S9vGDbyTTToCe6coauMtL7",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "31ffAi6ko1AZhCmRfwNVNJFG4fhab2PJ5aX8DhgrQXd4",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "3RiaJNJmev4Jk2Z5KZNv8MCURTgXrTth5epVktT2WNmn",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "7MLFYRYCpXhidqJPdkr1dTmshy78c7F6xfsPPt7v5bDJ",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "6bayY4fL9wUgxrEHHQUDXzdkouJ7ZCKSgjycTYSjy1fw",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "5SR4fCXr2zWnvexr2K2Wcghi53fcWKFHdXGtXAyADMWp",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "28KwyaUHYyJ1GgEjcWb9QzujyF3J3qtFgzHnwbT3ACEy",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "FH8TCgT9a2Ns9nrZ3qqH1USaVvFRpv2kWrKWiuBf5zst",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "H5gAfko6iG3eiT6DLZ1rGGAKxKGGytr1gn7tLmMHuy2o",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "AbzrFxDbp7fkWUAbgNtTkvSTWq2mdHmYEoXo6TbFm8sQ",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "9xCq4hpi24FbBaTiJoRpfeR8wGCVDxwVwaVNAqcvrJtQ",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "6vvwatwGyZxKfzM9PLpWvwsfZxwf8tSTBS1bTj8P19sb",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "Ak8xf2njHHBn3KnJAkCwsNJsRAhvk4ngDefdhRXaBaFH",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "4hCn77rnZ11gxjrQ4RnF2xxm2p4Wz3JTbLEdD3PkLFVc",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "AFbBpUzwp26oPpqjStGYm685b44JSiA9SHhX89wVvpAU",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "6R3fAkZyvQSNQDksEjXM1gdQD4bDAgc6gQaztv8SSv3w",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "BU8XMzCMWoZCtKMv8rrLjYaL552FgABtwnDbhG4ELYKD",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "EazYtAbMRn17Q1mBeBKNvZc6ZvgDcgcDa73exj31XRhd",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "ETP4y677sty5wUp5c5iYk2BE6PvxzZ4gJWLhnEYJakPj",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062,
+    "type": "Pool",
+    "dataSha256": "b653e1de0c4c30c1c80b4de423ecd37d7a9b964d029184e0ae98355eec930447",
+    "decoded": {
+      "pool_bump": "250",
+      "index": "0",
+      "creator": "33ymHHwWPGviCxbAdTKtPXYjUZJnsv3iRUtMbMUdSPM6",
+      "base_mint": "BRd7uasGdJDRcXpM3bPsMbcXQ1V7RURoHY2x1msCpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "6eUQBUc1ZJ8iAmNaebEgy9PVPUa7K4EyXk1WeN5EkRkw",
+      "pool_base_token_account": "55d1nBJvVzKbDi86RKC46WUgrB3f9uiv9r9Q6ush4ACr",
+      "pool_quote_token_account": "Enfj3Ae83Xzq1WCrFVbcDnFWka1gFP27bCW4UT6V3ysa",
+      "lp_supply": "4193388316254",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": true,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "5MrczwFEjqMaFZ21scgSUTMcJWLgcoDHgiTC7riXikRG",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "6SB6FEGsLyn3XiVanhkz84rYJ1nfXdCJStrzf2mNAAp1",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "FDAfaR7NKV92zfbSFxEt5tABSEEuYwFhUdwTaPPSHBy8",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "4vJ472Zk7EgBDpedRFdGu8mF9r6XWpWTkE5vLSPcdr1v",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "4wosymrBAa9QrKoY7fynXN2k6sZWoAZuV1TnZpb7Vb5e",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "9pLNmnVezaM9QQozmgvzuPsmepungkH683m3SNbuSkKc",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062,
+    "type": "Pool",
+    "dataSha256": "9940a8f9cfd97fcc4a124ea39aec4902a82062af0421010cf65339e2097ae7bf",
+    "decoded": {
+      "pool_bump": "254",
+      "index": "0",
+      "creator": "G4j9QPCpKiUoQQ7FDv4ypAFciZ3BGSHm8yLyYirAQ8cc",
+      "base_mint": "BSvVXX6f1n6wqZ2mWcsuFTMkxDiwQ9Ezq1nuzzvGpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "FR8oR1vwYzUZAaqcQFxJyzSiMfh5McNsCxsHoYJrd9NG",
+      "pool_base_token_account": "539hECpkdjhCqNuxHwS2mXRKwJsVCVi5uSSSgUb9gpCN",
+      "pool_quote_token_account": "29MW2ReWUWaspXZ7ysFWfLZUWR4KRBx72JWSDJkEtXCv",
+      "lp_supply": "4193388283024",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "GwftV3B4F4z9d7dVoQShkRFWMJ9JzSUYMdouM38kPWjz",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "HYxs9tF6ixwJPqcVy9DNmxT7AkWHdwUmfmwmAGmhfk6z",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "73cATVH5pi8F4LeqrWGUnp7k1EoJjNuvZXR1FaLjCbDA",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062,
+    "type": "Pool",
+    "dataSha256": "57e3c3b67f76ca757a18efd373ab1ac50696edd3f47ace6a802eb5176440e2c1",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "FLPpLa9HoSA7DaCxQ6mN6n7mC3v7zLygz1NZmk2Njbgh",
+      "base_mint": "9etsYiwL9akcYHkrJKiizJLsyPwCQxCWn7B4c9tNpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "37S7VKDCGEnebJbVmJzF5xxKq1iQ4eFiS9oWJmwyvG6x",
+      "pool_base_token_account": "861vEe9z2eTR7xjPe4MreTjsrDJx9UwfKnDacnrq38RG",
+      "pool_quote_token_account": "ADHKs5NfQqSHbKeHxvjWYPEYXEYfEd4f41WZXwLgpyyb",
+      "lp_supply": "4193388282678",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "3zLorLdtAtkCsCxz56C5uCaobQQZpQDwJFGzhivpXymg",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "23MetT4N2THap3uzj5YPTvyQGqeezWfTXQg3HsRrrNPd",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062,
+    "type": "Pool",
+    "dataSha256": "da7ac94b9654aaa2fb147b86ef84a0d921ad12ba88d8fd7745f6a25804e702ca",
+    "decoded": {
+      "pool_bump": "254",
+      "index": "0",
+      "creator": "D1vLDQKK4udggnkSP3aAagYsjopH3PRJkTwfnSZffHNc",
+      "base_mint": "24B7sic2mx4zsA8byNjk91bSRqrmgwHwXFwQYw19pump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "Gg8pxPrFhAGEymTGnbwmDX6Z4HHCvUK8k5ehsvvSfp41",
+      "pool_base_token_account": "ExmhwptJXKxnDMTJvhnELPysyd6QgfNAJrmo1gqnBvke",
+      "pool_quote_token_account": "D3e64kjJgta3mvWJrRx4j92Xp3MvvmEbTqQ6LrfYnMbj",
+      "lp_supply": "4193388283024",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "3MBbJ8pjy3Ne6c4W9bm2tcBN4YxJdoLPLqGum5J5g61L",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062
+  },
+  {
+    "address": "Dd6FetDMw5SVZy8rFgJsheTqXJpzGeWgw7achKiSQH8Q",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062,
+    "type": "Pool",
+    "dataSha256": "f37a0fc0d6a64682e3edd7d7484dc41fc33523f8cae40849e9d7d01580e11e1a",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "5ofiTYTcHmMEPezKp4LFWhJ4KLBYxrFDn7FbzwhxoXBt",
+      "base_mint": "Q836iV2s47BqoC3hMvCZznycbsjWMyRt8CAUffApump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "6HZYK8T9eRxm2XPwxNDEvGRsE2eChrn5bd3xzU7KxexT",
+      "pool_base_token_account": "3BBy2FC5zUbU41644TteRt6XntrKstUoamTGQLdkVrbG",
+      "pool_quote_token_account": "ApWGStJvUWoXcJ3bEZLHU1GomxzMoTfFCjejDcUSx8JX",
+      "lp_supply": "4193388282999",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "2PFPAv4yaS75kc4xZhP2jHkUbXT9RuQTP25BSLJ2pbfz",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062,
+    "type": "Pool",
+    "dataSha256": "e1bc16b8d30152590be7102cc557ff2db25978385222193c118afb1a136f9ae8",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "6u4y3fMmLcG8S3mK2BTTBLyLrCm5uaUoDBMWvDadsu7D",
+      "base_mint": "5RHcxXfioc5gRCESQrDCeTa3oCbTRgGpA7U5W2itpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "4vBfvSM7PJewpxmokVQadjXsqDNvEqRWWXkr9Yrtq1i3",
+      "pool_base_token_account": "DUGXtdEHZKDWmXm9ngxncZgJ1zU9vRs3Ew9cBpGA53gK",
+      "pool_quote_token_account": "yD431QeGTAbzeKMeAuJztk9y57TC9NNwbYSstjGbCVU",
+      "lp_supply": "4193388282678",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "-93108",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "93108"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "3Cg1wxoyRx8f5sJvCYoLBxHok8XXHW6bjYrtSKeiFf7e",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+    "slot": 456506062,
+    "type": "Pool",
+    "dataSha256": "0b2ae4d1df3de0168b26d7831d91dc804ccb8b3a62f77909201a764505fb4283",
+    "decoded": {
+      "pool_bump": "253",
+      "index": "0",
+      "creator": "662RJvKvQcG1RTve8mLbWCukAhEsQbFDrsfis5PBJ6aF",
+      "base_mint": "8aTZtPqUbZTKEuiGmGHARfpEZP7a3ZraRmFWBCRypump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "4na4T6kAzRauPCyVX1nY6n3KzhpNZf57S6CtUyd7sa27",
+      "pool_base_token_account": "3j7quQhLJ4vKz1BtXhbR8YdnUUx3vbtfQpcqzCftwmBs",
+      "pool_quote_token_account": "BP724wE1nhdeLxSaXng8xgDRwM8NTKSygsHPvuQ4g6pj",
+      "lp_supply": "4193388282678",
+      "coin_creator": "BkpYHdGxYE3msHZc9vbSg85SJFNNrV9qkhRevgZeNxXS",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "FHwqEXWVxxDnYd3dW7TQfNuP2BW27kxkXT9Xq6h9C2Vk",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "54LBmqtyNaTxu52N2Kkj77JAimZVbJRnHzHUu8TmDNyC",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067,
+    "type": "Pool",
+    "dataSha256": "aca5edad2cab5bd9c6dfb1754ab47e25d5709bd81c4444eacafcf795757567bc",
+    "decoded": {
+      "pool_bump": "254",
+      "index": "0",
+      "creator": "9SqGtjDFEFCJCgBN9pFrepCLugCNE91bzkZwtGdjx3ca",
+      "base_mint": "EhgkeD3A3V1qX5xSfYxHYtCcNM4tKwX1XTMaY8qtpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "5z7QMPP6UK8x4L8BRukg3AetvmwXAimvxF9nWetvh92j",
+      "pool_base_token_account": "BDPpAYM8F1nKN2m22LQkph2w2iMjZWbAbJ4MuHDuxDwP",
+      "pool_quote_token_account": "3ZnV2nTdmrYydCZy4tdgNPrTqveUqr2thNM9vzQW4WsY",
+      "lp_supply": "4193388282678",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "CB2wQhe1GsyT17eapS3NuYuXiA8tt8YkPJpYPkRny7qt",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "FxV5DjtR9P4TwrZyyP9JDQAemedD6Cg7LxEdhJb5kzu9",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "DoFU6wYQLXagn8R2WqC6KYxqMsxuLu9Hsmuaec531s8Y",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "G2YiBLte1CjqRKT9ZgHDVYm9RYdYUmkPVNcDwj4v1dmE",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067,
+    "type": "Pool",
+    "dataSha256": "17d995a98cb76c38aa133b9614118af3222231e5dd59ba07f54a1c52859afbfe",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "3WvjYkPc7krLjRHNGdEgCwPk2TziuLCrzDHDsjkoexb2",
+      "base_mint": "HZYT6ZQ76TGmGhkbSD4tWZfV1G92nK21RJXwjwGMpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "2ob7TmNuQRWqE9E7m9MvvxRtU4AaD4mgH3gkKmpuaxjo",
+      "pool_base_token_account": "AmcJ5QYVb1rrSQ5YetkkQrPsfo7dWU13fiAo7kk1QwTk",
+      "pool_quote_token_account": "4R7PbZSxRtmWqs1NSDy3xiKFveyhxF3KRLvhz11P2mkf",
+      "lp_supply": "4193388282654",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "0",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "FXdVAVqJXD3FoqEYoeaiYk7LPjzJ4mXBP4RDiLe1qoNs",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "78Hm2sivkj3QzGhSwqXshR3ZHB8edUMt8QHq4CGB6CWJ",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "FMy9KeQeASxzFSJhe2KbU2BJKortpRE1eXDnmQqHFwtF",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "H9kAVPNcQuKZX37TYYakyn4uBMn2QNaYyqxUXacPsKRn",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "DxoqQMzmSq33vgf1NfwozC3UA9ihGGMjDwz3E9b4ZMg4",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "2KmniupEQVVn982F8rBGYp1F9AgqFkSSbuySf9ttAaie",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "FyGQ5uScGexxnzzEUdbstbTUYraz758p5KesH92o2JZv",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "GH4RCNQ15Y8ueFsiv1Px4ABFgQHAVGR7jWMAgenriKZ5",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "93uD7hoNiHWgBavpv78edKz3pHp99S16FEJ8ygvMQpGJ",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "EmD7PZUDDyELgMZiUbUeqYRaqBUvrjzKVs4kaUx4gqGC",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "8HAJ8gGAccezyKD5dJqhM13xRRKFrv3ub8Lu4B8KgzjZ",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "2CNdwtYPiLMuURyjVo8HcLyP1mhzYFiUqVWnw8HGSUBH",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "5HQMBAyyDjoA74eks2svU89MHeH3GCTVhvkzsGGDhhf",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "CTJWD8oX7wWXDZi2q3RzmXxpenPcsGxBsJbnBGTofj82",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "6BYrUuSrz4F6P5jbSvyFM19ULvJMNxvtPoPnzWni1R14",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "DWkgQ2sLFqmKvdM6kvmoL2YrRLncmAeDwGxgTALu2fqN",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "2VFgwMELn7i6Y5jfgxanVr81peXzWzoLLvWWaojJybYj",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "53EoYXrjc8UwbwJyP3eSGWgq72FVGk8L9FpiiQcXxJE1",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "33TmPRNbuyGxAa5ANLupTPpCt1i3tNcnkgh7DoPUund1",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "G3PjRXSrHRMKEeHWyW9nyXfiHwihbJgXENmeomH7XPej",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "5DX4bxAJKLW1LeNhWrKPzquWuFbnYmxtsqmZsU9iZNZa",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "77HqCdbFEKUVA3jS7zhyBMwBpzsDWAGDPWjp77fe2L9b",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "GdarooqK7ptBJYkQBo8Bas3B9M4PK5yifjL1t9xTFjMj",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "2NRRqSJYY6CUryvKwEPAQHas6vVRqWBUm1czV7Fka7xJ",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "9QD4Tzcasv8s4FncfVCy9z1K3C33y8sscxKUmmKaXfY1",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067,
+    "type": "Pool",
+    "dataSha256": "81ed170beab40ed9edd22c54d5925dffc429352b011c9f4b4bc1b356ef34b2b6",
+    "decoded": {
+      "pool_bump": "253",
+      "index": "0",
+      "creator": "2NbVZn9NthY4xBAbUJoMD66rbBwAHTRX66BUoJLQfKE9",
+      "base_mint": "DNmCT7NGu3eye5RxpM4X88cBfTkkoc62f9Q6hz3vpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "HN1Rtgs8uWXgNAiKvarfP1LYGJsSjyQbiXephhBBt63C",
+      "pool_base_token_account": "4yCXAoNFo3zzcSMGfL2EdKKT7SxirEDoPw8kGAnNPEGq",
+      "pool_quote_token_account": "6h3YQKwy6Wsfi6jZbo6xw7J8CNiF9tFUg4mhxPsTU3Px",
+      "lp_supply": "4193388336730",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "17584502591",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "1915",
+      "creator_fees": "1236"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "2xsrvZGyk3uEbPDoePUgpG4bSREKFt11rZpzKZEvcA3r",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "3pNqN9UHKXa69rBxv6sjjihiKJ3wop48kPcoQc863Mpj",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "B6nxs7Nf1cADfVok7Fo4YCLWknztBqngBP375kgbQZCn",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "5B2w4aPpmcXFACwS3eP8NJmDXKgNT1Qx2j5VXiuVVahU",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "8sUpez6ynu1gMFuMZhEtRKf51SuWzqTu3tKN6hEkR317",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "3f1Rfz9eyNkTnvKuW3MhUqYdUYaCbG1i1cpCQjBt5goe",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "DwwwzJxYthUueqs8qtfqXQ31xgBFgTk2XsaKJ3qU6ew6",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "4WJhfshQ3tbDDxLmRtX2xEpqRM8bXZyeYrpbSF7o5x9r",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "EWM7B68L7BNVcAgMNJEt6LjDVnRJxJ1PaJQAQFsnnDoW",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "6U5A3FuWD7Jk5d8FwJTE24DqYH4nMG5GbY4ysys1XNVZ",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "4UUWfHf6g5MZy2JPcG7cpUWz6JowAq4greVM3C7kVqWq",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "HfQKdDWdKHeShRsmGPEWoxdJZGD5TrCwFNEABKWvRPqf",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "6ZgcopshTorGsUsmpiJ9pZKETNfaYJwTWYpmr8kDSYfn",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "CpSgQuGyEAbrCy6vAnhTBySQcaXdJ19YQsMtNMJy7jvp",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "95PAPosbFruuzmNvKdpw6sfRfdSNisdkTMcvTGCgYM5G",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "FsLqFJffFLwAEWQJbCiCky9jxhf3ejuXwxzBwETdsKFW",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "FNhPBMatgTVLGVk3V5SXY6u1R9Ui5i3wZa9cfPV4K5vC",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "4U6LhGEGCtucDFiiPuqueTxgcF211dVVaSzfd9DepoWJ",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "7uMUv8Sh6kdN6sjtHp9iFhxtPqDV52YfvAAt3WqRga2A",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "8Y9jhkH5K4h778YnbRanVDSCdvyKmLGqM4qACjESPRxX",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "47UcLbFfhDiSVtQVyYEyv8Dmsik8aGX1rG8wQisupWmS",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "A2z9d4ELDVSdqvb5SFogKJbSYB5H9FviZ6AgKn2hBP5S",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "39qtswAcBm8nBCZhiC1giGS7iShzW2aeP2dFiL1WpTVP",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "FUu9LcB7UZrWjNBtkHyZriWTAjw5i6JdR27WnYxSPnyn",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "HYeZaSad1QVTFQ9MmuDS74kgLDGvkLq6VpfBgwQwSsWE",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "CLr6BQSBUSGhvSdoXqb5PHBXoMsfVZxNSbJ1DWBdMMMA",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "FZ3rh7bUUGX5yKmaN5exfwU2igmPGzE8ZcPmNGR8eJ6A",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "9ZA3MwG5Zx1wCvrE9yhtXx9dEH5o1KbUwT5o3qJEWwCG",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "GAAvZbjTkA8d1Gdsbb9GzbQXffGR9TTcXpreyjAtjdxn",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "DYF11jazeDkGqP2tE94nje845SD9NriKjG3qH6Dh7XNy",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "7vPjXC5VkFfXvwafFpWJwgBUX14bEgFmPU3kLCVZKm2g",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "H8vkEVs84eQxrwprR7yQt5JLsPTQa35YLAj3vYiLJjXf",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067,
+    "type": "Pool",
+    "dataSha256": "9dbcddd382af33558a11038c277f5ef355970d8c33aa33b27872f3d43844dcc0",
+    "decoded": {
+      "pool_bump": "254",
+      "index": "0",
+      "creator": "HUpQPzvvYvnzTcaJc7AfkyPS5vgofLDHjRffT2nTwKZx",
+      "base_mint": "5bNqSYwW3dPMtssF1PSihCS4ZiiZGe6edpuibBZhpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "GTUgV7btSUshzFDAeBSRyWyd8Ycax1VRQxnjNAkMYXeY",
+      "pool_base_token_account": "77KdRuEv64cLQgwjVwD1rFJkhsEHNpTmAbhJERUZZFwF",
+      "pool_quote_token_account": "7BT9THYxSJn7VAYQSDY9cD9AGXXiS7UB2raijwdUhd2F",
+      "lp_supply": "4193388301427",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "17584382914",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "122532"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "7qY3FQYy1GYjmZmawCReXRqEVBDqcpU46hdgA3hNzSDW",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "BVDnWvnLF5xA2Lcb9R5KNea7BS5vtR6BQgK22owy1Cnq",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "Eag5uvWwKXML2FphJtZazMd4N6Xnn72ExkFpUQUzy2R5",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "8NptbK2jzxLVN9wVtAw3CidHoYHBYpAcyRdSUtazMw6",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2985840",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067,
+    "type": "Pool",
+    "dataSha256": "2be783feb89a21b05affc2bf5aa1a0128e43c5467f5424650662607fd23685ab",
+    "decoded": {
+      "pool_bump": "252",
+      "index": "0",
+      "creator": "GfXdpT7KHq2hmfkoG6b6wyLNA98EtYzY4JpQMG2CQipe",
+      "base_mint": "CNrk1bsRyq3hgaoe7ftxH6dJrDdKfKucUywW6QdMpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "C3o7HGZVyvujbVohSaU9UVkjuG6GMrnZytTrA1zmLXgy",
+      "pool_base_token_account": "2pADo5aqd1ouhApFi52FASqgVpZD21w9Rn8GFuVTkieJ",
+      "pool_quote_token_account": "FFeaDdHWvGgqpFoArCa5368GS7yocxyiLRNzB8GKNuQE",
+      "lp_supply": "4193388297036",
+      "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "17584505409",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": false,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "D3tzeytUmNxRXZiZixiKjprbaDx2Lo9BWcFRTSSRA4hx",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "FPpfgyHEp9FSTPbsp7CV9hwSdHPoAUAPpYm8Uyr5pEWe",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "35Yim1T3MEJ5QCBtp3zCMJzRng7iisUA7rkcm2UqxiVm",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "3m5AmUWgcG3qtxUcfdjwS22DMSzz2ocX6yrdW48KMaJ5",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "Hmbf7dY7A8WPLM6wXP9HddwzfpYxj8SLTga6KoRStQUJ",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2179320",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067,
+    "type": "Pool",
+    "dataSha256": "0ad4cf6af8a97452ad7b6eceabbfa8ca179d94fe17033c6abbba8fbe5249c321",
+    "decoded": {
+      "pool_bump": "255",
+      "index": "0",
+      "creator": "Cm83aiX6tybtW6MFc9vQMojiQfffmuPHLTJ2qZ1g3aSh",
+      "base_mint": "HJE2DEZXvErwUabTU16xzrS629qXVeVyTGvJYJVfpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "lp_mint": "EaGvhdgMLPf3YmLaAwmAnzfT5eBJ1Cf4eWn8kvhPhJ3U",
+      "pool_base_token_account": "BzSmMdmLgDJramSZa9cewTGMUZw6YZsEt84AuWgZHEVa",
+      "pool_quote_token_account": "EpZE5936HTWixDRgA2G6U1Fmi49hhwWkAJ2t4vAUHew4",
+      "lp_supply": "4193388362534",
+      "coin_creator": "Ai8cniP7Pqd24Shex5SeoZizGLxAJ2xhxRhf4w2ZMNUL",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "17583944486",
+      "creator_fee_bps": "0",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": true,
+      "protocol_fees": "0",
+      "creator_fees": "561473"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "DQmf6bgxCvJv2pZUysQb6tFseMP95BTEPj59c3RNnowh",
+    "exists": true,
+    "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "lamports": "2179320",
+    "dataLength": 301,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067,
+    "type": "Pool",
+    "dataSha256": "7f5c9de601c7a4e9a30c505123edf519fb8aded02f0511b6ededafd377b87f32",
+    "decoded": {
+      "pool_bump": "254",
+      "index": "0",
+      "creator": "GnpzbfUBCoTPbwnJzQYsDufPwgCUJnfYbxCTXP36f9Na",
+      "base_mint": "wvbhVMz7iknR8DqYEccWfJqdGRWSwzTwnk7cJePpump",
+      "quote_mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+      "lp_mint": "EhrZi4hSwmjAyPm7imAAXTskZQW58hnofXH77jybpGij",
+      "pool_base_token_account": "Fj6oMkgKEeSatsaw6CuvVvBt4JQBLWwUquFXzjYHQbWB",
+      "pool_quote_token_account": "BQYbLCRhkaoSpxJpFfxMJBdzJMeE1UQpuqmR9fPJkiHh",
+      "lp_supply": "24190141012740",
+      "coin_creator": "GjdpCJ5e7VeogHzHP4Z3ktRHbuVU4dT1SQyxfEn9dDyk",
+      "is_mayhem_mode": false,
+      "is_cashback_coin": false,
+      "virtual_quote_reserves": "585162922216",
+      "creator_fee_bps": "300",
+      "can_edit_creator_fee": false,
+      "is_holder_reward": true,
+      "protocol_fees": "0",
+      "creator_fees": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "FuuUoEn4L8MFTijs5bLQtJK9NdM4h3VTN2BEwrsEcsz3",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "Cf6hw8Rh6VgbPnuWzjJr52ANdXhmbnsYFwSkCBj8kASW",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "DN82dvnXeCBuRseudtqTXMFbVbikPZefgHHcXU6QSy8N",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  },
+  {
+    "address": "5aCZ4D5yz7XdmQTPwntdtRD1ZMqu17k5TnZg8VDmqjgG",
+    "exists": false,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067
+  }
+]

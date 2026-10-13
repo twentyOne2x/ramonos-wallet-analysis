@@ -1,0 +1,29 @@
+{
+  "cutoff": 1791908918,
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "name": "Flightradar24",
+  "mint": "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump",
+  "config": "7hrJLX3oga1GBmvtcQmyfDujNcmBF5vTComScdSmXfhu",
+  "vault": "6wZi4ba9SpzmUDPpbQeozX53NwkwD3awq8ErYj3GkJRk",
+  "recipient": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+  "terminal": true,
+  "pages": [
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/Flightradar24/page-0000.response.json",
+      "sha256": "ee9b91050a1240d6999fc2fad5421180b5b566912a2e2f11da3f441d1416c238",
+      "count": 410,
+      "cursorIn": null,
+      "cursorOut": "402649872:354"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/Flightradar24/page-0001.response.json",
+      "sha256": "abd38ce8ef91eff014c0fb955cf12917d8288778b4dc011defbe813970aa2925",
+      "count": 0,
+      "cursorIn": "402649872:354",
+      "cursorOut": null
+    }
+  ],
+  "transactionCount": 410
+}

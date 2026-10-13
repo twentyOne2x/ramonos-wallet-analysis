@@ -1,0 +1,97 @@
+[
+  {
+    "address": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+    "exists": true,
+    "owner": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+    "lamports": "12914926",
+    "dataLength": 179,
+    "rawSource": "outputs/ramonos-launches-20261013/final-check/response.json",
+    "slot": 456509511,
+    "type": "SocialFeePda",
+    "dataSha256": "61ce5da198f21c8e1575f084b2a16c7534f1d88fd41ae97f7bace2fd939daa99",
+    "decoded": {
+      "bump": "255",
+      "version": "1",
+      "user_id": "12810712",
+      "platform": "2",
+      "total_claimed": "0",
+      "last_claimed": "0",
+      "total_stable_claimed": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "6wZi4ba9SpzmUDPpbQeozX53NwkwD3awq8ErYj3GkJRk",
+    "exists": true,
+    "owner": "11111111111111111111111111111111",
+    "lamports": "136154594",
+    "dataLength": 0,
+    "rawSource": "outputs/ramonos-launches-20261013/final-check/response.json",
+    "slot": 456509511,
+    "type": null,
+    "dataSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "address": "98AhHzY5K9Xb7iixLipcjWWYo1Ksrk3nrBKv2zmkkBrj",
+    "exists": true,
+    "owner": "11111111111111111111111111111111",
+    "lamports": "1820202",
+    "dataLength": 0,
+    "rawSource": "outputs/ramonos-launches-20261013/final-check/response.json",
+    "slot": 456509511,
+    "type": null,
+    "dataSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "address": "7hrJLX3oga1GBmvtcQmyfDujNcmBF5vTComScdSmXfhu",
+    "exists": true,
+    "owner": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+    "lamports": "8017920",
+    "dataLength": 1024,
+    "rawSource": "outputs/ramonos-launches-20261013/final-check/response.json",
+    "slot": 456509511,
+    "type": "SharingConfig",
+    "dataSha256": "34afd30d7fb67f30beb1e426d5f4be5ac59c31113c59edfa1372d45a49e15e78",
+    "decoded": {
+      "bump": "255",
+      "version": "1",
+      "status": "Active",
+      "mint": "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump",
+      "admin": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "admin_revoked": false,
+      "shareholders": [
+        {
+          "address": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+          "share_bps": "10000"
+        }
+      ]
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "GFpZ79XaLk6kqU448eTykVZGGqec6aLveepdy3EZBbYj",
+    "exists": true,
+    "owner": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+    "lamports": "5852160",
+    "dataLength": 1024,
+    "rawSource": "outputs/ramonos-launches-20261013/final-check/response.json",
+    "slot": 456509511,
+    "type": "SharingConfig",
+    "dataSha256": "db69f38a4f083deb76a6372f97a0ba263f0eefe035b37745be2019c51f0cc206",
+    "decoded": {
+      "bump": "255",
+      "version": "2",
+      "status": "Active",
+      "mint": "EiDpY9QApxYMFYhR4TWXEpy6gANh73S4h3t8eSif32SM",
+      "admin": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "admin_revoked": true,
+      "shareholders": [
+        {
+          "address": "FfLpuH4WPn2MR8Lqn1MpwQc1HtAPPqL3qvMWZjnFHGpv",
+          "share_bps": "10000"
+        }
+      ]
+    },
+    "missingTrailingFields": []
+  }
+]

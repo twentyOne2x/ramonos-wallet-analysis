@@ -1,0 +1,44 @@
+[
+  {
+    "address": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+    "exists": true,
+    "owner": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+    "lamports": "12914926",
+    "dataLength": 179,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067,
+    "type": "SocialFeePda",
+    "dataSha256": "61ce5da198f21c8e1575f084b2a16c7534f1d88fd41ae97f7bace2fd939daa99",
+    "decoded": {
+      "bump": "255",
+      "version": "1",
+      "user_id": "12810712",
+      "platform": "2",
+      "total_claimed": "0",
+      "last_claimed": "0",
+      "total_stable_claimed": "0"
+    },
+    "missingTrailingFields": []
+  },
+  {
+    "address": "FfLpuH4WPn2MR8Lqn1MpwQc1HtAPPqL3qvMWZjnFHGpv",
+    "exists": true,
+    "owner": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+    "lamports": "3687493",
+    "dataLength": 179,
+    "rawSource": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+    "slot": 456506067,
+    "type": "SocialFeePda",
+    "dataSha256": "6284854fabd0b0244dc0286c478219ae0f5380a19a7a7c0f01ccdacbdb36a6a8",
+    "decoded": {
+      "bump": "254",
+      "version": "1",
+      "user_id": "322216527",
+      "platform": "2",
+      "total_claimed": "52313813492020",
+      "last_claimed": "1791908452",
+      "total_stable_claimed": "19555437862363"
+    },
+    "missingTrailingFields": []
+  }
+]

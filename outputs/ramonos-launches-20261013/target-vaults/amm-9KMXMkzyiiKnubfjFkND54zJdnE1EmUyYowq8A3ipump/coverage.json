@@ -1,0 +1,42 @@
+{
+  "cutoff": 1791908918,
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "address": "CfDANKRyAfm5ru67ykbRh17aK7eCgmHqWNfnACFbqncS",
+  "terminal": true,
+  "pages": [
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0000.response.json",
+      "sha256": "0c15934540dd739b564b30481a042f4456f28d9cdbc2bb1d3bef065d6b97cc98",
+      "count": 1000,
+      "cursorIn": null,
+      "cursorOut": "406743615:428"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0001.response.json",
+      "sha256": "21631ccfd08569c0009bcede32899d8c4a2d29c472847dba5a9640e0fe5180dc",
+      "count": 1000,
+      "cursorIn": "406743615:428",
+      "cursorOut": "406748653:1185"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0002.response.json",
+      "sha256": "1667ea05af486dbd25e12f9e5a970dd30806ce02e3445ec0d9fcbc2d15394452",
+      "count": 964,
+      "cursorIn": "406748653:1185",
+      "cursorOut": "448763393:925"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0003.response.json",
+      "sha256": "abd38ce8ef91eff014c0fb955cf12917d8288778b4dc011defbe813970aa2925",
+      "count": 0,
+      "cursorIn": "448763393:925",
+      "cursorOut": null
+    }
+  ],
+  "transactionCount": 2964,
+  "captureStoppedAtUtc": "2026-10-13T16:41:33.064611+00:00",
+  "captureStatus": "stopped by owning parent once checkpoint-to-terminal current pending provenance completed",
+  "coverage": "partial historical capture; not used as entire-history proof"
+}

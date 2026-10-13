@@ -1,0 +1,818 @@
+{
+  "wallet": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+  "copyPolicy": "Task-specific derived data only; full primary responses are release evidence. Captured full webpages and browser UI are linked/hash-attributed rather than republished.",
+  "files": [
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/SUMMARY.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/SUMMARY.json",
+      "originalSha256": "81a0f08906cc0f2bd1a1dbb3a0388dd74eda852a4325181b19509d6c7b6374e2",
+      "publicSha256": "81a0f08906cc0f2bd1a1dbb3a0388dd74eda852a4325181b19509d6c7b6374e2",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/REPORT.md",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/REPORT.md",
+      "originalSha256": "ad65d4f76784ce98f52223679333c5b815cf541d959a502e24af069c4e3efb45",
+      "publicSha256": "4c79e7c5d513bc19ff310d431566d55574d5e7082208caf506c98a80d782a180",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/ALL-LAUNCHES.csv",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/ALL-LAUNCHES.csv",
+      "originalSha256": "b5b8bacc604cd0e7d69956cb2e825baefcd2533755cc4f4fed383b98a0c2ef34",
+      "publicSha256": "b5b8bacc604cd0e7d69956cb2e825baefcd2533755cc4f4fed383b98a0c2ef34",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/FEE-RECIPIENTS.csv",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/FEE-RECIPIENTS.csv",
+      "originalSha256": "4864171f1e9a489ad46991316da2e15b69d4e282d202d685fd19bd30cdbeefe4",
+      "publicSha256": "4864171f1e9a489ad46991316da2e15b69d4e282d202d685fd19bd30cdbeefe4",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/HANDOFF.md",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/HANDOFF.md",
+      "originalSha256": "2a0e466efb951920236afcf7b7246565935c3f080891562c523c3f7a2c27ad14",
+      "publicSha256": "2a0e466efb951920236afcf7b7246565935c3f080891562c523c3f7a2c27ad14",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-fees/summary.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-fees/summary.json",
+      "originalSha256": "533e2eafb3d37051d7bc2f026b4e3e355a7d03404a1b991648c67fd2df1e9b74",
+      "publicSha256": "533e2eafb3d37051d7bc2f026b4e3e355a7d03404a1b991648c67fd2df1e9b74",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-fees/config.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-fees/config.json",
+      "originalSha256": "2ad60f763c0df319e2edf133f284a63b02d5b0e8157f1e0caeb5353d997f470f",
+      "publicSha256": "2ad60f763c0df319e2edf133f284a63b02d5b0e8157f1e0caeb5353d997f470f",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-fees/replay.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-fees/replay.json",
+      "originalSha256": "75b853a71c68902f5654f89c4cfc7406008f1dd15a429204ea759032554acf30",
+      "publicSha256": "75b853a71c68902f5654f89c4cfc7406008f1dd15a429204ea759032554acf30",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-fees/github-identity.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-fees/github-identity.json",
+      "originalSha256": "ab5c7fa623df443664d79453533ee3bc7d05525e01047ff8b5b3501d87de993a",
+      "publicSha256": "ab5c7fa623df443664d79453533ee3bc7d05525e01047ff8b5b3501d87de993a",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-fees/replay-before-event-binding.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-fees/replay-before-event-binding.json",
+      "originalSha256": "11052b0fd954b2b57c86f66f65e7fc08d49bb192c6527c83263f629bfa521ff9",
+      "publicSha256": "11052b0fd954b2b57c86f66f65e7fc08d49bb192c6527c83263f629bfa521ff9",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-fees/coverage.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-fees/coverage.json",
+      "originalSha256": "c78f76f0085808c4b4581e9188938e64b43d70e1a4b0cb5fb1b330c672003926",
+      "publicSha256": "c78f76f0085808c4b4581e9188938e64b43d70e1a4b0cb5fb1b330c672003926",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/review/check.py",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/review/check.py",
+      "originalSha256": "e9cad7f6e0e3b111ffde843a3a8bfeca57f911e7bf409103500fee109cf148f1",
+      "publicSha256": null,
+      "includedAsDerivedFile": false
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/review/vault_check.py",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/review/vault_check.py",
+      "originalSha256": "36f9fee4e258f1a87e318c6c28b2ed1a105df489cb4e1fce43ecca7bcc9a35ae",
+      "publicSha256": null,
+      "includedAsDerivedFile": false
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/review/REPORT.md",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/review/REPORT.md",
+      "originalSha256": "6c9b83b85e998994ca5e839bb58602e8b19947e1313554e557aff0e7001b4ee7",
+      "publicSha256": "6c9b83b85e998994ca5e839bb58602e8b19947e1313554e557aff0e7001b4ee7",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/review/final-binding.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/review/final-binding.json",
+      "originalSha256": "620ca0045f2357a0f292a6bdfc3647a271427c5f97e5dc8f666e8c8d2925ba95",
+      "publicSha256": "620ca0045f2357a0f292a6bdfc3647a271427c5f97e5dc8f666e8c8d2925ba95",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/review/vault-validation.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/review/vault-validation.json",
+      "originalSha256": "d24cda4dc8a131436507aa4bc4156d711617a71edf640bbba6764540b18e18f6",
+      "publicSha256": "d24cda4dc8a131436507aa4bc4156d711617a71edf640bbba6764540b18e18f6",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/review/OWN-FEES-REPORT.md",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/review/OWN-FEES-REPORT.md",
+      "originalSha256": "8ec51895131f76b2bd2f53ba8f2185aca197890a38caf486ed5cef0f7761a3be",
+      "publicSha256": "8ec51895131f76b2bd2f53ba8f2185aca197890a38caf486ed5cef0f7761a3be",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/review/own_fee_check.py",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/review/own_fee_check.py",
+      "originalSha256": "30b417c6866af90efba483bfc87d6d282d93903a6282eef105b3a9da99d4d273",
+      "publicSha256": null,
+      "includedAsDerivedFile": false
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/review/amm-validation.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/review/amm-validation.json",
+      "originalSha256": "7255c745bff489ab3041d96c8ab637183484485929664b6699a8dadbfbbed573",
+      "publicSha256": "7255c745bff489ab3041d96c8ab637183484485929664b6699a8dadbfbbed573",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/review/own-fees-validation.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/review/own-fees-validation.json",
+      "originalSha256": "efe041663c9f1055ff45fe5f0df2dcd89ef97d900998634ee2d1cca5da02fb4b",
+      "publicSha256": "efe041663c9f1055ff45fe5f0df2dcd89ef97d900998634ee2d1cca5da02fb4b",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/review/validation.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/review/validation.json",
+      "originalSha256": "e0917d41b7174c8dcae404540739ef36a073f0a051046e09b10d000e7c982bcd",
+      "publicSha256": "e0917d41b7174c8dcae404540739ef36a073f0a051046e09b10d000e7c982bcd",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/launchlab/fee-routing.csv",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/launchlab/fee-routing.csv",
+      "originalSha256": "55eae9f6a61f78c2e73a7952b527beb14d3674530759cad1a0ce9e0f83d8c3e3",
+      "publicSha256": "55eae9f6a61f78c2e73a7952b527beb14d3674530759cad1a0ce9e0f83d8c3e3",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/launchlab/accounts.request.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/launchlab/accounts.request.json",
+      "originalSha256": "653ca844268065e543a3dd43c2e2c72a7d433abb4e2d6100c5fee5be6eeed6f6",
+      "publicSha256": "653ca844268065e543a3dd43c2e2c72a7d433abb4e2d6100c5fee5be6eeed6f6",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/launchlab/report.md",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/launchlab/report.md",
+      "originalSha256": "7580704548203b4e82e860de115236976dc9a1b15d84a3da998175d8e7f48624",
+      "publicSha256": "dbe578dbe9a9d86893528d58e3f6a09f346fd264df80bf08caf88ab2bb2859a2",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/launchlab/fee-routing.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/launchlab/fee-routing.json",
+      "originalSha256": "b45849a7335e6e128d33bfb0f5d2149b804f46da00672574195744cb1831a78f",
+      "publicSha256": "b45849a7335e6e128d33bfb0f5d2149b804f46da00672574195744cb1831a78f",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/launchlab/creator-claims.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/launchlab/creator-claims.json",
+      "originalSha256": "e5150cdf3e98f3a67c5146e77eca529516d388cd333b15bc121f67daf69f0bd0",
+      "publicSha256": "e5150cdf3e98f3a67c5146e77eca529516d388cd333b15bc121f67daf69f0bd0",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/launchlab/manifest.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/launchlab/manifest.json",
+      "originalSha256": "c83ffc7f18b74d7cca49227a705160bc1d74a69d99993469f2a980eb803b93f4",
+      "publicSha256": "b6a6e4fa11323071f4cd43180000263d02e2592fa0bc3a7bc7731752b9b4703c",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/launchlab/decoded-accounts.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/launchlab/decoded-accounts.json",
+      "originalSha256": "0000cb889ba6bc947a3c352045a06b0c9c5f1e72e348aa4d848246eb49e60e6e",
+      "publicSha256": "0000cb889ba6bc947a3c352045a06b0c9c5f1e72e348aa4d848246eb49e60e6e",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/launchlab/accounts.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/launchlab/accounts.json",
+      "originalSha256": "c7e2fd4c7b207885bdb6cec25a4fae1a0d09dbe36840f13ba045a6fcc6b31358",
+      "publicSha256": "c7e2fd4c7b207885bdb6cec25a4fae1a0d09dbe36840f13ba045a6fcc6b31358",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/own-fees/summary.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/own-fees/summary.json",
+      "originalSha256": "aad071996ee501dc162e8ddadafd87c46371a4f6efbf529cc7e6200de8117d50",
+      "publicSha256": "aad071996ee501dc162e8ddadafd87c46371a4f6efbf529cc7e6200de8117d50",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/own-fees/receipts.csv",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/own-fees/receipts.csv",
+      "originalSha256": "9a08e69f0b6715a280363173deaf33ede9b34aa256951ff96ba513edaa0fcc2e",
+      "publicSha256": "9a08e69f0b6715a280363173deaf33ede9b34aa256951ff96ba513edaa0fcc2e",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/own-fees/events.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/own-fees/events.json",
+      "originalSha256": "fb8a73848c1ee10be276ee709760352bb4204a0feb736f666a71710b0525649e",
+      "publicSha256": "fb8a73848c1ee10be276ee709760352bb4204a0feb736f666a71710b0525649e",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/own-fees/verified-receipts.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/own-fees/verified-receipts.json",
+      "originalSha256": "25daf2d85f34157c2bc56fa25be339693a6115380071c3cd516ca90eef4988d5",
+      "publicSha256": "25daf2d85f34157c2bc56fa25be339693a6115380071c3cd516ca90eef4988d5",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/own-fees/REPORT.md",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/own-fees/REPORT.md",
+      "originalSha256": "b0a04c083f4686069b1445421213c6329a737b3bc0c4f4f2253cccac0dcdd644",
+      "publicSha256": "b0a04c083f4686069b1445421213c6329a737b3bc0c4f4f2253cccac0dcdd644",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/own-fees/decode-errors.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/own-fees/decode-errors.json",
+      "originalSha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "publicSha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/own-fees/manifest.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/own-fees/manifest.json",
+      "originalSha256": "14469656e3521a8b51125ff691b5854621122550d945be9e0525d8f2d9af1c98",
+      "publicSha256": "14469656e3521a8b51125ff691b5854621122550d945be9e0525d8f2d9af1c98",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/own-fees/cash-ledgers.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/own-fees/cash-ledgers.json",
+      "originalSha256": "f5c87eb41d15f30cb147079e2515164b3c3c991aeda1282024c9ba0b309f50c2",
+      "publicSha256": "f5c87eb41d15f30cb147079e2515164b3c3c991aeda1282024c9ba0b309f50c2",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/own-fees/derived-config-vaults.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/own-fees/derived-config-vaults.json",
+      "originalSha256": "22456417c65141876f33024d70f96c4874e4a3497b52999524fc8ac8c3988041",
+      "publicSha256": "22456417c65141876f33024d70f96c4874e4a3497b52999524fc8ac8c3988041",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/census/summary.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/census/summary.json",
+      "originalSha256": "dd661bd34c89080ec0f611ac858356645aa3bdb2ff524f25b9c4768efae32852",
+      "publicSha256": "dd661bd34c89080ec0f611ac858356645aa3bdb2ff524f25b9c4768efae32852",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/census/launches.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/census/launches.json",
+      "originalSha256": "7eb05c096b55b3fd4711209561932d9866279432d9528cad118e032929913a26",
+      "publicSha256": "7eb05c096b55b3fd4711209561932d9866279432d9528cad118e032929913a26",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/census/weekly-cadence.csv",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/census/weekly-cadence.csv",
+      "originalSha256": "930a1325fb77944e8f6e31f840d8b519d98358ec156b6054b100c255825290ca",
+      "publicSha256": "930a1325fb77944e8f6e31f840d8b519d98358ec156b6054b100c255825290ca",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/census/history-manifest.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/census/history-manifest.json",
+      "originalSha256": "06aa6fcda8136f6c8ace649a14b7a2b8058c5ba0195fb6c3123d68088bf5efd4",
+      "publicSha256": "06aa6fcda8136f6c8ace649a14b7a2b8058c5ba0195fb6c3123d68088bf5efd4",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/census/REPORT.md",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/census/REPORT.md",
+      "originalSha256": "fdafb62518c99d9b040e1ddc07765e3b8a1e11f06c435bc86b5ba835fad9f49a",
+      "publicSha256": "fdafb62518c99d9b040e1ddc07765e3b8a1e11f06c435bc86b5ba835fad9f49a",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/census/config.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/census/config.json",
+      "originalSha256": "1eb5ab74aa569ad5add2f6e02da65bc3203fb5b3caada35fc30b03f5cbb95b42",
+      "publicSha256": "1eb5ab74aa569ad5add2f6e02da65bc3203fb5b3caada35fc30b03f5cbb95b42",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/census/decode-errors.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/census/decode-errors.json",
+      "originalSha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "publicSha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/census/excluded.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/census/excluded.json",
+      "originalSha256": "f43e11b38b70410152be61808695da9d229866ca5198a4dd8f45179434313ccd",
+      "publicSha256": "f43e11b38b70410152be61808695da9d229866ca5198a4dd8f45179434313ccd",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/census/verification.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/census/verification.json",
+      "originalSha256": "e322f236d08dacb48ef6062b68af9091443198daf5a43b67dc50e25701ab12a4",
+      "publicSha256": "e322f236d08dacb48ef6062b68af9091443198daf5a43b67dc50e25701ab12a4",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/census/launchlab-creation-details.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/census/launchlab-creation-details.json",
+      "originalSha256": "d453d638ce3aa00e9ebb8bbc5b8337833c6a1b43c20f652e553356cdf9014cd2",
+      "publicSha256": "d453d638ce3aa00e9ebb8bbc5b8337833c6a1b43c20f652e553356cdf9014cd2",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/census/daily-cadence.csv",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/census/daily-cadence.csv",
+      "originalSha256": "8645a0e2feecb768857d79b7ef48d3b1befb8bde397b24a28abf4cc428028e7b",
+      "publicSha256": "8645a0e2feecb768857d79b7ef48d3b1befb8bde397b24a28abf4cc428028e7b",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/census/launches.csv",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/census/launches.csv",
+      "originalSha256": "4b18dc930f3c74669b196aeaacfaaad0f4e2ca3c89138fb598e1b96cd232478c",
+      "publicSha256": "4b18dc930f3c74669b196aeaacfaaad0f4e2ca3c89138fb598e1b96cd232478c",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/final-check/decoded.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/final-check/decoded.json",
+      "originalSha256": "c5f0ecaa3ec34b629a71387312c772efce214e2c3341668512ae06cb4b8aa8f3",
+      "publicSha256": "c5f0ecaa3ec34b629a71387312c772efce214e2c3341668512ae06cb4b8aa8f3",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/summary.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/summary.json",
+      "originalSha256": "bdb11e3b7439cbf34e4ad5a80b5a618e67a179abb084956d4b2efa11ea2c4c7d",
+      "publicSha256": "bdb11e3b7439cbf34e4ad5a80b5a618e67a179abb084956d4b2efa11ea2c4c7d",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/REPORT.md",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/REPORT.md",
+      "originalSha256": "359141540a4fcdd49f4c6c4a24c5b74bdfe1ed0367a4bec17a3077aa4da58887",
+      "publicSha256": "359141540a4fcdd49f4c6c4a24c5b74bdfe1ed0367a4bec17a3077aa4da58887",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/run.log",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/run.log",
+      "originalSha256": "10bddd4dd120094824ea2b485659fe9743bee7cf675e3424943b8f2324c660f8",
+      "publicSha256": "10bddd4dd120094824ea2b485659fe9743bee7cf675e3424943b8f2324c660f8",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/amm-native-unwraps.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/amm-native-unwraps.json",
+      "originalSha256": "d4513cef933c5ac16a61a6e9ed01f73e70991f12a574ba8be4c69a93b2fb1c3e",
+      "publicSha256": "d4513cef933c5ac16a61a6e9ed01f73e70991f12a574ba8be4c69a93b2fb1c3e",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/config.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/config.json",
+      "originalSha256": "67fada58f5d40faa5de74630a2bf58a8911fb2f8ce6479e5fc4ba2eb49302dc9",
+      "publicSha256": "67fada58f5d40faa5de74630a2bf58a8911fb2f8ce6479e5fc4ba2eb49302dc9",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/amm-latest-run.log",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/amm-latest-run.log",
+      "originalSha256": "e319ed41f96ac238a449a9eea9947ea7a0538306fe9732692bde4d569613116d",
+      "publicSha256": "e319ed41f96ac238a449a9eea9947ea7a0538306fe9732692bde4d569613116d",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/aggregate.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/aggregate.json",
+      "originalSha256": "7e18acd4ee60905c8dc0d7913988df98470973c58f90acf22390679abb639fe3",
+      "publicSha256": "7e18acd4ee60905c8dc0d7913988df98470973c58f90acf22390679abb639fe3",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/manifest.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/manifest.json",
+      "originalSha256": "f7710b10ceccd0dbd90c6d7e3ec69bd431b0e60e6f77f098d0218da935d2d89b",
+      "publicSha256": "f7710b10ceccd0dbd90c6d7e3ec69bd431b0e60e6f77f098d0218da935d2d89b",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/amm-run.log",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/amm-run.log",
+      "originalSha256": "e18350dc6a182e47f5e53cf28b5e6bba98eb8ae0b1f0d75c757c3a5b3f6420f3",
+      "publicSha256": "e18350dc6a182e47f5e53cf28b5e6bba98eb8ae0b1f0d75c757c3a5b3f6420f3",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/social-beneficiaries.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/social-beneficiaries.json",
+      "originalSha256": "0faff281020331eec0018a7e3543c94790a3e6c142e231b702133b647ce0e151",
+      "publicSha256": "0faff281020331eec0018a7e3543c94790a3e6c142e231b702133b647ce0e151",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/summary.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/summary.json",
+      "originalSha256": "65bb4e7d3554892018f077700bb2ab978ce763e833f0bc11aeb08d9871def7f8",
+      "publicSha256": "65bb4e7d3554892018f077700bb2ab978ce763e833f0bc11aeb08d9871def7f8",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/custody.csv",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/custody.csv",
+      "originalSha256": "0e80ac6d90a785f151a3dad997f6e68a07d596e73a9d27290bf778b2fa2dffae",
+      "publicSha256": "0e80ac6d90a785f151a3dad997f6e68a07d596e73a9d27290bf778b2fa2dffae",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/derived-upstream-addresses.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/derived-upstream-addresses.json",
+      "originalSha256": "cfb665d1c1b9a734bc1892a8df9ec42cb69a87bb73a0d6d34ec5f6999eb61421",
+      "publicSha256": "cfb665d1c1b9a734bc1892a8df9ec42cb69a87bb73a0d6d34ec5f6999eb61421",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/other-platform-launches.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/other-platform-launches.json",
+      "originalSha256": "f0e8b6bf5032fd0ff2a7b9424dc4ac2ea744ee17f3a222544e3347c74a123f70",
+      "publicSha256": "f0e8b6bf5032fd0ff2a7b9424dc4ac2ea744ee17f3a222544e3347c74a123f70",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/beneficiaries.csv",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/beneficiaries.csv",
+      "originalSha256": "bf6c8a057eb8f18ac8aa1cefb17973d6428f1644315164cccfb6cf73cc75202a",
+      "publicSha256": "bf6c8a057eb8f18ac8aa1cefb17973d6428f1644315164cccfb6cf73cc75202a",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/REPORT.md",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/REPORT.md",
+      "originalSha256": "bc559e7dee632ebbf9b0b4e93359c7702c6bfaf2b0cb4d4ef293c87884cd3072",
+      "publicSha256": "bc559e7dee632ebbf9b0b4e93359c7702c6bfaf2b0cb4d4ef293c87884cd3072",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/initial-social.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/initial-social.json",
+      "originalSha256": "19dd4a07960d9278badd1434da73ed0194ca80e7a8f97b0fc1e737f81e2eb0f6",
+      "publicSha256": "19dd4a07960d9278badd1434da73ed0194ca80e7a8f97b0fc1e737f81e2eb0f6",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/routes.csv",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/routes.csv",
+      "originalSha256": "5e1d613fa10cd19f362ea6ab0ba412411e796e69dfe90bd8bc4e97a7f00324f9",
+      "publicSha256": "5e1d613fa10cd19f362ea6ab0ba412411e796e69dfe90bd8bc4e97a7f00324f9",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/receipts.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/receipts.json",
+      "originalSha256": "5463cf0b6d4305982fcae2fe406ee03f4bcad04c23ef02474a84b394a00ba21f",
+      "publicSha256": "5463cf0b6d4305982fcae2fe406ee03f4bcad04c23ef02474a84b394a00ba21f",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/derived-route-addresses.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/derived-route-addresses.json",
+      "originalSha256": "d8c274c05331dd195fa1983b919d8e8b2b4dff83ab5d40d7eb487b8dfbc2e8c7",
+      "publicSha256": "d8c274c05331dd195fa1983b919d8e8b2b4dff83ab5d40d7eb487b8dfbc2e8c7",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/validation.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/validation.json",
+      "originalSha256": "b6c31ace4fe3b00b597d20ef5836827d7680b5b33bf374c6243d74bed3c7c6a2",
+      "publicSha256": "b6c31ace4fe3b00b597d20ef5836827d7680b5b33bf374c6243d74bed3c7c6a2",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/manifest.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/manifest.json",
+      "originalSha256": "7a436f0d507e9fa92c586b7dc9376ce656afb37b5aaa2b8feb39abfa333210ce",
+      "publicSha256": "7a436f0d507e9fa92c586b7dc9376ce656afb37b5aaa2b8feb39abfa333210ce",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/initial-pools.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/initial-pools.json",
+      "originalSha256": "4fb96827c0cb1c6465eea342aae998f9d0c8398bbe920dc2f481cf361401cf1c",
+      "publicSha256": "4fb96827c0cb1c6465eea342aae998f9d0c8398bbe920dc2f481cf361401cf1c",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/decoded-accounts.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/decoded-accounts.json",
+      "originalSha256": "bfc7dcbfc0ee368fec03afe016b0ce4114c8bfb8e3052141898f9950b65b8b0e",
+      "publicSha256": "bfc7dcbfc0ee368fec03afe016b0ce4114c8bfb8e3052141898f9950b65b8b0e",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/derived-social-atas.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/derived-social-atas.json",
+      "originalSha256": "5291e270dd814ab0468dd204138c66926d939c784f1ca57299ccb8ac851b985a",
+      "publicSha256": "5291e270dd814ab0468dd204138c66926d939c784f1ca57299ccb8ac851b985a",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/routes/routes.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/routes/routes.json",
+      "originalSha256": "02c7cfe26f0fda845a5b1954cecf46dab37684ec87c8384eee9d0bf6380a3994",
+      "publicSha256": "02c7cfe26f0fda845a5b1954cecf46dab37684ec87c8384eee9d0bf6380a3994",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/summary.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/summary.json",
+      "originalSha256": "d4442d9a11d80290ea5c515d7527d3ef2a40b0fcdaf16593fe8f007de65c7529",
+      "publicSha256": "d4442d9a11d80290ea5c515d7527d3ef2a40b0fcdaf16593fe8f007de65c7529",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/replay.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/replay.json",
+      "originalSha256": "4b083c7704e81b4697b9e6479780875315bae8cd568ad1eb4ec9fb156a8f373c",
+      "publicSha256": "4b083c7704e81b4697b9e6479780875315bae8cd568ad1eb4ec9fb156a8f373c",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/coverage.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/coverage.json",
+      "originalSha256": "35eb2e9460c4c1eefcaf226a478f6529d57ed46f99f2fa6d2e67b5548e623150",
+      "publicSha256": "35eb2e9460c4c1eefcaf226a478f6529d57ed46f99f2fa6d2e67b5548e623150",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-8aTZtPqUbZTKEuiGmGHARfpEZP7a3ZraRmFWBCRypump/summary.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-8aTZtPqUbZTKEuiGmGHARfpEZP7a3ZraRmFWBCRypump/summary.json",
+      "originalSha256": "8decf5c61b92ef5fc482e60312dda23b89975faece080fd5c3cd731a45466f6d",
+      "publicSha256": "8decf5c61b92ef5fc482e60312dda23b89975faece080fd5c3cd731a45466f6d",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-8aTZtPqUbZTKEuiGmGHARfpEZP7a3ZraRmFWBCRypump/replay.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-8aTZtPqUbZTKEuiGmGHARfpEZP7a3ZraRmFWBCRypump/replay.json",
+      "originalSha256": "5a5c95d305747cf0442f340d723f45a13e5418fab6e805262bf0ec7b51fe03d7",
+      "publicSha256": "5a5c95d305747cf0442f340d723f45a13e5418fab6e805262bf0ec7b51fe03d7",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-8aTZtPqUbZTKEuiGmGHARfpEZP7a3ZraRmFWBCRypump/coverage.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-8aTZtPqUbZTKEuiGmGHARfpEZP7a3ZraRmFWBCRypump/coverage.json",
+      "originalSha256": "75f40a4b5f26c40692846aa05bf22a8c5245d85ffb049289abed817301963bd7",
+      "publicSha256": "75f40a4b5f26c40692846aa05bf22a8c5245d85ffb049289abed817301963bd7",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-HyRZwEZ4c3ZK83Sq7rLa5izXbn8R1PvFbMRFPwGUpump/summary.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-HyRZwEZ4c3ZK83Sq7rLa5izXbn8R1PvFbMRFPwGUpump/summary.json",
+      "originalSha256": "1b65bfda07a31cdce0f57dd01c115aec84a0d491efc15cbb9e890a43b22eceb7",
+      "publicSha256": "1b65bfda07a31cdce0f57dd01c115aec84a0d491efc15cbb9e890a43b22eceb7",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-HyRZwEZ4c3ZK83Sq7rLa5izXbn8R1PvFbMRFPwGUpump/replay.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-HyRZwEZ4c3ZK83Sq7rLa5izXbn8R1PvFbMRFPwGUpump/replay.json",
+      "originalSha256": "f200401d0eae6b5014086c0873a8f1fd0ba0738ef1ecc257d8d0731fcf03f7b3",
+      "publicSha256": "f200401d0eae6b5014086c0873a8f1fd0ba0738ef1ecc257d8d0731fcf03f7b3",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-HyRZwEZ4c3ZK83Sq7rLa5izXbn8R1PvFbMRFPwGUpump/coverage.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-HyRZwEZ4c3ZK83Sq7rLa5izXbn8R1PvFbMRFPwGUpump/coverage.json",
+      "originalSha256": "e134558d584cc03111dc60efc1af343da8c09be60ed3e91e7a69d44852762e8c",
+      "publicSha256": "e134558d584cc03111dc60efc1af343da8c09be60ed3e91e7a69d44852762e8c",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/summary.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/summary.json",
+      "originalSha256": "136ebd0169e1bee97f00077cc9316024c7180ab9556914faecf643f240e9d31f",
+      "publicSha256": "136ebd0169e1bee97f00077cc9316024c7180ab9556914faecf643f240e9d31f",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/replay.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/replay.json",
+      "originalSha256": "5d120f0e54e9217908b964bb553592554d864490c687cc6c57a1a0f43fb79e5e",
+      "publicSha256": "5d120f0e54e9217908b964bb553592554d864490c687cc6c57a1a0f43fb79e5e",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/coverage.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/coverage.json",
+      "originalSha256": "e02feae8eac82fe57fdd9f6164d2ef650adb25945c362d48d8d1f9cb69f13b4a",
+      "publicSha256": "e02feae8eac82fe57fdd9f6164d2ef650adb25945c362d48d8d1f9cb69f13b4a",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-8yhSE2TvNHsDmBJ2PM6286NFDufjNA2j2x3oZXDUpump/summary.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-8yhSE2TvNHsDmBJ2PM6286NFDufjNA2j2x3oZXDUpump/summary.json",
+      "originalSha256": "7e0b785b3f8e5947f587a805590b957a7e064e79b80906af3bbbed3b63f97d85",
+      "publicSha256": "7e0b785b3f8e5947f587a805590b957a7e064e79b80906af3bbbed3b63f97d85",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-8yhSE2TvNHsDmBJ2PM6286NFDufjNA2j2x3oZXDUpump/replay.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-8yhSE2TvNHsDmBJ2PM6286NFDufjNA2j2x3oZXDUpump/replay.json",
+      "originalSha256": "cc882f9c90704536a9e8fd671b473b6775af00ec7f6a21879661eb1acd351ffb",
+      "publicSha256": "cc882f9c90704536a9e8fd671b473b6775af00ec7f6a21879661eb1acd351ffb",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-8yhSE2TvNHsDmBJ2PM6286NFDufjNA2j2x3oZXDUpump/coverage.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-8yhSE2TvNHsDmBJ2PM6286NFDufjNA2j2x3oZXDUpump/coverage.json",
+      "originalSha256": "435fa3a18e65b9dfd08368107e60fb56ac221801d5889559c7aa9b87c9ad23c3",
+      "publicSha256": "435fa3a18e65b9dfd08368107e60fb56ac221801d5889559c7aa9b87c9ad23c3",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/amm-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/coverage.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/amm-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/coverage.json",
+      "originalSha256": "77e9a2dabb7b67001727c8a8c30cfeeac4fd88f5f64ec789f8fef330259ade97",
+      "publicSha256": "77e9a2dabb7b67001727c8a8c30cfeeac4fd88f5f64ec789f8fef330259ade97",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/amm-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/coverage.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/amm-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/coverage.json",
+      "originalSha256": "edff0a921cf6f2ac28d856cb8cffb29f8f4f54ee51ed16da0e1abe9796e79fd1",
+      "publicSha256": "edff0a921cf6f2ac28d856cb8cffb29f8f4f54ee51ed16da0e1abe9796e79fd1",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump/summary.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump/summary.json",
+      "originalSha256": "42f2b765066ee7a61dbad8b3f579294a2b46e51ea14aa3cc5f9ae17ae61ae6e0",
+      "publicSha256": "42f2b765066ee7a61dbad8b3f579294a2b46e51ea14aa3cc5f9ae17ae61ae6e0",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump/replay.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump/replay.json",
+      "originalSha256": "24dbdc5c39b1b544854897d6001379c637bf1b4e69c8d13236425deb835badfe",
+      "publicSha256": "24dbdc5c39b1b544854897d6001379c637bf1b4e69c8d13236425deb835badfe",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump/coverage.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump/coverage.json",
+      "originalSha256": "857e406955040bca50b093678eaf672d33d22d6ca9da22d69e701e58aee05b17",
+      "publicSha256": "857e406955040bca50b093678eaf672d33d22d6ca9da22d69e701e58aee05b17",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-9gQtknSEwdkDuspJYn4ovqV21iyhfFXHzB9u1YPKpump/summary.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-9gQtknSEwdkDuspJYn4ovqV21iyhfFXHzB9u1YPKpump/summary.json",
+      "originalSha256": "665040965c5cf69dca15d4be7b3299b490002a31e3cb1cd803183a3b204e5214",
+      "publicSha256": "665040965c5cf69dca15d4be7b3299b490002a31e3cb1cd803183a3b204e5214",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-9gQtknSEwdkDuspJYn4ovqV21iyhfFXHzB9u1YPKpump/replay.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-9gQtknSEwdkDuspJYn4ovqV21iyhfFXHzB9u1YPKpump/replay.json",
+      "originalSha256": "0ff1029a1b5e0ea09a900cbbafa794f894b071834169ac7899438e62c9b5d479",
+      "publicSha256": "0ff1029a1b5e0ea09a900cbbafa794f894b071834169ac7899438e62c9b5d479",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-9gQtknSEwdkDuspJYn4ovqV21iyhfFXHzB9u1YPKpump/coverage.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-9gQtknSEwdkDuspJYn4ovqV21iyhfFXHzB9u1YPKpump/coverage.json",
+      "originalSha256": "35ace9c8d3c958ca17a39da99e3f1115a133b8b4612de38a548cea4d11304b24",
+      "publicSha256": "35ace9c8d3c958ca17a39da99e3f1115a133b8b4612de38a548cea4d11304b24",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR/summary.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR/summary.json",
+      "originalSha256": "e2b3abcd557333490be8a205cf3f24f311138b737e76ee31a38db648d25ccb65",
+      "publicSha256": "e2b3abcd557333490be8a205cf3f24f311138b737e76ee31a38db648d25ccb65",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR/replay.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR/replay.json",
+      "originalSha256": "acb69ca810c1759c294cbfc8adddd642d3798c3d0985b6328125fbb24921cae9",
+      "publicSha256": "acb69ca810c1759c294cbfc8adddd642d3798c3d0985b6328125fbb24921cae9",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR/coverage.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR/coverage.json",
+      "originalSha256": "e910d8e53887257a64c8808fd62abb3aa80500e78cc14a04cbb18d708729a178",
+      "publicSha256": "e910d8e53887257a64c8808fd62abb3aa80500e78cc14a04cbb18d708729a178",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/Flightradar24/summary.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/Flightradar24/summary.json",
+      "originalSha256": "3b98052747beb91395450c265a16355c523d84baf31ff66e8dc06d13054c0b8a",
+      "publicSha256": "3b98052747beb91395450c265a16355c523d84baf31ff66e8dc06d13054c0b8a",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/Flightradar24/replay.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/Flightradar24/replay.json",
+      "originalSha256": "f646fe53dc13f76e8d75bd1c8cd343c581d90c5a3bedb59edecf1ee56ab4f018",
+      "publicSha256": "f646fe53dc13f76e8d75bd1c8cd343c581d90c5a3bedb59edecf1ee56ab4f018",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/Flightradar24/coverage.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/Flightradar24/coverage.json",
+      "originalSha256": "daef77335e150db5cb3b897292d6abb40e2818237e9eef56f44cf0b95cb710eb",
+      "publicSha256": "daef77335e150db5cb3b897292d6abb40e2818237e9eef56f44cf0b95cb710eb",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/Bold/summary.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/Bold/summary.json",
+      "originalSha256": "e4c0e44cec3f19055eb63018acc541183b760570f915b3d22ac96696cba1bf8b",
+      "publicSha256": "e4c0e44cec3f19055eb63018acc541183b760570f915b3d22ac96696cba1bf8b",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/Bold/replay.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/Bold/replay.json",
+      "originalSha256": "0db1203d8a5ba26f0891f09f54918354c6a4c9547d972d3b6f91b0230781b7c3",
+      "publicSha256": "0db1203d8a5ba26f0891f09f54918354c6a4c9547d972d3b6f91b0230781b7c3",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/Bold/coverage.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/Bold/coverage.json",
+      "originalSha256": "00a99fa1d1a46fb76980b92f63ae1a7344a46363764fdd44e341be3d4addbe78",
+      "publicSha256": "00a99fa1d1a46fb76980b92f63ae1a7344a46363764fdd44e341be3d4addbe78",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-6cnk4vMENAxcuYm9rSMzAASGMj1eXpDoEFu5cHGUpump/summary.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-6cnk4vMENAxcuYm9rSMzAASGMj1eXpDoEFu5cHGUpump/summary.json",
+      "originalSha256": "6f2954372b15a5281d0b690fc51a6db33e49a254e6aead1e66a7d3b876070da7",
+      "publicSha256": "6f2954372b15a5281d0b690fc51a6db33e49a254e6aead1e66a7d3b876070da7",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-6cnk4vMENAxcuYm9rSMzAASGMj1eXpDoEFu5cHGUpump/replay.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-6cnk4vMENAxcuYm9rSMzAASGMj1eXpDoEFu5cHGUpump/replay.json",
+      "originalSha256": "07bb906ba8a8c58e0256eb0cf3ff5f30a913aa3510fabb3a864aa17eb46cb2a6",
+      "publicSha256": "07bb906ba8a8c58e0256eb0cf3ff5f30a913aa3510fabb3a864aa17eb46cb2a6",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/route-6cnk4vMENAxcuYm9rSMzAASGMj1eXpDoEFu5cHGUpump/coverage.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/route-6cnk4vMENAxcuYm9rSMzAASGMj1eXpDoEFu5cHGUpump/coverage.json",
+      "originalSha256": "b02c0703a6973c7541a004b1bfee5ad66521ffcb0512daed579e2a104ca665b0",
+      "publicSha256": "b02c0703a6973c7541a004b1bfee5ad66521ffcb0512daed579e2a104ca665b0",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/amm-latest-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/replay.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/amm-latest-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/replay.json",
+      "originalSha256": "25d7634412b2a6739bc9ff356d26c3594076ff975cd66f2499791f14799fb682",
+      "publicSha256": "25d7634412b2a6739bc9ff356d26c3594076ff975cd66f2499791f14799fb682",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/amm-latest-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/coverage.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/amm-latest-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/coverage.json",
+      "originalSha256": "a5e2604b5115f391a50a86a3d365c4e903e3f8adac75c988fa474e249b297be5",
+      "publicSha256": "a5e2604b5115f391a50a86a3d365c4e903e3f8adac75c988fa474e249b297be5",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/replay.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/replay.json",
+      "originalSha256": "3dcd74506dff4b7b3510989c1ea76f4d16215e1d7b91ed68778b382ea1252b52",
+      "publicSha256": "3dcd74506dff4b7b3510989c1ea76f4d16215e1d7b91ed68778b382ea1252b52",
+      "includedAsDerivedFile": true
+    },
+    {
+      "publicPath": "outputs/ramonos-launches-20261013/target-vaults/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/coverage.json",
+      "originalResearchPath": "outputs/ramonos-launches-20261013/target-vaults/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/coverage.json",
+      "originalSha256": "05e551a33bf4faf9221a0d929e469841d12fad3c19fe2dc50055cf3ade54a9ae",
+      "publicSha256": "05e551a33bf4faf9221a0d929e469841d12fad3c19fe2dc50055cf3ade54a9ae",
+      "includedAsDerivedFile": true
+    }
+  ]
+}

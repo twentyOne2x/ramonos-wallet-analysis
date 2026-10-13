@@ -1,0 +1,58 @@
+{
+  "cutoff": 1791908918,
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "name": "route-F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR",
+  "displayName": "RAM",
+  "mint": "F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR",
+  "config": "F8aNdEk3KVX5Ao8JMvxuLdC3vAGbAvdWNP2kGSqRWCw8",
+  "vault": "DVNJKqTxiQAgMEi2w8c6qkxfaytzYoKr8rNwcNJrazbT",
+  "recipients": [
+    {
+      "address": "8yG8xML4vJoyLbn4dBWwPAvKqxp7oRTCnc67zQxY5mgu",
+      "share_bps": "8000",
+      "platform": null,
+      "userId": null,
+      "recipientAccountType": null,
+      "category": "ordinary recipient wallet",
+      "shareFractionNumerator": "8000",
+      "shareFractionDenominator": "10000",
+      "curvePendingFeeFractionFloorRaw": "0",
+      "poolPendingFeeFractionFloorRaw": null,
+      "allocationNote": "Arithmetic current split applied to separate pending counters; distribution rounding/order and historic split not inferred."
+    },
+    {
+      "address": "35XTCpBuZfAwTj3tK8BQxXQmCsi7rxGAfQZM28CxM9tZ",
+      "share_bps": "2000",
+      "platform": null,
+      "userId": null,
+      "recipientAccountType": null,
+      "category": "ordinary recipient wallet",
+      "shareFractionNumerator": "2000",
+      "shareFractionDenominator": "10000",
+      "curvePendingFeeFractionFloorRaw": "0",
+      "poolPendingFeeFractionFloorRaw": null,
+      "allocationNote": "Arithmetic current split applied to separate pending counters; distribution rounding/order and historic split not inferred."
+    }
+  ],
+  "routeCategory": "ordinary wallet sharing",
+  "terminal": true,
+  "pages": [
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/route-F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR/page-0000.response.json",
+      "sha256": "5efd6c38742f765a785c0fef21b3ba1b1e874cbf4891e6cae7b55abe0030d427",
+      "count": 275,
+      "cursorIn": null,
+      "cursorOut": "448250224:1152"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/route-F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR/page-0001.response.json",
+      "sha256": "abd38ce8ef91eff014c0fb955cf12917d8288778b4dc011defbe813970aa2925",
+      "count": 0,
+      "cursorIn": "448250224:1152",
+      "cursorOut": null
+    }
+  ],
+  "transactionCount": 275
+}

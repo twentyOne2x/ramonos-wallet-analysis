@@ -1,0 +1,71 @@
+{
+  "generatedUtc": "2026-10-13T16:44:26.736322+00:00",
+  "wallet": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+  "humanAttribution": "public self-attribution; undisclosed wallets excluded",
+  "financialExecutionCapSol": 0,
+  "censusCutoffUtc": "2026-10-13T16:19:01Z",
+  "vaultHistoryCutoffUtc": "2026-10-13T16:28:38Z",
+  "finalSocialReadSlot": 456509511,
+  "launches": 279,
+  "pumpLaunches": 277,
+  "launchlabLaunches": 2,
+  "currentCategories": {
+    "100% disclosed launcher": 263,
+    "LaunchLab": 2,
+    "wallet split including disclosed launcher": 2,
+    "direct GitHub recipient": 1,
+    "other wallet addresses; ownership unknown": 6,
+    "native donation": 1,
+    "native holder rewards": 3,
+    "UsePaid intermediary": 1
+  },
+  "directGithub": {
+    "target": "Flightradar24",
+    "githubNumericId": "12810712",
+    "mint": "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump",
+    "shareBps": 10000,
+    "claimedNativeLamports": "0",
+    "unclaimedSocialFeeLamports": "10778206",
+    "unclaimedUpstreamVerifiedFeeLamports": "135263714",
+    "unclaimedTotalVerifiedFeeLamports": "146041920",
+    "excludedSocialInitialFundingLamports": "2136720",
+    "excludedVaultHistoricalFundingLamports": "890880",
+    "nativeClaimedPercent": 0,
+    "nativeUnclaimedPercent": 100
+  },
+  "UsePaidRoute": {
+    "mint": "EiDpY9QApxYMFYhR4TWXEpy6gANh73S4h3t8eSif32SM",
+    "metadataNamedTarget": "@boldleonidas",
+    "shareBps": 10000,
+    "generatedNativeFeeLamports": "620058647",
+    "paidToUsePaidLamports": "618888685",
+    "pendingUpstreamVerifiedFeeLamports": "1169962",
+    "targetDeveloperClaimed": "unknown",
+    "targetDeveloperUnclaimed": "unknown"
+  },
+  "ordinaryOtherWalletPaymentsLamports": "59245135418",
+  "ordinaryReconciledFeePendingLamports": "609924971",
+  "ordinaryNativeResidualProvenanceGapRoutes": [
+    "PsyopCartoon",
+    "this coin will retire you"
+  ],
+  "hypothetical50PercentOfTwoSocialLaunchGeneratedFeesSol": 0.3830502835,
+  "annualRevenueEstimate": null,
+  "limitations": [
+    "Complete provider-indexed successful direct disclosed-wallet references only; no claim of all human-controlled wallets.",
+    "Current route snapshot and historical creation defaults are different facts.",
+    "UsePaid onward target settlement unknown.",
+    "Nonseed wallet identity/control unknown; actual credit is an address receipt.",
+    "Missing flags are preserved null; not false.",
+    "Funding and rent-reserve releases excluded from direct GitHub fee revenue.",
+    "Native SOL, USD1 and other assets are never summed.",
+    "Observed balances/counters span listed finalized timestamps and are not a single historical global snapshot.",
+    "Future 50/50 sample arithmetic is not annual revenue or authority to reclaim already assigned funds."
+  ],
+  "ordinaryProvenAmmWsolPendingRaw": "6466356",
+  "ordinaryProvenAmmWsolPendingCurrentShareByAddressRaw": {
+    "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b": "3180768",
+    "ynVUJyGuNpr5o35CNvkcytPSW91nY26ZPdswH5UfEbv": "2232849",
+    "F4tvmVEZc9DQQVPxoQeNLaGfvXw6vrbHvC6kECGU3c1C": "1052738"
+  }
+}

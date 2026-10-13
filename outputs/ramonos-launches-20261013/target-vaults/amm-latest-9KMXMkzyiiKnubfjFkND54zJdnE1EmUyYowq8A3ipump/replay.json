@@ -1,0 +1,155 @@
+{
+  "summary": {
+    "cutoff": 1791908918,
+    "cutoffUtc": "2026-10-13T16:28:38Z",
+    "commitment": "finalized",
+    "financialExecutionCapSol": 0,
+    "name": "this coin will retire you",
+    "mint": "9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump",
+    "config": "FhhNzSxu55D2JjzZAf3Ebd3woFDTQvUAc1YKA1eNvNbz",
+    "pool": "7VN6MDFE8NP2a7WsRafT4UVLWH2q5Q7abmoGXBAR6Gdc",
+    "ata": "CfDANKRyAfm5ru67ykbRh17aK7eCgmHqWNfnACFbqncS",
+    "authority": "8ZxtZbNJ2RbebVRkdDBHnuvcMrMUGNHPdiG3xG54dvAY",
+    "transactionCount": 6,
+    "terminal": true,
+    "verifiedCreatorFeeInRaw": "2255404",
+    "verifiedClosedOutRaw": "0",
+    "firstPreRaw": "0",
+    "lastPostRaw": "2255404",
+    "currentRaw": "2255404",
+    "lastPostMatchesCurrent": true,
+    "unknown": [],
+    "decodeErrors": [],
+    "baselineSignature": "42r6fHS65cNB5W9MKEqLDMoVZ2f4d4Bm78ecCXUvfGGBp6hmo71b6F46yWiEn9KrQhMxHkmEMf3hBM1JQWWTxvVZ",
+    "lowerBound": 1787596526,
+    "baselineReached": true,
+    "feeProvenanceReconciled": true
+  },
+  "transactions": [
+    {
+      "signature": "4huq6HDUZn9psYdeAcu9YkzzndxYvmg9hMR1v6MscsWMVnS9nSPnkcccJNraPjMG6JBGgBbpQahbakuPaivV98Pp",
+      "slot": 441458584,
+      "blockTime": 1787598051,
+      "preRaw": "0",
+      "postRaw": "779985",
+      "verifiedCreatorFeeRaw": "779985",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "BuyEvent",
+          "eventPayloadSha256": "92ba6438acb612a8ff6291d745f556897e07396304594746d63f0b42272d5d77",
+          "topLevelInstructionIndexes": [
+            6
+          ],
+          "candidates": 1,
+          "feeRaw": "779985",
+          "actualTransferRaw": "779985",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0000.response.json"
+    },
+    {
+      "signature": "2hmqhymJZrpoUaTTve79LuTKqrEKfSsUYm6L5RLhc1DQR3WusNPKEiVLx5AoEsBNLAcQYm13gVPUPMTN2qgm882Q",
+      "slot": 441459073,
+      "blockTime": 1787598232,
+      "preRaw": "779985",
+      "postRaw": "2163885",
+      "verifiedCreatorFeeRaw": "1383900",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "BuyEvent",
+          "eventPayloadSha256": "e5ca6a5ee539ce9750c3b15a53542cd6bba047f9e6a8bd9b40a9899f07249dcf",
+          "topLevelInstructionIndexes": [
+            6
+          ],
+          "candidates": 1,
+          "feeRaw": "1383900",
+          "actualTransferRaw": "1383900",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0000.response.json"
+    },
+    {
+      "signature": "29amLS4EcLCnJ4VuBbHVW2KdssqgFuuCq9KaruENwzjUyR1jDfeCXncK2prH1ogv17MXp8Z8HLNGuFCvhVZvHFAv",
+      "slot": 442280436,
+      "blockTime": 1787898637,
+      "preRaw": "2163885",
+      "postRaw": "2184903",
+      "verifiedCreatorFeeRaw": "21018",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "09c55d92e773405fbbdb81bd5b75ff2cd86d849907fec5d9cb05c90854af1e0e",
+          "topLevelInstructionIndexes": [
+            3
+          ],
+          "candidates": 1,
+          "feeRaw": "21018",
+          "actualTransferRaw": "21018",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0000.response.json"
+    },
+    {
+      "signature": "N6Lqj5ctUmpndUfGF5GGZ1nj9RaKAFSyZZHVR2kjmEgdy2RGURcn1Y73gafnchbjRvSbKFHLmxiKe74G3ufo6Ay",
+      "slot": 445003364,
+      "blockTime": 1788764472,
+      "preRaw": "2184903",
+      "postRaw": "2253302",
+      "verifiedCreatorFeeRaw": "68399",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "3a15f4406603e6ddf5a3869ebf57871213bc7c97faa52045064adb8e8d391c8d",
+          "topLevelInstructionIndexes": [
+            2
+          ],
+          "candidates": 1,
+          "feeRaw": "68399",
+          "actualTransferRaw": "68399",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0000.response.json"
+    },
+    {
+      "signature": "432UT6gC4kyB6dBayrjHmowhWSkH4v3GLHf35fFZKDnEcisEZWi1AnH3Q1yhLchC7bzxYdLvwrXc2N5TShCgEXE5",
+      "slot": 448763393,
+      "blockTime": 1789915752,
+      "preRaw": "2253302",
+      "postRaw": "2255404",
+      "verifiedCreatorFeeRaw": "2102",
+      "closedFeeRaw": "0",
+      "residualRaw": "0",
+      "details": [
+        {
+          "name": "SellEvent",
+          "eventPayloadSha256": "34f08834d60218d5b458f7266a9958fa6b8d5369601458c639e76f6b0977610e",
+          "topLevelInstructionIndexes": [
+            6
+          ],
+          "candidates": 1,
+          "feeRaw": "2102",
+          "actualTransferRaw": "2102",
+          "verified": true
+        }
+      ],
+      "closes": [],
+      "source": "outputs/ramonos-launches-20261013/target-vaults/raw/amm-latest-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/page-0000.response.json"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+node_modules/
+**/raw/
+tools/.test-scratch/
+.replay-output/
+*.zip
+*.tar.gz
+verification-downloads/
+tests/**/evaluation-output/

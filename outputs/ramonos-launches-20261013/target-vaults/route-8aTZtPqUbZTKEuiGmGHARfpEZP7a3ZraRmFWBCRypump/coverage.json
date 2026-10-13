@@ -1,0 +1,45 @@
+{
+  "cutoff": 1791908918,
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "name": "route-8aTZtPqUbZTKEuiGmGHARfpEZP7a3ZraRmFWBCRypump",
+  "displayName": "The Jailed Bull",
+  "mint": "8aTZtPqUbZTKEuiGmGHARfpEZP7a3ZraRmFWBCRypump",
+  "config": "BkpYHdGxYE3msHZc9vbSg85SJFNNrV9qkhRevgZeNxXS",
+  "vault": "5rfgyNtomRgftDFgxHuKzUwwHQ4hEjVwWHGLmY34x2Kr",
+  "recipients": [
+    {
+      "address": "FBUKfg7Thx4WDM4ATehJe1xWzuGtMk1myXhRSvuSq19h",
+      "share_bps": "10000",
+      "platform": null,
+      "userId": null,
+      "recipientAccountType": null,
+      "category": "ordinary recipient wallet",
+      "shareFractionNumerator": "10000",
+      "shareFractionDenominator": "10000",
+      "curvePendingFeeFractionFloorRaw": "0",
+      "poolPendingFeeFractionFloorRaw": "0",
+      "allocationNote": "Arithmetic current split applied to separate pending counters; distribution rounding/order and historic split not inferred."
+    }
+  ],
+  "routeCategory": "ordinary wallet sharing",
+  "terminal": true,
+  "pages": [
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/route-8aTZtPqUbZTKEuiGmGHARfpEZP7a3ZraRmFWBCRypump/page-0000.response.json",
+      "sha256": "e8d5c8a9440926c427d4861ba1c79d31b5f6be25026e2dc4447e1605b000ed1d",
+      "count": 15,
+      "cursorIn": null,
+      "cursorOut": "430820320:453"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/route-8aTZtPqUbZTKEuiGmGHARfpEZP7a3ZraRmFWBCRypump/page-0001.response.json",
+      "sha256": "abd38ce8ef91eff014c0fb955cf12917d8288778b4dc011defbe813970aa2925",
+      "count": 0,
+      "cursorIn": "430820320:453",
+      "cursorOut": null
+    }
+  ],
+  "transactionCount": 15
+}

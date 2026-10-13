@@ -1,0 +1,205 @@
+{
+  "schema": "ramonos-tools-provenance-v1",
+  "files": [
+    {
+      "path": "schemas/pump.json",
+      "sha256": "fb5cce35e21a1b6a74d192eea11fe805602fa357acc7051dd1492fc09714d467",
+      "adaptation": "Unchanged official @pump-fun/pump-sdk 4.0.0 IDL",
+      "source": "@pump-fun/pump-sdk@4.0.0/src/idl/pump.json",
+      "sourceSha256": "fb5cce35e21a1b6a74d192eea11fe805602fa357acc7051dd1492fc09714d467"
+    },
+    {
+      "path": "schemas/pump_amm.json",
+      "sha256": "b7d8c57a4d9c4dd0109a9ab893052352333252d4eedced10ac091d4d66cab89b",
+      "adaptation": "Unchanged official @pump-fun/pump-sdk 4.0.0 IDL",
+      "source": "@pump-fun/pump-sdk@4.0.0/src/idl/pump_amm.json",
+      "sourceSha256": "b7d8c57a4d9c4dd0109a9ab893052352333252d4eedced10ac091d4d66cab89b"
+    },
+    {
+      "path": "schemas/pump_fees.json",
+      "sha256": "f111d2e5c9aa3d4e64d6a4e6b6f34300ccb1eaf6abc46834fe491836dc90aa74",
+      "adaptation": "Unchanged official @pump-fun/pump-sdk 4.0.0 IDL",
+      "source": "@pump-fun/pump-sdk@4.0.0/src/idl/pump_fees.json",
+      "sourceSha256": "f111d2e5c9aa3d4e64d6a4e6b6f34300ccb1eaf6abc46834fe491836dc90aa74"
+    },
+    {
+      "path": "schemas/launchlab.json",
+      "sha256": "cd6ca324718db1ac379f12c5a31d7347a0fb613d7a7b929f498dbd995d2d7c45",
+      "adaptation": "Factual ABI subset only; remove prose/docs; select consumed instructions/accounts/events and reachable types",
+      "source": "raydium-io/raydium-idl@e7e0c96fe77bcf6a020b84a44c47a722aac8e359/raydium_launchpad/raydium_launchpad.json",
+      "sourceSha256": "963189409945069409f32e345d4adf2892e0b3ca1be504372577fe34a23c6cdb"
+    },
+    {
+      "path": "tools/decoder.py",
+      "sha256": "fdfd4e5251ea389b7866ba8e310258a12428d9a81a153f6a86d6b8cb1924fe4b",
+      "adaptation": "Extract only generic base58, exact units, Reader and instruction flattening; vendored SDK 4 IDLs; removed unrelated case constants",
+      "source": "original generic Borsh transaction decoder; original bytes bound by sourceSha256",
+      "sourceSha256": "c06c6cb9b118e1b3645002da4f2db1402f2a94910f72b197eaf81b9680d41b8e"
+    },
+    {
+      "path": "tools/launchlab_decoder.py",
+      "sha256": "86e1b85cbc337758fa117d6a73ab1763292332ee7d2d53b9341afffb22142ed0",
+      "adaptation": "Extract generic LaunchLab Borsh/PDA primitives only; remove original investigation main and creator",
+      "source": "original generic interface/PDA decoder; original bytes bound by sourceSha256",
+      "sourceSha256": "0811e987d4a2244b164a907c5fd4ce25f5a7bd49eac9c7c89f128348db585a29"
+    },
+    {
+      "path": "tools/paths.py",
+      "sha256": "b3faf8aab568a927340cfcf83620296c60e5a28c32f11f25144f117489d355e2",
+      "adaptation": "Portable extraction"
+    },
+    {
+      "path": "tools/fee_core.py",
+      "sha256": "77826f7e52277543bd3378be6258c37adb9657ae990da5533173e804f7399a11",
+      "adaptation": "Change data/code roots; vendored schemas; own allowlisted RPC; remove unrelated wallet and cutoff",
+      "source": "original generic fee receipt decoder; original bytes bound by sourceSha256",
+      "sourceSha256": "890a50b1c41ed915620c2084fc7cc14de57e3c2dd203d704a037989a5e6ed400"
+    },
+    {
+      "path": "tools/census/aggregate.py",
+      "sha256": "68b3a114bf4ac483debab60d199b5c15481cb811a372716da335669dbb567624",
+      "adaptation": "Adapt code/data roots and shared decoders/schemas; preserve economic computation and evidence checks",
+      "source": "work/ramonos-launches-20261013/census/aggregate.py",
+      "sourceSha256": "795d035281a765a3162028e6bff56bf49f1fcc2dba381846265d34ddb7ada7b9"
+    },
+    {
+      "path": "tools/census/capture.py",
+      "sha256": "00eb3f58939bdb7adf33fed270e55c1509e352b63ee43c9e062e0168c91667a8",
+      "adaptation": "Adapt code/data roots and shared decoders/schemas; preserve economic computation and evidence checks",
+      "source": "work/ramonos-launches-20261013/census/capture.py",
+      "sourceSha256": "62dcd15eabc6bf385c13962db4c01b603e565317d82d55021735a48a801f4e65"
+    },
+    {
+      "path": "tools/census/launchlab.py",
+      "sha256": "7d24ea60a445876c1bcdf60057e469e11e2d31147dbcfa901aee619363d9ab65",
+      "adaptation": "Adapt code/data roots and shared decoders/schemas; preserve economic computation and evidence checks",
+      "source": "work/ramonos-launches-20261013/census/launchlab.py",
+      "sourceSha256": "e7b424f250acf9ef1fa1ac8ccc1f538e381915406b7e8fe6e9a122db8c4970e3"
+    },
+    {
+      "path": "tools/census/verify.py",
+      "sha256": "f1f9bda6d7a7b0483cc292daeccf2a86f58fdd5d1d0a7838c033aa9207f41e7e",
+      "adaptation": "Adapt code/data roots and shared decoders/schemas; preserve economic computation and evidence checks",
+      "source": "work/ramonos-launches-20261013/census/verify.py",
+      "sourceSha256": "3dfea4a625b9552397359590c4d9985bafc9023d8efe4a11a7fe2bd40a43e058"
+    },
+    {
+      "path": "tools/launchlab/analyze.py",
+      "sha256": "cd414424af79d753e6b6b00983f651aa6bf0a9317811563a484420404d8f0d37",
+      "adaptation": "Adapt code/data roots and shared decoders/schemas; preserve economic computation and evidence checks",
+      "source": "work/ramonos-launches-20261013/launchlab/analyze.py",
+      "sourceSha256": "22c49938cfbec9c783db98530939dec69f1e321bc9f0012cf7f49f980c0fa38b"
+    },
+    {
+      "path": "tools/launchlab/claims.py",
+      "sha256": "b385d9af457dde4420972916f0b0559de42c0e723f76c469bcccededd5857ecd",
+      "adaptation": "Adapt code/data roots and shared decoders/schemas; preserve economic computation and evidence checks",
+      "source": "work/ramonos-launches-20261013/launchlab/claims.py",
+      "sourceSha256": "7c46633505d63e7933d5dc40e042be3a78a40b3dd005514282e87d929e2279af"
+    },
+    {
+      "path": "tools/launchlab/report.py",
+      "sha256": "c4384df54773e2fefa0d1353e36f2d9204a11d343064bb4d912ef370bc86edae",
+      "adaptation": "Adapt code/data roots and shared decoders/schemas; preserve economic computation and evidence checks",
+      "source": "work/ramonos-launches-20261013/launchlab/report.py",
+      "sourceSha256": "2cf8d5c0f89123bb823efed97a528b5a7326cc876f403b4a0b01b0df18a57d52"
+    },
+    {
+      "path": "tools/own-fees/decode.py",
+      "sha256": "65185df8e68c78c6162703d504212027e4ac5fed6d9ff4e009684797d3b3263a",
+      "adaptation": "Adapt code/data roots and shared decoders/schemas; preserve economic computation and evidence checks",
+      "source": "work/ramonos-launches-20261013/own-fees/decode.py",
+      "sourceSha256": "99fdf81a5821bb1952de2382cdcfb48cc2f8b96ddc85a34c21c7c90257d7b950"
+    },
+    {
+      "path": "tools/own-fees/report.py",
+      "sha256": "41b2fc6b7f2b6ff6dbd374c65fa8e6db108ed3dc62f1cf187c6b4cf5ced2075c",
+      "adaptation": "Adapt code/data roots and shared decoders/schemas; preserve economic computation and evidence checks",
+      "source": "work/ramonos-launches-20261013/own-fees/report.py",
+      "sourceSha256": "2239cbb8f54eb996b61c9797cfcaadf875d71673f31d5de4bbe5cd43c7bf9f10"
+    },
+    {
+      "path": "tools/own-fees/verify.py",
+      "sha256": "b600c5a2a91d3b0ca715b7983ee86fe43afc3084117e5ee60f03d74c226840ef",
+      "adaptation": "Adapt code/data roots and shared decoders/schemas; preserve economic computation and evidence checks",
+      "source": "work/ramonos-launches-20261013/own-fees/verify.py",
+      "sourceSha256": "b9df115b5470e2247131a02d50f40c3a3e369e4a117660b2aea7d8196ca54801"
+    },
+    {
+      "path": "tools/routes/finalize.py",
+      "sha256": "9a8c8e53ba7b9b599d1b278a5056d2d9f9338cdcdd5cb47c5cd7f6d48f6780a4",
+      "adaptation": "Adapt code/data roots and shared decoders/schemas; preserve economic computation and evidence checks",
+      "source": "work/ramonos-launches-20261013/routes/finalize.py",
+      "sourceSha256": "6a6444c9263a202e2d6fed044e04b33e095e5e35ad38fbcd98d77701b4308f3c"
+    },
+    {
+      "path": "tools/routes/snapshot.py",
+      "sha256": "3cd5a539ea31c5a72cce22ee45655c9bfd0c958ccfc9c56e06200d30e4a56dd1",
+      "adaptation": "Adapt code/data roots and shared decoders/schemas; preserve economic computation and evidence checks",
+      "source": "work/ramonos-launches-20261013/routes/snapshot.py",
+      "sourceSha256": "0ab97c43a6b75be7a5f14d4fd33d247f96cea1b6b9c6451fb3b8b7bacf88a9bc"
+    },
+    {
+      "path": "tools/target-fees/replay.py",
+      "sha256": "bf5fadd8dfdc6c7aa58c559d6f8831426b2592bf89827d7027345346143ce22c",
+      "adaptation": "Adapt code/data roots and shared decoders/schemas; preserve economic computation and evidence checks",
+      "source": "work/ramonos-launches-20261013/target-fees/replay.py",
+      "sourceSha256": "9efbec7129eacea9d467e5a01b3d51e6131721c11e22d14599f612ea1d34110e"
+    },
+    {
+      "path": "tools/target-vaults/amm_replay.py",
+      "sha256": "681946aba742ea822747f94dfe30993fa22d55d77a77db2b90a6830b05ce0bc8",
+      "adaptation": "Adapt code/data roots and shared decoders/schemas; preserve economic computation and evidence checks",
+      "source": "work/ramonos-launches-20261013/target-vaults/amm_replay.py",
+      "sourceSha256": "39b241d79941ca8eb9544cc88778092883c909233ff33d1515c6309eef6ec706"
+    },
+    {
+      "path": "tools/target-vaults/replay.py",
+      "sha256": "e6084b73cb72a72313d7bca32f1c84c8d93195d60e1d6158978729286547738d",
+      "adaptation": "Adapt code/data roots and shared decoders/schemas; preserve economic computation and evidence checks",
+      "source": "work/ramonos-launches-20261013/target-vaults/replay.py",
+      "sourceSha256": "0a7db618aff33ddb8149560e6666f4597369cb2a044cf6ac484f094da461ad8f"
+    },
+    {
+      "path": "schemas/pump-sdk-4-pda.ts",
+      "source": "@pump-fun/pump-sdk@4.0.0/src/pda.ts",
+      "sourceSha256": "66f4df4ac841f60f3db0bfb1a85e42e6798232ab42bf05c52c1cf4b07f49f01c",
+      "adaptation": "Unchanged official PDA seed source for Python translation",
+      "sha256": "66f4df4ac841f60f3db0bfb1a85e42e6798232ab42bf05c52c1cf4b07f49f01c"
+    },
+    {
+      "path": "schemas/launchlab.source.json",
+      "source": "original Raydium interface provenance; original bytes bound by sourceSha256",
+      "sourceSha256": "be796fdad3fd71213a6a488f517ee25ee498a3cc988d502c7684072622c6820d",
+      "adaptation": "Source revision/hash plus subset scope",
+      "sha256": "53d08b570940d28cd8065397e481c7e6747128b21e8b5c832c62fb1d4a8b8a3b"
+    },
+    {
+      "path": "tools/PORTABILITY-VALIDATION.json",
+      "adaptation": "New portable support/documentation for retained Ramonos offline replay",
+      "sha256": "9227749e0d6d295316f41f18b389a4f93b6319252389fe432ed8ed43daf0aff0"
+    },
+    {
+      "path": "tools/README.md",
+      "adaptation": "New portable support/documentation for retained Ramonos offline replay",
+      "sha256": "087e280c6fb2745ac397986a3e20372d10d8411eabd0a8db55c8fcf311a5c093"
+    },
+    {
+      "path": "tools/pump_pda.py",
+      "adaptation": "Translate official SDK 4 PDA seed facts using retained pure-Python Solana derivation; 1939 captured address comparisons passed",
+      "sha256": "1d761af73e24191e93e7ac13b6a0026d53c715426e6d349c8d62100a09222b5c",
+      "source": "@pump-fun/pump-sdk@4.0.0/src/pda.ts",
+      "sourceSha256": "66f4df4ac841f60f3db0bfb1a85e42e6798232ab42bf05c52c1cf4b07f49f01c"
+    },
+    {
+      "path": "tools/replay.py",
+      "adaptation": "New portable support/documentation for retained Ramonos offline replay",
+      "sha256": "dd440292df3141f9ec63a480a43bf82f18dc6459d8a15b551be2618303f8050d"
+    },
+    {
+      "path": "tools/rpc_readonly.py",
+      "adaptation": "New portable support/documentation for retained Ramonos offline replay",
+      "sha256": "a61b9ecaefa4a5b56a201ec20cbb6d6c42de5135b0d58c63a0983464482cd5d6"
+    }
+  ]
+}

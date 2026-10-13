@@ -1,0 +1,30 @@
+{
+  "address": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+  "githubNumericId": "12810712",
+  "cutoff": 1791908699,
+  "cutoffUtc": "2026-10-13T16:24:59Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "terminal": true,
+  "pages": [
+    {
+      "path": "outputs/ramonos-launches-20261013/target-fees/raw/page-0000.response.json",
+      "sha256": "f92ba0a9d2d1200295203046acaa17629087670cbf61dd0dfbce1d1fc31a4e82",
+      "count": 2,
+      "cursorIn": null,
+      "cursorOut": "402098419:852",
+      "minBlockTime": 1771814577,
+      "maxBlockTime": 1771814590
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-fees/raw/page-0001.response.json",
+      "sha256": "abd38ce8ef91eff014c0fb955cf12917d8288778b4dc011defbe813970aa2925",
+      "count": 0,
+      "cursorIn": "402098419:852",
+      "cursorOut": null,
+      "minBlockTime": null,
+      "maxBlockTime": null
+    }
+  ],
+  "transactionCount": 2
+}

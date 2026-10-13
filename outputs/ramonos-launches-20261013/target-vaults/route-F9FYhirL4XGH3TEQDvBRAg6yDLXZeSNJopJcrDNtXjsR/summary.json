@@ -1,0 +1,72 @@
+{
+  "cutoff": 1791908918,
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "name": "route-F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR",
+  "displayName": "RAM",
+  "mint": "F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR",
+  "config": "F8aNdEk3KVX5Ao8JMvxuLdC3vAGbAvdWNP2kGSqRWCw8",
+  "vault": "DVNJKqTxiQAgMEi2w8c6qkxfaytzYoKr8rNwcNJrazbT",
+  "recipients": [
+    {
+      "address": "8yG8xML4vJoyLbn4dBWwPAvKqxp7oRTCnc67zQxY5mgu",
+      "share_bps": "8000",
+      "platform": null,
+      "userId": null,
+      "recipientAccountType": null,
+      "category": "ordinary recipient wallet",
+      "shareFractionNumerator": "8000",
+      "shareFractionDenominator": "10000",
+      "curvePendingFeeFractionFloorRaw": "0",
+      "poolPendingFeeFractionFloorRaw": null,
+      "allocationNote": "Arithmetic current split applied to separate pending counters; distribution rounding/order and historic split not inferred."
+    },
+    {
+      "address": "35XTCpBuZfAwTj3tK8BQxXQmCsi7rxGAfQZM28CxM9tZ",
+      "share_bps": "2000",
+      "platform": null,
+      "userId": null,
+      "recipientAccountType": null,
+      "category": "ordinary recipient wallet",
+      "shareFractionNumerator": "2000",
+      "shareFractionDenominator": "10000",
+      "curvePendingFeeFractionFloorRaw": "0",
+      "poolPendingFeeFractionFloorRaw": null,
+      "allocationNote": "Arithmetic current split applied to separate pending counters; distribution rounding/order and historic split not inferred."
+    }
+  ],
+  "routeCategory": "ordinary wallet sharing",
+  "transactionCount": 275,
+  "terminal": true,
+  "verifiedTradeCreatorFeeInflowsLamports": "231242100",
+  "verifiedDistributionLamports": "107750865",
+  "verifiedCollectCreatorFeeLamports": "0",
+  "firstPreLamports": "0",
+  "lastPostLamports": "124141475",
+  "currentBalanceLamports": "124141475",
+  "currentSlot": 456508346,
+  "currentRentLamports": "650240",
+  "rentEvidence": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-005.response.json; RentSysvar [5080,1.0,50], (128+space)*5080",
+  "currentAboveRentLamports": "123491235",
+  "lastPostMatchesCurrent": true,
+  "residualMovements": [
+    {
+      "signature": "4JYuBJCwV27Cvkbh4EpbdGJP8ggLk5CC45GS4Q1tDEJZSwG3ShPsPe91Xe8HayAzUm1nfNTW1eeaFXruQxPjHNkw",
+      "lamports": "650240",
+      "pre": "0",
+      "post": "767574",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR/page-0000.response.json"
+    }
+  ],
+  "unverifiedFeeEvents": [],
+  "decodeErrors": [],
+  "netVerifiedFeeLotsLamports": "123491235",
+  "feeCashReconciled": true,
+  "pendingVerifiedFeeLotsLamports": "123491235",
+  "historicalNonfeeFundingLamports": "650240",
+  "actualDistributionPaymentsByAddressLamports": {
+    "8yG8xML4vJoyLbn4dBWwPAvKqxp7oRTCnc67zQxY5mgu": "86200692",
+    "35XTCpBuZfAwTj3tK8BQxXQmCsi7rxGAfQZM28CxM9tZ": "21550173"
+  }
+}

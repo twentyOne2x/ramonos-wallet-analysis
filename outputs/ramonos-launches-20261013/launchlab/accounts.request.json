@@ -1,0 +1,22 @@
+{
+  "method": "getMultipleAccounts",
+  "params": [
+    [
+      "7hWX93jYRh4VJNckBjtCLUEiWr5X72G9dCzZZmFrK7Lx",
+      "FfYek5vEz23cMkWsdJwG2oa6EphsvXSHrGpdALN4g6W1",
+      "EPiZbnrThjyLnoQ6QQzkxeFqyL5uyg9RzNHHAudUPxBz",
+      "GV5F4eWSutSvSyn4yADUHcWyxmifgkSEDXEBjYRjhN6r",
+      "BuM6KDpWiTcxvrpXywWFiw45R2RNH8WURdvqoTDV1BW4",
+      "6s1xP3hpbAfFoNtUNF8mfHsjr2Bd97JxFJRWLbL6aHuX",
+      "51JEYVzpwQZJvFHyxyUBz8djtJcBKGkmNDewY5vAFNCK",
+      "FVjccQyD6hj7w9cv9VU9Fny8d9jJXtaGjfWohJartrPB"
+    ],
+    {
+      "encoding": "base64",
+      "commitment": "finalized"
+    }
+  ],
+  "startedUtc": "2026-10-13T16:23:23.764599+00:00",
+  "spendCapSol": "0",
+  "completedUtc": "2026-10-13T16:23:23.886093+00:00"
+}

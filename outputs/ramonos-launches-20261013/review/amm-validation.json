@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "checks": 326,
+  "manifestFiles": 147,
+  "verifiedLatestAmmPendingRaw": [
+    2255404,
+    4210952
+  ],
+  "sumLatestAmmPendingRaw": 6466356,
+  "nativeResidualExcludedLamports": 481282
+}

@@ -1,0 +1,299 @@
+{
+  "cutoffUtc": "2026-10-13T16:19:01Z",
+  "wallet": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+  "eventCount": 851,
+  "transactionCount": 568,
+  "excludedOtherQuoteReceipts": [
+    {
+      "signature": "5CJ2YGy1wkUd62AsjJSqC48Fenv5NBmC3EDqpzNEotjULwGK7NfJCvRzLQz8ZvCs3dTMs2fWyxzirtrw8smj8U9s",
+      "slot": 429420809,
+      "transactionIndex": 419,
+      "blockTime": 1782637357,
+      "utc": "2026-06-28T09:02:37Z",
+      "name": "CollectCreatorFeeEvent",
+      "program": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "event": {
+        "timestamp": "1782637357",
+        "creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "creator_fee": "16305078",
+        "quote_mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0022.json",
+      "missingTrailingFields": [],
+      "unparsedBytes": 0,
+      "payloadSha256": "9642978bdbf12d9648e2537658d91f92eb418353c86283b7c0f65ede647cba49",
+      "transactionUrl": "https://solscan.io/tx/5CJ2YGy1wkUd62AsjJSqC48Fenv5NBmC3EDqpzNEotjULwGK7NfJCvRzLQz8ZvCs3dTMs2fWyxzirtrw8smj8U9s",
+      "logIndex": 79,
+      "evidence": "program_log",
+      "cohortMint": null,
+      "amountLamports": 0,
+      "amountRaw": 16305078,
+      "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "sourceVault": "9shGVTC47GaHPVFGJGEBxK6VQ9yTdsw83eW83L423S6o",
+      "attribution": "Pooled creator vault; no per-mint allocation",
+      "checks": {
+        "parsedFeeTransferMatches": false,
+        "vaultDebitMatches": false,
+        "nativeQuote": false
+      },
+      "verified": false,
+      "payments": [
+        {
+          "source": "9shGVTC47GaHPVFGJGEBxK6VQ9yTdsw83eW83L423S6o",
+          "destination": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+          "amount": 129439372,
+          "type": "transfer",
+          "parentProgram": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "topIndex": 6,
+          "sourcePreLamports": 130330252
+        }
+      ],
+      "walletCashLedgerMatches": true
+    },
+    {
+      "signature": "5Prn2rjKpKfSyA7KGnw3QxcasWzUcUrkuWhazy34Lb2tyi3zz6QqsZxydWorGyP3kB5xjNbUg3rubXe3KXWKxWaT",
+      "slot": 449222598,
+      "transactionIndex": 743,
+      "blockTime": 1790038441,
+      "utc": "2026-09-22T00:54:01Z",
+      "name": "CollectCreatorFeeEvent",
+      "program": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "event": {
+        "timestamp": "1790038441",
+        "creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "creator_fee": "136036896766",
+        "quote_mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn"
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0030.json",
+      "missingTrailingFields": [],
+      "unparsedBytes": 0,
+      "payloadSha256": "5a44d718ebb3bd7bc5918d93b03b11f9d9d7e83262fdcb89d3304c837bb00524",
+      "transactionUrl": "https://solscan.io/tx/5Prn2rjKpKfSyA7KGnw3QxcasWzUcUrkuWhazy34Lb2tyi3zz6QqsZxydWorGyP3kB5xjNbUg3rubXe3KXWKxWaT",
+      "logIndex": 14,
+      "evidence": "program_log",
+      "cohortMint": null,
+      "amountLamports": 0,
+      "amountRaw": 136036896766,
+      "asset": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+      "sourceVault": "9shGVTC47GaHPVFGJGEBxK6VQ9yTdsw83eW83L423S6o",
+      "attribution": "Pooled creator vault; no per-mint allocation",
+      "checks": {
+        "parsedFeeTransferMatches": false,
+        "vaultDebitMatches": false,
+        "nativeQuote": false
+      },
+      "verified": false,
+      "payments": [],
+      "walletCashLedgerMatches": true
+    },
+    {
+      "signature": "35Lj9MR5s7vJ6yMDH8b4HUjhUsC4Fw1ABSrXTP59ixNS6QBadrJgdDgS3DSbCcPjdhM79NVDvtUBicqrq9KszkHF",
+      "slot": 449222694,
+      "transactionIndex": 560,
+      "blockTime": 1790038466,
+      "utc": "2026-09-22T00:54:26Z",
+      "name": "CollectCreatorFeeEvent",
+      "program": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "event": {
+        "timestamp": "1790038466",
+        "creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "creator_fee": "963092199",
+        "quote_mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn"
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0030.json",
+      "missingTrailingFields": [],
+      "unparsedBytes": 0,
+      "payloadSha256": "e9bd5bf3390c9c2ec3111a92703bacaa47b9cf95be97fdad18beee286c828768",
+      "transactionUrl": "https://solscan.io/tx/35Lj9MR5s7vJ6yMDH8b4HUjhUsC4Fw1ABSrXTP59ixNS6QBadrJgdDgS3DSbCcPjdhM79NVDvtUBicqrq9KszkHF",
+      "logIndex": 14,
+      "evidence": "program_log",
+      "cohortMint": null,
+      "amountLamports": 0,
+      "amountRaw": 963092199,
+      "asset": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+      "sourceVault": "9shGVTC47GaHPVFGJGEBxK6VQ9yTdsw83eW83L423S6o",
+      "attribution": "Pooled creator vault; no per-mint allocation",
+      "checks": {
+        "parsedFeeTransferMatches": false,
+        "vaultDebitMatches": false,
+        "nativeQuote": false
+      },
+      "verified": false,
+      "payments": [],
+      "walletCashLedgerMatches": true
+    },
+    {
+      "signature": "5MkL81FaLroKMbsM6DiEN5SLXACcm25v8JGkavik72bUFFSv79CoGHMfF2C4a3hghrpLEiR98cnTYTJsf5N4AfqJ",
+      "slot": 450006273,
+      "transactionIndex": 652,
+      "blockTime": 1790246919,
+      "utc": "2026-09-24T10:48:39Z",
+      "name": "CollectCreatorFeeEvent",
+      "program": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "event": {
+        "timestamp": "1790246919",
+        "creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "creator_fee": "928390576",
+        "quote_mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn"
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0030.json",
+      "missingTrailingFields": [],
+      "unparsedBytes": 0,
+      "payloadSha256": "3f9dfa55ca12bacff53c3ae920abfd02ed9bef69f5d1304e00ea33ed0a22e49f",
+      "transactionUrl": "https://solscan.io/tx/5MkL81FaLroKMbsM6DiEN5SLXACcm25v8JGkavik72bUFFSv79CoGHMfF2C4a3hghrpLEiR98cnTYTJsf5N4AfqJ",
+      "logIndex": 14,
+      "evidence": "program_log",
+      "cohortMint": null,
+      "amountLamports": 0,
+      "amountRaw": 928390576,
+      "asset": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+      "sourceVault": "9shGVTC47GaHPVFGJGEBxK6VQ9yTdsw83eW83L423S6o",
+      "attribution": "Pooled creator vault; no per-mint allocation",
+      "checks": {
+        "parsedFeeTransferMatches": false,
+        "vaultDebitMatches": false,
+        "nativeQuote": false
+      },
+      "verified": false,
+      "payments": [],
+      "walletCashLedgerMatches": true
+    },
+    {
+      "signature": "2bd8yNbNKpxQ2Q8BJhLAA1L6QhEhnsY4WA71Bdt9kpEaPUfT3M5JS3Qwj9X4RVavR7mGRj6GUdQzAo3KQWCsG5VA",
+      "slot": 455314514,
+      "transactionIndex": 875,
+      "blockTime": 1791648201,
+      "utc": "2026-10-10T16:03:21Z",
+      "name": "CollectCreatorFeeEvent",
+      "program": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "event": {
+        "timestamp": "1791648201",
+        "creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "creator_fee": "439",
+        "quote_mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0032.json",
+      "missingTrailingFields": [],
+      "unparsedBytes": 0,
+      "payloadSha256": "803c47d04337b71b4d396e7c75aaa028a790baded6ada4a3ef9d9cc78c239aca",
+      "transactionUrl": "https://solscan.io/tx/2bd8yNbNKpxQ2Q8BJhLAA1L6QhEhnsY4WA71Bdt9kpEaPUfT3M5JS3Qwj9X4RVavR7mGRj6GUdQzAo3KQWCsG5VA",
+      "logIndex": 51,
+      "evidence": "program_log",
+      "cohortMint": null,
+      "amountLamports": 0,
+      "amountRaw": 439,
+      "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "sourceVault": "9shGVTC47GaHPVFGJGEBxK6VQ9yTdsw83eW83L423S6o",
+      "attribution": "Pooled creator vault; no per-mint allocation",
+      "checks": {
+        "parsedFeeTransferMatches": false,
+        "vaultDebitMatches": false,
+        "nativeQuote": false
+      },
+      "verified": false,
+      "payments": [
+        {
+          "source": "9shGVTC47GaHPVFGJGEBxK6VQ9yTdsw83eW83L423S6o",
+          "destination": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+          "amount": 8661989,
+          "type": "transfer",
+          "parentProgram": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "topIndex": 3,
+          "sourcePreLamports": 9312229
+        }
+      ],
+      "walletCashLedgerMatches": true
+    },
+    {
+      "signature": "2bd8yNbNKpxQ2Q8BJhLAA1L6QhEhnsY4WA71Bdt9kpEaPUfT3M5JS3Qwj9X4RVavR7mGRj6GUdQzAo3KQWCsG5VA",
+      "slot": 455314514,
+      "transactionIndex": 875,
+      "blockTime": 1791648201,
+      "utc": "2026-10-10T16:03:21Z",
+      "name": "CollectCreatorFeeEvent",
+      "program": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "event": {
+        "timestamp": "1791648201",
+        "creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "creator_fee": "5673460",
+        "quote_mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn"
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0032.json",
+      "missingTrailingFields": [],
+      "unparsedBytes": 0,
+      "payloadSha256": "f055267ebbccae20bdf42da1385a04929e71ba4b3119711b774d2ddb5f650b6d",
+      "transactionUrl": "https://solscan.io/tx/2bd8yNbNKpxQ2Q8BJhLAA1L6QhEhnsY4WA71Bdt9kpEaPUfT3M5JS3Qwj9X4RVavR7mGRj6GUdQzAo3KQWCsG5VA",
+      "logIndex": 86,
+      "evidence": "program_log",
+      "cohortMint": null,
+      "amountLamports": 0,
+      "amountRaw": 5673460,
+      "asset": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+      "sourceVault": "9shGVTC47GaHPVFGJGEBxK6VQ9yTdsw83eW83L423S6o",
+      "attribution": "Pooled creator vault; no per-mint allocation",
+      "checks": {
+        "parsedFeeTransferMatches": false,
+        "vaultDebitMatches": false,
+        "nativeQuote": false
+      },
+      "verified": false,
+      "payments": [
+        {
+          "source": "9shGVTC47GaHPVFGJGEBxK6VQ9yTdsw83eW83L423S6o",
+          "destination": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+          "amount": 8661989,
+          "type": "transfer",
+          "parentProgram": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "topIndex": 3,
+          "sourcePreLamports": 9312229
+        }
+      ],
+      "walletCashLedgerMatches": true
+    }
+  ],
+  "failedReceipts": [],
+  "cashLedgerFailedSignatures": [],
+  "groups": {
+    "CollectCoinCreatorFeeEvent": {
+      "count": 342,
+      "grossEventUnitsAreMixedAssets": false,
+      "verifiedPaidLamports": "1176225105114"
+    },
+    "CollectCreatorFeeEvent": {
+      "count": 374,
+      "grossEventUnitsAreMixedAssets": true,
+      "verifiedPaidLamports": "319655754211"
+    },
+    "DistributeCreatorFeesEvent": {
+      "count": 135,
+      "grossEventUnitsAreMixedAssets": false,
+      "verifiedPaidLamports": "164405971175"
+    }
+  },
+  "totalVerifiedPaidLamports": "1660286830500",
+  "cohortDistributionsVerifiedLamports": "159013155704",
+  "cohortDistributionMints": 15,
+  "allDistributionMints": 22,
+  "otherQuoteEventRawUnits": {
+    "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": 16305517,
+    "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn": 137934053001
+  },
+  "coverage": {
+    "transactionCount": 32798,
+    "pageCount": 34,
+    "terminal": true,
+    "tokenAccounts": "none",
+    "commitment": "finalized",
+    "historyManifest": "outputs/ramonos-launches-20261013/census/history-manifest.json",
+    "scope": "All retained successful finalized transactions referencing the disclosed wallet; ATA-only reference coverage not supplied."
+  },
+  "verifiedSolReceiptEventCount": 845,
+  "verifiedNativePumpEventCount": 368,
+  "walletCashLedgersMatchedCount": 568,
+  "sourceAttributionLimit": "Direct Pump/PumpAMM creator vaults pool mints; cannot assign entire wallet total to 279 signed-deployer launches.",
+  "feePurityLimit": "These are actual creator-fee payout instruction receipts, not net economic profit or an independent proof every vault lamport originated from trading fees.",
+  "historicalDistributionVaultReserves": [
+    650240,
+    890880
+  ]
+}

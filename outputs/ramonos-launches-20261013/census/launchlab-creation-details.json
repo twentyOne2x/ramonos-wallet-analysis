@@ -1,0 +1,258 @@
+[
+  {
+    "mint": "GiqnV6wrZck1od9ruHrakVHXMYNXDEZcUnbPv1scbonk",
+    "name": "Internet Magic Ticket",
+    "symbol": "IMT",
+    "uri": "https://ipfs.io/ipfs/bafkreiaprsumrlpqgg2yqkwweeuxveiqsmgzcywjbfle7ivsd3jiuq2hli",
+    "platform": "Raydium LaunchLab",
+    "program": "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj",
+    "signature": "5K6p1xtZrbMrws58482zr2ifURhLp8Ff6i65YJYVwGs3wtw2BphaGQmJXNS2iRYXNKtTqJad1zhDZXGFR9mMkB1c",
+    "slot": 390937080,
+    "blockTime": 1767401128,
+    "utc": "2026-01-03T00:45:28Z",
+    "deployer": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+    "initialCreator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+    "signers": [
+      "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "GiqnV6wrZck1od9ruHrakVHXMYNXDEZcUnbPv1scbonk"
+    ],
+    "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0012.json",
+    "transactionUrl": "https://solscan.io/tx/5K6p1xtZrbMrws58482zr2ifURhLp8Ff6i65YJYVwGs3wtw2BphaGQmJXNS2iRYXNKtTqJad1zhDZXGFR9mMkB1c",
+    "mintInitialization": {
+      "signature": "5K6p1xtZrbMrws58482zr2ifURhLp8Ff6i65YJYVwGs3wtw2BphaGQmJXNS2iRYXNKtTqJad1zhDZXGFR9mMkB1c",
+      "slot": 390937080,
+      "blockTime": 1767401128,
+      "utc": "2026-01-03T00:45:28Z",
+      "walletSigned": true,
+      "signers": [
+        "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "GiqnV6wrZck1od9ruHrakVHXMYNXDEZcUnbPv1scbonk"
+      ],
+      "info": {
+        "decimals": 6,
+        "mint": "GiqnV6wrZck1od9ruHrakVHXMYNXDEZcUnbPv1scbonk",
+        "mintAuthority": "WLHv2UAZm6z4KyaaELi5pjdbJh6RESMva1Rnn8pJVVh"
+      },
+      "tokenProgram": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+      "parentProgram": "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj",
+      "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0012.json",
+      "topLevelInstructionIndex": 2,
+      "innerInstructionIndex": 2
+    },
+    "initialQuoteMint": "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
+    "launchlabPool": "7hWX93jYRh4VJNckBjtCLUEiWr5X72G9dCzZZmFrK7Lx",
+    "launchlabPlatformConfig": "FfYek5vEz23cMkWsdJwG2oa6EphsvXSHrGpdALN4g6W1",
+    "launchlabGlobalConfig": "EPiZbnrThjyLnoQ6QQzkxeFqyL5uyg9RzNHHAudUPxBz",
+    "launchlabInitializeInstruction": {
+      "instruction": "initialize_v2",
+      "roles": {
+        "payer": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "global_config": "EPiZbnrThjyLnoQ6QQzkxeFqyL5uyg9RzNHHAudUPxBz",
+        "platform_config": "FfYek5vEz23cMkWsdJwG2oa6EphsvXSHrGpdALN4g6W1",
+        "authority": "WLHv2UAZm6z4KyaaELi5pjdbJh6RESMva1Rnn8pJVVh",
+        "pool_state": "7hWX93jYRh4VJNckBjtCLUEiWr5X72G9dCzZZmFrK7Lx",
+        "base_mint": "GiqnV6wrZck1od9ruHrakVHXMYNXDEZcUnbPv1scbonk",
+        "quote_mint": "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
+        "base_vault": "EgwKvVZQWc1Euaqsccc7hRd5KdPBmpV6nRsEd8mHfoQh",
+        "quote_vault": "YanY84pFSddd4XFfYdJErGcJZf6KsX4RXqm9bzUNCwD",
+        "metadata_account": "kn3BB8XqoFYsFbRtCzuFyFUREM3Zz876LPVMxxEszds",
+        "base_token_program": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "quote_token_program": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "metadata_program": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s",
+        "system_program": "11111111111111111111111111111111",
+        "rent_program": "SysvarRent111111111111111111111111111111111",
+        "event_authority": "2DPAtwB8L12vrMRExbLuyGnC7n2J5LNoZQSejeQGpwkr",
+        "program": "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj"
+      },
+      "args": {
+        "base_mint_param": {
+          "decimals": "6",
+          "name": "Internet Magic Ticket",
+          "symbol": "IMT",
+          "uri": "https://ipfs.io/ipfs/bafkreiaprsumrlpqgg2yqkwweeuxveiqsmgzcywjbfle7ivsd3jiuq2hli"
+        },
+        "curve_param": {
+          "variant": "Constant",
+          "fields": {
+            "data": {
+              "supply": "1000000000000000",
+              "total_base_sell": "700000000000000",
+              "total_quote_fund_raising": "17500000000",
+              "migrate_type": "1"
+            }
+          }
+        },
+        "vesting_param": {
+          "total_locked_amount": "0",
+          "cliff_period": "0",
+          "unlock_period": "0"
+        },
+        "amm_fee_on": "QuoteToken"
+      },
+      "dataSha256": "fcf4986274f837f3e0f2220502307bc7f88da769ac55b07765d61326add69905",
+      "unparsedBytes": 0
+    },
+    "launchlabPoolCreateEvent": {
+      "event": {
+        "pool_state": "7hWX93jYRh4VJNckBjtCLUEiWr5X72G9dCzZZmFrK7Lx",
+        "creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "config": "EPiZbnrThjyLnoQ6QQzkxeFqyL5uyg9RzNHHAudUPxBz",
+        "base_mint_param": {
+          "decimals": "6",
+          "name": "Internet Magic Ticket",
+          "symbol": "IMT",
+          "uri": "https://ipfs.io/ipfs/bafkreiaprsumrlpqgg2yqkwweeuxveiqsmgzcywjbfle7ivsd3jiuq2hli"
+        },
+        "curve_param": {
+          "variant": "Constant",
+          "fields": {
+            "data": {
+              "supply": "1000000000000000",
+              "total_base_sell": "700000000000000",
+              "total_quote_fund_raising": "17500000000",
+              "migrate_type": "1"
+            }
+          }
+        },
+        "vesting_param": {
+          "total_locked_amount": "0",
+          "cliff_period": "0",
+          "unlock_period": "0"
+        },
+        "amm_fee_on": "QuoteToken"
+      },
+      "logIndex": 29,
+      "payloadSha256": "074cb267246986103ac1702521ba94ef125fd21fb0a79cc925630a8c96fe4dba",
+      "unparsedBytes": 0
+    }
+  },
+  {
+    "mint": "7b1otW189NkEpUdiN2P4mVNvrztqnRd9nesAhk3Cbonk",
+    "name": "dog wif pahlavi",
+    "symbol": "wif",
+    "uri": "https://ipfs.io/ipfs/bafkreie2mbjyirjavolng42ta7wcdyggqidnkfkjqxfagn7d76uras5hrq",
+    "platform": "Raydium LaunchLab",
+    "program": "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj",
+    "signature": "2jRozkxWCVGrkAnjx7ENgQitzcLfVWmWo5SshqkNnxVTXFztN4Ux37J78Xbop8YEaQSRqZk89ftgwyTtumZGFh2G",
+    "slot": 411772816,
+    "blockTime": 1775620677,
+    "utc": "2026-04-08T03:57:57Z",
+    "deployer": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+    "initialCreator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+    "signers": [
+      "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "7b1otW189NkEpUdiN2P4mVNvrztqnRd9nesAhk3Cbonk"
+    ],
+    "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0021.json",
+    "transactionUrl": "https://solscan.io/tx/2jRozkxWCVGrkAnjx7ENgQitzcLfVWmWo5SshqkNnxVTXFztN4Ux37J78Xbop8YEaQSRqZk89ftgwyTtumZGFh2G",
+    "mintInitialization": {
+      "signature": "2jRozkxWCVGrkAnjx7ENgQitzcLfVWmWo5SshqkNnxVTXFztN4Ux37J78Xbop8YEaQSRqZk89ftgwyTtumZGFh2G",
+      "slot": 411772816,
+      "blockTime": 1775620677,
+      "utc": "2026-04-08T03:57:57Z",
+      "walletSigned": true,
+      "signers": [
+        "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "7b1otW189NkEpUdiN2P4mVNvrztqnRd9nesAhk3Cbonk"
+      ],
+      "info": {
+        "decimals": 6,
+        "mint": "7b1otW189NkEpUdiN2P4mVNvrztqnRd9nesAhk3Cbonk",
+        "mintAuthority": "WLHv2UAZm6z4KyaaELi5pjdbJh6RESMva1Rnn8pJVVh"
+      },
+      "tokenProgram": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+      "parentProgram": "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj",
+      "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0021.json",
+      "topLevelInstructionIndex": 2,
+      "innerInstructionIndex": 2
+    },
+    "initialQuoteMint": "So11111111111111111111111111111111111111112",
+    "launchlabPool": "GV5F4eWSutSvSyn4yADUHcWyxmifgkSEDXEBjYRjhN6r",
+    "launchlabPlatformConfig": "BuM6KDpWiTcxvrpXywWFiw45R2RNH8WURdvqoTDV1BW4",
+    "launchlabGlobalConfig": "6s1xP3hpbAfFoNtUNF8mfHsjr2Bd97JxFJRWLbL6aHuX",
+    "launchlabInitializeInstruction": {
+      "instruction": "initialize_v2",
+      "roles": {
+        "payer": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "global_config": "6s1xP3hpbAfFoNtUNF8mfHsjr2Bd97JxFJRWLbL6aHuX",
+        "platform_config": "BuM6KDpWiTcxvrpXywWFiw45R2RNH8WURdvqoTDV1BW4",
+        "authority": "WLHv2UAZm6z4KyaaELi5pjdbJh6RESMva1Rnn8pJVVh",
+        "pool_state": "GV5F4eWSutSvSyn4yADUHcWyxmifgkSEDXEBjYRjhN6r",
+        "base_mint": "7b1otW189NkEpUdiN2P4mVNvrztqnRd9nesAhk3Cbonk",
+        "quote_mint": "So11111111111111111111111111111111111111112",
+        "base_vault": "7Cutx982i9jSWeFNu4EkTbQZhZd1hC86ydMF1d98oZbY",
+        "quote_vault": "BXCiE2BQoSw9xnmFs7GaPwMMXv34K29KwcFPFu43G7Zb",
+        "metadata_account": "Dxb2amNT1pTVY438Gr9cbcMpUriJyTTbDvxSATEPYwdJ",
+        "base_token_program": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "quote_token_program": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "metadata_program": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s",
+        "system_program": "11111111111111111111111111111111",
+        "rent_program": "SysvarRent111111111111111111111111111111111",
+        "event_authority": "2DPAtwB8L12vrMRExbLuyGnC7n2J5LNoZQSejeQGpwkr",
+        "program": "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj"
+      },
+      "args": {
+        "base_mint_param": {
+          "decimals": "6",
+          "name": "dog wif pahlavi",
+          "symbol": "wif",
+          "uri": "https://ipfs.io/ipfs/bafkreie2mbjyirjavolng42ta7wcdyggqidnkfkjqxfagn7d76uras5hrq"
+        },
+        "curve_param": {
+          "variant": "Constant",
+          "fields": {
+            "data": {
+              "supply": "1000000000000000",
+              "total_base_sell": "793100000000000",
+              "total_quote_fund_raising": "85000000000",
+              "migrate_type": "1"
+            }
+          }
+        },
+        "vesting_param": {
+          "total_locked_amount": "0",
+          "cliff_period": "0",
+          "unlock_period": "0"
+        },
+        "amm_fee_on": "QuoteToken"
+      },
+      "dataSha256": "1d04f2d846e838ecc24692236983a5ea0740bce7d53a1e6594b4530e50b37957",
+      "unparsedBytes": 0
+    },
+    "launchlabPoolCreateEvent": {
+      "event": {
+        "pool_state": "GV5F4eWSutSvSyn4yADUHcWyxmifgkSEDXEBjYRjhN6r",
+        "creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "config": "6s1xP3hpbAfFoNtUNF8mfHsjr2Bd97JxFJRWLbL6aHuX",
+        "base_mint_param": {
+          "decimals": "6",
+          "name": "dog wif pahlavi",
+          "symbol": "wif",
+          "uri": "https://ipfs.io/ipfs/bafkreie2mbjyirjavolng42ta7wcdyggqidnkfkjqxfagn7d76uras5hrq"
+        },
+        "curve_param": {
+          "variant": "Constant",
+          "fields": {
+            "data": {
+              "supply": "1000000000000000",
+              "total_base_sell": "793100000000000",
+              "total_quote_fund_raising": "85000000000",
+              "migrate_type": "1"
+            }
+          }
+        },
+        "vesting_param": {
+          "total_locked_amount": "0",
+          "cliff_period": "0",
+          "unlock_period": "0"
+        },
+        "amm_fee_on": "QuoteToken"
+      },
+      "logIndex": 29,
+      "payloadSha256": "db3538156d7bb1fb91910994565a8f309ccadb6e440d91bba7266d89f73e854a",
+      "unparsedBytes": 0
+    }
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "cutoff": 1791908918,
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "name": "route-6cnk4vMENAxcuYm9rSMzAASGMj1eXpDoEFu5cHGUpump",
+  "displayName": "Justice For Hsin-Ju",
+  "mint": "6cnk4vMENAxcuYm9rSMzAASGMj1eXpDoEFu5cHGUpump",
+  "config": "2svMhTh3KwtUsFRoTPVArwoGu92wyH3vACS6jT3jGbKs",
+  "vault": "GCLKh6ew5J5EbdLUqYCGe2WinatBKJ5DYHTykKAAJLMo",
+  "recipients": [
+    {
+      "address": "B7S8TPcWWJXTsmgG8ShoTmy8sNPuJ3Dbmt7z5gLFAveq",
+      "share_bps": "10000",
+      "platform": null,
+      "userId": null,
+      "recipientAccountType": null,
+      "category": "ordinary recipient wallet",
+      "shareFractionNumerator": "10000",
+      "shareFractionDenominator": "10000",
+      "curvePendingFeeFractionFloorRaw": "0",
+      "poolPendingFeeFractionFloorRaw": null,
+      "allocationNote": "Arithmetic current split applied to separate pending counters; distribution rounding/order and historic split not inferred."
+    }
+  ],
+  "routeCategory": "ordinary wallet sharing",
+  "transactionCount": 579,
+  "terminal": true,
+  "verifiedTradeCreatorFeeInflowsLamports": "485250644",
+  "verifiedDistributionLamports": "0",
+  "verifiedCollectCreatorFeeLamports": "0",
+  "firstPreLamports": "0",
+  "lastPostLamports": "486141524",
+  "currentBalanceLamports": "486141524",
+  "currentSlot": 456508324,
+  "currentRentLamports": "650240",
+  "rentEvidence": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-005.response.json; RentSysvar [5080,1.0,50], (128+space)*5080",
+  "currentAboveRentLamports": "485491284",
+  "lastPostMatchesCurrent": true,
+  "residualMovements": [
+    {
+      "signature": "uhYxGc9AEmAF1dHJKLSwbnRLJGADjbFZeQsK6p4bGoTP4BnvXfNUfAMFytc4cTStyAKKfCwU2ECFjzF4k4SrRwL",
+      "lamports": "890880",
+      "pre": "0",
+      "post": "1483473",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-6cnk4vMENAxcuYm9rSMzAASGMj1eXpDoEFu5cHGUpump/page-0000.response.json"
+    }
+  ],
+  "unverifiedFeeEvents": [],
+  "decodeErrors": [],
+  "netVerifiedFeeLotsLamports": "485250644",
+  "feeCashReconciled": true,
+  "pendingVerifiedFeeLotsLamports": "485250644",
+  "historicalNonfeeFundingLamports": "890880",
+  "actualDistributionPaymentsByAddressLamports": {}
+}

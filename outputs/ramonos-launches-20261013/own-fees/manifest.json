@@ -1,0 +1,63 @@
+{
+  "files": [
+    {
+      "path": "outputs/ramonos-launches-20261013/own-fees/REPORT.md",
+      "sha256": "b0a04c083f4686069b1445421213c6329a737b3bc0c4f4f2253cccac0dcdd644",
+      "bytes": 4443
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/own-fees/cash-ledgers.json",
+      "sha256": "f5c87eb41d15f30cb147079e2515164b3c3c991aeda1282024c9ba0b309f50c2",
+      "bytes": 1355184
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/own-fees/decode-errors.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "bytes": 2
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/own-fees/derived-config-vaults.json",
+      "sha256": "22456417c65141876f33024d70f96c4874e4a3497b52999524fc8ac8c3988041",
+      "bytes": 3034
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/own-fees/events.json",
+      "sha256": "fb8a73848c1ee10be276ee709760352bb4204a0feb736f666a71710b0525649e",
+      "bytes": 904730
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/own-fees/receipts.csv",
+      "sha256": "9a08e69f0b6715a280363173deaf33ede9b34aa256951ff96ba513edaa0fcc2e",
+      "bytes": 338795
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/own-fees/summary.json",
+      "sha256": "aad071996ee501dc162e8ddadafd87c46371a4f6efbf529cc7e6200de8117d50",
+      "bytes": 12123
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/own-fees/transactions.json",
+      "sha256": "e0aa3ff07cb98456983ea2d2bd0fe96decb656f9a327dd53fbc8481d7556d4c6",
+      "bytes": 5998465
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/own-fees/verified-receipts.json",
+      "sha256": "25daf2d85f34157c2bc56fa25be339693a6115380071c3cd516ca90eef4988d5",
+      "bytes": 1685641
+    }
+  ],
+  "sourceCode": [
+    {
+      "path": "work/ramonos-launches-20261013/own-fees/decode.py",
+      "sha256": "99fdf81a5821bb1952de2382cdcfb48cc2f8b96ddc85a34c21c7c90257d7b950"
+    },
+    {
+      "path": "work/ramonos-launches-20261013/own-fees/report.py",
+      "sha256": "2239cbb8f54eb996b61c9797cfcaadf875d71673f31d5de4bbe5cd43c7bf9f10"
+    },
+    {
+      "path": "work/ramonos-launches-20261013/own-fees/verify.py",
+      "sha256": "b9df115b5470e2247131a02d50f40c3a3e369e4a117660b2aea7d8196ca54801"
+    }
+  ]
+}

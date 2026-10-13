@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "checks": 595,
+  "launches": 279,
+  "sharingRecipientRows": 19,
+  "categoryCounts": {
+    "100% disclosed launcher": 263,
+    "LaunchLab": 2,
+    "wallet split including disclosed launcher": 2,
+    "direct GitHub recipient": 1,
+    "other wallet addresses; ownership unknown": 6,
+    "native donation": 1,
+    "native holder rewards": 3,
+    "UsePaid intermediary": 1
+  },
+  "files": {
+    "REPORT.md": "ad65d4f76784ce98f52223679333c5b815cf541d959a502e24af069c4e3efb45",
+    "SUMMARY.json": "81a0f08906cc0f2bd1a1dbb3a0388dd74eda852a4325181b19509d6c7b6374e2",
+    "ALL-LAUNCHES.csv": "b5b8bacc604cd0e7d69956cb2e825baefcd2533755cc4f4fed383b98a0c2ef34",
+    "FEE-RECIPIENTS.csv": "4864171f1e9a489ad46991316da2e15b69d4e282d202d685fd19bd30cdbeefe4",
+    "HANDOFF.md": "2a0e466efb951920236afcf7b7246565935c3f080891562c523c3f7a2c27ad14"
+  }
+}

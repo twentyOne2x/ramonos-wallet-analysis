@@ -1,0 +1,45 @@
+{
+  "cutoff": 1791908918,
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "name": "route-ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump",
+  "displayName": "TRANSEXUAL COIN",
+  "mint": "ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump",
+  "config": "9qnDfMbTPMrxgPAst8SyFHqY12oTpXoG1ba5taVmyR3b",
+  "vault": "D3UyTFKagvghmhdkvAmJcuCyeTEj2CN8piPfZTerJYzr",
+  "recipients": [
+    {
+      "address": "2ynXCyMhLwY8i61jXyvL7Nd3y8ZAMN6oWER9sB32kyqW",
+      "share_bps": "10000",
+      "platform": null,
+      "userId": null,
+      "recipientAccountType": "DonationFeePda",
+      "category": "native donation",
+      "shareFractionNumerator": "10000",
+      "shareFractionDenominator": "10000",
+      "curvePendingFeeFractionFloorRaw": "0",
+      "poolPendingFeeFractionFloorRaw": null,
+      "allocationNote": "Arithmetic current split applied to separate pending counters; distribution rounding/order and historic split not inferred."
+    }
+  ],
+  "routeCategory": "native donation sharing",
+  "terminal": true,
+  "pages": [
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/route-ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump/page-0000.response.json",
+      "sha256": "38d888e5184870baa8a53a729968c70e51e295421e10944f994810651ee439f8",
+      "count": 84,
+      "cursorIn": null,
+      "cursorOut": "453720269:436"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/route-ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump/page-0001.response.json",
+      "sha256": "abd38ce8ef91eff014c0fb955cf12917d8288778b4dc011defbe813970aa2925",
+      "count": 0,
+      "cursorIn": "453720269:436",
+      "cursorOut": null
+    }
+  ],
+  "transactionCount": 84
+}

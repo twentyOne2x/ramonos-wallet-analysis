@@ -1,0 +1,39 @@
+{
+  "offline": true,
+  "sourceUntouched": true,
+  "completedScripts": [
+    "census/verify.py",
+    "own-fees/decode.py",
+    "own-fees/verify.py",
+    "own-fees/report.py",
+    "launchlab/analyze.py",
+    "launchlab/claims.py",
+    "launchlab/report.py",
+    "target-fees/replay.py",
+    "target-vaults/replay.py",
+    "target-vaults/amm_replay.py",
+    "routes/snapshot.py",
+    "routes/finalize.py"
+  ],
+  "comparedFrozenFields": [
+    "totalVerifiedPaidLamports",
+    "eventCount",
+    "transactionCount",
+    "excludedOtherQuoteReceipts",
+    "failedReceipts",
+    "cashLedgerFailedSignatures"
+  ],
+  "totalVerifiedPaidLamports": "1660286830500",
+  "otherQuoteReceiptsExcluded": 6,
+  "pythonVersion": "3.14.7",
+  "derivedPdaRetainedComparisonsPassed": 1939,
+  "routeValidationChecksPassed": 2201,
+  "minimalRaydiumAbiClaimsMatchFullOriginal": true,
+  "readOnlyGuards": {
+    "unsupportedMethodRefused": true,
+    "offlineNetworkRefused": true,
+    "publicIndexedMethodRefused": true
+  },
+  "newNetworkObservations": 0,
+  "sourceScope": "Retained Ramonos research only; full-lifetime AMM attempt remains incomplete; --latest is bounded complete replay"
+}

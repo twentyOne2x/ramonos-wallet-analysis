@@ -1,0 +1,4 @@
+interface:
+  display_name: "Solana Launcher Audit"
+  short_description: "Trace public launches, creator fees and receipts"
+  default_prompt: "Use $solana-launcher-audit to census this public Solana launcher and reconcile its claimed and pending creator fees."

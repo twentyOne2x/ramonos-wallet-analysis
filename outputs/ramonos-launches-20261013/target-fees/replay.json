@@ -1,0 +1,412 @@
+{
+  "summary": {
+    "address": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+    "githubNumericId": "12810712",
+    "cutoff": 1791908699,
+    "cutoffUtc": "2026-10-13T16:24:59Z",
+    "commitment": "finalized",
+    "financialExecutionCapSol": 0,
+    "transactionCount": 2,
+    "terminal": true,
+    "claimEventCountAllAssets": 0,
+    "nativeClaimEventCount": 0,
+    "nativeClaimedLamports": "0",
+    "distributionCount": 2,
+    "nativeMintAttributionReconciled": true,
+    "initialFundingLamports": "2136720",
+    "terminalNativeBalanceLamports": "12914926",
+    "unexplainedNativeMovements": [],
+    "pendingNativeByMint": {
+      "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump": "10778206"
+    },
+    "ramonosUnclaimedNativeByMint": {
+      "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump": "10778206"
+    },
+    "otherLauncherUnclaimedNativeByMint": {},
+    "ramonosUnclaimedNativeLamports": "10778206",
+    "errors": [],
+    "failedChecks": [],
+    "limitations": [
+      "Single direct GitHub destination; UsePaid downstream developer settlement is unknown.",
+      "Only exact mint-tagged native transfers are fee income; initial account funding excluded.",
+      "Replayed to exact cutoff; upstream custody snapshot is separate and not atomic."
+    ]
+  },
+  "events": [
+    {
+      "signature": "3cE6S2cJZFP5d5BmfZniBNuutSLm1xkZ5vQjnjhpjTxL4jqMoSDU8An7bA7m3o7uD4dDpfGYi4S3qbCEW9fbTdxG",
+      "slot": 402098386,
+      "transactionIndex": 1328,
+      "blockTime": 1771814577,
+      "utc": "2026-02-23T02:42:57Z",
+      "name": "CollectCreatorFeeEvent",
+      "program": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "event": {
+        "timestamp": "1771814577",
+        "creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "creator_fee": "962800390"
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/target-fees/raw/page-0000.response.json",
+      "missingTrailingFields": [
+        "quote_mint"
+      ],
+      "unparsedBytes": 0,
+      "payloadSha256": "dae307d7dfe88322b6ea423e9ace9ca40be244577cd1bc9f13dc8e39265c12d8",
+      "transactionUrl": "https://solscan.io/tx/3cE6S2cJZFP5d5BmfZniBNuutSLm1xkZ5vQjnjhpjTxL4jqMoSDU8An7bA7m3o7uD4dDpfGYi4S3qbCEW9fbTdxG",
+      "logIndex": 9,
+      "evidence": "program_log"
+    },
+    {
+      "signature": "3cE6S2cJZFP5d5BmfZniBNuutSLm1xkZ5vQjnjhpjTxL4jqMoSDU8An7bA7m3o7uD4dDpfGYi4S3qbCEW9fbTdxG",
+      "slot": 402098386,
+      "transactionIndex": 1328,
+      "blockTime": 1771814577,
+      "utc": "2026-02-23T02:42:57Z",
+      "name": "CollectCoinCreatorFeeEvent",
+      "program": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+      "event": {
+        "timestamp": "1771814577",
+        "coin_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "coin_creator_fee": "3652120",
+        "coin_creator_vault_ata": "G4ej3T72JZS2xJimhMz4w7JEYzoFtBrZGj4ex12Yaxpp",
+        "coin_creator_token_account": "C8R9fv5B5H1FkYfQYwKnXkNAzXmGvC9Z4HtNQMz1VzXb"
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/target-fees/raw/page-0000.response.json",
+      "missingTrailingFields": [],
+      "unparsedBytes": 0,
+      "payloadSha256": "be35d52a4d316e9af2e04113bef1cf14820361a62c847bac11a55de562ae3a2e",
+      "transactionUrl": "https://solscan.io/tx/3cE6S2cJZFP5d5BmfZniBNuutSLm1xkZ5vQjnjhpjTxL4jqMoSDU8An7bA7m3o7uD4dDpfGYi4S3qbCEW9fbTdxG",
+      "logIndex": 42,
+      "evidence": "program_log"
+    },
+    {
+      "signature": "3cE6S2cJZFP5d5BmfZniBNuutSLm1xkZ5vQjnjhpjTxL4jqMoSDU8An7bA7m3o7uD4dDpfGYi4S3qbCEW9fbTdxG",
+      "slot": 402098386,
+      "transactionIndex": 1328,
+      "blockTime": 1771814577,
+      "utc": "2026-02-23T02:42:57Z",
+      "name": "MigrateBondingCurveCreatorEvent",
+      "program": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "event": {
+        "timestamp": "1771814577",
+        "mint": "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump",
+        "bonding_curve": "CxprWC6azkeZjACLk4jviNQepLnmswrSqJ6j3nouSJP4",
+        "sharing_config": "7hrJLX3oga1GBmvtcQmyfDujNcmBF5vTComScdSmXfhu",
+        "old_creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "new_creator": "7hrJLX3oga1GBmvtcQmyfDujNcmBF5vTComScdSmXfhu"
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/target-fees/raw/page-0000.response.json",
+      "missingTrailingFields": [],
+      "unparsedBytes": 0,
+      "payloadSha256": "240eb1fa621c5c9ddcd87e131d426355fe19de852c8dabb181c1678e4dfa170c",
+      "transactionUrl": "https://solscan.io/tx/3cE6S2cJZFP5d5BmfZniBNuutSLm1xkZ5vQjnjhpjTxL4jqMoSDU8An7bA7m3o7uD4dDpfGYi4S3qbCEW9fbTdxG",
+      "logIndex": 58,
+      "evidence": "program_log"
+    },
+    {
+      "signature": "3cE6S2cJZFP5d5BmfZniBNuutSLm1xkZ5vQjnjhpjTxL4jqMoSDU8An7bA7m3o7uD4dDpfGYi4S3qbCEW9fbTdxG",
+      "slot": 402098386,
+      "transactionIndex": 1328,
+      "blockTime": 1771814577,
+      "utc": "2026-02-23T02:42:57Z",
+      "name": "CreateFeeSharingConfigEvent",
+      "program": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+      "event": {
+        "timestamp": "1771814577",
+        "mint": "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump",
+        "bonding_curve": "CxprWC6azkeZjACLk4jviNQepLnmswrSqJ6j3nouSJP4",
+        "pool": null,
+        "sharing_config": "7hrJLX3oga1GBmvtcQmyfDujNcmBF5vTComScdSmXfhu",
+        "admin": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "initial_shareholders": [
+          {
+            "address": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+            "share_bps": "10000"
+          }
+        ],
+        "status": "Active"
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/target-fees/raw/page-0000.response.json",
+      "missingTrailingFields": [],
+      "unparsedBytes": 0,
+      "payloadSha256": "2b7561a1db76c2b3b8fa446775501b8efd16381951e42b1b286c0bbd096c4879",
+      "transactionUrl": "https://solscan.io/tx/3cE6S2cJZFP5d5BmfZniBNuutSLm1xkZ5vQjnjhpjTxL4jqMoSDU8An7bA7m3o7uD4dDpfGYi4S3qbCEW9fbTdxG",
+      "logIndex": 64,
+      "evidence": "program_log"
+    },
+    {
+      "signature": "3cE6S2cJZFP5d5BmfZniBNuutSLm1xkZ5vQjnjhpjTxL4jqMoSDU8An7bA7m3o7uD4dDpfGYi4S3qbCEW9fbTdxG",
+      "slot": 402098386,
+      "transactionIndex": 1328,
+      "blockTime": 1771814577,
+      "utc": "2026-02-23T02:42:57Z",
+      "name": "SocialFeePdaCreated",
+      "program": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+      "event": {
+        "timestamp": "1771814577",
+        "user_id": "12810712",
+        "platform": "2",
+        "social_fee_pda": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+        "created_by": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b"
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/target-fees/raw/page-0000.response.json",
+      "missingTrailingFields": [],
+      "unparsedBytes": 0,
+      "payloadSha256": "101bf09c78f7d323d490d8f89f67788079f54ceac62f1b3887df8f6521a532bf",
+      "transactionUrl": "https://solscan.io/tx/3cE6S2cJZFP5d5BmfZniBNuutSLm1xkZ5vQjnjhpjTxL4jqMoSDU8An7bA7m3o7uD4dDpfGYi4S3qbCEW9fbTdxG",
+      "logIndex": 74,
+      "evidence": "program_log"
+    },
+    {
+      "signature": "3cE6S2cJZFP5d5BmfZniBNuutSLm1xkZ5vQjnjhpjTxL4jqMoSDU8An7bA7m3o7uD4dDpfGYi4S3qbCEW9fbTdxG",
+      "slot": 402098386,
+      "transactionIndex": 1328,
+      "blockTime": 1771814577,
+      "utc": "2026-02-23T02:42:57Z",
+      "name": "DistributeCreatorFeesEvent",
+      "program": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "event": {
+        "timestamp": "1771814577",
+        "mint": "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump",
+        "bonding_curve": "CxprWC6azkeZjACLk4jviNQepLnmswrSqJ6j3nouSJP4",
+        "sharing_config": "7hrJLX3oga1GBmvtcQmyfDujNcmBF5vTComScdSmXfhu",
+        "admin": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "shareholders": [
+          {
+            "address": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+            "share_bps": "10000"
+          }
+        ],
+        "distributed": "0"
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/target-fees/raw/page-0000.response.json",
+      "missingTrailingFields": [
+        "quote_mint"
+      ],
+      "unparsedBytes": 0,
+      "payloadSha256": "f2c45b3f135e311b4add1b22d9697ec727b9c39ac6403ba051638ad8135de594",
+      "transactionUrl": "https://solscan.io/tx/3cE6S2cJZFP5d5BmfZniBNuutSLm1xkZ5vQjnjhpjTxL4jqMoSDU8An7bA7m3o7uD4dDpfGYi4S3qbCEW9fbTdxG",
+      "logIndex": 84,
+      "evidence": "program_log"
+    },
+    {
+      "signature": "3cE6S2cJZFP5d5BmfZniBNuutSLm1xkZ5vQjnjhpjTxL4jqMoSDU8An7bA7m3o7uD4dDpfGYi4S3qbCEW9fbTdxG",
+      "slot": 402098386,
+      "transactionIndex": 1328,
+      "blockTime": 1771814577,
+      "utc": "2026-02-23T02:42:57Z",
+      "name": "UpdateFeeSharesEvent",
+      "program": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+      "event": {
+        "timestamp": "1771814577",
+        "mint": "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump",
+        "sharing_config": "7hrJLX3oga1GBmvtcQmyfDujNcmBF5vTComScdSmXfhu",
+        "admin": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "new_shareholders": [
+          {
+            "address": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+            "share_bps": "10000"
+          }
+        ]
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/target-fees/raw/page-0000.response.json",
+      "missingTrailingFields": [
+        "version"
+      ],
+      "unparsedBytes": 0,
+      "payloadSha256": "31cf742d362a423ce0b62582fc20b85a06a3656f7b3dbd9a8ca93670272c3174",
+      "transactionUrl": "https://solscan.io/tx/3cE6S2cJZFP5d5BmfZniBNuutSLm1xkZ5vQjnjhpjTxL4jqMoSDU8An7bA7m3o7uD4dDpfGYi4S3qbCEW9fbTdxG",
+      "logIndex": 91,
+      "evidence": "program_log"
+    },
+    {
+      "signature": "5N9DBKGwjGZDcdpkKtXsihEjNcLwzCrStitZE1iU6D4KR3Eu2gykZDFLBP27annBsaWUNE7P8o6qWfTc2D2Eid3g",
+      "slot": 402098419,
+      "transactionIndex": 852,
+      "blockTime": 1771814590,
+      "utc": "2026-02-23T02:43:10Z",
+      "name": "DistributeCreatorFeesEvent",
+      "program": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "event": {
+        "timestamp": "1771814590",
+        "mint": "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump",
+        "bonding_curve": "CxprWC6azkeZjACLk4jviNQepLnmswrSqJ6j3nouSJP4",
+        "sharing_config": "7hrJLX3oga1GBmvtcQmyfDujNcmBF5vTComScdSmXfhu",
+        "admin": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "shareholders": [
+          {
+            "address": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+            "share_bps": "10000"
+          }
+        ],
+        "distributed": "10778206"
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/target-fees/raw/page-0000.response.json",
+      "missingTrailingFields": [
+        "quote_mint"
+      ],
+      "unparsedBytes": 0,
+      "payloadSha256": "495351b9db5ec1d056311b13c6679e2a924d4d206a075090d98ec832cdc7cf49",
+      "transactionUrl": "https://solscan.io/tx/5N9DBKGwjGZDcdpkKtXsihEjNcLwzCrStitZE1iU6D4KR3Eu2gykZDFLBP27annBsaWUNE7P8o6qWfTc2D2Eid3g",
+      "logIndex": 9,
+      "evidence": "program_log"
+    },
+    {
+      "signature": "5N9DBKGwjGZDcdpkKtXsihEjNcLwzCrStitZE1iU6D4KR3Eu2gykZDFLBP27annBsaWUNE7P8o6qWfTc2D2Eid3g",
+      "slot": 402098419,
+      "transactionIndex": 852,
+      "blockTime": 1771814590,
+      "utc": "2026-02-23T02:43:10Z",
+      "name": "DistributeCreatorFeesEvent",
+      "program": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "event": {
+        "timestamp": "1771814590",
+        "mint": "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump",
+        "bonding_curve": "CxprWC6azkeZjACLk4jviNQepLnmswrSqJ6j3nouSJP4",
+        "sharing_config": "7hrJLX3oga1GBmvtcQmyfDujNcmBF5vTComScdSmXfhu",
+        "admin": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "shareholders": [
+          {
+            "address": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+            "share_bps": "10000"
+          }
+        ],
+        "distributed": "0"
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/target-fees/raw/page-0000.response.json",
+      "missingTrailingFields": [
+        "quote_mint"
+      ],
+      "unparsedBytes": 0,
+      "payloadSha256": "559943dec919d4cc4e35b4529323d1744770516514eaa7aa0a3140d9d403a47d",
+      "transactionUrl": "https://solscan.io/tx/5N9DBKGwjGZDcdpkKtXsihEjNcLwzCrStitZE1iU6D4KR3Eu2gykZDFLBP27annBsaWUNE7P8o6qWfTc2D2Eid3g",
+      "logIndex": 20,
+      "evidence": "program_log"
+    },
+    {
+      "signature": "5N9DBKGwjGZDcdpkKtXsihEjNcLwzCrStitZE1iU6D4KR3Eu2gykZDFLBP27annBsaWUNE7P8o6qWfTc2D2Eid3g",
+      "slot": 402098419,
+      "transactionIndex": 852,
+      "blockTime": 1771814590,
+      "utc": "2026-02-23T02:43:10Z",
+      "name": "UpdateFeeSharesEvent",
+      "program": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+      "event": {
+        "timestamp": "1771814590",
+        "mint": "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump",
+        "sharing_config": "7hrJLX3oga1GBmvtcQmyfDujNcmBF5vTComScdSmXfhu",
+        "admin": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "new_shareholders": [
+          {
+            "address": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+            "share_bps": "10000"
+          }
+        ]
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/target-fees/raw/page-0000.response.json",
+      "missingTrailingFields": [
+        "version"
+      ],
+      "unparsedBytes": 0,
+      "payloadSha256": "81704f271be4ed2aca1e0daa5739d38d24ca135a52b20934e2d83bc33390ea38",
+      "transactionUrl": "https://solscan.io/tx/5N9DBKGwjGZDcdpkKtXsihEjNcLwzCrStitZE1iU6D4KR3Eu2gykZDFLBP27annBsaWUNE7P8o6qWfTc2D2Eid3g",
+      "logIndex": 27,
+      "evidence": "program_log"
+    }
+  ],
+  "distributions": [
+    {
+      "signature": "5N9DBKGwjGZDcdpkKtXsihEjNcLwzCrStitZE1iU6D4KR3Eu2gykZDFLBP27annBsaWUNE7P8o6qWfTc2D2Eid3g",
+      "slot": 402098419,
+      "transactionIndex": 852,
+      "blockTime": 1771814590,
+      "utc": "2026-02-23T02:43:10Z",
+      "name": "DistributeCreatorFeesEvent",
+      "program": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "event": {
+        "timestamp": "1771814590",
+        "mint": "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump",
+        "bonding_curve": "CxprWC6azkeZjACLk4jviNQepLnmswrSqJ6j3nouSJP4",
+        "sharing_config": "7hrJLX3oga1GBmvtcQmyfDujNcmBF5vTComScdSmXfhu",
+        "admin": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "shareholders": [
+          {
+            "address": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+            "share_bps": "10000"
+          }
+        ],
+        "distributed": "10778206"
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/target-fees/raw/page-0000.response.json",
+      "missingTrailingFields": [
+        "quote_mint"
+      ],
+      "unparsedBytes": 0,
+      "payloadSha256": "495351b9db5ec1d056311b13c6679e2a924d4d206a075090d98ec832cdc7cf49",
+      "transactionUrl": "https://solscan.io/tx/5N9DBKGwjGZDcdpkKtXsihEjNcLwzCrStitZE1iU6D4KR3Eu2gykZDFLBP27annBsaWUNE7P8o6qWfTc2D2Eid3g",
+      "logIndex": 9,
+      "evidence": "program_log",
+      "nativeQuote": true,
+      "recipient": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+      "nativePaymentLamports": "10778206",
+      "nativeTransfersVerified": true,
+      "creatorVault": "6wZi4ba9SpzmUDPpbQeozX53NwkwD3awq8ErYj3GkJRk"
+    },
+    {
+      "signature": "5N9DBKGwjGZDcdpkKtXsihEjNcLwzCrStitZE1iU6D4KR3Eu2gykZDFLBP27annBsaWUNE7P8o6qWfTc2D2Eid3g",
+      "slot": 402098419,
+      "transactionIndex": 852,
+      "blockTime": 1771814590,
+      "utc": "2026-02-23T02:43:10Z",
+      "name": "DistributeCreatorFeesEvent",
+      "program": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "event": {
+        "timestamp": "1771814590",
+        "mint": "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump",
+        "bonding_curve": "CxprWC6azkeZjACLk4jviNQepLnmswrSqJ6j3nouSJP4",
+        "sharing_config": "7hrJLX3oga1GBmvtcQmyfDujNcmBF5vTComScdSmXfhu",
+        "admin": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+        "shareholders": [
+          {
+            "address": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+            "share_bps": "10000"
+          }
+        ],
+        "distributed": "0"
+      },
+      "rawSource": "outputs/ramonos-launches-20261013/target-fees/raw/page-0000.response.json",
+      "missingTrailingFields": [
+        "quote_mint"
+      ],
+      "unparsedBytes": 0,
+      "payloadSha256": "559943dec919d4cc4e35b4529323d1744770516514eaa7aa0a3140d9d403a47d",
+      "transactionUrl": "https://solscan.io/tx/5N9DBKGwjGZDcdpkKtXsihEjNcLwzCrStitZE1iU6D4KR3Eu2gykZDFLBP27annBsaWUNE7P8o6qWfTc2D2Eid3g",
+      "logIndex": 20,
+      "evidence": "program_log",
+      "nativeQuote": true,
+      "recipient": "qNG5wnFQWzDHm1zGTMnqddwGp861LK7srHv3prtn1Dv",
+      "nativePaymentLamports": "0",
+      "nativeTransfersVerified": true,
+      "creatorVault": "6wZi4ba9SpzmUDPpbQeozX53NwkwD3awq8ErYj3GkJRk"
+    }
+  ],
+  "claims": [],
+  "checks": [
+    {
+      "signature": "5N9DBKGwjGZDcdpkKtXsihEjNcLwzCrStitZE1iU6D4KR3Eu2gykZDFLBP27annBsaWUNE7P8o6qWfTc2D2Eid3g",
+      "mint": "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump",
+      "check": "native distribution event equals matched vault transfers",
+      "passed": true,
+      "native": true,
+      "candidates": 1
+    },
+    {
+      "signature": "5N9DBKGwjGZDcdpkKtXsihEjNcLwzCrStitZE1iU6D4KR3Eu2gykZDFLBP27annBsaWUNE7P8o6qWfTc2D2Eid3g",
+      "mint": "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump",
+      "check": "native distribution event equals matched vault transfers",
+      "passed": true,
+      "native": true,
+      "candidates": 1
+    }
+  ]
+}

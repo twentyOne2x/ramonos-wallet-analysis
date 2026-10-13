@@ -1,0 +1,58 @@
+{
+  "cutoff": 1791908918,
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "name": "route-ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump",
+  "displayName": "TRANSEXUAL COIN",
+  "mint": "ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump",
+  "config": "9qnDfMbTPMrxgPAst8SyFHqY12oTpXoG1ba5taVmyR3b",
+  "vault": "D3UyTFKagvghmhdkvAmJcuCyeTEj2CN8piPfZTerJYzr",
+  "recipients": [
+    {
+      "address": "2ynXCyMhLwY8i61jXyvL7Nd3y8ZAMN6oWER9sB32kyqW",
+      "share_bps": "10000",
+      "platform": null,
+      "userId": null,
+      "recipientAccountType": "DonationFeePda",
+      "category": "native donation",
+      "shareFractionNumerator": "10000",
+      "shareFractionDenominator": "10000",
+      "curvePendingFeeFractionFloorRaw": "0",
+      "poolPendingFeeFractionFloorRaw": null,
+      "allocationNote": "Arithmetic current split applied to separate pending counters; distribution rounding/order and historic split not inferred."
+    }
+  ],
+  "routeCategory": "native donation sharing",
+  "transactionCount": 84,
+  "terminal": true,
+  "verifiedTradeCreatorFeeInflowsLamports": "75155327",
+  "verifiedDistributionLamports": "75395967",
+  "verifiedCollectCreatorFeeLamports": "0",
+  "firstPreLamports": "0",
+  "lastPostLamports": "650240",
+  "currentBalanceLamports": "650240",
+  "currentSlot": 456508315,
+  "currentRentLamports": "650240",
+  "rentEvidence": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-005.response.json; RentSysvar [5080,1.0,50], (128+space)*5080",
+  "currentAboveRentLamports": "0",
+  "lastPostMatchesCurrent": true,
+  "residualMovements": [
+    {
+      "signature": "2wBPH7o5kA9UNvNbmBNi25Reo2ssXqWr4rabpW4sXdaa7uPHTo48B4NMRLyReAcoc8HNQjWHm9KM8bjmPxXKeMu3",
+      "lamports": "890880",
+      "pre": "0",
+      "post": "1266891",
+      "rawSource": "outputs/ramonos-launches-20261013/target-vaults/raw/route-ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump/page-0000.response.json"
+    }
+  ],
+  "unverifiedFeeEvents": [],
+  "decodeErrors": [],
+  "netVerifiedFeeLotsLamports": "-240640",
+  "feeCashReconciled": false,
+  "pendingVerifiedFeeLotsLamports": null,
+  "historicalNonfeeFundingLamports": null,
+  "actualDistributionPaymentsByAddressLamports": {
+    "2ynXCyMhLwY8i61jXyvL7Nd3y8ZAMN6oWER9sB32kyqW": "75395967"
+  }
+}

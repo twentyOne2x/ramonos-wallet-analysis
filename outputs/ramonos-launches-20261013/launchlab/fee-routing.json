@@ -1,0 +1,241 @@
+{
+  "readOnly": true,
+  "spendCapSol": "0",
+  "request": {
+    "method": "getMultipleAccounts",
+    "params": [
+      [
+        "7hWX93jYRh4VJNckBjtCLUEiWr5X72G9dCzZZmFrK7Lx",
+        "FfYek5vEz23cMkWsdJwG2oa6EphsvXSHrGpdALN4g6W1",
+        "EPiZbnrThjyLnoQ6QQzkxeFqyL5uyg9RzNHHAudUPxBz",
+        "GV5F4eWSutSvSyn4yADUHcWyxmifgkSEDXEBjYRjhN6r",
+        "BuM6KDpWiTcxvrpXywWFiw45R2RNH8WURdvqoTDV1BW4",
+        "6s1xP3hpbAfFoNtUNF8mfHsjr2Bd97JxFJRWLbL6aHuX",
+        "51JEYVzpwQZJvFHyxyUBz8djtJcBKGkmNDewY5vAFNCK",
+        "FVjccQyD6hj7w9cv9VU9Fny8d9jJXtaGjfWohJartrPB"
+      ],
+      {
+        "encoding": "base64",
+        "commitment": "finalized"
+      }
+    ],
+    "startedUtc": "2026-10-13T16:23:23.764599+00:00",
+    "spendCapSol": "0",
+    "completedUtc": "2026-10-13T16:23:23.886093+00:00"
+  },
+  "rows": [
+    {
+      "mint": "GiqnV6wrZck1od9ruHrakVHXMYNXDEZcUnbPv1scbonk",
+      "name": "Internet Magic Ticket",
+      "creationUtc": "2026-01-03T00:45:28Z",
+      "creationSignature": "5K6p1xtZrbMrws58482zr2ifURhLp8Ff6i65YJYVwGs3wtw2BphaGQmJXNS2iRYXNKtTqJad1zhDZXGFR9mMkB1c",
+      "originalCreator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "pool": "7hWX93jYRh4VJNckBjtCLUEiWr5X72G9dCzZZmFrK7Lx",
+      "currentStatusRaw": "0",
+      "currentStatus": "funding",
+      "quoteMint": "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
+      "quoteDecimals": "6",
+      "platform": "FfYek5vEz23cMkWsdJwG2oa6EphsvXSHrGpdALN4g6W1",
+      "platformName": "letsbonk.fun",
+      "platformWeb": "https://letsbonk.fun/",
+      "platformFeeWallet": "YvWXoyyRpD5fPVZHZV6SY8NS1nuTFmyewxudD3mwuE3",
+      "platformNftWallet": "5jFLVBsJ6uVdFd89pqfG9eytCLjtqjwcGwTuwYu5ZKQu",
+      "currentCreatorFeeRateMillionths": "0",
+      "currentCreatorFeePercent": "0.0",
+      "currentPlatformFeeRateMillionths": "12500",
+      "currentProtocolFeeRateMillionths": "2500",
+      "protocolFeeOwner": "rayvTLcCMDs7P5tgpuoNA6ZYeLERegeCphdqLSgdKms",
+      "migrationFeeOwner": "rayHQtJKrtvqUs3HnhDW9RKubHRbu87eESKEYD5xosa",
+      "currentLpScales": {
+        "platform_scale": "1",
+        "creator_scale": "0",
+        "burn_scale": "999999"
+      },
+      "currentPlatformCpCreator": "5jFLVBsJ6uVdFd89pqfG9eytCLjtqjwcGwTuwYu5ZKQu",
+      "cpSwapConfig": "GtdipqAcw8eAYxGcANs3vpN7UaN7UH7u89Kd8wPqLThd",
+      "currentPoolPlatformFeeCounterRaw": "0",
+      "currentPoolProtocolFeeCounterRaw": "9785",
+      "creatorFeeVault": {
+        "address": "51JEYVzpwQZJvFHyxyUBz8djtJcBKGkmNDewY5vAFNCK",
+        "exists": true,
+        "slot": 456506284,
+        "owner": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "lamports": "2039280",
+        "dataLength": 165,
+        "dataSha256": "40657aa4c5a6ac4a8d9c9f6103de446901985e7f5b295f5ef716b9c35f700c93",
+        "type": "TokenAccount",
+        "fields": {
+          "mint": "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
+          "authority": "9sHpTfmVpCfP2zexRNK6j38NBchMv1RWpdXPK5NEcZan",
+          "amount": "504381",
+          "state": 1
+        }
+      },
+      "creatorFeeVaultDerivation": {
+        "address": "51JEYVzpwQZJvFHyxyUBz8djtJcBKGkmNDewY5vAFNCK",
+        "bump": 255,
+        "program": "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj",
+        "seedsHex": [
+          "3d303cfb5d36148433c3beb4c3328e31205c2893920cbe2ff3d6b0cf4df650da",
+          "07072f054ab48d987da4e5969e632cddf38dd64141349da41b0b695b91d15c3a"
+        ]
+      },
+      "creatorFeeVaultAuthority": "9sHpTfmVpCfP2zexRNK6j38NBchMv1RWpdXPK5NEcZan",
+      "creationTransactionTradeEvents": [
+        {
+          "fields": {
+            "pool_state": "7hWX93jYRh4VJNckBjtCLUEiWr5X72G9dCzZZmFrK7Lx",
+            "total_base_sell": "700000000000000",
+            "virtual_base": "1225000000017500",
+            "virtual_quote": "13125000000",
+            "real_base_before": "0",
+            "real_quote_before": "0",
+            "real_base_after": "283271832722373",
+            "real_quote_after": "3948000000",
+            "amount_in": "4000000000",
+            "amount_out": "283271832722373",
+            "protocol_fee": "10000000",
+            "platform_fee": "40000000",
+            "creator_fee": "2000000",
+            "share_fee": "0",
+            "trade_direction": "Buy",
+            "pool_status": "Fund",
+            "exact_in": true
+          },
+          "payloadSha256": "413ba57de4b2acbbb6d8e8ea3e783dbb73e71459fff442c6b8dbe21b3aca7f26"
+        }
+      ],
+      "initialFeeRates": "Unknown: initialize_v2/PoolCreateEvent contain config references but no rates; historical config state not obtained. Exact charged fees in any creation-transaction TradeEvent retained separately.",
+      "holderFeeDestination": "No holder-reward recipient field in these LaunchLab pool/config schemas; LP rights and burn scale are separate from creator fees.",
+      "githubSocialFeeDestination": "Unproved: no GitHub/social payout destination field in decoded on-chain routing; token metadata is outside this task.",
+      "currentQuoteVaultBalanceUi": "0.504381",
+      "creatorVaultBalanceIsMintSpecific": false,
+      "creatorVaultClaimability": "Protocol creator/quote PDA with validated mint and authority; balance readback only, no simulation or signing.",
+      "successfulCreatorQuoteClaims": [
+        {
+          "signature": "3eJARFuPywa3QeeZin9iggRcbCRFZsvwFQuSEC1cziDbr7QpWvNUCEMBAf2TrNnQTcbqLoFU5EPr2HGcTbUWjz2F",
+          "slot": 390940140,
+          "blockTime": 1767402333,
+          "utc": "2026-01-03T01:05:33Z",
+          "successful": true,
+          "roles": {
+            "creator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+            "fee_vault_authority": "9sHpTfmVpCfP2zexRNK6j38NBchMv1RWpdXPK5NEcZan",
+            "creator_fee_vault": "51JEYVzpwQZJvFHyxyUBz8djtJcBKGkmNDewY5vAFNCK",
+            "recipient_token_account": "3GeUpU1kWsWrwroemMreE5czDBkRTKN7VR2ypakXbrM5",
+            "quote_mint": "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
+            "token_program": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "system_program": "11111111111111111111111111111111",
+            "associated_token_program": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL"
+          },
+          "matchingTransfers": [
+            {
+              "authority": "9sHpTfmVpCfP2zexRNK6j38NBchMv1RWpdXPK5NEcZan",
+              "destination": "3GeUpU1kWsWrwroemMreE5czDBkRTKN7VR2ypakXbrM5",
+              "mint": "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
+              "source": "51JEYVzpwQZJvFHyxyUBz8djtJcBKGkmNDewY5vAFNCK",
+              "tokenAmount": {
+                "amount": "22389774",
+                "decimals": 6,
+                "uiAmount": 22.389774,
+                "uiAmountString": "22.389774"
+              }
+            }
+          ],
+          "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0012.json",
+          "rawSourceSha256": "4fceebfe5d862d4dfd19d4dd16abcef22992a5c0b9b3df9f9c8ecece75945a5a",
+          "recipientCanonicalCreatorAtaValidated": true
+        }
+      ]
+    },
+    {
+      "mint": "7b1otW189NkEpUdiN2P4mVNvrztqnRd9nesAhk3Cbonk",
+      "name": "dog wif pahlavi",
+      "creationUtc": "2026-04-08T03:57:57Z",
+      "creationSignature": "2jRozkxWCVGrkAnjx7ENgQitzcLfVWmWo5SshqkNnxVTXFztN4Ux37J78Xbop8YEaQSRqZk89ftgwyTtumZGFh2G",
+      "originalCreator": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+      "pool": "GV5F4eWSutSvSyn4yADUHcWyxmifgkSEDXEBjYRjhN6r",
+      "currentStatusRaw": "0",
+      "currentStatus": "funding",
+      "quoteMint": "So11111111111111111111111111111111111111112",
+      "quoteDecimals": "9",
+      "platform": "BuM6KDpWiTcxvrpXywWFiw45R2RNH8WURdvqoTDV1BW4",
+      "platformName": "letsbonk.fun",
+      "platformWeb": "https://letsbonk.fun/",
+      "platformFeeWallet": "YvWXoyyRpD5fPVZHZV6SY8NS1nuTFmyewxudD3mwuE3",
+      "platformNftWallet": "5jFLVBsJ6uVdFd89pqfG9eytCLjtqjwcGwTuwYu5ZKQu",
+      "currentCreatorFeeRateMillionths": "0",
+      "currentCreatorFeePercent": "0.0",
+      "currentPlatformFeeRateMillionths": "12500",
+      "currentProtocolFeeRateMillionths": "2500",
+      "protocolFeeOwner": "rayvTLcCMDs7P5tgpuoNA6ZYeLERegeCphdqLSgdKms",
+      "migrationFeeOwner": "rayHQtJKrtvqUs3HnhDW9RKubHRbu87eESKEYD5xosa",
+      "currentLpScales": {
+        "platform_scale": "1",
+        "creator_scale": "0",
+        "burn_scale": "999999"
+      },
+      "currentPlatformCpCreator": "5jFLVBsJ6uVdFd89pqfG9eytCLjtqjwcGwTuwYu5ZKQu",
+      "cpSwapConfig": "GtdipqAcw8eAYxGcANs3vpN7UaN7UH7u89Kd8wPqLThd",
+      "currentPoolPlatformFeeCounterRaw": "0",
+      "currentPoolProtocolFeeCounterRaw": "587878655",
+      "creatorFeeVault": {
+        "address": "FVjccQyD6hj7w9cv9VU9Fny8d9jJXtaGjfWohJartrPB",
+        "exists": true,
+        "slot": 456506284,
+        "owner": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "lamports": "2039280",
+        "dataLength": 165,
+        "dataSha256": "56249d5d033a88734e0e65051cbb9a71455a98b079c30c877c44e274a7516435",
+        "type": "TokenAccount",
+        "fields": {
+          "mint": "So11111111111111111111111111111111111111112",
+          "authority": "9sHpTfmVpCfP2zexRNK6j38NBchMv1RWpdXPK5NEcZan",
+          "amount": "0",
+          "state": 1
+        }
+      },
+      "creatorFeeVaultDerivation": {
+        "address": "FVjccQyD6hj7w9cv9VU9Fny8d9jJXtaGjfWohJartrPB",
+        "bump": 254,
+        "program": "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj",
+        "seedsHex": [
+          "3d303cfb5d36148433c3beb4c3328e31205c2893920cbe2ff3d6b0cf4df650da",
+          "069b8857feab8184fb687f634618c035dac439dc1aeb3b5598a0f00000000001"
+        ]
+      },
+      "creatorFeeVaultAuthority": "9sHpTfmVpCfP2zexRNK6j38NBchMv1RWpdXPK5NEcZan",
+      "creationTransactionTradeEvents": [
+        {
+          "fields": {
+            "pool_state": "GV5F4eWSutSvSyn4yADUHcWyxmifgkSEDXEBjYRjhN6r",
+            "total_base_sell": "793100000000000",
+            "virtual_base": "1073025605596382",
+            "virtual_quote": "30000852951",
+            "real_base_before": "0",
+            "real_quote_before": "0",
+            "real_base_after": "49999999945924",
+            "real_quote_after": "1466280646",
+            "amount_in": "1488609793",
+            "amount_out": "49999999945924",
+            "protocol_fee": "3721525",
+            "platform_fee": "18607622",
+            "creator_fee": "0",
+            "share_fee": "0",
+            "trade_direction": "Buy",
+            "pool_status": "Fund",
+            "exact_in": true
+          },
+          "payloadSha256": "ebd6d7fb7b51a6e52d3dd2d2e7870b562686ff77be522e1541b4247a8a2f3a84"
+        }
+      ],
+      "initialFeeRates": "Unknown: initialize_v2/PoolCreateEvent contain config references but no rates; historical config state not obtained. Exact charged fees in any creation-transaction TradeEvent retained separately.",
+      "holderFeeDestination": "No holder-reward recipient field in these LaunchLab pool/config schemas; LP rights and burn scale are separate from creator fees.",
+      "githubSocialFeeDestination": "Unproved: no GitHub/social payout destination field in decoded on-chain routing; token metadata is outside this task.",
+      "currentQuoteVaultBalanceUi": "0.0",
+      "creatorVaultBalanceIsMintSpecific": false,
+      "creatorVaultClaimability": "Protocol creator/quote PDA with validated mint and authority; balance readback only, no simulation or signing.",
+      "successfulCreatorQuoteClaims": []
+    }
+  ]
+}

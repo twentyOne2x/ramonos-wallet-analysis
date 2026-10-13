@@ -1,0 +1,210 @@
+{
+  "createdUtc": "2026-10-13T16:25:33.342393+00:00",
+  "files": [
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/REPORT.md",
+      "sha256": "bc559e7dee632ebbf9b0b4e93359c7702c6bfaf2b0cb4d4ef293c87884cd3072",
+      "bytes": 3414
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/beneficiaries.csv",
+      "sha256": "bf6c8a057eb8f18ac8aa1cefb17973d6428f1644315164cccfb6cf73cc75202a",
+      "bytes": 2352
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/custody.csv",
+      "sha256": "0e80ac6d90a785f151a3dad997f6e68a07d596e73a9d27290bf778b2fa2dffae",
+      "bytes": 103895
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/decoded-accounts.json",
+      "sha256": "bfc7dcbfc0ee368fec03afe016b0ce4114c8bfb8e3052141898f9950b65b8b0e",
+      "bytes": 542714
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/derived-route-addresses.json",
+      "sha256": "d8c274c05331dd195fa1983b919d8e8b2b4dff83ab5d40d7eb487b8dfbc2e8c7",
+      "bytes": 1166375
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/derived-social-atas.json",
+      "sha256": "5291e270dd814ab0468dd204138c66926d939c784f1ca57299ccb8ac851b985a",
+      "bytes": 3070
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/derived-upstream-addresses.json",
+      "sha256": "cfb665d1c1b9a734bc1892a8df9ec42cb69a87bb73a0d6d34ec5f6999eb61421",
+      "bytes": 141805
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/initial-pools.json",
+      "sha256": "4fb96827c0cb1c6465eea342aae998f9d0c8398bbe920dc2f481cf361401cf1c",
+      "bytes": 112756
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/initial-social.json",
+      "sha256": "19dd4a07960d9278badd1434da73ed0194ca80e7a8f97b0fc1e737f81e2eb0f6",
+      "bytes": 1396
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/other-platform-launches.json",
+      "sha256": "f0e8b6bf5032fd0ff2a7b9424dc4ac2ea744ee17f3a222544e3347c74a123f70",
+      "bytes": 11278
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-000.request.json",
+      "sha256": "9c1d803093e18c309986b4924e8d01a47261f4259b1163b1216c8f2050b041cb",
+      "bytes": 4941
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-000.response.json",
+      "sha256": "e4d73d5eaf16a9792808dc52a6340902789cbce7f0862d27b2206e7ebb195314",
+      "bytes": 20120
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-001.request.json",
+      "sha256": "05e204ab01eaf9b3d62a15671ea344d7d7ead50ca54a8ba4f74e6154b683e4d3",
+      "bytes": 4935
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-001.response.json",
+      "sha256": "d728182a6ee9757aac36ca7dea58382da4c87e67a1d5b82252668305599a60f5",
+      "bytes": 18593
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-002.request.json",
+      "sha256": "f2a8407116d631a5a672d9d806d92000c13caa1b40ea6ab893e770bc9cfc35e2",
+      "bytes": 4936
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-002.response.json",
+      "sha256": "79fe2f0d1b24dd8cfd36078a0061464340bc095eee1b1f1e4b22d102aebb7de8",
+      "bytes": 27733
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-003.request.json",
+      "sha256": "59b3ffb053f33b276f3cd4bd6414884f95b0f0bf404d54050f0f0656ba0f59cb",
+      "bytes": 4939
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-003.response.json",
+      "sha256": "94c3a488b36b38349e459bf712130ae616d37d7411bb9782088b76f8b92659d5",
+      "bytes": 19807
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-004.request.json",
+      "sha256": "db8008fd93e43f996d0d6758ec57cb1394abb52dcad7b165e9b97a564f276a05",
+      "bytes": 4935
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-004.response.json",
+      "sha256": "6fbbaba3c623c39027baa7ea19be0fb16228344040747657e8fd2fdc2d890c7d",
+      "bytes": 23164
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-005.request.json",
+      "sha256": "5882b8ae9172ad22f006f51fe199374f78e2a08ec66a0b234afe3def77bd3c51",
+      "bytes": 2780
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/configs-curves-005.response.json",
+      "sha256": "0ac418a76d2822fc1547276cb57100d463b9bf1975186d6f31a5137ea55c7a8e",
+      "bytes": 17877
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.request.json",
+      "sha256": "9ebe39b665f5724e9f372c379e96064465ef1f94925a84b3c162883f75ec9146",
+      "bytes": 4941
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-000.response.json",
+      "sha256": "26873c089df0d00a5dc2d4bc8461c4645ad269ba02101bd75034734ae26a8127",
+      "bytes": 17945
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.request.json",
+      "sha256": "7b367ca6afa24f65c60efdc8c0cbdb51ecf9e9f1738e7a49ccd8106108da7711",
+      "bytes": 4940
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-001.response.json",
+      "sha256": "5662dd2aa73f5115da9f365d7c2c37cf75df1438b99c3dcd3a0ed6a493a4a0da",
+      "bytes": 6206
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.request.json",
+      "sha256": "77bebcd32cb4908c20479d2bb17fb0805a556ee2101ed233b91eced17e775195",
+      "bytes": 4414
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/pools-recipients-002.response.json",
+      "sha256": "564d6d8ef3a0c379e9c36f8d28f9b9e3ffebf57ed43271cc6ce008c65999f221",
+      "bytes": 7121
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/pump-pinned-idl.json",
+      "sha256": "7616681ea557975f9f623ac211080f22a93060781eaf4765b0a488d980997207",
+      "bytes": 328788
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/pump_amm-pinned-idl.json",
+      "sha256": "b7d8c57a4d9c4dd0109a9ab893052352333252d4eedced10ac091d4d66cab89b",
+      "bytes": 191835
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/pump_fees-pinned-idl.json",
+      "sha256": "6b9fa3eccc6e06273076a47b581f9fcb9e531bb7c3c88acbcd44db55a4002b29",
+      "bytes": 136538
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/quote-mints-000.request.json",
+      "sha256": "568e3eca104f5cb90e30aa8fc71f5f8e691e869b76a67ad21bf1529ef869bebd",
+      "bytes": 424
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/quote-mints-000.response.json",
+      "sha256": "9adab696af3b12eeaac08a520347d3cdb9fbf14193605cd1d7a9f88061d2f671",
+      "bytes": 4663
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/vault-custody-000.request.json",
+      "sha256": "ae7b9dafd92112df274bfbc9e6fb56fc64cd9acfce1c5fa4d29703c2b7969009",
+      "bytes": 3983
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/raw/vault-custody-000.response.json",
+      "sha256": "f38afcd06f3f4d08fed8b4003a50c45378ac5ea8eddfe35a067c0df3bf479f60",
+      "bytes": 10894
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/receipts.json",
+      "sha256": "5463cf0b6d4305982fcae2fe406ee03f4bcad04c23ef02474a84b394a00ba21f",
+      "bytes": 6854
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/routes.csv",
+      "sha256": "5e1d613fa10cd19f362ea6ab0ba412411e796e69dfe90bd8bc4e97a7f00324f9",
+      "bytes": 1318158
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/routes.json",
+      "sha256": "02c7cfe26f0fda845a5b1954cecf46dab37684ec87c8384eee9d0bf6380a3994",
+      "bytes": 1760140
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/social-beneficiaries.json",
+      "sha256": "0faff281020331eec0018a7e3543c94790a3e6c142e231b702133b647ce0e151",
+      "bytes": 3172
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/summary.json",
+      "sha256": "65bb4e7d3554892018f077700bb2ab978ce763e833f0bc11aeb08d9871def7f8",
+      "bytes": 5793
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/routes/validation.json",
+      "sha256": "b6c31ace4fe3b00b597d20ef5836827d7680b5b33bf374c6243d74bed3c7c6a2",
+      "bytes": 299231
+    }
+  ]
+}

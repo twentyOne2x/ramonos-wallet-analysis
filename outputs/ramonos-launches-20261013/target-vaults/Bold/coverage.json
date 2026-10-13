@@ -1,0 +1,29 @@
+{
+  "cutoff": 1791908918,
+  "cutoffUtc": "2026-10-13T16:28:38Z",
+  "commitment": "finalized",
+  "financialExecutionCapSol": 0,
+  "name": "Bold",
+  "mint": "EiDpY9QApxYMFYhR4TWXEpy6gANh73S4h3t8eSif32SM",
+  "config": "GFpZ79XaLk6kqU448eTykVZGGqec6aLveepdy3EZBbYj",
+  "vault": "98AhHzY5K9Xb7iixLipcjWWYo1Ksrk3nrBKv2zmkkBrj",
+  "recipient": "FfLpuH4WPn2MR8Lqn1MpwQc1HtAPPqL3qvMWZjnFHGpv",
+  "terminal": true,
+  "pages": [
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/Bold/page-0000.response.json",
+      "sha256": "da4ff7ab81461de3d25eff04334506ded6e883097bc7632fc0a043796eb1c0e4",
+      "count": 510,
+      "cursorIn": null,
+      "cursorOut": "453995069:291"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/target-vaults/raw/Bold/page-0001.response.json",
+      "sha256": "abd38ce8ef91eff014c0fb955cf12917d8288778b4dc011defbe813970aa2925",
+      "count": 0,
+      "cursorIn": "453995069:291",
+      "cursorOut": null
+    }
+  ],
+  "transactionCount": 510
+}
