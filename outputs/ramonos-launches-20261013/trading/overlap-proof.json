@@ -1,0 +1,92 @@
+[
+  {
+    "signature": "3vp6G7qU618wfuhUXtyuDmnxFPG7Y5iWUhcw4W6gvi8kkvSG9KKVH45teVv25EPHsVwpVa7hxG84sYF235T7K5Tb",
+    "mint": "8aTZtPqUbZTKEuiGmGHARfpEZP7a3ZraRmFWBCRypump",
+    "verifiedCreatorReceiptLamports": "0",
+    "zeroDistributionOnly": true,
+    "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0022.json",
+    "payloadSha256": [
+      "133348ac31f9070f142d4018458775f1fc7900943b94d86fcc81cf5c1e644d9f"
+    ]
+  },
+  {
+    "signature": "3amPW4XWsz9zTVDBX8yDprfFUF5GRukBhMBygxyMCuWu56J7YQ9W6xAXKWxNbWH76RBHU7g2zoCU6MPBCMnG8eYZ",
+    "mint": "GyXmf9Ap47e3CZKCYYq8BPkKPiqTy6cwETEuGdevpump",
+    "verifiedCreatorReceiptLamports": "0",
+    "zeroDistributionOnly": true,
+    "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0022.json",
+    "payloadSha256": [
+      "68d165c1e9423168ea21ae813017b7d800165b49ed8652129fa8222f2483c174"
+    ]
+  },
+  {
+    "signature": "47LgZh1LDiGqzL1rAsLFkhGzveookeJLbyf3sPqcDbNouodjuZnJzu3aCtLfcisW37Rdy5XgMcaMuoKtK3fcDrDN",
+    "mint": "HyRZwEZ4c3ZK83Sq7rLa5izXbn8R1PvFbMRFPwGUpump",
+    "verifiedCreatorReceiptLamports": "0",
+    "zeroDistributionOnly": true,
+    "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0024.json",
+    "payloadSha256": [
+      "bc2e2fdfbbafc781addca842149fdb334498c858311e9d48fc15842d3752ea7d"
+    ]
+  },
+  {
+    "signature": "4WpfThusCrnya9bLHJtwRavbDTese1PLwYG4HKeMGt1aYoCHrwnaNGQSBehxPkiMY9STRbRSSQyvYALSenHH4g6r",
+    "mint": "ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump",
+    "verifiedCreatorReceiptLamports": "0",
+    "zeroDistributionOnly": true,
+    "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0024.json",
+    "payloadSha256": [
+      "6cb00cf880ea6bc030b26bb59304236671585f4316c717fd6ea2abd50aaa838a"
+    ]
+  },
+  {
+    "signature": "5kwSqQVuEvUaiseHeN4GhBeKxDwoUNwHGC5vnjdsyjCmZLktnYpwjtohAsfwDBr3P2kztWfBdM4gRvZJuTuHKRJ3",
+    "mint": "6cnk4vMENAxcuYm9rSMzAASGMj1eXpDoEFu5cHGUpump",
+    "verifiedCreatorReceiptLamports": "0",
+    "zeroDistributionOnly": true,
+    "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0025.json",
+    "payloadSha256": [
+      "821f04f1d6fdb12ec1efe79e4e09acadcadf67904d02d78122957e3150659139"
+    ]
+  },
+  {
+    "signature": "5g8WMdGu7YzxGqSNUcFRE12hTbGPoKVUcSXiRmeSN18vdXEgBtGjTrURUgamXhcEdtCSxszVBBebAQdQWQhB5Qhx",
+    "mint": "9gQtknSEwdkDuspJYn4ovqV21iyhfFXHzB9u1YPKpump",
+    "verifiedCreatorReceiptLamports": "0",
+    "zeroDistributionOnly": true,
+    "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0025.json",
+    "payloadSha256": [
+      "f69fded3f77753cf379492fb28f5b7ffe2b8ab3543d0daff02ed0d3981928420"
+    ]
+  },
+  {
+    "signature": "FpfR1RHEqEYcU5ai4474bricQw8XcUrGbTsoxCxXr1iJC3iF2AnqJA3vW6mkrCExXbmmmtngvm4MBAyfbRvsB9x",
+    "mint": "8yhSE2TvNHsDmBJ2PM6286NFDufjNA2j2x3oZXDUpump",
+    "verifiedCreatorReceiptLamports": "0",
+    "zeroDistributionOnly": true,
+    "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0025.json",
+    "payloadSha256": [
+      "ae99de41ce0875d64a0ca665450db793a187101d2fbdd321af737a6838332a60"
+    ]
+  },
+  {
+    "signature": "3ULqxVNxWD7xEEaJeHEbumr68fD63YU4sS4mNgNAqJP5P1Jxfy24626iFxnjVgCxx17jCBs7Y492oJcqEgACTKDh",
+    "mint": "EiDpY9QApxYMFYhR4TWXEpy6gANh73S4h3t8eSif32SM",
+    "verifiedCreatorReceiptLamports": "0",
+    "zeroDistributionOnly": true,
+    "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0029.json",
+    "payloadSha256": [
+      "c230c9afc026e7159ef256c8a2633e0de1559a90e602a43ac63b9dc5f93bd2bc"
+    ]
+  },
+  {
+    "signature": "3z1VGhU9P84Pg833bAg3Q3nHNg25spKMcdoZUxokP9X73eBDYDhyVqmtPRuAKnVKTNNnLaCAuREJyDsQYicTH9KT",
+    "mint": "F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR",
+    "verifiedCreatorReceiptLamports": "0",
+    "zeroDistributionOnly": true,
+    "rawSource": "outputs/ramonos-launches-20261013/census/raw/page-0029.json",
+    "payloadSha256": [
+      "9daf041b5496853158ec86b635fe442239c22719730d9a6524ab40b4d5154385"
+    ]
+  }
+]

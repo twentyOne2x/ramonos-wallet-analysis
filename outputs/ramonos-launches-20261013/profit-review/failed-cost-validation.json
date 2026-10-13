@@ -1,0 +1,23 @@
+{
+  "status": "PASS for failed direct-wallet network-fee ledger",
+  "failedTransactions": 19292,
+  "rawFailedPages": 21,
+  "groups": {
+    "no-cohort-witness-unallocated": {
+      "count": 6551,
+      "paidCount": 5029,
+      "fees": 4250309979
+    },
+    "cohort-instruction-witness": {
+      "count": 12741,
+      "paidCount": 2625,
+      "fees": 4205252519
+    }
+  },
+  "walletPaidFeesLamports": 8455562498,
+  "limitations": [
+    "Cohort instruction witness proves attempted transaction purpose, not executed trade; attempted instruction can follow earlier failure.",
+    "No cohort witness means unallocated, not proven irrelevant.",
+    "Successful cash deltas already include their network costs; failed costs are separate once only."
+  ]
+}

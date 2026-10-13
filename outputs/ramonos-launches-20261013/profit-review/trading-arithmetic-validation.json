@@ -1,0 +1,17 @@
+{
+  "status": "PASS for current bounded observed cash and raw inventory arithmetic; incomplete all-in PnL",
+  "launchCount": 279,
+  "inventoryLedgerMatches": 279,
+  "cashComponentsMatch": 279,
+  "nativeWsolSingleCountChecks": 2637,
+  "excludedFeeOperationOverlap": 0,
+  "onlyDuplicateAllocatedSignatures": "exact ATA refund components in shared batch cleanup",
+  "multipleRefundComponentTransactions": 30,
+  "limitations": [
+    "Direct successful-wallet references only; token-account-only transfers and current balances are outside capture.",
+    "Failed transaction cost manifest must be integrated separately without overlap.",
+    "196 closed positions are bounded to observed wallet history, not proof of all operator positions.",
+    "Non-SOL quote results and unresolved transferred-out or remaining inventory cannot be relabeled SOL trading profit.",
+    "Net balance deltas already include network fees, tips, rent funding and refunds; do not deduct these again."
+  ]
+}

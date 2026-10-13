@@ -1,0 +1,79 @@
+{
+  "status": "PASS",
+  "overlapTransactions": 9,
+  "allVerifiedSolPayoutsZero": true,
+  "receipts": [
+    {
+      "signature": "3ULqxVNxWD7xEEaJeHEbumr68fD63YU4sS4mNgNAqJP5P1Jxfy24626iFxnjVgCxx17jCBs7Y492oJcqEgACTKDh",
+      "events": 1,
+      "totalLamports": "0",
+      "names": [
+        "DistributeCreatorFeesEvent"
+      ]
+    },
+    {
+      "signature": "3amPW4XWsz9zTVDBX8yDprfFUF5GRukBhMBygxyMCuWu56J7YQ9W6xAXKWxNbWH76RBHU7g2zoCU6MPBCMnG8eYZ",
+      "events": 1,
+      "totalLamports": "0",
+      "names": [
+        "DistributeCreatorFeesEvent"
+      ]
+    },
+    {
+      "signature": "3vp6G7qU618wfuhUXtyuDmnxFPG7Y5iWUhcw4W6gvi8kkvSG9KKVH45teVv25EPHsVwpVa7hxG84sYF235T7K5Tb",
+      "events": 1,
+      "totalLamports": "0",
+      "names": [
+        "DistributeCreatorFeesEvent"
+      ]
+    },
+    {
+      "signature": "3z1VGhU9P84Pg833bAg3Q3nHNg25spKMcdoZUxokP9X73eBDYDhyVqmtPRuAKnVKTNNnLaCAuREJyDsQYicTH9KT",
+      "events": 1,
+      "totalLamports": "0",
+      "names": [
+        "DistributeCreatorFeesEvent"
+      ]
+    },
+    {
+      "signature": "47LgZh1LDiGqzL1rAsLFkhGzveookeJLbyf3sPqcDbNouodjuZnJzu3aCtLfcisW37Rdy5XgMcaMuoKtK3fcDrDN",
+      "events": 1,
+      "totalLamports": "0",
+      "names": [
+        "DistributeCreatorFeesEvent"
+      ]
+    },
+    {
+      "signature": "4WpfThusCrnya9bLHJtwRavbDTese1PLwYG4HKeMGt1aYoCHrwnaNGQSBehxPkiMY9STRbRSSQyvYALSenHH4g6r",
+      "events": 1,
+      "totalLamports": "0",
+      "names": [
+        "DistributeCreatorFeesEvent"
+      ]
+    },
+    {
+      "signature": "5g8WMdGu7YzxGqSNUcFRE12hTbGPoKVUcSXiRmeSN18vdXEgBtGjTrURUgamXhcEdtCSxszVBBebAQdQWQhB5Qhx",
+      "events": 1,
+      "totalLamports": "0",
+      "names": [
+        "DistributeCreatorFeesEvent"
+      ]
+    },
+    {
+      "signature": "5kwSqQVuEvUaiseHeN4GhBeKxDwoUNwHGC5vnjdsyjCmZLktnYpwjtohAsfwDBr3P2kztWfBdM4gRvZJuTuHKRJ3",
+      "events": 1,
+      "totalLamports": "0",
+      "names": [
+        "DistributeCreatorFeesEvent"
+      ]
+    },
+    {
+      "signature": "FpfR1RHEqEYcU5ai4474bricQw8XcUrGbTsoxCxXr1iJC3iF2AnqJA3vW6mkrCExXbmmmtngvm4MBAyfbRvsB9x",
+      "events": 1,
+      "totalLamports": "0",
+      "names": [
+        "DistributeCreatorFeesEvent"
+      ]
+    }
+  ]
+}

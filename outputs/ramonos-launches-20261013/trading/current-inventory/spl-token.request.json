@@ -1,0 +1,17 @@
+{
+  "method": "getTokenAccountsByOwner",
+  "params": [
+    "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+    {
+      "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+    },
+    {
+      "encoding": "jsonParsed",
+      "commitment": "finalized"
+    }
+  ],
+  "startedUtc": "2026-10-13T19:39:57.910636+00:00",
+  "completedUtc": "2026-10-13T19:39:58.135358+00:00",
+  "sha256": "70c03a409452b1f6865554aa6013d1e0b484f6e0b6361e45ce85937d3c9af317",
+  "endpoint": "configured mainnet read-only provider; credential omitted"
+}

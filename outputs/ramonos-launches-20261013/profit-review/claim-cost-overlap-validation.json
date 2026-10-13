@@ -1,0 +1,7 @@
+{
+  "status": "PASS for additional claim network costs excluding trade cash overlap",
+  "additionalAllClaimFeesLamports": 4812390,
+  "additionalPositiveSolClaimFeesLamports": 4797060,
+  "tradeClaimOverlapTransactions": 9,
+  "limitation": "Claim transaction balance changes include setup/other transfers; additional network fees are only one known charge. Do not call fee-adjusted gross receipts all-in claim cash or strict cohort income."
+}

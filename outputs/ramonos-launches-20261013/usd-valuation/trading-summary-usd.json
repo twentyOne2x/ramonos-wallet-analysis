@@ -1,0 +1,62 @@
+{
+  "sourceLedger": "outputs/ramonos-launches-20261013/trading/capital-ledger.json",
+  "sourceLedgerSha256": "e260be692ada40d0bed2538a984ed8d04d769a2d6b1dc0a88b8d086a552ab909",
+  "sourceCashflows": null,
+  "sourceCashflowsSha256": null,
+  "priceSource": "Coinbase Exchange SOL-USD containing-minute candle close",
+  "componentCount": 5262,
+  "uniquePriceMinutes": 1312,
+  "cohorts": {
+    "closed_native_sol_quote": {
+      "launches": 196,
+      "components": 3174,
+      "cashSol": "1674.323228104",
+      "cashUsd": "195964.71124374579",
+      "debitsUsd": "-175090.16273247816",
+      "creditsUsd": "371054.87397622395",
+      "cashUsdLowSensitivity": "195678.86560840426",
+      "cashUsdHighSensitivity": "196264.10099535322"
+    },
+    "all_native_sol_quote_cash_only": {
+      "launches": 272,
+      "components": 5166,
+      "cashSol": "2278.697872527",
+      "cashUsd": "278193.19030854545",
+      "debitsUsd": "-254046.18537725369",
+      "creditsUsd": "532239.37568579914",
+      "cashUsdLowSensitivity": "277739.98084886763",
+      "cashUsdHighSensitivity": "278600.94888786687"
+    },
+    "all_cohort_sol_cash_only": {
+      "launches": 279,
+      "components": 5262,
+      "cashSol": "2356.855373138",
+      "cashUsd": "287138.07815833441",
+      "debitsUsd": "-254084.05606730318",
+      "creditsUsd": "541222.13422563759",
+      "cashUsdLowSensitivity": "286681.40346538047",
+      "cashUsdHighSensitivity": "287549.36064584378"
+    }
+  },
+  "limitations": [
+    "Signed native-SOL/WSOL wallet cash difference at each component timestamp, not actual USD proceeds or token-only trading profit.",
+    "All-cohort SOL cash includes launches with other quote assets and unresolved/transferred/remaining positions; not full USD profit.",
+    "Network fees already contained in signed transaction delta are not subtracted a second time. Exact allocated account-refund components retained per mint; repeated whole-transaction allocations are rejected.",
+    "This source covers successful captured history. Failed transaction costs are included only when explicitly allocated into these cash components by the source ledger; unavailable failed history stays unproved.",
+    "Buy-route funding is not added independently unless allocated into the source cash components; it can be an internal SOL/WSOL conversion.",
+    "Receipt-minute close may be after the receipt within its minute; low/high sensitivity is not a statistical or cross-exchange uncertainty bound."
+  ],
+  "successfulCashComponentCount": 2637,
+  "failedFeeComponentCount": 2625,
+  "failedFeesSource": "outputs/ramonos-launches-20261013/costs-coverage/failed-cohort-fees.csv",
+  "failedFeesSha256": "fb17e6c2400e6e42f1fd72792962642ea5302374fa29c18c472683411e89a613",
+  "additionalClaimFeeSource": "outputs/ramonos-launches-20261013/usd-valuation/additional-claim-network-fees.csv",
+  "additionalClaimFeeSha256": "45c28f5278b13f557c8bbf5a91bc0dcfad62b0c81dbe91a920b560d2f7fe71e5",
+  "additionalClaimNetworkFeesSol": "0.004812390",
+  "additionalClaimNetworkFeesUsd": "0.51215088260",
+  "knownNetCoreHistoricalUsd": "395696.08874294730",
+  "knownNetCoreSol": "3334.605246214",
+  "sameKnownNetCoreSolAtFrozenCurrentSpotUsd": "358803.5244926264",
+  "grossFeePlusClosedCashNetworkOnlyProxyCaution": "This optional proxy deducts only extra claim network fees from gross fees and omits the claim transaction wallet outflows accounted for in combined-account-cash-summary-usd.json. Do not report it as account cash surplus or complete net profit.",
+  "knownNetCoreDefinition": "196 bounded-closed native-SOL quote position signed cashflows including allocated failed transaction fees, plus all verified SOL/WSOL creator-fee receipts, minus additional owner-paid claim network fees once. Historical USD is summed at each individual component timestamp."
+}

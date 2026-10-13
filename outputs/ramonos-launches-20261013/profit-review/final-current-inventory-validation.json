@@ -1,0 +1,9 @@
+{
+  "status": "PASS same-finalized-slot original-wallet inventory snapshots",
+  "slot": 456560197,
+  "splAccounts": 26,
+  "token2022Accounts": 3691,
+  "all279MatchLastObserved": true,
+  "nonzeroLaunchMints": 11,
+  "limitation": "Snapshot is later than trading cutoff; no claim of cutoff-time holdings or token-account-only lifetime transfer coverage."
+}

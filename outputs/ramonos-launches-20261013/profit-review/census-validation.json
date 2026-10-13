@@ -1,0 +1,12 @@
+{
+  "status": "PASS for signed mint admission",
+  "launches": 279,
+  "distinctMints": 279,
+  "actualRawSignerChecks": 279,
+  "successfulCreationTransactions": 279,
+  "sourcePageHashesChecked": 34,
+  "platforms": {
+    "Pump": 277,
+    "Raydium LaunchLab": 2
+  }
+}

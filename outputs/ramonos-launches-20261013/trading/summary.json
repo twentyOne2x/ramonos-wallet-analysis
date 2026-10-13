@@ -1,0 +1,126 @@
+{
+  "wallet": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+  "cutoffUtc": "2026-10-13T16:19:01Z",
+  "coverage": {
+    "centralizedPages": 34,
+    "walletReferencedTransactions": 32798,
+    "successfulWalletReferences": 32798,
+    "retainedFailedReferences": 0,
+    "terminalSuccessfulHistory": true,
+    "failedHistoryComplete": false,
+    "definition": "All available terminal successful direct-wallet history, with retained failed references only. Token-account-only transfers/current account snapshots are outside this capture."
+  },
+  "launches": 279,
+  "positionCounts": {
+    "bounded_closed_original_wallet_position": 196,
+    "inventory_transferred_out_operator_result_unresolved": 46,
+    "target_closed_other_quote_inventory_change": 7,
+    "remaining_inventory_in_last_observation": 11,
+    "no_original_wallet_acquisition_observed": 19
+  },
+  "closedSolPositions": {
+    "mints": 196,
+    "buyCostLamports": "1588439201648",
+    "sellNetLamports": "3314894019556",
+    "quoteTradeMarginLamports": "1726454817908",
+    "observedAssociatedNativeWsolCashLamports": "1676617576116",
+    "quoteMarginSol": "1726.454817908",
+    "observedCashSol": "1676.617576116",
+    "quoteMarginLessAssociatedObservedCashLamports": "49837241792",
+    "successfulNetworkFeesLamports": "1915519597",
+    "identifiedJitoTipsLamports": "751354646",
+    "rentFundingLamports": "3588740216",
+    "accountClosureRefundLamports": "411703588",
+    "beforeSeparatelyCapturedFailedFees": true
+  },
+  "allSolQuotePositions": {
+    "mints": 272,
+    "buyCostLamports": "2251295234379",
+    "sellNetLamports": "4618089799575",
+    "quoteTradeCashMarginLamports": "2366794565196",
+    "observedAssociatedNativeWsolCashLamports": "2282822715046",
+    "profitCaution": "Contains unsold inventory and outgoing/incoming transfers; aggregate cash margin is not a complete operator profit."
+  },
+  "allQuoteAssets": {
+    "So11111111111111111111111111111111111111112": {
+      "mints": "272",
+      "buyCostRaw": "2251295234379",
+      "sellNetRaw": "4618089799575",
+      "cashMarginRaw": "2366794565196"
+    },
+    "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB": {
+      "mints": "1",
+      "buyCostRaw": "4000929425",
+      "sellNetRaw": "4606619151",
+      "cashMarginRaw": "605689726"
+    },
+    "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
+      "mints": "1",
+      "buyCostRaw": "240000000",
+      "sellNetRaw": "279403298",
+      "cashMarginRaw": "39403298"
+    },
+    "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB": {
+      "mints": "1",
+      "buyCostRaw": "136696514",
+      "sellNetRaw": "138102391",
+      "cashMarginRaw": "1405877"
+    },
+    "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W": {
+      "mints": "1",
+      "buyCostRaw": "65222971",
+      "sellNetRaw": "64292865",
+      "cashMarginRaw": "-930106"
+    },
+    "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn": {
+      "mints": "2",
+      "buyCostRaw": "322242882285",
+      "sellNetRaw": "575197878406",
+      "cashMarginRaw": "252954996121"
+    },
+    "Xs3eBt7uRfJX8QUs4suhyU8p2M6DoUDrJyWBa8LLZsg": {
+      "mints": "1",
+      "buyCostRaw": "190031064",
+      "sellNetRaw": "457637759",
+      "cashMarginRaw": "267606695"
+    }
+  },
+  "allCohortObservedCashLamports": "2361060625657",
+  "initialSameCreateSolBuys": {
+    "count": 230,
+    "totalActualCostLamports": "1937966462938",
+    "medianActualCostLamports": "4992592591.5",
+    "totalActualCostSol": "1937.966462938",
+    "medianActualCostSol": "4.9925925915"
+  },
+  "buyCount": 1003,
+  "sellCount": 1246,
+  "currentInventory": {
+    "snapshots": [
+      {
+        "program": "spl-token",
+        "slot": 456560197,
+        "accountCount": 26
+      },
+      {
+        "program": "token-2022",
+        "slot": 456560197,
+        "accountCount": 3691
+      }
+    ],
+    "differentFromHistoricalLastObservedMints": [],
+    "currentNonzeroCohortMints": 11,
+    "snapshotCaution": "Later than trading cutoff; exact current owner custody, not a backdated cutoff snapshot."
+  },
+  "verification": {
+    "allInventoryEquations": true,
+    "allCashComponentSums": true,
+    "allActualQuoteEqualsPrincipalPlusOrMinusFees": true,
+    "decodeErrors": [],
+    "positiveCreatorReceiptOverlapCount": 0,
+    "zeroDistributionOverlapCount": 9,
+    "failedFeesIncluded": false,
+    "ATAOnlyHistoryCoverage": false,
+    "financialExecutionCapLamports": "0"
+  }
+}

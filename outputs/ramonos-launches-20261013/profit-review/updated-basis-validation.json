@@ -1,0 +1,15 @@
+{
+  "status": "PASS updated raw-inventory basis classification and cash arithmetic",
+  "sourceLedgerSha256": "025b7c35aafb190c55265d580fc5a075e963673705db3cbca457479c75845315",
+  "generatedUtc": "2026-10-13T19:42:46.893486+00:00",
+  "positionCounts": {
+    "bounded_closed_original_wallet_position": 195,
+    "inventory_transferred_out_operator_result_unresolved": 48,
+    "remaining_inventory_in_last_observation": 11,
+    "no_original_wallet_acquisition_observed": 19,
+    "target_closed_other_quote_inventory_change": 6
+  },
+  "allCohortObservedCashLamports": "2361060625657",
+  "closedCashLamports": "1673555028001",
+  "limitation": "Closed status is bounded to captured original-wallet history. No arbitrary token-account-only lifetime history or third-party operator positions asserted."
+}

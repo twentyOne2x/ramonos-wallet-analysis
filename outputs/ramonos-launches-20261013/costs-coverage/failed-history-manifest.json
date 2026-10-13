@@ -1,0 +1,160 @@
+{
+  "wallet": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+  "cutoff": 1791908341,
+  "cutoffUtc": "2026-10-13T16:19:01Z",
+  "status": "failed",
+  "tokenAccounts": "none",
+  "commitment": "finalized",
+  "pages": [
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0000.json",
+      "count": 1000,
+      "cursorIn": null,
+      "cursorOut": "391319769:561",
+      "sha256": "c965893654000ac07c308d8c072b48c6c9224682befd2e2299986b1d49cfd60f"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0001.json",
+      "count": 1000,
+      "cursorIn": "391319769:561",
+      "cursorOut": "393439338:984",
+      "sha256": "e2e20f170a0d6417fe2308a9493ca19144c3ea85e76c847f5be9e5a1d195039d"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0002.json",
+      "count": 1000,
+      "cursorIn": "393439338:984",
+      "cursorOut": "395652342:727",
+      "sha256": "9e8d56a2e747dc22fd86f74e27641bf27d073ba22d53be98b7ef4102e5cc6556"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0003.json",
+      "count": 1000,
+      "cursorIn": "395652342:727",
+      "cursorOut": "396811915:690",
+      "sha256": "8851a34d4baf2d0d70c8c74c4fdfaed4102275bfcaf603015140127a26976a75"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0004.json",
+      "count": 1000,
+      "cursorIn": "396811915:690",
+      "cursorOut": "405945952:1289",
+      "sha256": "24cef106fe3ae706d770574209abb3bbb21d8d39ae0209b4d1c364f752a0fbd7"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0005.json",
+      "count": 1000,
+      "cursorIn": "405945952:1289",
+      "cursorOut": "431380548:75",
+      "sha256": "fc3fdf980d0e6f9c802930e22d7ec3a301749517c6a670ed138bb339588e39bd"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0006.json",
+      "count": 1000,
+      "cursorIn": "431380548:75",
+      "cursorOut": "439242334:1172",
+      "sha256": "6c8746313a6982758f7a28511cd92b71f82a2ec615f3c5bf1e141e6bb0567bc2"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0007.json",
+      "count": 1000,
+      "cursorIn": "439242334:1172",
+      "cursorOut": "441505371:892",
+      "sha256": "8b291773ef74ab67c21259ece614ddf434221d8d3eb98d5da4e0616af1f08b39"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0008.json",
+      "count": 1000,
+      "cursorIn": "441505371:892",
+      "cursorOut": "441505396:1139",
+      "sha256": "cab9f76584917e40dfb847f757f82e8eb307d27ed8d99773d9262d2b54b45157"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0009.json",
+      "count": 1000,
+      "cursorIn": "441505396:1139",
+      "cursorOut": "442186256:822",
+      "sha256": "234caf9c73a3b63c3b7bb5abbd10b78987ea4a2a791b48c13ea1978f91fcaa0e"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0010.json",
+      "count": 1000,
+      "cursorIn": "442186256:822",
+      "cursorOut": "442340229:157",
+      "sha256": "f9f2c61479a51963f35117e25dcb4a492345d82249682f4efc3ab2ea23ae2509"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0011.json",
+      "count": 1000,
+      "cursorIn": "442340229:157",
+      "cursorOut": "442872434:79",
+      "sha256": "e6023b631d9ba841584be6772684ab0697e77638e40ebc1a6a003829509c9e7e"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0012.json",
+      "count": 1000,
+      "cursorIn": "442872434:79",
+      "cursorOut": "442872444:1127",
+      "sha256": "800df535f609e6af3aeddc2d8a9eda951851c570e6c1087a29a8879aaff4610f"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0013.json",
+      "count": 1000,
+      "cursorIn": "442872444:1127",
+      "cursorOut": "442872456:95",
+      "sha256": "74f756b8f2c1489cff389d8c2f1cfd6962256eab02841f61e4d0bce34aa82a4c"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0014.json",
+      "count": 1000,
+      "cursorIn": "442872456:95",
+      "cursorOut": "442872474:1072",
+      "sha256": "b9132ab0a72b374171a3e1042b68321d1c69643f29f496db17d3d0a05e2a9324"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0015.json",
+      "count": 1000,
+      "cursorIn": "442872474:1072",
+      "cursorOut": "443092389:1265",
+      "sha256": "6430ca435839d467f7814319708eaeac2b7d462959091043300886131c430a7e"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0016.json",
+      "count": 1000,
+      "cursorIn": "443092389:1265",
+      "cursorOut": "445358955:1220",
+      "sha256": "865e5f57d249ece6d3c2f0a92911f4e2874013220d0f3adf7ad3fbe75f35f98e"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0017.json",
+      "count": 1000,
+      "cursorIn": "445358955:1220",
+      "cursorOut": "447079958:95",
+      "sha256": "aaea40c9e0eff21312674b7cd02573db27c4683ff9c6e7ebabe3c48924c7bac0"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0018.json",
+      "count": 1000,
+      "cursorIn": "447079958:95",
+      "cursorOut": "452100333:1060",
+      "sha256": "8ab9515e72b5d5051fd5580da26f34258ef5ab946e47281217d561e1d47b2d98"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0019.json",
+      "count": 292,
+      "cursorIn": "452100333:1060",
+      "cursorOut": "455926449:223",
+      "sha256": "3acaf55e843ede9201a2f21f8398c92c733204eed4eb3376152ef7717975cb0e"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0020.json",
+      "count": 0,
+      "cursorIn": "455926449:223",
+      "cursorOut": null,
+      "sha256": "abd38ce8ef91eff014c0fb955cf12917d8288778b4dc011defbe813970aa2925"
+    }
+  ],
+  "terminal": true,
+  "transactionCount": 19292,
+  "coverage": "terminal provider-indexed direct-wallet references"
+}

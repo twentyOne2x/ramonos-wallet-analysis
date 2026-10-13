@@ -1,0 +1,54 @@
+[
+  {
+    "path": "outputs/ramonos-launches-20261013/profit-review/amm-quote-transfer-validation.json",
+    "sha256": "1d49bc6116f1df9f8a419efa4eee3227d413e7cb4fcc4eb1002cce898d2db2fd"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/profit-review/census-validation.json",
+    "sha256": "bfdfc2896c290447cc8019ddba3fd1bd3144744212c84a9542c500b4d2b59aab"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/profit-review/claim-cost-overlap-validation.json",
+    "sha256": "211acd86d578414d04a0fa9b9f055ca4d8436ab76963cb7ba5eeae40140d1b24"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/profit-review/external-inflow-check.json",
+    "sha256": "0e04d6f7e3f3ca4d6f77f3b894940930c85009b439a435f747a075eb922fdc61"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/profit-review/failed-cost-validation.json",
+    "sha256": "2595feaa9ab53d41f332e0688711e4c9eeabd32bc9bbcc9713560ee3c281cc0b"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/profit-review/final-account-cash-validation.json",
+    "sha256": "d303920bb9fa71878c563fb83c353fc547447b372fcd32d23b2e392f8bf526e8"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/profit-review/final-current-inventory-validation.json",
+    "sha256": "a93f1376d27742568f8c3765abf607a7cbcbe4de77d6a78a29d47c01b26b89a0"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/profit-review/final-launchlab-validation.json",
+    "sha256": "3d4f9c80e51ed2426bea254e0c16044ca13357531ecab5c9113e46cfb2fd3a68"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/profit-review/trading-arithmetic-validation.json",
+    "sha256": "6321865649d1ed5e8e7f388fc2b85c40a40e6ea95fa04d7116d744e980baa74e"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/profit-review/updated-basis-validation.json",
+    "sha256": "bc6ccbe2c7a504d26b0c582d68e028d5ed9a585fce771c3901c19fe97e6cd0a7"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/profit-review/usd-validation.json",
+    "sha256": "01db8f1dbfefcfe8bbbb33af1b84637793a67688c209bd7621562325abf5b6b3"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/profit-review/zero-claim-overlap-validation.json",
+    "sha256": "93d6b3a034a9499bda2722a61c37255479f9674ae174592d3d9bbb32fe3d6584"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/profit-review/REPORT.md",
+    "sha256": "cacea72b5467953872a6a1ea44df633bf640d74de839f691c4dab15634a5516c"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "status": "PASS final full-ABI LaunchLab actual-transfer accounting and final inventory/cash arithmetic",
+  "sourceLedgerSha256": "e260be692ada40d0bed2538a984ed8d04d769a2d6b1dc0a88b8d086a552ab909",
+  "launchlabEventsChecked": 25,
+  "launchlabMintsChecked": 2,
+  "officialAbiRevision": "e7e0c96fe77bcf6a020b84a44c47a722aac8e359",
+  "retainedAbiFactsSha256": "87f44e50eaa9d59eca5f5ed32da34f65c7db0b0f5f5beeea1ecec13c6dfdde09",
+  "positionCounts": {
+    "bounded_closed_original_wallet_position": 196,
+    "inventory_transferred_out_operator_result_unresolved": 46,
+    "target_closed_other_quote_inventory_change": 7,
+    "remaining_inventory_in_last_observation": 11,
+    "no_original_wallet_acquisition_observed": 19
+  },
+  "definition": "Exact original-wallet native+WSOL account cash and bounded inventory; not all operator profit."
+}

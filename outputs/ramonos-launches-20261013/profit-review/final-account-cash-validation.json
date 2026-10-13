@@ -1,0 +1,26 @@
+{
+  "status": "PASS final frozen bounded account cash and exact signed-minute USD replay",
+  "sourceLedgerSha256": "e260be692ada40d0bed2538a984ed8d04d769a2d6b1dc0a88b8d086a552ab909",
+  "closedPositions": 196,
+  "closedAfterFailedSol": "1674.323228104",
+  "closedHistoricalUsd": "195964.71124374579",
+  "standaloneClaimCashSol": "1629.080316235",
+  "standaloneClaimHistoricalUsd": "196532.96966523110",
+  "combinedAccountCashSol": "3303.403544339",
+  "combinedHistoricalUsd": "392497.68090897689",
+  "combinedAtFrozenSpotUsd": "355446.2213708764",
+  "frozenSpotUsd": "107.6",
+  "frozenSpotUTC": "2026-10-13T19:35:41.545450310Z",
+  "usdComponentCounts": {
+    "trading-cashflows-valued-usd.csv": 5262,
+    "standalone-claim-account-cash-valued-usd.csv": 559
+  },
+  "rawPriceFilesHashVerified": 338,
+  "definition": "Original-wallet bounded account cash surplus; not strict all-launch/operator net profit. Actual fees/tips/rent/outflows included once; unidentified transfers are account cash movements, not inferred economic expenses.",
+  "rawClaimTransactionsChecked": 568,
+  "standaloneClaimsExcludeTradeOverlap": 559,
+  "tradeClaimOverlapCount": 9,
+  "exactUsdComponentSourceBinding": true,
+  "closedBeforeFailedSol": "1676.617576116",
+  "closedAllocatedFailedCostSol": "2.294348012"
+}

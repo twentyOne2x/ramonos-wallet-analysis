@@ -1,0 +1,13 @@
+{
+  "successfulCashSignatureAggregationsMatchFinalCsv": true,
+  "successfulCashSignatureCount": 2460,
+  "sourceCashflowsSha256": "c38526ad04f578b0c2039ada90b8bb526e6b6996244b6b6421696357773796be",
+  "closedNativeSolPositions": 196,
+  "closedCashBeforeFailedSol": "1676.617576116",
+  "closedFailedCostsSol": "2.294348012",
+  "closedCashAfterFailedMatches": true,
+  "standaloneClaimCashMatches": true,
+  "combinedCashSolMatches": true,
+  "frozenPriceResponseHashesVerified": 444,
+  "allThreeRunnersOfflineReplay": "passed"
+}

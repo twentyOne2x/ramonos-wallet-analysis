@@ -1,0 +1,8 @@
+{
+  "url": "https://raw.githubusercontent.com/raydium-io/raydium-idl/e7e0c96fe77bcf6a020b84a44c47a722aac8e359/raydium_launchpad/raydium_launchpad.json",
+  "revision": "e7e0c96fe77bcf6a020b84a44c47a722aac8e359",
+  "capturedUtc": "2026-10-09T08:10:54.232018+00:00",
+  "originalSourceSha256": "963189409945069409f32e345d4adf2892e0b3ca1be504372577fe34a23c6cdb",
+  "retainedAbiFactsSha256": "87f44e50eaa9d59eca5f5ed32da34f65c7db0b0f5f5beeea1ecec13c6dfdde09",
+  "retention": "Program address, instructions, events, and types only; all documentation fields omitted."
+}

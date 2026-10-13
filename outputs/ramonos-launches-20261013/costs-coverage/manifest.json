@@ -1,0 +1,272 @@
+[
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/REPORT.md",
+    "sha256": "9fb7ce4c095fef8234616b099786b0103238fab8f127bee646e9aba883516580",
+    "bytes": 6844
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/claim-cash-ledger.json",
+    "sha256": "de9ee2594c2f256253b3658aa5aee87ab2661916e7936ce66b6e0b81332a95a2",
+    "bytes": 683491
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/claim-cash-summary.json",
+    "sha256": "170e3333094845230e9932cc405b2acd946f60e2c2b5556e9fb12d3a46f93b86",
+    "bytes": 111732
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/claim-native-wsol-cash.csv",
+    "sha256": "8505f051842699980c3eb59dd12be540f4df12c105e4b786176941908988778e",
+    "bytes": 93604
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/claim-transfer-classification.json",
+    "sha256": "72d998511b7f7cdeb493ddc2cedbc0b62d7d24ce9dafcfaeef13c0ea1f162ecc",
+    "bytes": 310031
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/failed-cohort-fees.csv",
+    "sha256": "fb17e6c2400e6e42f1fd72792962642ea5302374fa29c18c472683411e89a613",
+    "bytes": 974721
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/failed-fee-ledger.json",
+    "sha256": "cceeb436cc7bdca092710db91cec39218a8231931811dfc3aba33a3bf3d731e4",
+    "bytes": 21020864
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/failed-history-manifest.json",
+    "sha256": "b22f2bc7545f19c0c836e8fa6859da458eb134106dab85769039cda6b48c5268",
+    "bytes": 6199
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/per-mint-failed-fees.json",
+    "sha256": "08db4da83ad3a788777a6e1620e587f854a12971108c32b999a883ebc23da4b0",
+    "bytes": 284024
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0000.json",
+    "sha256": "c965893654000ac07c308d8c072b48c6c9224682befd2e2299986b1d49cfd60f",
+    "bytes": 11134081
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0000.request.json",
+    "sha256": "115437aadd724d8ee2a428ab2d6453801bbb8215711c48e211ed9058f74501a9",
+    "bytes": 776
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0001.json",
+    "sha256": "e2e20f170a0d6417fe2308a9493ca19144c3ea85e76c847f5be9e5a1d195039d",
+    "bytes": 8945181
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0001.request.json",
+    "sha256": "7f1ddae759695cdb4e0b48d6c7d3ee91b630fcc6f4c0d373046dfc5669447785",
+    "bytes": 818
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0002.json",
+    "sha256": "9e8d56a2e747dc22fd86f74e27641bf27d073ba22d53be98b7ef4102e5cc6556",
+    "bytes": 10318911
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0002.request.json",
+    "sha256": "2ea352f211656e7e2d5aff096cda14e407f008caf30a46d0657618264b34fe1b",
+    "bytes": 818
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0003.json",
+    "sha256": "8851a34d4baf2d0d70c8c74c4fdfaed4102275bfcaf603015140127a26976a75",
+    "bytes": 8810952
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0003.request.json",
+    "sha256": "b09d7ca501f67a8fbefbd80cb14e071ea01d84628fca39369fdd5445d0f729c1",
+    "bytes": 818
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0004.json",
+    "sha256": "24cef106fe3ae706d770574209abb3bbb21d8d39ae0209b4d1c364f752a0fbd7",
+    "bytes": 8959734
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0004.request.json",
+    "sha256": "9bd6098411bac2e90d3af492b2187150313ba5d7aab4e789422339b1909bc504",
+    "bytes": 818
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0005.json",
+    "sha256": "fc3fdf980d0e6f9c802930e22d7ec3a301749517c6a670ed138bb339588e39bd",
+    "bytes": 8444791
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0005.request.json",
+    "sha256": "18bf3c2c57114ede7711f75220b251cdf4c799a0377a3d3042d2b7431b1757be",
+    "bytes": 819
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0006.json",
+    "sha256": "6c8746313a6982758f7a28511cd92b71f82a2ec615f3c5bf1e141e6bb0567bc2",
+    "bytes": 8414853
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0006.request.json",
+    "sha256": "949b660ceebb00d0dde6bf3b20ca81d0ce4d3ac03db48ddd88faf5cc5daf1df3",
+    "bytes": 817
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0007.json",
+    "sha256": "8b291773ef74ab67c21259ece614ddf434221d8d3eb98d5da4e0616af1f08b39",
+    "bytes": 9534869
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0007.request.json",
+    "sha256": "9874a083cfcddf60addfb5fb3b37bf31e13f6d01420d97183181405f122026e0",
+    "bytes": 819
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0008.json",
+    "sha256": "cab9f76584917e40dfb847f757f82e8eb307d27ed8d99773d9262d2b54b45157",
+    "bytes": 8184077
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0008.request.json",
+    "sha256": "ea1bf439f2b0d5abe44839499c8efcfbf639e4c9b1f8fe7dd6c691c8fa457a85",
+    "bytes": 818
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0009.json",
+    "sha256": "234caf9c73a3b63c3b7bb5abbd10b78987ea4a2a791b48c13ea1978f91fcaa0e",
+    "bytes": 8863822
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0009.request.json",
+    "sha256": "3c40320688a7499cfc5b09be3527ff3b94250a6e2c75a146163b0d75c5f907f8",
+    "bytes": 819
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0010.json",
+    "sha256": "f9f2c61479a51963f35117e25dcb4a492345d82249682f4efc3ab2ea23ae2509",
+    "bytes": 10995327
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0010.request.json",
+    "sha256": "4f18c9559872afa6d0b00644f42dd86e3f4f46805d17a1e14f85bf271b3563ad",
+    "bytes": 818
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0011.json",
+    "sha256": "e6023b631d9ba841584be6772684ab0697e77638e40ebc1a6a003829509c9e7e",
+    "bytes": 9911325
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0011.request.json",
+    "sha256": "789bb66e9ece20475d2dc907ecc34adc1bb0eab981784b0948436079359c7d49",
+    "bytes": 818
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0012.json",
+    "sha256": "800df535f609e6af3aeddc2d8a9eda951851c570e6c1087a29a8879aaff4610f",
+    "bytes": 8389060
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0012.request.json",
+    "sha256": "c46e86bdc866b408b0d57f644d071b0038d85c99f1265e31cd9a7d282f043d87",
+    "bytes": 817
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0013.json",
+    "sha256": "74f756b8f2c1489cff389d8c2f1cfd6962256eab02841f61e4d0bce34aa82a4c",
+    "bytes": 8262960
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0013.request.json",
+    "sha256": "4a2d1eaa88f87525429b9534037f6486db031ba6ba1dade40e5c998b0367809f",
+    "bytes": 819
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0014.json",
+    "sha256": "b9132ab0a72b374171a3e1042b68321d1c69643f29f496db17d3d0a05e2a9324",
+    "bytes": 8344201
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0014.request.json",
+    "sha256": "1679c90d110ea9e5f2358f58139c04726da2be2774ba62afffba95d5156a4305",
+    "bytes": 817
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0015.json",
+    "sha256": "6430ca435839d467f7814319708eaeac2b7d462959091043300886131c430a7e",
+    "bytes": 9564964
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0015.request.json",
+    "sha256": "38793b5d0b924b4c7f5f4f5ad4e96ef2347c540b6136f134d9e00d041692bb63",
+    "bytes": 819
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0016.json",
+    "sha256": "865e5f57d249ece6d3c2f0a92911f4e2874013220d0f3adf7ad3fbe75f35f98e",
+    "bytes": 10956650
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0016.request.json",
+    "sha256": "555a959ffc3304498942db2329a6a1c2b059c45fbdb3a6795f0443dfcd4bb011",
+    "bytes": 819
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0017.json",
+    "sha256": "aaea40c9e0eff21312674b7cd02573db27c4683ff9c6e7ebabe3c48924c7bac0",
+    "bytes": 14005395
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0017.request.json",
+    "sha256": "194d50225ff8bf1a24a7d6d2aa53b1466d12f31497c1a1bd3791cc2fea6c28ca",
+    "bytes": 819
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0018.json",
+    "sha256": "8ab9515e72b5d5051fd5580da26f34258ef5ab946e47281217d561e1d47b2d98",
+    "bytes": 13972334
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0018.request.json",
+    "sha256": "7b6044c245b182100afe9524fe1820dbd71b201888577affbdfa34c94fc5524b",
+    "bytes": 817
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0019.json",
+    "sha256": "3acaf55e843ede9201a2f21f8398c92c733204eed4eb3376152ef7717975cb0e",
+    "bytes": 3737906
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0019.request.json",
+    "sha256": "4d55e8bc584ae04f84aecf3078b5fc63959919b719aa36656169f4a8e11df3bc",
+    "bytes": 819
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0020.json",
+    "sha256": "abd38ce8ef91eff014c0fb955cf12917d8288778b4dc011defbe813970aa2925",
+    "bytes": 68
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0020.request.json",
+    "sha256": "13047a819fd0cab09f3a4f56e76d9b87c60a58f444ff464aefa3bec705324e57",
+    "bytes": 818
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/source-manifest.json",
+    "sha256": "6711c60c4d47e6abc52ae344052a462732f8abd85813e4903eb421ff57981999",
+    "bytes": 9725
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/successful-cost-witnesses.json",
+    "sha256": "ff0828422cb1b0fb12686545d5126fd5ffd344e9f1f103fecbda416a9742ca51",
+    "bytes": 1492915
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/summary.json",
+    "sha256": "aeaa4f21b269eceb25f30ea9b1dd8249acbb624d4a0b2945054e6590793540f3",
+    "bytes": 11143
+  }
+]

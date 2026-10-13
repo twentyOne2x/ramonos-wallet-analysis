@@ -1,0 +1,5 @@
+{
+  "tradeTransactionsChecked": 2249,
+  "externalOuterNativeWalletInflows": [],
+  "definition": "Top-level system transfer destination original wallet in transactions admitted to cash-bearing trades; inner sale proceeds excluded. Token-only and internal-owner changes remain separate coverage boundary."
+}

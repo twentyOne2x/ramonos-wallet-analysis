@@ -71,3 +71,13 @@ flushed to old recipients before a sharing configuration update. Distinguish
 current route counts, historical receipts, verified fee-origin income and current
 allocation of pending funds. Apply basis-point rounding in integer units, state
 unallocated dust, and avoid summing repeated pooled-vault rows across tokens.
+
+## Trading profit and historical USD
+
+A quote-asset margin uses actual buy debits and sale credits including venue fees. For AMM exact-quote buys, reserve principal and total quote debit can be different fields; bind the quote amount to the actual transfer under the same parent instruction. A fee-only ABI may omit trade instructions/events, so close every decoder dependency before labeling missing trades as transfers.
+
+Track raw inventory, transfers, burns and unsold balances per mint. Fully matched positions, transferred positions, remaining inventory and non-SOL quote positions are separate cohorts. Native SOL plus wallet-owned WSOL balance deltas are original-wallet cash, not automatically operator profit. Do not multiply foreign quote raw units by a SOL price.
+
+Capture terminal failed-transaction history separately and charge only the actual fee payer. Whole transaction cash already includes successful network fees, tips, deposits, refunds and transfers. Deduplicate trade/claim signatures and allocate exact shared account-refund components; a zero payout can still share a network fee. External destinations with unknown ownership/purpose do not automatically establish business expense or another wallet controlled by the launcher.
+
+Historical dollar values require an independently sourced price for each cashflow timestamp, exact source hashes and explicit candle granularity. A containing-minute close is a proxy, not the actual execution or USD liquidation price. Current-price multiplication values the historical SOL quantity; it does not prove that quantity remains held. Keep gross receipt USD separate from signed net cashflow USD.

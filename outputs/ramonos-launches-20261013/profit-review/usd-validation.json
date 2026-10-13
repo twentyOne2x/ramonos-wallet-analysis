@@ -1,0 +1,20 @@
+{
+  "status": "PASS for receipt-market valuation only",
+  "receiptEvents": 845,
+  "transactionCount": 565,
+  "allAssetTransactionCount": 568,
+  "nonSolEventsExcluded": 6,
+  "rawCandleFilesVerified": 186,
+  "uniqueReceiptMinutes": 544,
+  "historicalUsd": "199731.88965008411",
+  "sameSolCurrentSpotUsd": "178646.8629618000",
+  "quoteUsd": "107.6",
+  "quoteUTC": "2026-10-13T19:35:41.545450310Z",
+  "sourceReceiptsSha256": "9a08e69f0b6715a280363173deaf33ede9b34aa256951ff96ba513edaa0fcc2e",
+  "limitations": [
+    "Pooled creator receipts are not strictly attributable to the 279 launches.",
+    "USD values use containing-minute close (up to 60 seconds after receipt), not executed conversions or USD realized proceeds.",
+    "Current-spot comparison values same historical SOL quantity, not proven holdings today.",
+    "Gross receipt values do not deduct trading, fees or costs."
+  ]
+}

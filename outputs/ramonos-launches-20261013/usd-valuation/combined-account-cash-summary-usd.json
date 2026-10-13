@@ -1,0 +1,41 @@
+{
+  "sourceClaims": "outputs/ramonos-launches-20261013/costs-coverage/claim-native-wsol-cash.csv",
+  "sourceClaimsSha256": "8505f051842699980c3eb59dd12be540f4df12c105e4b786176941908988778e",
+  "sourceTradingSummarySha256": "7c913dfabbb89e2d58c2fee2a89223508063f0391202e14961700521fdade721",
+  "includedStandaloneTransactions": 559,
+  "excludedTradeOverlapTransactions": 9,
+  "standaloneClaimCashSol": "1629.080316235",
+  "standaloneClaimCashHistoricalUsd": "196532.96966523110",
+  "standaloneClaimCashUsdLowSensitivity": "196452.04938531409",
+  "standaloneClaimCashUsdHighSensitivity": "196662.40088180148",
+  "metrics": [
+    {
+      "metric": "Gross verified SOL/WSOL creator-fee receipts",
+      "historicalUsd": "199731.88965008411",
+      "solQuantity": "1660.286830500",
+      "sameQuantityAtFrozenSpotUsd": "178646.8629618000"
+    },
+    {
+      "metric": "Closed 196 positions original-wallet cash after allocated failed fees",
+      "historicalUsd": "195964.71124374579",
+      "solQuantity": "1674.323228104",
+      "sameQuantityAtFrozenSpotUsd": "180157.1793439904"
+    },
+    {
+      "metric": "Standalone claim-transaction original-wallet native+WSOL cash",
+      "historicalUsd": "196532.96966523110",
+      "solQuantity": "1629.080316235",
+      "sameQuantityAtFrozenSpotUsd": "175289.0420268860"
+    },
+    {
+      "metric": "Combined closed positions + standalone claim account cash surplus",
+      "historicalUsd": "392497.68090897689",
+      "solQuantity": "3303.403544339",
+      "sameQuantityAtFrozenSpotUsd": "355446.2213708764"
+    }
+  ],
+  "frozenCurrentSolUsd": "107.6",
+  "frozenCurrentSpotTradeUTC": "2026-10-13T19:35:41.545450310Z",
+  "definition": "Original-wallet account cash surplus, not complete operator net profit. Gross fee receipts remain a separate metric. Every signed cash component and failed fee is priced at its own minute. Claim cash includes actual fees/tips/rent/outflows in wallet balances; unidentified outflows are not assumed to be economic expenses.",
+  "sourceDocs": "https://docs.cdp.coinbase.com/api-reference/exchange-api/rest-api/products/get-product-candles"
+}

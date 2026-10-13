@@ -1,0 +1,5 @@
+metric,historicalUsd,solQuantity,sameQuantityAtFrozenSpotUsd
+Gross verified SOL/WSOL creator-fee receipts,199731.88965008411,1660.286830500,178646.8629618000
+Closed 196 positions original-wallet cash after allocated failed fees,195964.71124374579,1674.323228104,180157.1793439904
+Standalone claim-transaction original-wallet native+WSOL cash,196532.96966523110,1629.080316235,175289.0420268860
+Combined closed positions + standalone claim account cash surplus,392497.68090897689,3303.403544339,355446.2213708764

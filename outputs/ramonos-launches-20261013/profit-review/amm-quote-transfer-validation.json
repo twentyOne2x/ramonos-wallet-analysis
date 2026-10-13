@@ -1,0 +1,8 @@
+{
+  "status": "PASS parsed AMM actual quote transfers and principal-plus/minus-fee equations",
+  "sourceLedgerSha256": "025b7c35aafb190c55265d580fc5a075e963673705db3cbca457479c75845315",
+  "pumpSwapEventsParsedTransferChecked": 540,
+  "quoteTransferLegsChecked": 1378,
+  "sourceGeneratedUtc": "2026-10-13T19:42:46.893486+00:00",
+  "limitation": "Pump and LaunchLab values are decoded protocol event amounts; cash totals independently use wallet balances, not gross event volume."
+}

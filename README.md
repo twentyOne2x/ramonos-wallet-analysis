@@ -42,6 +42,25 @@ All 568 audited fee transactions reconcile against the wallet's native cash move
 
 ![Monthly gross creator-fee payouts to the disclosed wallet, in SOL equivalent](docs/monthly-creator-fees.svg)
 
+## Trading gains and dollar value
+
+**196 closed SOL-quote positions produced +1,674.3232 SOL in original-wallet net cash after attributable failed-transaction fees.** Their actual quote buy cost was 1,588.4392 SOL and net sale receipts were 3,314.8940 SOL. The 1,726.4548 SOL quote margin differs from net wallet cash because associated transactions also move fees, tips, reserves and other transfers.
+
+| Measure | SOL equivalent | Historical dollar value | Same SOL at $107.60 |
+|---|---:|---:|---:|
+| Gross creator-fee receipts | 1,660.2868 | $199,731.89 | $178,646.86 |
+| Closed-position net account cash | 1,674.3232 | $195,964.71 | $180,157.18 |
+| Separate claim-transaction net account cash | 1,629.0803 | $196,532.97 | $175,289.04 |
+| **Closed positions + separate claim net cash** | **3,303.4035** | **$392,497.68** | **$355,446.22** |
+
+The last row adds the two **net cash** rows, not the gross receipt row. Standalone claim cash includes actual transaction costs, tips, account funding/refunds and outgoing transfers. In claim transactions, 30.9016 SOL went to destinations with unproved beneficial ownership or purpose; this is an actual wallet outflow, not proof of a business expense or another Ramonos wallet.
+
+Historical values use the containing 60-second UTC Coinbase SOL/USD close for every receipt or signed cashflow. Current-value columns use the captured Coinbase last trade of **$107.60 at 2026-10-13 19:35:41 UTC**. Neither column proves that he converted the proceeds into dollars or still holds the historical SOL quantity.
+
+**This is bounded original-wallet account cash, not complete operator net profit.** Other positions include 46 transferred-out inventories, 11 remaining inventories, 19 launches without an observed acquisition and seven closed positions in other quote assets. Across all 272 SOL-quote launches, associated cash after witnessed failed fees is +2,278.6979 SOL; with standalone claim cash it is +3,907.7782 SOL. That broader cash total includes unresolved positions and is not full realized profit. Creator claims also pool mints outside the signed-launch census.
+
+[Detailed profit methodology](docs/profit-accounting.md) · [Per-token trades](outputs/ramonos-launches-20261013/trading/positions.csv) · [Timestamped dollar comparison](outputs/ramonos-launches-20261013/usd-valuation/comparison-metrics-usd.csv) · [Complete profit evidence release](https://github.com/twentyOne2x/ramonos-wallet-analysis/releases/tag/profit-audit-2026-10-13)
+
 ## GitHub targeting, holder rewards and unclaimed fees
 
 | Launch | Current fee recipient | Allocation | Claimed by the intended developer | Verified status |

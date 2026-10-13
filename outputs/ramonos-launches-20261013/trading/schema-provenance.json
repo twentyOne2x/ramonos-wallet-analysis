@@ -1,0 +1,20 @@
+{
+  "codeInputs": {
+    "tools/decoder.py": "fdfd4e5251ea389b7866ba8e310258a12428d9a81a153f6a86d6b8cb1924fe4b",
+    "tools/fee_core.py": "77826f7e52277543bd3378be6258c37adb9657ae990da5533173e804f7399a11",
+    "schemas/pump.json": "fb5cce35e21a1b6a74d192eea11fe805602fa357acc7051dd1492fc09714d467",
+    "schemas/pump_amm.json": "b7d8c57a4d9c4dd0109a9ab893052352333252d4eedced10ac091d4d66cab89b",
+    "schemas/pump_fees.json": "f111d2e5c9aa3d4e64d6a4e6b6f34300ccb1eaf6abc46834fe491836dc90aa74",
+    "inputs/launchlab-idl.json": "87f44e50eaa9d59eca5f5ed32da34f65c7db0b0f5f5beeea1ecec13c6dfdde09"
+  },
+  "source": "Existing published official pinned SDK/IDL schemas; schemas/README.md and schema source records hold source revisions.",
+  "executionCapLamports": "0",
+  "launchlabSource": {
+    "url": "https://raw.githubusercontent.com/raydium-io/raydium-idl/e7e0c96fe77bcf6a020b84a44c47a722aac8e359/raydium_launchpad/raydium_launchpad.json",
+    "revision": "e7e0c96fe77bcf6a020b84a44c47a722aac8e359",
+    "capturedUtc": "2026-10-09T08:10:54.232018+00:00",
+    "originalSourceSha256": "963189409945069409f32e345d4adf2892e0b3ca1be504372577fe34a23c6cdb",
+    "retainedAbiFactsSha256": "87f44e50eaa9d59eca5f5ed32da34f65c7db0b0f5f5beeea1ecec13c6dfdde09",
+    "retention": "Program address, instructions, events, and types only; all documentation fields omitted."
+  }
+}

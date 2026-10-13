@@ -1,0 +1,230 @@
+[
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0000.json",
+    "sha256": "143bb458e56dd38013094fcb4d578d161cf7cffb04dc284cf03b1a29c1bbd8b2"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0001.json",
+    "sha256": "6cda2a9212c7ad0bec3d7838891494de18f2eaff0d348dad6bbc996c9743f05a"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0002.json",
+    "sha256": "9e5f60b37fcb419270ccf29f3ca247742c9a59856f69a6d1c018957f8dc110a8"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0003.json",
+    "sha256": "50de6b3c6a435b2941ef275ba8548f234e30ac56bdb04c99d014027ca7304e4d"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0004.json",
+    "sha256": "5a4729e1f9c0ad264e695c3c291ed969bfc34b0d0d4c24f1b1aa852a316b3fd1"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0005.json",
+    "sha256": "e2a8a6fcdeee27d9a7a558cdb17550de83ee39920fcaceda545d61e4d567bb44"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0006.json",
+    "sha256": "504c2b7b8c93bea23b487ee5fea09a4d6bef9b2ac25cceb6324673feeba04ed6"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0007.json",
+    "sha256": "ab54d1408be820bb95ce177a5ae74939ce364adae19eb2c7d17dbc2f22969d1c"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0008.json",
+    "sha256": "a6013c3c9199d82c5b6c924850b8f52ae8d28445266d81d171ec7462ce0edb8e"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0009.json",
+    "sha256": "4c61df9e0b180a138c51eeb4b4ef4616547761004bf0e4a2d38e3f5f0cc4b4c2"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0010.json",
+    "sha256": "ed90a3c733ecfbcacee23ca72226d79cee3f0d715463e2ff07534e76450f00f8"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0011.json",
+    "sha256": "960b1024095cc09122d14020987d1b4117d002f7692b24da4d8b2bc4874e0e22"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0012.json",
+    "sha256": "4fceebfe5d862d4dfd19d4dd16abcef22992a5c0b9b3df9f9c8ecece75945a5a"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0013.json",
+    "sha256": "3abb4faa0ab6b48f8635e8f2c7b6d6ff522ebf2637dad1e298989735a1b22524"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0014.json",
+    "sha256": "af4d0098fd31c63d225f3217916f30574f575ddf9bdf0c66304aace4d42d6252"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0015.json",
+    "sha256": "a6e40946212e757d3a70bc710161dd382a527c3575b5898b60400ed3123bd5b3"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0016.json",
+    "sha256": "7a1c416ff959d671ea2b0bef73c184c9f0b3e7a1137fdc70b3f12a8a0cc79e55"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0017.json",
+    "sha256": "45ba671532d15c129632629b875bfad69dbe68a800593a9f51257c4fbf9c158a"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0018.json",
+    "sha256": "c84321a924709bd049374d4767e8f14757ff6c5578293ebf7465af82a5280357"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0019.json",
+    "sha256": "e2097aeec21d1111b183feece36ed7fd2b4393a4c6518dc33770326754f35866"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0020.json",
+    "sha256": "f39a204219bfa6f2a0394d8c703cfaeb87c198f555c86056263a891c7dca6ba2"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0021.json",
+    "sha256": "54587a6b1df1f5079a0a05fa8057b1762f7a66bafe79a65ac6334d8f8e820d32"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0022.json",
+    "sha256": "7cadc3560619c96c12dd622125fea7c0334aaef0f8d3a150d027d71574fe7dbd"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0023.json",
+    "sha256": "50cdbc8ed388aa2367385db9fb0e48c8d5c4355488d9b16db18abd0c9f1887ab"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0024.json",
+    "sha256": "fc53834ae1a2d7bca0818b0fb8a83b3750212f82b66ccba90c82a00bb4f61ca6"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0025.json",
+    "sha256": "97a59fc8af9fde121514ca69a0ee3399f92154c054549c0560e4981949c55555"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0026.json",
+    "sha256": "05ec5d873b507ba31d9f2a1af5c7b24d9ec6f24598a6a0f1ab04dc790879c375"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0027.json",
+    "sha256": "7d3e850e3cd1637db9571846021e7d291873afc61c0ba171278f05f5e74d6683"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0028.json",
+    "sha256": "3758eef7083b34d52a47b4a35045469e1e55c9395242110d73a88288e46bbb49"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0029.json",
+    "sha256": "a1c0be2419e36be59aa78e80f83f64628e1d4cdafc5fe2335a3d73ee00168325"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0030.json",
+    "sha256": "b5d174db25d38e7b2d42d284d9d8231992bb52df70e966b2b78edff491754e77"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0031.json",
+    "sha256": "e0069ddcb2e398489d4f335cee87c89496515ad543eb90048f52dd5e72bbf2ad"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0032.json",
+    "sha256": "a3c3800d19f3e284a90df3621587ca66b6e5607819ee25c0610bb0e7793317af"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0033.json",
+    "sha256": "abd38ce8ef91eff014c0fb955cf12917d8288778b4dc011defbe813970aa2925"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0000.json",
+    "sha256": "c965893654000ac07c308d8c072b48c6c9224682befd2e2299986b1d49cfd60f"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0001.json",
+    "sha256": "e2e20f170a0d6417fe2308a9493ca19144c3ea85e76c847f5be9e5a1d195039d"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0002.json",
+    "sha256": "9e8d56a2e747dc22fd86f74e27641bf27d073ba22d53be98b7ef4102e5cc6556"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0003.json",
+    "sha256": "8851a34d4baf2d0d70c8c74c4fdfaed4102275bfcaf603015140127a26976a75"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0004.json",
+    "sha256": "24cef106fe3ae706d770574209abb3bbb21d8d39ae0209b4d1c364f752a0fbd7"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0005.json",
+    "sha256": "fc3fdf980d0e6f9c802930e22d7ec3a301749517c6a670ed138bb339588e39bd"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0006.json",
+    "sha256": "6c8746313a6982758f7a28511cd92b71f82a2ec615f3c5bf1e141e6bb0567bc2"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0007.json",
+    "sha256": "8b291773ef74ab67c21259ece614ddf434221d8d3eb98d5da4e0616af1f08b39"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0008.json",
+    "sha256": "cab9f76584917e40dfb847f757f82e8eb307d27ed8d99773d9262d2b54b45157"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0009.json",
+    "sha256": "234caf9c73a3b63c3b7bb5abbd10b78987ea4a2a791b48c13ea1978f91fcaa0e"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0010.json",
+    "sha256": "f9f2c61479a51963f35117e25dcb4a492345d82249682f4efc3ab2ea23ae2509"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0011.json",
+    "sha256": "e6023b631d9ba841584be6772684ab0697e77638e40ebc1a6a003829509c9e7e"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0012.json",
+    "sha256": "800df535f609e6af3aeddc2d8a9eda951851c570e6c1087a29a8879aaff4610f"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0013.json",
+    "sha256": "74f756b8f2c1489cff389d8c2f1cfd6962256eab02841f61e4d0bce34aa82a4c"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0014.json",
+    "sha256": "b9132ab0a72b374171a3e1042b68321d1c69643f29f496db17d3d0a05e2a9324"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0015.json",
+    "sha256": "6430ca435839d467f7814319708eaeac2b7d462959091043300886131c430a7e"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0016.json",
+    "sha256": "865e5f57d249ece6d3c2f0a92911f4e2874013220d0f3adf7ad3fbe75f35f98e"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0017.json",
+    "sha256": "aaea40c9e0eff21312674b7cd02573db27c4683ff9c6e7ebabe3c48924c7bac0"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0018.json",
+    "sha256": "8ab9515e72b5d5051fd5580da26f34258ef5ab946e47281217d561e1d47b2d98"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0019.json",
+    "sha256": "3acaf55e843ede9201a2f21f8398c92c733204eed4eb3376152ef7717975cb0e"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/costs-coverage/raw/failed-page-0020.json",
+    "sha256": "abd38ce8ef91eff014c0fb955cf12917d8288778b4dc011defbe813970aa2925"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/own-fees/transactions.json",
+    "sha256": "e0aa3ff07cb98456983ea2d2bd0fe96decb656f9a327dd53fbc8481d7556d4c6"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/trading/capital-ledger.json",
+    "sha256": "e260be692ada40d0bed2538a984ed8d04d769a2d6b1dc0a88b8d086a552ab909"
+  }
+]
