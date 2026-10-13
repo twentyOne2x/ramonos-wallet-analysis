@@ -81,3 +81,7 @@ python3 tools/replay_profit.py --out /tmp/ramonos-profit-replay
 ```
 
 The output must be outside this repository and empty. This reproduces the trading inventory and actual cash ledgers, failed fees, standalone claim cash, and timestamped dollar valuations using frozen source responses. All price processors use `--offline`; the runner enables no signing, funding, claims or transactions. Creator receipts, original-wallet net cash and complete operator profit remain separate measures.
+
+## Monthly breakdown
+
+`python3 tools/monthly/build.py` aggregates the frozen published ledgers into monthly UTC cash/fee figures and per-launch SOL buy-in statistics. No raw release extraction or network access is needed for this derived aggregation. Use `--output` for a separate destination.

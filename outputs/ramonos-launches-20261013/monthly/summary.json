@@ -1,0 +1,59 @@
+{
+  "wallet": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+  "cutoffUtc": "2026-10-13T16:19:01Z",
+  "launchPeriodUtc": [
+    "2025-12-17T20:37:55Z",
+    "2026-09-22T00:49:23Z"
+  ],
+  "actualTradePeriodUtc": [
+    "2025-12-17T20:37:55Z",
+    "2026-09-22T00:53:46Z"
+  ],
+  "creatorReceiptPeriodUtc": [
+    "2025-12-17T20:40:24Z",
+    "2026-10-10T16:03:22Z"
+  ],
+  "launches": 279,
+  "solQuoteLaunches": 272,
+  "positiveCreationBuy": {
+    "count": 230,
+    "medianSol": "4.9925925915",
+    "meanSol": "8.425941143208695652173913043",
+    "p25Sol": "1.849333663",
+    "p75Sol": "10.125000003",
+    "minimumSol": "0.02833489",
+    "maximumSol": "39.999999999",
+    "totalSol": "1937.966462938"
+  },
+  "allSolLaunchesCreationBuyIncludingZero": {
+    "count": 272,
+    "medianSol": "3.121788286",
+    "meanSol": "7.124876701977941176470588235",
+    "p25Sol": "1.00",
+    "p75Sol": "9.970370369",
+    "minimumSol": "0",
+    "maximumSol": "39.999999999",
+    "totalSol": "1937.966462938"
+  },
+  "firstObservedPositiveSolBuy": {
+    "count": 253,
+    "medianSol": "3.824763905",
+    "meanSol": "7.761222868561264822134387352",
+    "p25Sol": "1.484604106",
+    "p75Sol": "9.999999999",
+    "minimumSol": "0.000996882",
+    "maximumSol": "39.999999999",
+    "totalSol": "1963.589385746"
+  },
+  "zeroCreationBuyLaunches": 42,
+  "firstBoughtLaterLaunches": 23,
+  "noObservedSolAcquisitionLaunches": 19,
+  "cashTotalsSol": {
+    "tradingNetCashLamports": "2278.697872527",
+    "closedTradingNetCashLamports": "1674.323228104",
+    "grossCreatorFeeLamports": "1660.2868305",
+    "standaloneClaimNetCashLamports": "1629.080316235"
+  },
+  "method": "Launch counts and buy-in statistics use creation UTC month. Money columns use individual UTC cash/receipt event month. Failed fees assigned once to the fee-paying wallet and witnessed launch. Cohort lifetime closed cash is a separate launch-month column. Median positive creation buy includes venue fees, excludes setup/network/rent, and excludes non-SOL quotes.",
+  "financialExecutionCapLamports": "0"
+}

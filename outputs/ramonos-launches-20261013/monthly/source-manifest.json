@@ -1,0 +1,45 @@
+{
+  "sources": [
+    {
+      "path": "outputs/ramonos-launches-20261013/trading/capital-ledger.json",
+      "sha256": "e260be692ada40d0bed2538a984ed8d04d769a2d6b1dc0a88b8d086a552ab909"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/trading/positions.json",
+      "sha256": "030f041f7a38308e1df8cfbd4cbc18f7fdffbfdb9e7bafcf6808774a059acae9"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/trading/trades.csv",
+      "sha256": "1f54e4617aaff4a14e3ba3ee49dfa3f787ee13ad95a64941da80ec5b022b3cea"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/trading/transactions.csv",
+      "sha256": "7b334c0a6935f1f0e337e1ab74e0a25fdeba1280669b8f4227be4d099594a4ab"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/failed-cohort-fees.csv",
+      "sha256": "fb17e6c2400e6e42f1fd72792962642ea5302374fa29c18c472683411e89a613"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/costs-coverage/claim-native-wsol-cash.csv",
+      "sha256": "8505f051842699980c3eb59dd12be540f4df12c105e4b786176941908988778e"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/own-fees/receipts.csv",
+      "sha256": "9a08e69f0b6715a280363173deaf33ede9b34aa256951ff96ba513edaa0fcc2e"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/census/config.json",
+      "sha256": "1eb5ab74aa569ad5add2f6e02da65bc3203fb5b3caada35fc30b03f5cbb95b42"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/usd-valuation/trading-cashflows-valued-usd.csv",
+      "sha256": "9edb02d9e214b0b6c8e6ba1dca0b82783a7b48b3e844b15e43b47a142983a74c"
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/usd-valuation/monthly-valued-usd.csv",
+      "sha256": "51290634a0714134aee1c63c2ee7d433a9035c7ea9227faa4f2ba56891ae4664"
+    }
+  ],
+  "validatedGlobalTotals": true
+}

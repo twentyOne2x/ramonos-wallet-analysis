@@ -1,0 +1,9 @@
+{
+  "independentReview": "Compared all 11 UTC months against independently computed tables: launch counts, all SOL cash, closed SOL cash, gross creator receipts and positive creation-buy medians agree exactly.",
+  "sameCreateBuyEvents": 230,
+  "sameCreateUniqueMints": 230,
+  "multipleSameCreateBuyMints": 0,
+  "firstObservedBuyOrder": "Actual slot and transactionIndex; all 32798 source references include transactionIndex.",
+  "validatedGlobalTotals": true,
+  "financialExecutionCapLamports": "0"
+}

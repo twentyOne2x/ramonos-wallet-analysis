@@ -61,6 +61,31 @@ Historical values use the containing 60-second UTC Coinbase SOL/USD close for ev
 
 [Detailed profit methodology](docs/profit-accounting.md) · [Per-token trades](outputs/ramonos-launches-20261013/trading/positions.csv) · [Timestamped dollar comparison](outputs/ramonos-launches-20261013/usd-valuation/comparison-metrics-usd.csv) · [Complete profit evidence release](https://github.com/twentyOne2x/ramonos-wallet-analysis/releases/tag/profit-audit-2026-10-13)
 
+## Monthly activity and launch buy-in
+
+The launches span **December 17, 2025 to September 22, 2026**; creator receipts continue through **October 10** in the October 13 audit. All monetary columns below are in SOL equivalent, grouped by individual UTC cash/receipt month.
+
+| UTC month | Launches | All SOL trading net cash | Closed-position net cash | Gross creator fees | Median positive creation buy |
+|---|---:|---:|---:|---:|---:|
+| Dec 2025 | 12 | 365.230 | 237.267 | 382.968 | 17.50 |
+| Jan 2026 | 56 | 1,513.922 | 1,020.606 | 855.145 | 9.23 |
+| Feb | 43 | 172.181 | 120.569 | 95.537 | 2.12 |
+| Mar | 30 | 66.612 | 49.648 | 44.214 | 2.12 |
+| Apr | 30 | 63.525 | 63.547 | 21.032 | 5.00 |
+| May | 21 | 0.959 | 0.981 | 1.741 | 3.00 |
+| Jun | 8 | 50.260 | 50.202 | 39.282 | 11.79 |
+| Jul | 20 | -35.808 | 35.071 | 89.896 | 8.10 |
+| Aug | 43 | 66.847 | 83.062 | 59.922 | 2.00 |
+| Sep | 16 | 14.968 | 13.368 | 70.475 | 3.97 |
+| Oct to cutoff | 0 | 0.002 | 0.002 | 0.076 | — |
+| **Total / overall median** | **279** | **2,278.698** | **1,674.323** | **1,660.287** | **4.99** |
+
+The buy-in median uses the **230 launches with a positive SOL buy in the creation transaction**. Including 42 zero creation buys, the median across all 272 SOL launches is **3.12 SOL**. Of those zeros, 23 were first bought later and 19 have no observed acquisition. Seven non-SOL launches are excluded from the SOL median. Creation buys include venue fees; setup/network/rent costs are separate.
+
+All-launch trading cash includes unsold/transferred inventory; closed-position cash is the narrower 196-position result. Fee payouts are gross and pooled. October's small trading amount is an account refund. December–January account for **75.13% of closed-position net cash** and **74.57% of creator receipts**.
+
+[Monthly report](outputs/ramonos-launches-20261013/monthly/README.md) · [Full monthly CSV](outputs/ramonos-launches-20261013/monthly/monthly.csv) · [Per-launch buy-ins](outputs/ramonos-launches-20261013/monthly/per-launch-buy-in.csv)
+
 ## GitHub targeting, holder rewards and unclaimed fees
 
 | Launch | Current fee recipient | Allocation | Claimed by the intended developer | Verified status |
