@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "counts": {
+    "allocatedCashComponents": 2637,
+    "wholeTransactionCashBalances": 2411,
+    "pumpEventsQuoteIdentity": 1684,
+    "quotePrincipalFeesActual": 2249,
+    "ammActualQuoteTransferLegs": 1378,
+    "ammTradesActualTransferTotals": 540,
+    "launchlabActualQuoteTransferLegs": 25,
+    "launchlabPayerMintAndQuoteChecks": 25
+  },
+  "capitalLedgerSha256": "65b95f475bd2306d1c87701950f6d0dbebea2f38ce02837f74f6edf169956533",
+  "sourceManifestSha256": "06aa6fcda8136f6c8ace649a14b7a2b8058c5ba0195fb6c3123d68088bf5efd4",
+  "financialExecutionCapLamports": "0",
+  "scope": "Retained successful direct-wallet references and exact allocated transaction components. Failed history and ATA-only history remain separate."
+}

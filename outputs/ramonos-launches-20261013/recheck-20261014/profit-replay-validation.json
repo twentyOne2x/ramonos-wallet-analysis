@@ -1,0 +1,40 @@
+{
+  "offline": true,
+  "completedScripts": [
+    "trading/build.py",
+    "trading/report.py",
+    "trading/verify.py",
+    "costs-coverage/analyze.py",
+    "costs-coverage/claim_cash.py",
+    "usd-valuation/value_receipts.py",
+    "usd-valuation/value_trading_cashflows.py",
+    "usd-valuation/value_claim_account_cash.py"
+  ],
+  "metrics": [
+    {
+      "metric": "Gross verified SOL/WSOL creator-fee receipts",
+      "historicalUsd": "199731.88965008411",
+      "solQuantity": "1660.286830500",
+      "sameQuantityAtFrozenSpotUsd": "178646.8629618000"
+    },
+    {
+      "metric": "Closed 196 positions original-wallet cash after allocated failed fees",
+      "historicalUsd": "195964.71124374579",
+      "solQuantity": "1674.323228104",
+      "sameQuantityAtFrozenSpotUsd": "180157.1793439904"
+    },
+    {
+      "metric": "Standalone claim-transaction original-wallet native+WSOL cash",
+      "historicalUsd": "196532.96966523110",
+      "solQuantity": "1629.080316235",
+      "sameQuantityAtFrozenSpotUsd": "175289.0420268860"
+    },
+    {
+      "metric": "Combined closed positions + standalone claim account cash surplus",
+      "historicalUsd": "392497.68090897689",
+      "solQuantity": "3303.403544339",
+      "sameQuantityAtFrozenSpotUsd": "355446.2213708764"
+    }
+  ],
+  "financialExecutionCapLamports": "0"
+}

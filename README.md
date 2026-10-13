@@ -61,6 +61,29 @@ Historical values use the containing 60-second UTC Coinbase SOL/USD close for ev
 
 [Detailed profit methodology](docs/profit-accounting.md) · [Per-token trades](outputs/ramonos-launches-20261013/trading/positions.csv) · [Timestamped dollar comparison](outputs/ramonos-launches-20261013/usd-valuation/comparison-metrics-usd.csv) · [Complete profit evidence release](https://github.com/twentyOne2x/ramonos-wallet-analysis/releases/tag/profit-audit-2026-10-13)
 
+## Token-level cash results, including attributable creator fees
+
+These are the largest **known token-attributable components of the audited wallet cash surplus**, not a complete per-token P&L ranking. Creator-claim cash is assigned only when all verified payouts in a standalone transaction identify one cohort mint and the only cash deduction is its network fee. Trading cash includes allocated failed fees once. Names and tickers link to exact mints.
+
+| Token | Closed-position net cash, SOL | Attributable net creator claims, SOL | Known cash, SOL | Historical USD | % of SOL total |
+|---|---:|---:|---:|---:|---:|
+| [PsyopCartoon ($PsyCartoon)](https://pump.fun/coin/DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump) | Unresolved | 157.86 | 157.86 | $22,640.25 | 4.78% |
+| [just a smiling rock :) ($rock)](https://pump.fun/coin/A7CLmwzRPw2iXTGt7sGYiXsneY1ca1NS91HPaKjKpump) | 84.78 | Unallocated | 84.78 | $10,426.98 | 2.57% |
+| [The Golden Pill ($PILL)](https://pump.fun/coin/3pBBa4pELb8HRneNwE9oxWTowH3hbzHkedk1f6CYpump) | 67.23 | Unallocated | 67.23 | $8,363.78 | 2.04% |
+| [Igloocoin ($Igloo)](https://pump.fun/coin/8VRg5e3FW333eEfyJ81HYN1zNUP4LobtJhnu5crMpump) | 66.83 | Unallocated | 66.83 | $8,508.97 | 2.02% |
+| [1M in 1HR ($1M)](https://pump.fun/coin/2uKZGdAbLoyyMiaFm8UU2atbGwpAFzpn13eEJwsypump) | 66.49 | Unallocated | 66.49 | $8,547.41 | 2.01% |
+| [glitched honse ($honse)](https://pump.fun/coin/B5HLZjho2pHQQzgJWfvTPKzmmZK62YyLaNLrjrM4pump) | 58.88 | Unallocated | 58.88 | $7,327.99 | 1.78% |
+| [Basket ($BASKET)](https://pump.fun/coin/3pyFv8AyuLy1FL2NDFw2fnaAzfs51ZW9wxheRVWxpump) | 58.11 | Unallocated | 58.11 | $8,428.68 | 1.76% |
+| [Iced Penguin ($VVS)](https://pump.fun/coin/5Vc4nodhvRVUXdLUBRfrxCY8nBYhLM49k6qX4PMupump) | 50.79 | Unallocated | 50.79 | $6,450.26 | 1.54% |
+| [Penguin's Best Friend ($Frostycko)](https://pump.fun/coin/BzJ2MxQHyc5cFhjKudB4AzFvHQNC85bbtWx1h3oopump) | 49.52 | Unallocated | 49.52 | $5,921.58 | 1.50% |
+| [Mǎ Dào Chéng Gōng ($MA)](https://pump.fun/coin/BNF2swQfyMo9p1bHZQWt2WaopXiXTSSeYWPjYPQxpump) | 40.33 | Unallocated | 40.33 | $5,048.24 | 1.22% |
+
+Percentages use the **3,303.403544339 SOL** audited cash total, not the dollar total. PsyopCartoon's row contains fee claims only because its transferred-inventory trading outcome is unresolved. "Unallocated" means pooled creator fees cannot be assigned to that token, not that it earned none. Other unresolved trading positions are excluded from this total.
+
+Only **159.011821279 SOL** of net creator-claim cash is assignable to individual tokens. Another **1,470.068494956 SOL** remains unallocated. Therefore additional fees could change the order. Historical dollars price each included buy, sale, claim, refund and failed fee at its own transaction minute.
+
+[Full token-attributable cash CSV](outputs/ramonos-launches-20261013/recheck-20261014/token-attributable-cash.csv) · [Independent recheck and receipts](outputs/ramonos-launches-20261013/recheck-20261014/README.md)
+
 ## Monthly activity and launch buy-in
 
 The launches span **December 17, 2025 to September 22, 2026**; creator receipts continue through **October 10** in the October 13 audit. All monetary columns below are in SOL equivalent, grouped by individual UTC cash/receipt month.
@@ -148,7 +171,7 @@ The executable checks bind event payloads to exact instructions and actual recip
 
 ## Reusable Codex skill
 
-[**solana-launcher-audit**](skills/solana-launcher-audit/SKILL.md) captures the reusable workflow: identify the seed, census signed launches, classify fee destinations, reconcile actual claims and unclaimed fee lots, and report source-bound economics.
+Our [**solana-launcher-audit**](skills/solana-launcher-audit/SKILL.md) skill captures the reusable workflow: identify the seed, census signed launches, classify fee destinations, reconcile actual claims and unclaimed fee lots, and report source-bound economics.
 
 Copy `skills/solana-launcher-audit/` into `~/.codex/skills/` to install it. Example:
 

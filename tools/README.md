@@ -85,3 +85,7 @@ The output must be outside this repository and empty. This reproduces the tradin
 ## Monthly breakdown
 
 `python3 tools/monthly/build.py` aggregates the frozen published ledgers into monthly UTC cash/fee figures and per-launch SOL buy-in statistics. No raw release extraction or network access is needed for this derived aggregation. Use `--output` for a separate destination.
+
+## Independent arithmetic and token attribution
+
+`python3 tools/recheck.py --out /tmp/ramonos-independent-recheck` independently checks per-position cash, failed costs, sole-mint net claim cash, current routes and historical dollar valuations against frozen raw price responses. Extract the profit evidence release first. Use `--source` for a separate evidence workspace. It writes verification receipts and a token-attributable cash CSV without network access or financial actions. Pooled fees remain unallocated.

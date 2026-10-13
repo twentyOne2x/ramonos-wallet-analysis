@@ -1,0 +1,15 @@
+{
+  "independentContainingMinuteCloseCheck": true,
+  "tradeComponentsVerified": 5262,
+  "closedMints": 196,
+  "closedComponents": 3174,
+  "standaloneClaimTransactions": 559,
+  "rawPriceResponseHashesVerified": 338,
+  "closedSol": "1674.323228104",
+  "closedHistoricalUsd": "195964.71124374579",
+  "claimSol": "1629.080316235",
+  "claimHistoricalUsd": "196532.96966523110",
+  "combinedSol": "3303.403544339",
+  "combinedHistoricalUsd": "392497.68090897689",
+  "scope": "Frozen October 13 evidence. Historical market valuation, not USD cashouts."
+}

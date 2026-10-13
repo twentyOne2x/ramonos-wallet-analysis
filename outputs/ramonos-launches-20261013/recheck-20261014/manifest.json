@@ -1,0 +1,37 @@
+{
+  "auditedPublishedRevision": "6f3cbb16c6f095bb805009d0c2965cfade3a33d9",
+  "walletScope": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+  "financialExecutionCapLamports": "0",
+  "files": [
+    {
+      "path": "outputs/ramonos-launches-20261013/recheck-20261014/README.md",
+      "sha256": "8a99c793a9a5139709df11a30e614910bc570e0f6abe0d83940ce2c28082c8b4",
+      "bytes": 3461
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/recheck-20261014/arithmetic-verification.json",
+      "sha256": "427cbdfe19e46d5d230cbc2d8cc246c6448f32eb0ec0cdf154846eeb833e920c",
+      "bytes": 2788
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/recheck-20261014/profit-replay-validation.json",
+      "sha256": "19bdbbb8a22bbf2df621c6def3ee35c270c95b4465c64dea1969f158da9b1db4",
+      "bytes": 1323
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/recheck-20261014/token-attributable-cash.csv",
+      "sha256": "9e0cb762eec34a500fb274452fd7638a24085731e46701824e1ef2ed49477b02",
+      "bytes": 38874
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/recheck-20261014/trading-replay-verification.json",
+      "sha256": "085e60d1936069b2a4b80d0d382961c0dcffb4978f20070bd081076f983a4e36",
+      "bytes": 746
+    },
+    {
+      "path": "outputs/ramonos-launches-20261013/recheck-20261014/usd-independent-check.json",
+      "sha256": "ec9aaa770da52355b5cb46aa7c8fd5e5a527049e570bf0af775e04a5394961ed",
+      "bytes": 547
+    }
+  ]
+}
