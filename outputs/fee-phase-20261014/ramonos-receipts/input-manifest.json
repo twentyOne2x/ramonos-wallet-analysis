@@ -1,0 +1,110 @@
+[
+  {
+    "path": "schemas/pump.json",
+    "sha256": "fb5cce35e21a1b6a74d192eea11fe805602fa357acc7051dd1492fc09714d467"
+  },
+  {
+    "path": "schemas/pump_fees.json",
+    "sha256": "f111d2e5c9aa3d4e64d6a4e6b6f34300ccb1eaf6abc46834fe491836dc90aa74"
+  },
+  {
+    "path": "schemas/pump_amm.json",
+    "sha256": "b7d8c57a4d9c4dd0109a9ab893052352333252d4eedced10ac091d4d66cab89b"
+  },
+  {
+    "path": "tools/fee_core.py",
+    "sha256": "77826f7e52277543bd3378be6258c37adb9657ae990da5533173e804f7399a11"
+  },
+  {
+    "path": "tools/decoder.py",
+    "sha256": "fdfd4e5251ea389b7866ba8e310258a12428d9a81a153f6a86d6b8cb1924fe4b"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/own-fees/verified-receipts.json",
+    "sha256": "25daf2d85f34157c2bc56fa25be339693a6115380071c3cd516ca90eef4988d5"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/own-fees/transactions.json",
+    "sha256": "e0aa3ff07cb98456983ea2d2bd0fe96decb656f9a327dd53fbc8481d7556d4c6"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/own-fees/cash-ledgers.json",
+    "sha256": "f5c87eb41d15f30cb147079e2515164b3c3c991aeda1282024c9ba0b309f50c2"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0011.json",
+    "sha256": "960b1024095cc09122d14020987d1b4117d002f7692b24da4d8b2bc4874e0e22"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0012.json",
+    "sha256": "4fceebfe5d862d4dfd19d4dd16abcef22992a5c0b9b3df9f9c8ecece75945a5a"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0013.json",
+    "sha256": "3abb4faa0ab6b48f8635e8f2c7b6d6ff522ebf2637dad1e298989735a1b22524"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0014.json",
+    "sha256": "af4d0098fd31c63d225f3217916f30574f575ddf9bdf0c66304aace4d42d6252"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0015.json",
+    "sha256": "a6e40946212e757d3a70bc710161dd382a527c3575b5898b60400ed3123bd5b3"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0016.json",
+    "sha256": "7a1c416ff959d671ea2b0bef73c184c9f0b3e7a1137fdc70b3f12a8a0cc79e55"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0017.json",
+    "sha256": "45ba671532d15c129632629b875bfad69dbe68a800593a9f51257c4fbf9c158a"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0018.json",
+    "sha256": "c84321a924709bd049374d4767e8f14757ff6c5578293ebf7465af82a5280357"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0019.json",
+    "sha256": "e2097aeec21d1111b183feece36ed7fd2b4393a4c6518dc33770326754f35866"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0020.json",
+    "sha256": "f39a204219bfa6f2a0394d8c703cfaeb87c198f555c86056263a891c7dca6ba2"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0021.json",
+    "sha256": "54587a6b1df1f5079a0a05fa8057b1762f7a66bafe79a65ac6334d8f8e820d32"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0022.json",
+    "sha256": "7cadc3560619c96c12dd622125fea7c0334aaef0f8d3a150d027d71574fe7dbd"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0023.json",
+    "sha256": "50cdbc8ed388aa2367385db9fb0e48c8d5c4355488d9b16db18abd0c9f1887ab"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0024.json",
+    "sha256": "fc53834ae1a2d7bca0818b0fb8a83b3750212f82b66ccba90c82a00bb4f61ca6"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0025.json",
+    "sha256": "97a59fc8af9fde121514ca69a0ee3399f92154c054549c0560e4981949c55555"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0026.json",
+    "sha256": "05ec5d873b507ba31d9f2a1af5c7b24d9ec6f24598a6a0f1ab04dc790879c375"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0029.json",
+    "sha256": "a1c0be2419e36be59aa78e80f83f64628e1d4cdafc5fe2335a3d73ee00168325"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0030.json",
+    "sha256": "b5d174db25d38e7b2d42d284d9d8231992bb52df70e966b2b78edff491754e77"
+  },
+  {
+    "path": "outputs/ramonos-launches-20261013/census/raw/page-0032.json",
+    "sha256": "a3c3800d19f3e284a90df3621587ca66b6e5607819ee25c0610bb0e7793317af"
+  }
+]

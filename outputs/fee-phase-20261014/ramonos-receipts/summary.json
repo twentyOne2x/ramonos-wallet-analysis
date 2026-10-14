@@ -1,0 +1,30 @@
+{
+  "wallet": "57rXqaQsvgyBKwebP2StfqQeCBjBS4jsrZFJN5aU2V9b",
+  "retainedCutoffUtc": "2026-10-13T16:19:01Z",
+  "verifiedPayoutReceiptsLamports": 1660286830500,
+  "pumpNativeClaimsVenueUnresolvedLamports": 319655754211,
+  "pumpAMMDirectClaimsLamports": 1176225105114,
+  "mintBoundSharingReceiptsLamports": 164405971175,
+  "sourceAllocationMethod": "Strict fungible custody bounds; no proportional source-lot assumption",
+  "sharingAMMOriginLowerBoundLamports": 162867472359,
+  "sharingAMMOriginUpperBoundLamports": 162882695032,
+  "sharingUnresolvedUpperBoundLamports": 1538498816,
+  "directAMMShareOfAllGrossPayoutReceiptsPercent": "70.844692826948253023560918981824086690543679524777",
+  "directPlusSharingAMMOriginLowerBoundLamports": 1339092577473,
+  "directPlusSharingAMMOriginLowerBoundPercentOfAllGrossPayoutReceipts": "80.654291347340781066323106030322752716672831550235",
+  "pumpNativeClaimShareOfAllGrossPayoutReceiptsPercent": "19.253044012565875737096018602672401309515777671526",
+  "sharingShareOfAllGrossPayoutReceiptsPercent": "9.9022631604858712393430624155035119999405428036972",
+  "sharingMints": 22,
+  "sharingEvents": 135,
+  "observedAMMBridgesIntoOrdinaryWalletNativeVaultInPayoutTransactions": [],
+  "ordinaryWalletNativeVaultAMMBridgePossible": true,
+  "pureTradingFeeOriginProved": false,
+  "limitations": [
+    "Gross payouts may include released funding/rent or unrelated deposits; venue-bound payout is not independent pure fee-origin revenue proof.",
+    "319.655754211 SOL Pump native claims are pooled custody and cannot be called curve-earned without source-history replay; generic AMM transfer_creator_fees_to_pump supports ordinary creators.",
+    "Sharing untraced opening custody can contain earlier curve fees, earlier AMM fees, funding or other inflows.",
+    "Direct claims pool mints, no per-token allocation supplied. Sharing mint binding is actual distribute instruction/event, not an arbitrary pool mint assignment.",
+    "PumpAMM venue does not by itself independently prove canonical pool graduation for every token.",
+    "All history is original wallet-referencing finalized success scope; ATA-only references are not complete."
+  ]
+}

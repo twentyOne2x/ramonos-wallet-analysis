@@ -1,0 +1,178 @@
+{
+  "A6FJ12TYV8K79QovsWzkZEC5PWPD7EFzvC4JKZsypump": {
+    "paidLamports": 5252602907,
+    "ammOriginPaidLowerBoundLamports": 4985253353,
+    "ammOriginPaidUpperBoundLamports": 4985253353,
+    "unresolvedPaidUpperBoundLamports": 267349554,
+    "receiptCount": 7,
+    "signedLaunchCohort": false
+  },
+  "DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump": {
+    "paidLamports": 157863727454,
+    "ammOriginPaidLowerBoundLamports": 157863727383,
+    "ammOriginPaidUpperBoundLamports": 157863727454,
+    "unresolvedPaidUpperBoundLamports": 71,
+    "receiptCount": 95,
+    "signedLaunchCohort": true
+  },
+  "3ZrfeoZNBdczWMZRF5DGowzCojWTEWU13ATCyqCepump": {
+    "paidLamports": 5707806,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 5707806,
+    "receiptCount": 1,
+    "signedLaunchCohort": false
+  },
+  "CevLbEBSS1ztERRvLF7qYJ9CWUw5FcajczvoRALmpump": {
+    "paidLamports": 65119,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 65119,
+    "receiptCount": 3,
+    "signedLaunchCohort": false
+  },
+  "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump": {
+    "paidLamports": 0,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 0,
+    "receiptCount": 1,
+    "signedLaunchCohort": true
+  },
+  "8QEVhxhvgdfGn4YJ1NRq8gVN1s3G9agbKb7mdYKypump": {
+    "paidLamports": 133634288,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 133634288,
+    "receiptCount": 1,
+    "signedLaunchCohort": true
+  },
+  "FVQ6JzKRz9GfxNv8wDR14xQMRyweeMoXZbjPtukYpump": {
+    "paidLamports": 875823725,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 875823725,
+    "receiptCount": 2,
+    "signedLaunchCohort": true
+  },
+  "9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump": {
+    "paidLamports": 89564780,
+    "ammOriginPaidLowerBoundLamports": 18491623,
+    "ammOriginPaidUpperBoundLamports": 33714225,
+    "unresolvedPaidUpperBoundLamports": 71073157,
+    "receiptCount": 10,
+    "signedLaunchCohort": true
+  },
+  "D8VBftdLqTSPnuEJBRqpnLrWG4UBchdw6Bj9kmmxpump": {
+    "paidLamports": 163366,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 163366,
+    "receiptCount": 1,
+    "signedLaunchCohort": false
+  },
+  "HyBEEmkjfDKdujcqvxqVi2Dt7hpyzsUkZfrdsv9Rpump": {
+    "paidLamports": 8500360,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 8500360,
+    "receiptCount": 1,
+    "signedLaunchCohort": false
+  },
+  "8aTZtPqUbZTKEuiGmGHARfpEZP7a3ZraRmFWBCRypump": {
+    "paidLamports": 0,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 0,
+    "receiptCount": 1,
+    "signedLaunchCohort": true
+  },
+  "GyXmf9Ap47e3CZKCYYq8BPkKPiqTy6cwETEuGdevpump": {
+    "paidLamports": 13588208,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 13588208,
+    "receiptCount": 2,
+    "signedLaunchCohort": true
+  },
+  "8wXPFZaGFV91zKPjGeU6gfSs1VF5VYvCpcnmiMnV92pQ": {
+    "paidLamports": 42457672,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 42457672,
+    "receiptCount": 1,
+    "signedLaunchCohort": false
+  },
+  "AzzFtV981bTAPE5SrCoNQbVAg3QJ9WXPs57CvTxapump": {
+    "paidLamports": 36817249,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 36817249,
+    "receiptCount": 1,
+    "signedLaunchCohort": true
+  },
+  "HyRZwEZ4c3ZK83Sq7rLa5izXbn8R1PvFbMRFPwGUpump": {
+    "paidLamports": 0,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 0,
+    "receiptCount": 1,
+    "signedLaunchCohort": true
+  },
+  "ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump": {
+    "paidLamports": 0,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 0,
+    "receiptCount": 1,
+    "signedLaunchCohort": true
+  },
+  "6cnk4vMENAxcuYm9rSMzAASGMj1eXpDoEFu5cHGUpump": {
+    "paidLamports": 0,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 0,
+    "receiptCount": 1,
+    "signedLaunchCohort": true
+  },
+  "9gQtknSEwdkDuspJYn4ovqV21iyhfFXHzB9u1YPKpump": {
+    "paidLamports": 0,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 0,
+    "receiptCount": 1,
+    "signedLaunchCohort": true
+  },
+  "8yhSE2TvNHsDmBJ2PM6286NFDufjNA2j2x3oZXDUpump": {
+    "paidLamports": 0,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 0,
+    "receiptCount": 1,
+    "signedLaunchCohort": true
+  },
+  "5UxDoCVauqbpapwkmDJEESJpwj87JAzE796EQrZfpump": {
+    "paidLamports": 83318241,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 83318241,
+    "receiptCount": 1,
+    "signedLaunchCohort": false
+  },
+  "EiDpY9QApxYMFYhR4TWXEpy6gANh73S4h3t8eSif32SM": {
+    "paidLamports": 0,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 0,
+    "receiptCount": 1,
+    "signedLaunchCohort": true
+  },
+  "F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR": {
+    "paidLamports": 0,
+    "ammOriginPaidLowerBoundLamports": 0,
+    "ammOriginPaidUpperBoundLamports": 0,
+    "unresolvedPaidUpperBoundLamports": 0,
+    "receiptCount": 1,
+    "signedLaunchCohort": true
+  }
+}

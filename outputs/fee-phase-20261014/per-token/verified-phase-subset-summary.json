@@ -1,0 +1,184 @@
+[
+  {
+    "mint": "4wKXnowo19MuWeuhjfCbiVaWM1WNSkjsqWPYwymxpump",
+    "name": "Flightradar24",
+    "phase": "before_graduation",
+    "observedSubsetCreatorFeesRaw": "146041920",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "quoteDecimals": 9,
+    "evidenceRows": 146,
+    "isLifetime": false,
+    "sources": [
+      "outputs/ramonos-launches-20261013/target-vaults/Flightradar24/replay.json"
+    ]
+  },
+  {
+    "mint": "6cnk4vMENAxcuYm9rSMzAASGMj1eXpDoEFu5cHGUpump",
+    "name": "Justice For Hsin-Ju",
+    "phase": "before_graduation",
+    "observedSubsetCreatorFeesRaw": "485250644",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "quoteDecimals": 9,
+    "evidenceRows": 545,
+    "isLifetime": false,
+    "sources": [
+      "outputs/ramonos-launches-20261013/target-vaults/route-6cnk4vMENAxcuYm9rSMzAASGMj1eXpDoEFu5cHGUpump/replay.json"
+    ]
+  },
+  {
+    "mint": "7b1otW189NkEpUdiN2P4mVNvrztqnRd9nesAhk3Cbonk",
+    "name": "dog wif pahlavi",
+    "phase": "before_graduation",
+    "observedSubsetCreatorFeesRaw": "0",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "quoteDecimals": 9,
+    "evidenceRows": 1,
+    "isLifetime": false,
+    "sources": [
+      "outputs/ramonos-launches-20261013/launchlab/fee-routing.json"
+    ]
+  },
+  {
+    "mint": "8yhSE2TvNHsDmBJ2PM6286NFDufjNA2j2x3oZXDUpump",
+    "name": "Copyrighted Cat \u00a9",
+    "phase": "before_graduation",
+    "observedSubsetCreatorFeesRaw": "630631695",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "quoteDecimals": 9,
+    "evidenceRows": 557,
+    "isLifetime": false,
+    "sources": [
+      "outputs/ramonos-launches-20261013/target-vaults/route-8yhSE2TvNHsDmBJ2PM6286NFDufjNA2j2x3oZXDUpump/replay.json"
+    ]
+  },
+  {
+    "mint": "9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump",
+    "name": "this coin will retire you",
+    "phase": "after_graduation",
+    "observedSubsetCreatorFeesRaw": "2255404",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "quoteDecimals": 9,
+    "evidenceRows": 1,
+    "isLifetime": false,
+    "sources": [
+      "outputs/ramonos-launches-20261013/target-vaults/amm-latest-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/replay.json"
+    ]
+  },
+  {
+    "mint": "9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump",
+    "name": "this coin will retire you",
+    "phase": "before_graduation",
+    "observedSubsetCreatorFeesRaw": "1412754717",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "quoteDecimals": 9,
+    "evidenceRows": 1116,
+    "isLifetime": false,
+    "sources": [
+      "outputs/ramonos-launches-20261013/target-vaults/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/replay.json"
+    ]
+  },
+  {
+    "mint": "9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump",
+    "name": "this coin will retire you",
+    "phase": "curve_source_completion_boundary_unknown",
+    "observedSubsetCreatorFeesRaw": "2000490",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "quoteDecimals": 9,
+    "evidenceRows": 1,
+    "isLifetime": false,
+    "sources": [
+      "outputs/ramonos-launches-20261013/target-vaults/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/replay.json"
+    ]
+  },
+  {
+    "mint": "9gQtknSEwdkDuspJYn4ovqV21iyhfFXHzB9u1YPKpump",
+    "name": "Pump Cat",
+    "phase": "before_graduation",
+    "observedSubsetCreatorFeesRaw": "329017111",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "quoteDecimals": 9,
+    "evidenceRows": 351,
+    "isLifetime": false,
+    "sources": [
+      "outputs/ramonos-launches-20261013/target-vaults/route-9gQtknSEwdkDuspJYn4ovqV21iyhfFXHzB9u1YPKpump/replay.json"
+    ]
+  },
+  {
+    "mint": "ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump",
+    "name": "TRANSEXUAL COIN",
+    "phase": "before_graduation",
+    "observedSubsetCreatorFeesRaw": "75155327",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "quoteDecimals": 9,
+    "evidenceRows": 76,
+    "isLifetime": false,
+    "sources": [
+      "outputs/ramonos-launches-20261013/target-vaults/route-ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump/replay.json"
+    ]
+  },
+  {
+    "mint": "DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump",
+    "name": "PsyopCartoon",
+    "phase": "after_graduation",
+    "observedSubsetCreatorFeesRaw": "4210952",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "quoteDecimals": 9,
+    "evidenceRows": 1,
+    "isLifetime": false,
+    "sources": [
+      "outputs/ramonos-launches-20261013/target-vaults/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/replay.json"
+    ]
+  },
+  {
+    "mint": "EiDpY9QApxYMFYhR4TWXEpy6gANh73S4h3t8eSif32SM",
+    "name": "Bold",
+    "phase": "before_graduation",
+    "observedSubsetCreatorFeesRaw": "620058647",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "quoteDecimals": 9,
+    "evidenceRows": 374,
+    "isLifetime": false,
+    "sources": [
+      "outputs/ramonos-launches-20261013/target-vaults/Bold/replay.json"
+    ]
+  },
+  {
+    "mint": "F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR",
+    "name": "RAM",
+    "phase": "before_graduation",
+    "observedSubsetCreatorFeesRaw": "231242100",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "quoteDecimals": 9,
+    "evidenceRows": 160,
+    "isLifetime": false,
+    "sources": [
+      "outputs/ramonos-launches-20261013/target-vaults/route-F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR/replay.json"
+    ]
+  },
+  {
+    "mint": "GiqnV6wrZck1od9ruHrakVHXMYNXDEZcUnbPv1scbonk",
+    "name": "Internet Magic Ticket",
+    "phase": "before_graduation",
+    "observedSubsetCreatorFeesRaw": "2000000",
+    "quoteMint": "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
+    "quoteDecimals": 6,
+    "evidenceRows": 1,
+    "isLifetime": false,
+    "sources": [
+      "outputs/ramonos-launches-20261013/launchlab/fee-routing.json"
+    ]
+  },
+  {
+    "mint": "HyRZwEZ4c3ZK83Sq7rLa5izXbn8R1PvFbMRFPwGUpump",
+    "name": "Bold The Frog",
+    "phase": "before_graduation",
+    "observedSubsetCreatorFeesRaw": "895642248",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "quoteDecimals": 9,
+    "evidenceRows": 907,
+    "isLifetime": false,
+    "sources": [
+      "outputs/ramonos-launches-20261013/target-vaults/route-HyRZwEZ4c3ZK83Sq7rLa5izXbn8R1PvFbMRFPwGUpump/replay.json"
+    ]
+  }
+]

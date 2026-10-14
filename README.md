@@ -42,6 +42,14 @@ All 568 audited fee transactions reconcile against the wallet's native cash move
 
 ![Monthly gross creator-fee payouts to the disclosed wallet, in SOL equivalent](docs/monthly-creator-fees.svg)
 
+## Where creator payouts came from
+
+**At least 1,339.092577473 SOL, or 80.6543% of gross creator payouts, came through PumpSwap custody.** This combines 1,176.225105114 SOL of direct AMM claims and a conservative 162.867472359 SOL of sharing payouts traced through AMM unwraps and native distributions. At most 321.194253027 SOL remains unresolved by source; it is not automatically bonding-curve revenue.
+
+PsyopCartoon's identified sharing payouts are particularly clear: 157.863727454 SOL paid, of which at least 157.863727383 SOL came from same-transaction AMM custody. Pooled direct claims cannot provide an exact lifetime split for every token. The full 279-mint register explicitly retains those attribution gaps.
+
+[Fee phases, current rate context and verification](docs/fee-phases.md) · [Mint-bound sharing CSV](outputs/fee-phase-20261014/ramonos-receipts/per-mint-sharing.csv) · [All-token phase register](outputs/fee-phase-20261014/per-token/mint-register.csv)
+
 ## Trading gains and dollar value
 
 **196 closed SOL-quote positions produced +1,674.3232 SOL in original-wallet net cash after attributable failed-transaction fees.** Their actual quote buy cost was 1,588.4392 SOL and net sale receipts were 3,314.8940 SOL. The 1,726.4548 SOL quote margin differs from net wallet cash because associated transactions also move fees, tips, reserves and other transfers.

@@ -1,0 +1,35 @@
+{
+  "mintCount": 279,
+  "migrationStatusCounts": {
+    "curve_incomplete_pool_not_observed": 229,
+    "canonical_amm_pool_present": 48,
+    "launchlab_funding": 2
+  },
+  "exactLifetimeBeforeGraduationCount": 0,
+  "exactLifetimeAfterGraduationCount": 0,
+  "verifiedSubsetMintCount": 12,
+  "verifiedSubsetEvidenceRows": 4237,
+  "readOnly": true,
+  "economicEffectsSol": "0",
+  "newNetworkCalls": 0,
+  "nullMeans": "unknown, not zero",
+  "inputHashes": {
+    "outputs/ramonos-launches-20261013/census/launches.json": "7eb05c096b55b3fd4711209561932d9866279432d9528cad118e032929913a26",
+    "outputs/ramonos-launches-20261013/routes/routes.json": "02c7cfe26f0fda845a5b1954cecf46dab37684ec87c8384eee9d0bf6380a3994",
+    "outputs/ramonos-launches-20261013/routes/decoded-accounts.json": "bfc7dcbfc0ee368fec03afe016b0ce4114c8bfb8e3052141898f9950b65b8b0e",
+    "outputs/ramonos-launches-20261013/launchlab/fee-routing.json": "b45849a7335e6e128d33bfb0f5d2149b804f46da00672574195744cb1831a78f",
+    "outputs/ramonos-launches-20261013/target-vaults/Bold/replay.json": "0db1203d8a5ba26f0891f09f54918354c6a4c9547d972d3b6f91b0230781b7c3",
+    "outputs/ramonos-launches-20261013/target-vaults/Flightradar24/replay.json": "f646fe53dc13f76e8d75bd1c8cd343c581d90c5a3bedb59edecf1ee56ab4f018",
+    "outputs/ramonos-launches-20261013/target-vaults/amm-latest-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/replay.json": "25d7634412b2a6739bc9ff356d26c3594076ff975cd66f2499791f14799fb682",
+    "outputs/ramonos-launches-20261013/target-vaults/amm-latest-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/replay.json": "3dcd74506dff4b7b3510989c1ea76f4d16215e1d7b91ed68778b382ea1252b52",
+    "outputs/ramonos-launches-20261013/target-vaults/route-6cnk4vMENAxcuYm9rSMzAASGMj1eXpDoEFu5cHGUpump/replay.json": "07bb906ba8a8c58e0256eb0cf3ff5f30a913aa3510fabb3a864aa17eb46cb2a6",
+    "outputs/ramonos-launches-20261013/target-vaults/route-8aTZtPqUbZTKEuiGmGHARfpEZP7a3ZraRmFWBCRypump/replay.json": "5a5c95d305747cf0442f340d723f45a13e5418fab6e805262bf0ec7b51fe03d7",
+    "outputs/ramonos-launches-20261013/target-vaults/route-8yhSE2TvNHsDmBJ2PM6286NFDufjNA2j2x3oZXDUpump/replay.json": "cc882f9c90704536a9e8fd671b473b6775af00ec7f6a21879661eb1acd351ffb",
+    "outputs/ramonos-launches-20261013/target-vaults/route-9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump/replay.json": "4b083c7704e81b4697b9e6479780875315bae8cd568ad1eb4ec9fb156a8f373c",
+    "outputs/ramonos-launches-20261013/target-vaults/route-9gQtknSEwdkDuspJYn4ovqV21iyhfFXHzB9u1YPKpump/replay.json": "0ff1029a1b5e0ea09a900cbbafa794f894b071834169ac7899438e62c9b5d479",
+    "outputs/ramonos-launches-20261013/target-vaults/route-ALnL5WhbcCkf7gVEsJrHfvyAYd4iRyJ31RtnP84Epump/replay.json": "24dbdc5c39b1b544854897d6001379c637bf1b4e69c8d13236425deb835badfe",
+    "outputs/ramonos-launches-20261013/target-vaults/route-DAAXmRU9KUEuyqF8VuddbcL5X4QhQ3tTDMYxDbNgpump/replay.json": "5d120f0e54e9217908b964bb553592554d864490c687cc6c57a1a0f43fb79e5e",
+    "outputs/ramonos-launches-20261013/target-vaults/route-F9FYhirL4XGH3TEQDvBRAg6yDLXZeSNJopJcrDNtXjsR/replay.json": "acb69ca810c1759c294cbfc8adddd642d3798c3d0985b6328125fbb24921cae9",
+    "outputs/ramonos-launches-20261013/target-vaults/route-HyRZwEZ4c3ZK83Sq7rLa5izXbn8R1PvFbMRFPwGUpump/replay.json": "f200401d0eae6b5014086c0873a8f1fd0ba0738ef1ecc257d8d0731fcf03f7b3"
+  }
+}

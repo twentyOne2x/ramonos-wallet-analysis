@@ -1,0 +1,16 @@
+{
+  "officialPackage": "@pump-fun/pump-sdk",
+  "version": "4.0.0",
+  "sources": [
+    {
+      "path": "work/pigeon-remaining/payout/sdk-adapter/node_modules/@pump-fun/pump-sdk/src/sdk.ts",
+      "sha256": "3c490247235ae0a76e77f0a6bb55cd169a4e6338b4872f7f11db2ed77d9fb514",
+      "relevantLines": "3080-3106, 3481-3495"
+    },
+    {
+      "path": "work/pigeon-remaining/payout/sdk-adapter/node_modules/@pump-fun/pump-sdk/src/onlineSdk.ts",
+      "sha256": "82aaf5b0e2e9d943d13c203c1267f78d1c6cd9b621606e34f335a7e6410109b1",
+      "relevantLines": "310-364"
+    }
+  ]
+}

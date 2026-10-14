@@ -1,0 +1,23 @@
+{
+  "offline": true,
+  "sourceInputsUntouched": true,
+  "networkEffects": 0,
+  "economicEffectsSOL": 0,
+  "matchedDerivedDocuments": [
+    "ramonos-receipts/summary.json",
+    "ramonos-receipts/sharing-source-traces.json",
+    "ramonos-receipts/per-mint-sharing.json",
+    "ramonos-receipts/ordinary-native-vault-bridge-schema.json",
+    "per-token/summary.json",
+    "per-token/mint-register.json",
+    "per-token/verified-phase-subset-events.json",
+    "per-token/verified-phase-subset-summary.json"
+  ],
+  "verifiedPayoutReceiptsLamports": 1660286830500,
+  "strictAMMSourceMinimumLamports": 1339092577473,
+  "portableCodeHashes": {
+    "tools/fee-phase/receipts.py": "41315bc8e8de97cf76d8cee8e309f6d1ae1f9a6f9a924a84d4237f038661dc89",
+    "tools/fee-phase/per_token.py": "35abb46df4e2f410e78e7f2c400e8ca2a841a5a3a695b05261c4153adc079254"
+  },
+  "csvLineEndingNormalizationPreservesRows": true
+}

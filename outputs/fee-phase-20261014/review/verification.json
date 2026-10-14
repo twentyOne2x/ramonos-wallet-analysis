@@ -1,0 +1,60 @@
+{
+  "verdict": "ACCEPT",
+  "readOnlyOriginalInputs": true,
+  "executionCapSOL": 0,
+  "networkUsed": false,
+  "checkedAtUtc": "2026-10-14T10:28:44.135907+00:00",
+  "reviewedInputs": [
+    {
+      "path": "outputs/fee-phase-20261014/ramonos-receipts/summary.json",
+      "sha256": "0ed841194848be35c577a43ececf0d64bfe151d505b57506da59affe568b87dc"
+    },
+    {
+      "path": "outputs/fee-phase-20261014/ramonos-receipts/sharing-source-traces.json",
+      "sha256": "b73720effc281c8eaa11f94cff92751fb4c9096b879456ffb72431d804fa1b32"
+    },
+    {
+      "path": "outputs/fee-phase-20261014/ramonos-receipts/per-mint-sharing.json",
+      "sha256": "4ac324439d6a023f99299ad64ed0910ddda2ae5e660dc80c503b3abdee07d6fa"
+    },
+    {
+      "path": "outputs/fee-phase-20261014/ramonos-receipts/ordinary-native-vault-bridge-schema.json",
+      "sha256": "980d9e89b7b8e39cb6edd8e08352a3a3972ed624ccbc6a1e048edee71da2919a"
+    }
+  ],
+  "passed": {
+    "ramonosRawTraceReplayIdentical": true,
+    "canonicalReceiptTotalsAndEvents": true,
+    "inputManifestAllHashesMatch": true,
+    "sharingTraceCount": 135,
+    "mintCount": 22,
+    "distinctAMMBridgeCredits": 106,
+    "priorBridgedVaultOutflows": 0,
+    "doubleCountedAMMCredits": 0,
+    "psyopPaidLamports": 157863727454,
+    "psyopStrictLowerBoundLamports": 157863727383,
+    "strictBoundsIndependentPerRow": true,
+    "finalArtifactManifestHashesAndLengths": true
+  },
+  "limitations": [
+    "Gross payout custody is not independent pure trading-fee income proof.",
+    "Native Pump claims of 319655754211 lamports remain phase unresolved; generic ordinary creator vaults may receive AMM bridges.",
+    "Direct creator claims pool mints, and PumpAMM venue alone does not prove graduation for every pool.",
+    "ATA-only references are outside original wallet-reference history coverage."
+  ],
+  "resolvedIssue": {
+    "severity": "P2",
+    "reason": "Reported conservative cash-source bounds assume pro-rata allocation of fungible mixed custody. No source-allocation rule is proved.",
+    "affectedMint": "9KMXMkzyiiKnubfjFkND54zJdnE1EmUyYowq8A3ipump",
+    "eventShareBps": 100,
+    "eventUntracedAvailableLamports": 34579079,
+    "lowerBoundOverstatementLamports": 14876806,
+    "strictSharingLowerLamports": 162867472359,
+    "strictSharingUpperLamports": 162882695032,
+    "strictCombinedLowerLamports": 1339092577473,
+    "strictCombinedLowerPct": "80.65429134734078106632310603",
+    "requiredRepair": "Use max(0,P-U) and min(P,A) with U=max(0,V-A); clamp effective A to V when incoming AMM also funds retained reserve. Preserve pro-rata interval only as an explicitly assumed allocation model.",
+    "resolution": "Strict fungible custody bounds implemented, all135 raw-backed traces replayed identically after correction."
+  },
+  "publicationScope": "Ramonos-only excerpt. Public portable processors match original reviewed results; retained reviewedInputs below are unchanged published artifacts."
+}
